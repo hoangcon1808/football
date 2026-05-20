@@ -1,0 +1,42 @@
+name: Auto Update Streams Data
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'  # Chạy tự động mỗi 10 phút
+  workflow_dispatch:        # Cho phép bấm nút chạy thủ công (Run workflow)
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    
+    # Cấp quyền ghi để bot có thể push file lên repo
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    - name: Run Python script
+      run: python main.py
+
+    - name: Commit and Push changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        
+        # Thêm các file JSON và HTML vào lịch sử thay đổi
+        git add tv.json full.json index.html
+        
+        # Kiểm tra nếu có sự thay đổi mới thì mới commit và push để tránh lỗi
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update JSON & HTML [skip ci]" && git push)
