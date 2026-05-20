@@ -15,20 +15,6 @@
     },
     {
         "group": "HỘI QUÁN",
-        "title": "02:00 | SC Freiburg vs Aston Villa",
-        "logo": "https://upload.wikimedia.org/wikipedia/vi/3/3c/SC_Freiburg.jpg.png",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8",
-        "time": "2026-05-21 02:00:00"
-    },
-    {
-        "group": "HỘI QUÁN",
-        "title": "02:00 | SC Freiburg vs Aston Villa",
-        "logo": "https://upload.wikimedia.org/wikipedia/vi/3/3c/SC_Freiburg.jpg.png",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8",
-        "time": "2026-05-21 02:00:00"
-    },
-    {
-        "group": "HỘI QUÁN",
         "title": "05:00 | Santos vs San Lorenzo",
         "logo": "https://media.api-sports.io/football/teams/128.png",
         "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8",
@@ -50,10 +36,24 @@
     },
     {
         "group": "HỘI QUÁN",
+        "title": "19:30 | Shakhtar Donetsk vs Kolos Kovalivka",
+        "logo": "https://media.api-sports.io/football/teams/550.png",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8",
+        "time": "2026-05-21 19:30:00"
+    },
+    {
+        "group": "HỘI QUÁN",
         "title": "23:45 | Ajax vs Groningen",
         "logo": "https://media.api-sports.io/football/teams/194.png",
         "url": "https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v2a1/mono.m3u8",
         "time": "2026-05-21 23:45:00"
+    },
+    {
+        "group": "HỘI QUÁN",
+        "title": "01:00 | Al-Nassr vs Damac",
+        "logo": "https://media.api-sports.io/football/teams/2939.png",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8",
+        "time": "2026-05-22 01:00:00"
     },
     {
         "group": "HỘI QUÁN",
@@ -64,17 +64,17 @@
     },
     {
         "group": "THIÊN ĐÌNH",
-        "title": "02:00 | SC Freiburg vs Aston Villa",
-        "logo": "https://media.api-sports.io/football/teams/160.png",
-        "url": "https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8",
-        "time": "2026-05-21 02:00:00"
-    },
-    {
-        "group": "THIÊN ĐÌNH",
         "title": "17:00 | Ugyen Academy vs Tsirang",
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Ugyen_Academy_FC.png/250px-Ugyen_Academy_FC.png",
         "url": "https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8",
         "time": "2026-05-21 17:00:00"
+    },
+    {
+        "group": "THIÊN ĐÌNH",
+        "title": "19:30 | Shakhtar Donetsk vs Kolos Kovalivka",
+        "logo": "https://media.api-sports.io/football/teams/550.png",
+        "url": "https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8",
+        "time": "2026-05-21 19:30:00"
     },
     {
         "group": "THIÊN ĐÌNH",
@@ -99,66 +99,45 @@
     },
     {
         "group": "VÒNG CẤM TV",
-        "title": "SC Freiburg vs Aston Villa",
-        "logo": "https://media.api-sports.io/football/teams/160.png",
-        "url": "https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8",
-        "time": "2026-05-20 19:59:16"
-    },
-    {
-        "group": "VÒNG CẤM TV",
-        "title": "SC Freiburg vs Aston Villa",
-        "logo": "https://media.api-sports.io/football/teams/160.png",
-        "url": "https://bglive.yarncdn.live/live/bgtv_blv_lenh/playlist.m3u8",
-        "time": "2026-05-20 19:59:16"
-    },
-    {
-        "group": "VÒNG CẤM TV",
-        "title": "SC Freiburg vs Aston Villa",
-        "logo": "https://media.api-sports.io/football/teams/160.png",
-        "url": "https://bglive.yarncdn.live/live/bgtv_blv_delua/playlist.m3u8",
-        "time": "2026-05-20 19:59:16"
-    },
-    {
-        "group": "VÒNG CẤM TV",
         "title": "Giresun W - Besiktas W",
         "logo": "https://static.flashscore.com/res/image/data/MuH6zJYg-0E40mJo1.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8",
-        "time": "2026-05-20 19:59:16"
+        "time": "2026-05-20 21:39:48"
+    },
+    {
+        "group": "VÒNG CẤM TV",
+        "title": "Gunma Green Wings vs VietinBank",
+        "logo": "https://volleybox.net/media/upload/teams/1777819091J2hRi.png",
+        "url": "https://bglive.yarncdn.live/live/bgtv_blv_delua/playlist.m3u8",
+        "time": "2026-05-20 21:39:48"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "Shakhtar Donetsk vs Kolos Kovalivka",
         "logo": "https://media.api-sports.io/football/teams/550.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_tieubao/playlist.m3u8",
-        "time": "2026-05-20 19:59:16"
+        "time": "2026-05-20 21:39:48"
+    },
+    {
+        "group": "VÒNG CẤM TV",
+        "title": "Bouhaila - Esperance Tunis",
+        "logo": "https://static.flashscore.com/res/image/data/SM566Fhl-f76oETpp.png",
+        "url": "https://bglive.yarncdn.live/live/bgtv_blv_lenh/playlist.m3u8",
+        "time": "2026-05-20 21:39:48"
+    },
+    {
+        "group": "VÒNG CẤM TV",
+        "title": "Brondby vs FC Copenhagen",
+        "logo": "https://media.api-sports.io/football/teams/407.png",
+        "url": "https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8",
+        "time": "2026-05-20 21:39:48"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "Ajax vs Groningen",
         "logo": "https://media.api-sports.io/football/teams/194.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_tieubaxa/playlist.m3u8",
-        "time": "2026-05-20 19:59:16"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "19:00 | SC Freiburg vs Aston Villa",
-        "logo": "https://img.colatv88xd.cc/football/team/6508946c9a5fe22a8784b905b25e8c79.png!w80",
-        "url": "https://live5.msrktz.app/live/97312754.m3u8",
-        "time": "2026-05-20 19:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "18:00 | Al Najma vs Al-Shabab",
-        "logo": "https://img.colatv88xd.cc/football/team/fde877e452f79f75955ad4e4f326c654.png!w80",
-        "url": "https://live5.msrktz.app/live/14707124.m3u8",
-        "time": "2026-05-20 18:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "18:00 | Al Khaleej vs Al Ahli SC",
-        "logo": "https://img.colatv88xd.cc/football/team/6d48cbd483dee74ed9aef387bb082d64.png!w80",
-        "url": "https://live5.msrktz.app/live/14830711.m3u8",
-        "time": "2026-05-20 18:00:00"
+        "time": "2026-05-20 21:39:48"
     },
     {
         "group": "CA LA TV",
@@ -239,6 +218,13 @@
     },
     {
         "group": "CA LA TV",
+        "title": "09:00 | San Marino U19 vs Latvia U19",
+        "logo": "https://img.colatv88xd.cc/football/team/9bdc3efe2bdc1946dbb253b2d101b484.png!w80",
+        "url": "https://live5.msrktz.app/live/14707124.m3u8",
+        "time": "2026-05-21 09:00:00"
+    },
+    {
+        "group": "CA LA TV",
         "title": "11:30 | Jamshedpur vs Odisha",
         "logo": "https://img.colatv88xd.cc/football/team/8c913adb4e472c5b47104ededda077e8.png!w80",
         "url": "https://live5.msrktz.app/live/24561735.m3u8",
@@ -266,1235 +252,423 @@
         "time": "2026-05-21 15:00:00"
     },
     {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa (Lương Sơn) BLV TÔN LẬP m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df",
-        "time": "2026-05-20 19:59:19"
+        "group": "CA LA TV",
+        "title": "15:00 | FC Spaeri vs Dinamo Batumi",
+        "logo": "https://img.colatv88xd.cc/football/team/432c13e823ffcc46ee9255384e525629.png!w80",
+        "url": "https://live5.msrktz.app/live/14830711.m3u8",
+        "time": "2026-05-21 15:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "18:00 | Al-Nassr vs Dhamk",
+        "logo": "https://img.colatv88xd.cc/football/team/0d9975f7e846a1ecb099f4cd62d1b8f7.png!w80",
+        "url": "https://live5.msrktz.app/live/97312754.m3u8",
+        "time": "2026-05-21 18:00:00"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa (Lương Sơn) BLV TÔN LẬP flv",
+        "title": "03h00 ngày 21/05 Talleres Cordoba vs Atletico Tucuman (Lương Sơn) BLV HÀN TÍN m3u",
         "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df",
-        "time": "2026-05-20 19:59:19"
+        "url": "https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df",
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa (Lương Sơn) BLV LƯU BỊ m3u",
+        "title": "03h00 ngày 21/05 Talleres Cordoba vs Atletico Tucuman (Lương Sơn) BLV HÀN TÍN flv",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1",
-        "time": "2026-05-20 19:59:19"
+        "url": "https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df",
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa (Lương Sơn) BLV LƯU BỊ flv",
+        "title": "03h00 ngày 21/05 Fortaleza F.C vs Orsomarso (Lương Sơn) BLV QUAN VŨ m3u",
         "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1",
-        "time": "2026-05-20 19:59:19"
+        "url": "https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7",
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa (Lương Sơn) BLV KEVILL m3u",
+        "title": "03h00 ngày 21/05 Fortaleza F.C vs Orsomarso (Lương Sơn) BLV QUAN VŨ flv",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799",
-        "time": "2026-05-20 19:59:19"
+        "url": "https://flv.cdnfaster-a.live/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7",
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa (Lương Sơn) BLV KEVILL flv",
+        "title": "03h00 ngày 21/05 Fortaleza F.C vs Orsomarso (Lương Sơn) BLV A TỦA m3u",
         "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799",
-        "time": "2026-05-20 19:59:19"
+        "url": "https://hls.cdnfaster-a.live/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74",
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa (Lương Sơn) BLV NHỊ KA m3u",
+        "title": "03h00 ngày 21/05 Fortaleza F.C vs Orsomarso (Lương Sơn) BLV A TỦA flv",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd",
-        "time": "2026-05-20 19:59:19"
+        "url": "https://flv.cdnfaster-a.live/live/ATUA.flv?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74",
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa (Lương Sơn) BLV NHỊ KA flv",
+        "title": "03h00 ngày 21/05 Talleres Cordoba vs Atletico Tucuman (Khán Đài A) source",
         "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd",
-        "time": "2026-05-20 19:59:19"
+        "url": "https://www3.f2k3.shop/live/b40e35e865ea69f39b893834cd328258/playlist.m3u8",
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa (Lương Sơn) BLV LEO m3u",
+        "title": "03h00 ngày 21/05 Fortaleza F.C vs Orsomarso (Khán Đài A) source",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6",
-        "time": "2026-05-20 19:59:19"
+        "url": "https://www3.f2k3.shop/live/eaf2109c6a3bb09bcd907c1f05a9125f/playlist.m3u8",
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa (Lương Sơn) BLV LEO flv",
+        "title": "05h00 ngày 21/05 Boston River vs O'Higgins (Chuối Chiên) HD1",
         "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6",
-        "time": "2026-05-20 19:59:19"
+        "url": "https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8",
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa (Lương Sơn) BLV KAKA m3u",
+        "title": "05h00 ngày 21/05 Boston River vs O'Higgins (Chuối Chiên) HD2",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6",
-        "time": "2026-05-20 19:59:19"
+        "url": "https://gckc0525.edgemaxcdn.org/live/m5x1.flv",
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa (Lương Sơn) BLV KAKA flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 CR Belouizdad vs MC Oran (Lương Sơn) BLV TIỂU LANG m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/AJUN/index.m3u8?expire=2556118740&sign=4cf66df9135854d82fa43d2c5f365419",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 CR Belouizdad vs MC Oran (Lương Sơn) BLV TIỂU LANG flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/AJUN.flv?expire=2556118740&sign=4cf66df9135854d82fa43d2c5f365419",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 CR Belouizdad vs MC Oran (Lương Sơn) BLV LÝ ỨNG m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 CR Belouizdad vs MC Oran (Lương Sơn) BLV LÝ ỨNG flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al Najma(KSA) vs Al-Shabab (Lương Sơn) BLV FERNANDO m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al Najma(KSA) vs Al-Shabab (Lương Sơn) BLV FERNANDO flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al Najma(KSA) vs Al-Shabab (Lương Sơn) BLV LỮ BỐ m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al Najma(KSA) vs Al-Shabab (Lương Sơn) BLV LỮ BỐ flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al Najma(KSA) vs Al-Shabab (Lương Sơn) BLV MAYBACH m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al Najma(KSA) vs Al-Shabab (Lương Sơn) BLV MAYBACH flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al-Khaleej vs Al-Ahli SFC (Lương Sơn) BLV VƯƠNG LUÂN m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al-Khaleej vs Al-Ahli SFC (Lương Sơn) BLV VƯƠNG LUÂN flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al-Khaleej vs Al-Ahli SFC (Lương Sơn) BLV TRIỆU TỬ LONG m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al-Khaleej vs Al-Ahli SFC (Lương Sơn) BLV TRIỆU TỬ LONG flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al-Khaleej vs Al-Ahli SFC (Lương Sơn) BLV MÃ SIÊU m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al-Khaleej vs Al-Ahli SFC (Lương Sơn) BLV MÃ SIÊU flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Palermo vs Catanzaro (Lương Sơn) BLV PELE m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Palermo vs Catanzaro (Lương Sơn) BLV PELE flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Cruzeiro Youth vs Vitoria Salvador Youth (Khán Đài A) source",
-        "logo": "",
-        "url": "https://www3.f2k3.shop/live/10ae275d0f7cad2138332d67de64b946/playlist.m3u8",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 AmericavsRJ vs CFRJ Marica RJ (Khán Đài A) source",
-        "logo": "",
-        "url": "https://www3.f2k3.shop/live/9a38f6ef8b6bf505d405e108155281d9/playlist.m3u8",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Tigre Reserves vs Sarmiento Junin Reserve (Khán Đài A) source",
-        "logo": "",
-        "url": "https://www3.f2k3.shop/live/cf278d5818fd8ff65aa1720e8226351a/playlist.m3u8",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Platense Reserves vs Newell's Reserves (Khán Đài A) source",
-        "logo": "",
-        "url": "https://www3.f2k3.shop/live/ce9d88d76177e686493d96e1e1d12a5e/playlist.m3u8",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Ascoli vs Potenza (Khán Đài A) source",
-        "logo": "",
-        "url": "https://www3.f2k3.shop/live/c5c1112e55a1b70414557716a51794b3/playlist.m3u8",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Decic Tuzi vs Arsenal Tivat (Khán Đài A) source",
-        "logo": "",
-        "url": "https://www3.f2k3.shop/live/a9ead7c35d61cf1f20bd37ee98078f2c/playlist.m3u8",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Palermo vs Catanzaro (Khán Đài A) source",
-        "logo": "",
-        "url": "https://www3.f2k3.shop/live/90ecbb880267f73ced897f4ae8bce727/playlist.m3u8",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Union Brescia  vs Casarano (Khán Đài A) source",
-        "logo": "",
-        "url": "https://www3.f2k3.shop/live/440f5d2dc2c383dda437ff282ccfb48c/playlist.m3u8",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Central Cordoba SdE Reserves vs Deportivo Riestra Reserves (Khán Đài A) source",
-        "logo": "",
-        "url": "https://www3.f2k3.shop/live/c6c85f442f93816096fef54599e4ab6b/playlist.m3u8",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 FK Buducnost Podgorica vs Bokelj Kotor (Khán Đài A) source",
-        "logo": "",
-        "url": "https://www3.f2k3.shop/live/218a76493512650c9cbdcf3d5828a92c/playlist.m3u8",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Aalesund FK vs Brann (Khán Đài A) source",
-        "logo": "",
-        "url": "https://www3.f2k3.shop/live/18df527e3a959939569d97aeae406520/playlist.m3u8",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Atletico Rafaela Reserves vs Defensa y Justicia Reserves (Khán Đài A) source",
-        "logo": "",
-        "url": "https://www3.f2k3.shop/live/63ed35996ae7b149af885a56add0d103/playlist.m3u8",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al Khaleej Club vs AlvsAhli SFC (Khán Đài A) source",
-        "logo": "",
-        "url": "https://www3.f2k3.shop/live/a2760fe737029b233564d099b6a3e7ae/playlist.m3u8",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Mornar vs OFK Petrovac (Khán Đài A) source",
-        "logo": "",
-        "url": "https://www3.f2k3.shop/live/99a04f33da1b53683be8ff0211737fda/playlist.m3u8",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al Najma(KSA) vs Al Shabab FC (Khán Đài A) source",
-        "logo": "",
-        "url": "https://www3.f2k3.shop/live/bd52549ec2b711721cf0171c1c5c2643/playlist.m3u8",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 ngày 21/05 Catania FC vs Lecco (Khán Đài A) source",
-        "logo": "",
-        "url": "https://www3.f2k3.shop/live/d1b52bf5f868228285c18d7319861fed/playlist.m3u8",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa (Khán Đài A) source",
-        "logo": "",
-        "url": "https://www3.f2k3.shop/live/99746c454d4e8c8eb55a9a2035ad6ad6/playlist.m3u8",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa (Khán Đài A) sd_1",
-        "logo": "",
-        "url": "https://pull-kda.fastestcdn-global.com/live/49310ce18e0b4ce88c430a1026b0327c/index.m3u8",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Rosario Central Reserves vs Argentinos Jrs Reserves (Khán Đài A) source",
-        "logo": "",
-        "url": "https://www3.f2k3.shop/live/231cb117407e882bc4b3e221d41d6fca/playlist.m3u8",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al Khaleej Saihat vs Al-Ahli Jeddah (Chuối Chiên) HD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al Khaleej Saihat vs Al-Ahli Jeddah (Chuối Chiên) HD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al Khaleej Saihat vs Al-Ahli Jeddah (Chuối Chiên) FHD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al Khaleej Saihat vs Al-Ahli Jeddah (Chuối Chiên) FHD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al Najma vs Al Shabab (Chuối Chiên) HD1",
+        "title": "05h00 ngày 21/05 Olimpia vs Vasco DA Gama (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8",
-        "time": "2026-05-20 19:59:19"
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al Najma vs Al Shabab (Chuối Chiên) HD2",
+        "title": "05h00 ngày 21/05 Olimpia vs Vasco DA Gama (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/m5x2.flv",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa (Chuối Chiên) HD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoidong/playlist.m3u8",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa (Chuối Chiên) HD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoidong.flv",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa (Chuối Chiên) FHD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoidonghd/playlist.m3u8",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa (Chuối Chiên) FHD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoidonghd.flv",
-        "time": "2026-05-20 19:59:19"
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
         "title": "05h00 ngày 21/05 Santos vs San Lorenzo (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8",
-        "time": "2026-05-20 19:59:19"
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
         "title": "05h00 ngày 21/05 Santos vs San Lorenzo (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoito.flv",
-        "time": "2026-05-20 19:59:19"
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
         "title": "05h00 ngày 21/05 Santos vs San Lorenzo (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8",
-        "time": "2026-05-20 19:59:19"
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
         "title": "05h00 ngày 21/05 Santos vs San Lorenzo (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv",
-        "time": "2026-05-20 19:59:19"
+        "time": "2026-05-20 21:39:49"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h00 ngày 21/05 Nacional vs Universitario (Chuối Chiên) HD1",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/m5x4/playlist.m3u8",
+        "time": "2026-05-20 21:39:49"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h00 ngày 21/05 Nacional vs Universitario (Chuối Chiên) HD2",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/m5x4.flv",
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
         "title": "07h30 ngày 21/05 River Plate vs RB Bragantino (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
-        "time": "2026-05-20 19:59:19"
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
         "title": "07h30 ngày 21/05 River Plate vs RB Bragantino (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay.flv",
-        "time": "2026-05-20 19:59:19"
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
         "title": "07h30 ngày 21/05 River Plate vs RB Bragantino (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
-        "time": "2026-05-20 19:59:19"
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
         "title": "07h30 ngày 21/05 River Plate vs RB Bragantino (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv",
-        "time": "2026-05-20 19:59:19"
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h45 ngày 21/05 Lillestrom vs Kristiansund BK (Gà Vàng) source",
+        "title": "09h00 ngày 21/05 Cusco vs Independiente Medellin (Chuối Chiên) HD1",
         "logo": "",
-        "url": "https://www3.f2k3.shop/live/b07758080ec6a88097c24654ebab5722/playlist.m3u8",
-        "time": "2026-05-20 19:59:19"
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8",
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa (Gà Vàng) sd_1",
+        "title": "09h00 ngày 21/05 Cusco vs Independiente Medellin (Chuối Chiên) HD2",
         "logo": "",
-        "url": "https://pull-gv.fastestcdn-global.com/live/8f3050b1f22942c5b001ec32f2c47553/index.m3u8",
-        "time": "2026-05-20 19:59:19"
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv",
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al Khaleej Club vs AlvsAhli SFC (Gà Vàng) sd_1",
+        "title": "09h00 ngày 21/05 Cusco vs Independiente Medellin (Chuối Chiên) FHD1",
         "logo": "",
-        "url": "https://pull-gv.fastestcdn-global.com/live/a1ce9a47d3be4f6d8c52dbe4158c4433/index.m3u8",
-        "time": "2026-05-20 19:59:19"
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8",
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [RICKHANTER] (Socolive) flv",
+        "title": "09h00 ngày 21/05 Cusco vs Independiente Medellin (Chuối Chiên) FHD2",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=c68a3e103781733e44f4dfff6601ef40&txTime=6a0e62e3",
-        "time": "2026-05-20 19:59:19"
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv",
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [RICKHANTER] (Socolive) hdFlv",
+        "title": "Tường thuật: HON D1 - Real Espana vs Marathon [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=0633cdbe5afa14f144fce6be82d8649b&txTime=6a0e62e3",
-        "time": "2026-05-20 19:59:19"
+        "url": "https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1779315475-0-0-c5acc5cbdf80cd0e76cb17fe6c903db1",
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [RICKHANTER] (Socolive) m3u8",
+        "title": "Tường thuật: HON D1 - Real Espana vs Marathon [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=c68a3e103781733e44f4dfff6601ef40&txTime=6a0e62e3",
-        "time": "2026-05-20 19:59:19"
+        "url": "https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1779315475-0-0-e897b97d379cddcf49256844b257764c",
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [RICKHANTER] (Socolive) hdM3u8",
+        "title": "Tường thuật: HON D1 - Real Espana vs Marathon [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=0633cdbe5afa14f144fce6be82d8649b&txTime=6a0e62e3",
-        "time": "2026-05-20 19:59:19"
+        "url": "https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1779315475-0-0-c8dbcd32d0132bd65a04f3fc83d18b7e",
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [BLV TAP] (Socolive) flv",
+        "title": "Tường thuật: HON D1 - Real Espana vs Marathon [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=ee456c32c5ad3decd7c4c890958db54a&txTime=6a0e62e3",
-        "time": "2026-05-20 19:59:19"
+        "url": "https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1779315475-0-0-df16ee77612968d3ef39f517ffbcb006",
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [BLV TAP] (Socolive) hdFlv",
+        "title": "Tường thuật: CHA SL - Zhejiang Professional FC vs Shandong Taishan [Sóc mèo méo meo] (Socolive) flv",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=d22020ae9b8dfb653e2814977f44cb76&txTime=6a0e62e3",
-        "time": "2026-05-20 19:59:19"
+        "url": "https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1779315475-0-0-ea948410dc94b528394a957bf58f3063",
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [BLV TAP] (Socolive) m3u8",
+        "title": "Tường thuật: CHA SL - Zhejiang Professional FC vs Shandong Taishan [Sóc mèo méo meo] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=ee456c32c5ad3decd7c4c890958db54a&txTime=6a0e62e3",
-        "time": "2026-05-20 19:59:19"
+        "url": "https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1779315475-0-0-2980075bb8338e9e9e0b03249ab8923b",
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [BLV TAP] (Socolive) hdM3u8",
+        "title": "Tường thuật: CHA SL - Zhejiang Professional FC vs Shandong Taishan [Sóc mèo méo meo] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=d22020ae9b8dfb653e2814977f44cb76&txTime=6a0e62e3",
-        "time": "2026-05-20 19:59:19"
+        "url": "https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1779315475-0-0-6ae01f2324935453ffd932c5f4dffa11",
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [BLV MESSI] (Socolive) flv",
+        "title": "Tường thuật: CHA SL - Zhejiang Professional FC vs Shandong Taishan [Sóc mèo méo meo] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1779309715-0-0-eb866861f307414cccf24c51027d68f4",
-        "time": "2026-05-20 19:59:19"
+        "url": "https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1779315475-0-0-0979c1324e60f81e8348b9d3ebc22350",
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [BLV MESSI] (Socolive) hdFlv",
+        "title": "Tường thuật: ENG PR - Chelsea vs Tottenham Hotspur [Sóc trong rừng xà nu] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1779309715-0-0-ba0992e045b2538d85424b6d746ded00",
-        "time": "2026-05-20 19:59:19"
+        "url": "https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1779315475-0-0-a7ed1f779b8d75396c823c89d4c9fcb6",
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [BLV MESSI] (Socolive) m3u8",
+        "title": "Tường thuật: ENG PR - Chelsea vs Tottenham Hotspur [Sóc trong rừng xà nu] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1779309715-0-0-b7e382601c2b1153bbf48a3a5d9c49fd",
-        "time": "2026-05-20 19:59:19"
+        "url": "https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1779315475-0-0-4f0d6a2dd31caaa913d061809d477c5a",
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [BLV MESSI] (Socolive) hdM3u8",
+        "title": "Tường thuật: ENG PR - Chelsea vs Tottenham Hotspur [Sóc trong rừng xà nu] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1779309715-0-0-706719021cfcd794c094aed90f8387fa",
-        "time": "2026-05-20 19:59:19"
+        "url": "https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1779315475-0-0-545b43bcb41f05a3765d94e0658468ee",
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 21/05 Lillestrom vs Kristiansund BK [LÃO LÂM] (Socolive) flv",
+        "title": "Tường thuật: ENG PR - Chelsea vs Tottenham Hotspur [Sóc trong rừng xà nu] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1779309715-0-0-ab5621c84faf284e7a9d8ee53e8088da",
-        "time": "2026-05-20 19:59:19"
+        "url": "https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1779315475-0-0-4eb814feb75c7640a8432d47013be4ee",
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 21/05 Lillestrom vs Kristiansund BK [LÃO LÂM] (Socolive) hdFlv",
+        "title": "05h00 ngày 21/05 Olimpia Asuncion vs Vasco da Gama Saf - RJ [BLV SATIVA] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1779309715-0-0-f95b6d3d29ebbb5e9a61549fb707dc69",
-        "time": "2026-05-20 19:59:19"
+        "url": "https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1779315835-0-0-0342a700b07576fba37f4eaa881c90d2",
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 21/05 Lillestrom vs Kristiansund BK [LÃO LÂM] (Socolive) m3u8",
+        "title": "05h00 ngày 21/05 Olimpia Asuncion vs Vasco da Gama Saf - RJ [BLV SATIVA] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1779309715-0-0-facc925d4c453bfbd5068ce61588be57",
-        "time": "2026-05-20 19:59:19"
+        "url": "https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1779315835-0-0-462863d28bb27aa37479b959dc87040e",
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 21/05 Lillestrom vs Kristiansund BK [LÃO LÂM] (Socolive) hdM3u8",
+        "title": "05h00 ngày 21/05 Olimpia Asuncion vs Vasco da Gama Saf - RJ [BLV SATIVA] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1779309715-0-0-ff08890bbe0395b85ed82d84afa93912",
-        "time": "2026-05-20 19:59:19"
+        "url": "https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1779315835-0-0-1e8013022428fd2d30933a2b2443b83b",
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al Khaleej Club vs Al-Ahli SFC [BLV WUKONG] (Socolive) flv",
+        "title": "05h00 ngày 21/05 Olimpia Asuncion vs Vasco da Gama Saf - RJ [BLV SATIVA] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1779309715-0-0-2f37274247d6d4d61cea8bbbee967cde",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al Khaleej Club vs Al-Ahli SFC [BLV WUKONG] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1779309715-0-0-a2aead112c74e3e4f166384425fc62c0",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al Khaleej Club vs Al-Ahli SFC [BLV WUKONG] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1779309715-0-0-a185422e7316e9903ec67d0a63b64dc9",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al Khaleej Club vs Al-Ahli SFC [BLV WUKONG] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1779309715-0-0-b07b38492968541db6af97dff3b98e91",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al Khaleej Club vs Al-Ahli SFC [BLV GÔN] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-445260_lsd.flv?auth_key=1779309715-0-0-88a52414bf1c54c6e24a1f6e9ce22049",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al Khaleej Club vs Al-Ahli SFC [BLV GÔN] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-445260_lhd.flv?auth_key=1779309715-0-0-a2f0ddb72478ca2c79eef2e6aeb5dc07",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al Khaleej Club vs Al-Ahli SFC [BLV GÔN] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1779309715-0-0-1ce4605055d19596018b445cccbb8211",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al Khaleej Club vs Al-Ahli SFC [BLV GÔN] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1779309715-0-0-a478ad614d7fca0b9fc3f265f3508f85",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [BLV 7UP] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1779310075-0-0-adb97edcb664adc4a68e7a6154e87484",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [BLV 7UP] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1779310075-0-0-d9846ccc2a9d7c49c82835034cf6bfe4",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [BLV 7UP] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1779310075-0-0-86181ec51eae70def539db07bcb55125",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [BLV 7UP] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1779310075-0-0-337808c3a7a7422e01f9c25dd7489938",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [BLV TOMMY] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1779310075-0-0-8cefb103735c66b0740261dbd3c3aa27",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [BLV TOMMY] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1779310075-0-0-6c6f58fb549933347d239afb109f576d",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [BLV TOMMY] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1779310075-0-0-6ecedae126da78038fc12b17a5a53c3f",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [BLV TOMMY] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1779310075-0-0-df2dc7e3092707e22e5cf3d7511c22fd",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [THẠCH TÚ] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=b951b5a4a80efdb64029b94fba65efe9&txTime=6a0e644b",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [THẠCH TÚ] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912116_lhd.flv?txSecret=485128fb87dcc78f29b5db4d81662341&txTime=6a0e644b",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [THẠCH TÚ] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=b951b5a4a80efdb64029b94fba65efe9&txTime=6a0e644b",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [THẠCH TÚ] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=485128fb87dcc78f29b5db4d81662341&txTime=6a0e644b",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Aalesund FK vs Brann [BLV ROBBEN] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1779310075-0-0-7246461bed50e3cd98b87a1782b2665d",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Aalesund FK vs Brann [BLV ROBBEN] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1779310075-0-0-802c34a91294367d1a3a38f689fc2921",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Aalesund FK vs Brann [BLV ROBBEN] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1779310075-0-0-5929e908106a40c48c1a485e21da2cde",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Aalesund FK vs Brann [BLV ROBBEN] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1779310075-0-0-3104493221e27593f2a0f1002f9b4181",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al Najma(KSA) vs Al Shabab FC [BLV ALEX] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1779310075-0-0-1c66a481ac81b9aa7030eea905fbf9bf",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al Najma(KSA) vs Al Shabab FC [BLV ALEX] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1779310075-0-0-4469cdf49795bba5b555d974a042954e",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al Najma(KSA) vs Al Shabab FC [BLV ALEX] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1779310075-0-0-a659849a957ce40637fdb3b31cc734d8",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al Najma(KSA) vs Al Shabab FC [BLV ALEX] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1779310075-0-0-e85ae3e21eb272ab89fd1b14b58b5609",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Aalesund FK vs Brann [NGƯỜI CÁ] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1779310075-0-0-8b0c0b461e6607eea72a57beddcb85b6",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Aalesund FK vs Brann [NGƯỜI CÁ] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1779310075-0-0-8f008c0cd42964050d1a6e687d1b08a1",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Aalesund FK vs Brann [NGƯỜI CÁ] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1779310075-0-0-afbdfb34c5940b7226526e87c6197d95",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Aalesund FK vs Brann [NGƯỜI CÁ] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1779310075-0-0-22a1fcae6a707a8820457b4b40c99326",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [BLV ĐỐM] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1779310435-0-0-2faf1c6fa9f48a88d39bcae935fe880e",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [BLV ĐỐM] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1779310435-0-0-12a4891184d20581c53db2d5faa341ad",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [BLV ĐỐM] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1779310435-0-0-c1776441cf7b8dbd45ccc398d363528a",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [BLV ĐỐM] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1779310435-0-0-46c9022eb9226e5638035be42bc78319",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [BLV KEM] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1779310435-0-0-3564bd4e40fd81bcb10ee01a96f550d1",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [BLV KEM] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1779310435-0-0-6a4808690171212433a6694c863dcde3",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [BLV KEM] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1779310435-0-0-30d6f46abdac94b6fb27234804acb75d",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [BLV KEM] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1779310435-0-0-14b32ba5b36ade491e7a42375e1e23a2",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [BLV COCA] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1779310435-0-0-6433b8f2713102eca505195bc9736b4a",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [BLV COCA] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1779310435-0-0-a8d660d4af325ac160dae5f80625e362",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [BLV COCA] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1779310435-0-0-eea07806c6f6fca6fc656e325017afe8",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [BLV COCA] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1779310435-0-0-777750472d4823908826647ab2e8e4f6",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [DECO] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1779310435-0-0-cfd2e2ce9731bddb3733ef8d83063b1b",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [DECO] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1779310435-0-0-e0977640c9ad3e4f4a46e04c6df85afc",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [DECO] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1779310435-0-0-e2588e964ac7e30eabb66fac0160b6b7",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [DECO] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1779310435-0-0-3eeb5bcf08afc3f3562f3ec035f9674c",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [CHANH MUỐI] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1779310435-0-0-0c4e7b4f9e2513ffe8716206c0f0fcfe",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [CHANH MUỐI] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1779310435-0-0-eaeba2f723a3f492dc0ccb28fbd2864c",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [CHANH MUỐI] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1779310435-0-0-ff186e013b71bf5991ff3b03bcbebd78",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [CHANH MUỐI] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1779310435-0-0-ce39f6821c9c19b56fd61597ac18ca08",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [SAO LA] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=f9c0bc27b7e53c44917543ae72448890&txTime=6a0e65b3",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [SAO LA] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=85a4a77cb0c3c0ce6871833f89ea0cef&txTime=6a0e65b3",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [SAO LA] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=f9c0bc27b7e53c44917543ae72448890&txTime=6a0e65b3",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 21/05 SC Freiburg vs Aston Villa [SAO LA] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=85a4a77cb0c3c0ce6871833f89ea0cef&txTime=6a0e65b3",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Aalesund FK vs Brann [LOKA] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1779310435-0-0-f70b74c683a75febbd39d3e6ed69c7e6",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Aalesund FK vs Brann [LOKA] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1779310435-0-0-9f6aca1b82a66b16a0129d2d87e33bf6",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Aalesund FK vs Brann [LOKA] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1779310435-0-0-70b574ee526ced859443605b1e603557",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Aalesund FK vs Brann [LOKA] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1779310435-0-0-f2b72ecbab021ad84cfa4350df8403b4",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al Khaleej Club vs Al-Ahli SFC [BLV LONG] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912050_lsd.flv?txSecret=6c03c9714ded51ef90ad9be206936440&txTime=6a0e65b3",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al Khaleej Club vs Al-Ahli SFC [BLV LONG] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912050_lhd.flv?txSecret=114ead016ce08f5f7736eb478c297a5a&txTime=6a0e65b3",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al Khaleej Club vs Al-Ahli SFC [BLV LONG] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=6c03c9714ded51ef90ad9be206936440&txTime=6a0e65b3",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al Khaleej Club vs Al-Ahli SFC [BLV LONG] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=114ead016ce08f5f7736eb478c297a5a&txTime=6a0e65b3",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Palermo vs Catanzaro [BLV A TINH] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-598119_lsd.flv?txSecret=8e6e79ba2eb87a52618b0ac801b16762&txTime=6a0e65b3",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Palermo vs Catanzaro [BLV A TINH] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=14447303175adf95b4284ac145920507&txTime=6a0e65b3",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Palermo vs Catanzaro [BLV A TINH] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=8e6e79ba2eb87a52618b0ac801b16762&txTime=6a0e65b3",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Palermo vs Catanzaro [BLV A TINH] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=14447303175adf95b4284ac145920507&txTime=6a0e65b3",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Aalesund FK vs Brann [BLV VIP] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=70e051f726d870b2dff24e7f51d94c49&txTime=6a0e65b3",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Aalesund FK vs Brann [BLV VIP] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=2323500f052c8aa706d560767f1df432&txTime=6a0e65b3",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Aalesund FK vs Brann [BLV VIP] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=70e051f726d870b2dff24e7f51d94c49&txTime=6a0e65b3",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Aalesund FK vs Brann [BLV VIP] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=2323500f052c8aa706d560767f1df432&txTime=6a0e65b3",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al Najma(KSA) vs Al Shabab FC [BLV A WIN] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1779310435-0-0-9532b73184b210734c27cb806d9fc98e",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al Najma(KSA) vs Al Shabab FC [BLV A WIN] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1779310435-0-0-c39418da2d6a62a121a6d6df0fb35fb7",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al Najma(KSA) vs Al Shabab FC [BLV A WIN] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1779310435-0-0-38acd88b633889b5fa7f1116a2a822c5",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al Najma(KSA) vs Al Shabab FC [BLV A WIN] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1779310435-0-0-78c9589e20e66ebd84bedbd18b85527d",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al Khaleej Club vs Al-Ahli SFC [BLV CÁO] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-597929_lsd.flv?auth_key=1779310435-0-0-4c3b5c60ea6dc7d28b0945d9462d5277",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al Khaleej Club vs Al-Ahli SFC [BLV CÁO] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-597929_lhd.flv?auth_key=1779310435-0-0-6cd208229809b36d0af48523c95581ef",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al Khaleej Club vs Al-Ahli SFC [BLV CÁO] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1779310435-0-0-1a8d2d0f7d5f765ddbc7665a38e08895",
-        "time": "2026-05-20 19:59:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 21/05 Al Khaleej Club vs Al-Ahli SFC [BLV CÁO] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1779310435-0-0-54f210f7f663b7f2059a0631f8675e40",
-        "time": "2026-05-20 19:59:19"
+        "url": "https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1779315835-0-0-971e07c1b356447c5c93de13eb58fe47",
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1779310435-0-0-9fe7fa9de580269eca070f5d4bdfba3a",
-        "time": "2026-05-20 19:59:19"
+        "url": "https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1779315835-0-0-37a2394e4dfe03a7bf300be27d6c6dbf",
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1779310435-0-0-5cd76ce35551d70ff97df43cfc05f781",
-        "time": "2026-05-20 19:59:19"
+        "url": "https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1779315835-0-0-d263576e29720ec6788c40dd4c8af667",
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1779310435-0-0-d99098aec5c88393f77165bd109df407",
-        "time": "2026-05-20 19:59:19"
+        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1779315835-0-0-2cd31e3d66f299718cecb977c3fb9ab1",
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1779310435-0-0-5468394754412517f964608559d80782",
-        "time": "2026-05-20 19:59:19"
+        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1779315835-0-0-7f82158fd091d41f7d1107d7f92a186f",
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h00 21/05 SC Freiburg vs Aston Villa (Hội Quán) FHD",
+        "title": "Tường thuật: ENG PR - Bournemouth AFC vs Manchester City [Sóc nhàm nhang nhồ] (Socolive) flv",
         "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8",
-        "time": "2026-05-20 19:59:19"
+        "url": "https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1779316195-0-0-a369b53c724913d7ee0b0f22a6b67440",
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h00 21/05 SC Freiburg vs Aston Villa (Hội Quán) SD",
+        "title": "Tường thuật: ENG PR - Bournemouth AFC vs Manchester City [Sóc nhàm nhang nhồ] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8",
-        "time": "2026-05-20 19:59:19"
+        "url": "https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1779316195-0-0-ed9e3ee0f138c8ee69eaaf8f7ded61f3",
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h00 21/05 SC Freiburg vs Aston Villa (Hội Quán) FHD",
+        "title": "Tường thuật: ENG PR - Bournemouth AFC vs Manchester City [Sóc nhàm nhang nhồ] (Socolive) m3u8",
         "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8",
-        "time": "2026-05-20 19:59:19"
+        "url": "https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1779316195-0-0-8ee8d4da3310183f34bb3e776016f289",
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h00 21/05 SC Freiburg vs Aston Villa (Hội Quán) SD",
+        "title": "Tường thuật: ENG PR - Bournemouth AFC vs Manchester City [Sóc nhàm nhang nhồ] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8",
-        "time": "2026-05-20 19:59:19"
+        "url": "https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1779316195-0-0-0ff9e82b2a143d66178b39ef04efad8d",
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
-        "title": "01h00 21/05 Al Khaleej Saihat vs Al-Ahli Jeddah (Hội Quán) FHD",
+        "title": "Tường thuật: ENG PR - Arsenal vs Burnley [Sóc đau cổ vai gáy] (Socolive) flv",
         "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8",
-        "time": "2026-05-20 19:59:19"
+        "url": "https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1779316195-0-0-97dc3d220fc20da3c78f503001785473",
+        "time": "2026-05-20 21:39:49"
     },
     {
         "group": "FPT SPORT",
-        "title": "01h00 21/05 Al Khaleej Saihat vs Al-Ahli Jeddah (Hội Quán) SD",
+        "title": "Tường thuật: ENG PR - Arsenal vs Burnley [Sóc đau cổ vai gáy] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanbap/tracks-v1a1/mono.m3u8",
-        "time": "2026-05-20 19:59:19"
+        "url": "https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1779316195-0-0-2e2a2fda678f62696bd3a735a7ce9fcb",
+        "time": "2026-05-20 21:39:49"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: ENG PR - Arsenal vs Burnley [Sóc đau cổ vai gáy] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1779316195-0-0-ec7895c7601deee263d41b16d8990ecc",
+        "time": "2026-05-20 21:39:49"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: ENG PR - Arsenal vs Burnley [Sóc đau cổ vai gáy] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1779316195-0-0-0b6c99213d0a0d6fe7caee877ead8620",
+        "time": "2026-05-20 21:39:49"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: CHA SL - Chengdu Rongcheng vs Shanghai Port [Sóc trèo cây ngô đồng] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1779316195-0-0-ae6c811821a9bd58e4e86bcff2bac6e0",
+        "time": "2026-05-20 21:39:49"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: CHA SL - Chengdu Rongcheng vs Shanghai Port [Sóc trèo cây ngô đồng] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1779316195-0-0-57c169ece8f19fd87490ab96f082dcb2",
+        "time": "2026-05-20 21:39:49"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: CHA SL - Chengdu Rongcheng vs Shanghai Port [Sóc trèo cây ngô đồng] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1779316195-0-0-da7b9324f968a060cff99c9aceb2f0e1",
+        "time": "2026-05-20 21:39:49"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: CHA SL - Chengdu Rongcheng vs Shanghai Port [Sóc trèo cây ngô đồng] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1779316195-0-0-26da55338642064be040c89b82513d1c",
+        "time": "2026-05-20 21:39:49"
     }
 ]
