@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trạng Thái Cập Nhật Dữ Liệu</title>
+    <style>
+        * { box-sizing: border-box; }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #0f172a; color: #f8fafc; display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; }
+        .card { background: #1e293b; padding: 40px; border-radius: 16px; box-shadow: 0 10px 25px rgba(0,0,0,0.5); text-align: center; max-width: 400px; width: 90%; border: 1px solid #334155; }
+        .icon { font-size: 60px; margin-bottom: 15px; display: inline-block; animation: pop 0.5s ease-out; }
+        h1 { color: #10b981; font-size: 24px; margin: 0 0 20px 0; }
+        .stats { text-align: left; background: #0f172a; padding: 15px 20px; border-radius: 8px; margin-bottom: 20px; }
+        .stats p { margin: 10px 0; font-size: 16px; display: flex; justify-content: space-between; }
+        .stats span { font-weight: bold; color: #38bdf8; }
+        .time { font-size: 13px; color: #94a3b8; margin-top: 10px; font-style: italic; }
+        .links a { display: inline-block; margin: 5px; padding: 8px 15px; text-decoration: none; background: #3b82f6; color: white; border-radius: 6px; font-size: 14px; transition: 0.2s; }
+        .links a:hover { background: #2563eb; }
+        @keyframes pop { 0% { transform: scale(0); } 80% { transform: scale(1.1); } 100% { transform: scale(1); } }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <div class="icon">✅</div>
+        <h1>Get Dữ Liệu Thành Công!</h1>
+        <div class="stats">
+            <p>📺 Kênh Live (TV): <span>68</span></p>
+            <p>📦 Tổng dữ liệu (FULL): <span>214</span></p>
+        </div>
+        <div class="links">
+            <a href="tv.json" target="_blank">Xem tv.json</a>
+            <a href="full.json" target="_blank">Xem full.json</a>
+        </div>
+        <div class="time">Cập nhật lần cuối: 21/05/2026 - 02:59:31 (GMT+7)</div>
+    </div>
+</body>
+</html>
