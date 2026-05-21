@@ -1,786 +1,107 @@
 [
     {
-        "group": "VÒNG CẤM TV",
-        "title": "VfL Wolfsburg vs SC Paderborn 07",
-        "logo": "https://media.api-sports.io/football/teams/161.png",
-        "url": "https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8",
-        "time": "2026-05-21 19:19:02"
-    },
-    {
-        "group": "VÒNG CẤM TV",
-        "title": "Al-Nassr vs Damac",
-        "logo": "https://media.api-sports.io/football/teams/2939.png",
-        "url": "https://bglive.yarncdn.live/live/bgtv_blv_delua/playlist.m3u8",
-        "time": "2026-05-21 19:19:02"
-    },
-    {
-        "group": "VÒNG CẤM TV",
-        "title": "Al-Fayha vs Al-Hilal Saudi FC",
-        "logo": "https://media.api-sports.io/football/teams/2944.png",
-        "url": "https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8",
-        "time": "2026-05-21 19:19:02"
-    },
-    {
-        "group": "THIÊN ĐÌNH",
-        "title": "01:00 | Al-Fayha vs Al-Hilal Saudi FC",
-        "logo": "https://media.api-sports.io/football/teams/2944.png",
-        "url": "https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8",
-        "time": "2026-05-22 01:00:00"
-    },
-    {
-        "group": "HỘI QUÁN",
-        "title": "07:00 | New York Knicks vs Cleveland Cavaliers",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/25/New_York_Knicks_logo.svg",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanbap/tracks-v2a1/mono.m3u8",
-        "time": "2026-05-22 07:00:00"
-    },
-    {
-        "group": "THIÊN ĐÌNH",
-        "title": "01:00 | Al-Nassr vs Damac",
-        "logo": "https://media.api-sports.io/football/teams/2939.png",
-        "url": "https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8",
-        "time": "2026-05-22 01:00:00"
-    },
-    {
-        "group": "HỘI QUÁN",
-        "title": "01:00 | Al-Nassr vs Damac",
-        "logo": "https://media.api-sports.io/football/teams/2939.png",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8",
-        "time": "2026-05-22 01:00:00"
-    },
-    {
-        "group": "HỘI QUÁN",
-        "title": "01:00 | Al-Nassr vs Damac",
-        "logo": "https://media.api-sports.io/football/teams/2939.png",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8",
-        "time": "2026-05-22 01:00:00"
-    },
-    {
-        "group": "HỘI QUÁN",
-        "title": "00:30 | Arthur Rinderknech vs Alexander Bublik",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2cS73cD5Bq_Zse5RpXo_speC3fE8OJly8zw&s",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8",
-        "time": "2026-05-22 00:30:00"
-    },
-    {
-        "group": "THIÊN ĐÌNH",
-        "title": "01:00 | Al-Nassr vs Damac",
-        "logo": "https://media.api-sports.io/football/teams/2939.png",
-        "url": "https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8",
-        "time": "2026-05-22 01:00:00"
-    },
-    {
-        "group": "HỘI QUÁN",
-        "title": "23:00 | Luciano Darderi vs Alex de Minaur",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGDGQXe_IjGY4p-iXL4uyR39lZTZEydPDO6A&s",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8",
-        "time": "2026-05-21 23:00:00"
-    },
-    {
         "group": "CA LA TV",
-        "title": "18:00 | Al-Nassr vs Dhamk",
-        "logo": "https://img.colatv88xd.cc/football/team/0d9975f7e846a1ecb099f4cd62d1b8f7.png!w80",
-        "url": "https://live5.msrktz.app/live/97312754.m3u8",
-        "time": "2026-05-21 18:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "18:00 | Al Fayha vs Al Hilal",
-        "logo": "https://img.colatv88xd.cc/football/team/2b0b85fcec97994a4758002512957d7a.png!w80",
-        "url": "https://live5.msrktz.app/live/43612277.m3u8",
-        "time": "2026-05-21 18:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "00:30 | Blooming vs Carabobo",
-        "logo": "https://img.colatv88xd.cc/football/team/1a8ffd06b2866504609c32ee6091ba7c.png!w80",
-        "url": "https://live5.msrktz.app/live/24561735.m3u8",
-        "time": "2026-05-22 00:30:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "18:30 | KAA Gent vs Union Saint-Gilloise",
-        "logo": "https://img.colatv88xd.cc/football/team/59e9be1ed056bdc0025f6064316485fe.png!w80",
-        "url": "https://live5.msrktz.app/live/33982309.m3u8",
-        "time": "2026-05-21 18:30:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "00:00 | New York Knicks vs Cleveland Cavaliers",
-        "logo": "https://img.colatv88xd.cc/basketball/team/49f8b0ef2ed529b44dba6ebb99a0d5ff.png!w80",
-        "url": "https://live5.msrktz.app/live/90865415.m3u8",
-        "time": "2026-05-22 00:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "18:30 | VfL Wolfsburg vs Paderborn",
-        "logo": "https://img.colatv88xd.cc/football/team/03645e9c1d7fd2c48705622f52fd901e.png!w80",
-        "url": "https://live5.msrktz.app/live/08552895.m3u8",
-        "time": "2026-05-21 18:30:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "19:00 | Utrecht vs SC Heerenveen",
-        "logo": "https://img.colatv88xd.cc/football/team/181ee8709b75f543a1cf4c943ae3304b.png!w80",
-        "url": "https://live5.msrktz.app/live/87547578.m3u8",
-        "time": "2026-05-21 19:00:00"
+        "title": "20:30 | Aguilas Doradas vs Pereira",
+        "logo": "https://img.colatv88xd.cc/football/team/3190d6d022fe9b36c65d83cf98e16d15.png!w80",
+        "url": "https://live5.msrktz.app/live/99121525.m3u8",
+        "time": "2026-05-21 20:30:00"
     },
     {
         "group": "FPT SPORT",
-        "title": "01h00 ngày 22/05 Al-Nassr vs Damac FC (Lương Sơn) BLV TÔN LẬP m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 22/05 Al-Nassr vs Damac FC (Lương Sơn) BLV LƯU BỊ m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 22/05 Al-Nassr vs Damac FC (Lương Sơn) BLV LEO m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 22/05 Al-Nassr vs Damac FC (Lương Sơn) BLV NHỊ KA m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 22/05 Al-Feiha vs Al Hilal (Lương Sơn) BLV HÀN TÍN m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 ngày 22/05 Anderlecht vs Sint-Truidense (Lương Sơn) BLV TRIỆU TỬ LONG m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 22/05 FC Utrecht vs SC Heerenveen (Lương Sơn) BLV PELE m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 22/05 Al-Ittihad vs Al Qadsiah (Lương Sơn) BLV TIỂU LANG m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/AJUN/index.m3u8?expire=2556118740&sign=4cf66df9135854d82fa43d2c5f365419",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 ngày 22/05 VfL Wolfsburg vs SC Paderborn 07 (Lương Sơn) BLV LỮ BỐ m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 22/05 Neom SC vs Al-Ettifaq (Lương Sơn) BLV PHI HỔ m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 ngày 22/05 KAA Gent vs Saint Gilloise (Lương Sơn) BLV LÝ ỨNG m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 22/05 Al Kholood vs Al-Fateh (Lương Sơn) BLV MỘT CHÂN m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/MOTCHAN1/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 22/05 Al-Riyadh vs Al-Okhdood (Lương Sơn) BLV QUAN VŨ m3u",
+        "title": "03h30 ngày 22/05 Aguilas Doradas vs Deportivo Pereira (Lương Sơn) BLV QUAN VŨ m3u",
         "logo": "",
         "url": "https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7",
-        "time": "2026-05-21 19:19:04"
+        "time": "2026-05-21 21:01:08"
     },
     {
         "group": "FPT SPORT",
-        "title": "01h30 ngày 22/05 Mechelen vs Club Brugge (Lương Sơn) BLV LÃO HẠC m3u",
+        "title": "03h30 ngày 22/05 Aguilas Doradas vs Deportivo Pereira (Lương Sơn) BLV A TỦA m3u",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491",
-        "time": "2026-05-21 19:19:04"
+        "url": "https://hls.cdnfaster-a.live/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74",
+        "time": "2026-05-21 21:01:08"
     },
     {
         "group": "FPT SPORT",
-        "title": "01h30 ngày 22/05 KAA Gent vs Saint Gilloise (Lương Sơn) BLV VƯƠNG LUÂN m3u",
+        "title": "03h30 ngày 22/05 Aguilas Doradas vs Deportivo Pereira [BLV CHIVAS] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f",
-        "time": "2026-05-21 19:19:04"
+        "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=185331477a8ef88ae9808040e50ba6e5&txTime=6a0fc273",
+        "time": "2026-05-21 21:01:08"
     },
     {
         "group": "FPT SPORT",
-        "title": "01h30 ngày 22/05 VfL Wolfsburg vs SC Paderborn 07 (Lương Sơn) BLV MAYBACH m3u",
+        "title": "03h30 ngày 22/05 Aguilas Doradas vs Deportivo Pereira [BLV CHIVAS] (Socolive) m3u8",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 22/05 Al-Hazm vs Al-Taawoun (Lương Sơn) BLV FERNANDO m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 ngày 22/05 Anderlecht vs Sint-Truidense (Lương Sơn) BLV TÂY MÔN KHÁNH m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 22/05 Al Nassr FC vs Damac [THẠCH TÚ] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=7def79def7b6e1e10bf1f482b1121426&txTime=6a0faa8b",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 22/05 Al Nassr FC vs Damac [SAO LA] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=2be66a45062e72d8107e0c9423f45782&txTime=6a0faa8b",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 22/05 Al Nassr FC vs Damac [THẠCH TÚ] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=329df1360dd77475aca771b46964cbab&txTime=6a0faa8b",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 22/05 Al Nassr FC vs Damac [SAO LA] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=4ec846d034a46f29a26a0839e7c20d91&txTime=6a0faa8b",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 22/05 Al Fayha vs Al Hilal [BLV VIP] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=cb49dd2b9e2cfb41d388173dbad7fc51&txTime=6a0faa8b",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 22/05 Al Fayha vs Al Hilal [BLV VIP] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=6c2a61886cd67799668db1c7c695251f&txTime=6a0faa8b",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 22/05 FC Utrecht vs SC Heerenveen [BLV BÉO] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=5f446431d0c7fefac73ec2302a15853a&txTime=6a0faa8b",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 22/05 Al Nassr FC vs Damac [BLV 7UP] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1779393955-0-0-99b56d7ed42bcc21b838171d10487d7c",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 22/05 FC Utrecht vs SC Heerenveen [BLV BÉO] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=4bb67b167e5475bb1b32cb89d1d6825c&txTime=6a0faa8b",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 ngày 22/05 KAA Gent vs Union Saint-Gilloise [BLV RYO] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1779393595-0-0-51dccd8502cf751d272471a00820abee",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 22/05 Al Nassr FC vs Damac [DECO] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1779393595-0-0-21d834a26fee0592287c93e305ff8f1c",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 ngày 22/05 VfL Wolfsburg vs SC Paderborn 07 [BLV PIRLO] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1779393595-0-0-3f3d3050b9558bdb41a844d3351c4f31",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 ngày 22/05 VfL Wolfsburg vs SC Paderborn 07 [BLV MIXI] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1779393955-0-0-09e126a5769a7e04f98fa6bfb28ceb5b",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 22/05 Al Fayha vs Al Hilal [BLV MESSI] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1779393955-0-0-a6ce8187773e310152e3013c31b790b5",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 22/05 Al Nassr FC vs Damac [BLV ĐỐM] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1779393955-0-0-c6ddb78e603cb48c6697795f7beb8b44",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 22/05 Al Nassr FC vs Damac [BLV 7UP] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1779393955-0-0-f1f29cbbb9a29ff44e0f271fa3dc7442",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 22/05 Al Nassr FC vs Damac [DECO] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1779393595-0-0-58197233f6280494db374f2956abd22b",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 22/05 FC Utrecht vs SC Heerenveen [VƯƠNG ANH] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=01048e984d353c6391fe9590bdb949aa&txTime=6a0fabf3",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 22/05 FC Utrecht vs SC Heerenveen [VƯƠNG ANH] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=8b547074b944d0eacaf4f274f087e4cc&txTime=6a0fabf3",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 22/05 Al Nassr FC vs Damac [BLV ĐỐM] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1779393955-0-0-dcd97f6cc924e7b24a9b147cb1edb78e",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 22/05 Al Ittihad Club vs Al Qadsiah [BLV A WIN] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1779393955-0-0-8fb60ac88d201e339611418843cde467",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 22/05 Al Fayha vs Al Hilal [LOKA] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1779393595-0-0-4f2e0fc7a0456f7a2ed0152051e01bde",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 ngày 22/05 VfL Wolfsburg vs SC Paderborn 07 [BLV PIRLO] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1779393595-0-0-cb87a4bd1e1c9ffd4efd5b6c7bc30995",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 ngày 22/05 KV Mechelen vs Club Brugge [BLV WUKONG] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1779393595-0-0-189adc59c288e399b669d5d70b0aaf08",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 22/05 Al Fayha vs Al Hilal [LOKA] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1779393595-0-0-b5915c4cb35851864045c945aab12df1",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 ngày 22/05 VfL Wolfsburg vs SC Paderborn 07 [BLV MIXI] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1779393955-0-0-bf021c0f90f9aea0b52471fd1a6a078c",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 22/05 Al Fayha vs Al Hilal [NGƯỜI CÁ] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1779393595-0-0-8ae87b0dc3c508ea987fe7a12949ef92",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 22/05 Al Fayha vs Al Hilal [BLV MESSI] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1779393955-0-0-4630f04cd6be4bdc411a03406f71678c",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 22/05 Partick Thistle FC vs Saint Mirren [BLV FIREMAN] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1779393955-0-0-f88f6faa5e577ce1ca5213c3f0bb4f37",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 22/05 Al Hazem vs Al Taawoun [QUỐC KHÁNH] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=002e7ff48e280959b40db8ceaabeed3b&txTime=6a0fabf3",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h30 ngày 21/05 Brondby IF vs FC Copenhagen [CÔNG CHẤT] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1779393955-0-0-0dfb3bd06b97f0913c56188c6a72745f",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 22/05 Al Fayha vs Al Hilal [NGƯỜI CÁ] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1779393595-0-0-82ee52f701747cf79138dab16483086d",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 ngày 22/05 KAA Gent vs Union Saint-Gilloise [BLV RYO] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1779393595-0-0-d4c1f53f75036d95fb1b3c77f7fc653c",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 ngày 22/05 KV Mechelen vs Club Brugge [ĐỖ TÚ TÀI] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1779393955-0-0-9d28b90bc8a31e52ddb046e038863936",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 22/05 Al Hazem vs Al Taawoun [QUỐC KHÁNH] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=6b2d6a9f9902a57f85beaa0915b9e642&txTime=6a0fabf3",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 ngày 22/05 KV Mechelen vs Club Brugge [BLV WUKONG] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1779393595-0-0-f1270b530db447815577dffbb1c22af1",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 ngày 22/05 KAA Gent vs Union Saint-Gilloise [KÉP] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1779394315-0-0-2ce10f469eff16d4b6bb378e3f24755d",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 ngày 22/05 KV Mechelen vs Club Brugge [ĐỖ TÚ TÀI] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1779393955-0-0-663fefeaff79af4714020938f8ab8bd1",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 22/05 Al Ittihad Club vs Al Qadsiah [BLV A WIN] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1779393955-0-0-82bcbaa85296a7b110282c575183c02e",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 22/05 FC Utrecht vs SC Heerenveen [PINKMAN] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=13934981a5618e83ffebe5da61c60c45&txTime=6a0fad5b",
-        "time": "2026-05-21 19:19:04"
+        "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=76e1d5a9feaa6179de961dd20af29d81&txTime=6a0fc273",
+        "time": "2026-05-21 21:01:08"
     },
     {
         "group": "FPT SPORT",
         "title": "02h00 ngày 22/05 FC Utrecht vs SC Heerenveen [PINKMAN] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=f9bf5c4a0c02cce7a725897bf887dcc8&txTime=6a0fad5b",
-        "time": "2026-05-21 19:19:04"
+        "url": "https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=d4599bc9a909b125c262a55596fa36f7&txTime=6a0fc273",
+        "time": "2026-05-21 21:01:08"
     },
     {
         "group": "FPT SPORT",
-        "title": "01h30 ngày 22/05 VfL Wolfsburg vs SC Paderborn 07 [BLV PEWPEW] (Socolive) hdM3u8",
+        "title": "02h00 ngày 22/05 FC Utrecht vs SC Heerenveen [PINKMAN] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1779394315-0-0-68a145d4925704838a3265f624e805ee",
-        "time": "2026-05-21 19:19:04"
+        "url": "https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=15cb8a10d43659edc83862f90b02ff41&txTime=6a0fc273",
+        "time": "2026-05-21 21:01:08"
     },
     {
         "group": "FPT SPORT",
-        "title": "01h15 ngày 22/05 Grasshopper vs Aarau [BLV GÔN] (Socolive) hdM3u8",
+        "title": "04h00 ngày 22/05 Jaguares de Cordoba vs Independiente Yumbo [BLV YONE] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1779393955-0-0-e6c1ec1ad019217df5e638f2f00f2f0b",
-        "time": "2026-05-21 19:19:04"
+        "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1779400435-0-0-95b54f890b1303c49714cf269f624e14",
+        "time": "2026-05-21 21:01:08"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h00 ngày 22/05 FC Utrecht vs SC Heerenveen [TRÀ ĐÁ] (Socolive) hdM3u8",
+        "title": "04h00 ngày 22/05 Jaguares de Cordoba vs Independiente Yumbo [BLV LUCAS] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1779394315-0-0-76ff8a9f3c25298eff1f063bf1f6d62e",
-        "time": "2026-05-21 19:19:04"
+        "url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1779399715-0-0-c6208c5a01bc00f04ca61138c6bf24fe",
+        "time": "2026-05-21 21:01:08"
     },
     {
         "group": "FPT SPORT",
-        "title": "23h30 ngày 21/05 Brondby IF vs FC Copenhagen [CÔNG CHẤT] (Socolive) m3u8",
+        "title": "03h30 ngày 22/05 Aguilas Doradas vs Deportivo Pereira [BLV NẤM] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1779393955-0-0-684b169fd9af5cd49daf0926af80ddfa",
-        "time": "2026-05-21 19:19:04"
+        "url": "https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1779400075-0-0-d9c0c1c0424e802fa9721769ba52f526",
+        "time": "2026-05-21 21:01:08"
     },
     {
         "group": "FPT SPORT",
-        "title": "01h30 ngày 22/05 VfL Wolfsburg vs SC Paderborn 07 [BLV XO] (Socolive) m3u8",
+        "title": "03h30 ngày 22/05 Aguilas Doradas vs Deportivo Pereira [BLV NẤM] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1779394315-0-0-8f423feed90aadcc44b7ce23db43ecf8",
-        "time": "2026-05-21 19:19:04"
+        "url": "https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1779400075-0-0-2c06c8cb688ffc38cb9ebd955bad9fd4",
+        "time": "2026-05-21 21:01:08"
     },
     {
         "group": "FPT SPORT",
-        "title": "01h30 ngày 22/05 VfL Wolfsburg vs SC Paderborn 07 [BLV XO] (Socolive) hdM3u8",
+        "title": "04h00 ngày 22/05 Jaguares de Cordoba vs Independiente Yumbo [BLV LUCAS] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1779394315-0-0-58df8e0495dda3f83c6cb2d9d2014840",
-        "time": "2026-05-21 19:19:04"
+        "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1779399715-0-0-a35a0a9b9fc8811c0ee64cea5030a8bf",
+        "time": "2026-05-21 21:01:08"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h00 ngày 22/05 Partick Thistle FC vs Saint Mirren [BLV FIREMAN] (Socolive) m3u8",
+        "title": "04h00 ngày 22/05 Jaguares de Cordoba vs Independiente Yumbo [BLV YONE] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1779393955-0-0-430df586b68133f5e69335a48816bc69",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 22/05 Al Nassr FC vs Damac [BLV COCA] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1779394315-0-0-6ee3f847dd56566ca7d77cb185426e8e",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 ngày 22/05 VfL Wolfsburg vs SC Paderborn 07 [BLV PEWPEW] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1779394315-0-0-8980d11021310bbb0cf8650c640cb6a9",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 22/05 Al Nassr FC vs Damac [BLV COCA] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1779394315-0-0-cb37a5ad66a10d76bb8a73181d771f1c",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 22/05 Al Hazem vs Al Taawoun [BLV A TINH] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=ac2b2c71fca18d5984cb99f4596a3b96&txTime=6a0fad5b",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h15 ngày 22/05 Grasshopper vs Aarau [BLV GÔN] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1779393955-0-0-aee458281c6b2edb7602c50175d2764c",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 ngày 22/05 VfL Wolfsburg vs SC Paderborn 07 [BLV VITAMIN] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1779394315-0-0-e2bec7b411fabf3d00c5873a79c32aea",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 22/05 Al Hazem vs Al Taawoun [BLV A TINH] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=947fb8d0f3d70653c818d9b8492f3b65&txTime=6a0fad5b",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 ngày 22/05 VfL Wolfsburg vs SC Paderborn 07 [BLV VITAMIN] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1779394315-0-0-d861534c55063addd448da09c929affb",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 22/05 Al-Fayha vs Al-Hilal Saudi FC (Hội Quán) FHD",
-        "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 ngày 22/05 KAA Gent vs Union Saint-Gilloise [KÉP] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1779394315-0-0-b21336ccc1a740086391309b47773379",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 22/05 Al-Nassr vs Damac (Hội Quán) FHD",
-        "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 ngày 22/05 Anderlecht vs Sint-Truidense [BLV CÁO] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1779394315-0-0-e60dadb2630c78715ffc760974978878",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 ngày 22/05 Anderlecht vs Sint-Truidense [BLV CÁO] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1779394315-0-0-f9bd8df3d4ae36a764b3d99c9a268583",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 22/05 Al-Nassr vs Damac (Hội Quán) FHD",
-        "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 22/05 Al Ittihad Club vs Al Qadsiah [BLV ALEX] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1779394315-0-0-a257234db6db747d02f0aac169bb6ca6",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h00 21/05 Luciano Darderi vs Alex de Minaur (Hội Quán) FHD",
-        "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 ngày 22/05 Anderlecht vs Sint-Truidense [BLV CÒ] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1779394315-0-0-ac30a26964a82f847889ad1e61b4fff5",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 22/05 Al-Nassr vs Damac (Hội Quán) SD",
-        "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 22/05 Al-Fayha vs Al-Hilal Saudi FC (Hội Quán) SD",
-        "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanbap/tracks-v1a1/mono.m3u8",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 ngày 22/05 Anderlecht vs Sint-Truidense [BLV CÒ] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1779394315-0-0-e444fae5532e18cd06ffd80daad76b4d",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 22/05 Al-Nassr vs Damac (Hội Quán) SD",
-        "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h30 22/05 Arthur Rinderknech vs Alexander Bublik (Hội Quán) SD",
-        "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h00 21/05 Luciano Darderi vs Alex de Minaur (Hội Quán) SD",
-        "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 22/05 FC Utrecht vs SC Heerenveen [TRÀ ĐÁ] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1779394315-0-0-6dbd388372f311faba1ce8cb0ccdd832",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h00 ngày 22/05 Al Ittihad Club vs Al Qadsiah [BLV ALEX] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1779394315-0-0-8acea3930d5a1c5fe084f401a8499b48",
-        "time": "2026-05-21 19:19:04"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h30 22/05 Arthur Rinderknech vs Alexander Bublik (Hội Quán) FHD",
-        "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8",
-        "time": "2026-05-21 19:19:04"
+        "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1779400435-0-0-c355fb49ce65b0dc4ab810b363f16009",
+        "time": "2026-05-21 21:01:08"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1779393955-0-0-79b538c128fab9019ac0e93e0f4f2d52",
-        "time": "2026-05-21 19:19:04"
+        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1779400435-0-0-2e0a534c1ca3b07ff532e0096db34116",
+        "time": "2026-05-21 21:01:08"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1779393955-0-0-d09dc3f94037ff33fb0ae3bb39d210b6",
-        "time": "2026-05-21 19:19:04"
+        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1779400435-0-0-166f872630ddba4324ba65df20150238",
+        "time": "2026-05-21 21:01:08"
     }
 ]
