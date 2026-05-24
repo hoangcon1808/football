@@ -1,20 +1,6 @@
 [
     {
         "group": "HỘI QUÁN",
-        "title": "22:00 | Crystal Palace vs Arsenal",
-        "logo": "https://upload.wikimedia.org/wikipedia/vi/a/a2/Crystal_Palace_FC_logo_%282022%29.svg.png",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8",
-        "time": "2026-05-24 22:00:00"
-    },
-    {
-        "group": "HỘI QUÁN",
-        "title": "22:00 | Manchester City vs Aston Villa",
-        "logo": "https://upload.wikimedia.org/wikipedia/vi/1/1d/Manchester_City_FC_logo.svg",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8",
-        "time": "2026-05-24 22:00:00"
-    },
-    {
-        "group": "HỘI QUÁN",
         "title": "07:00 | San Antonio Spurs vs Oklahoma City Thunder",
         "logo": "https://upload.wikimedia.org/wikipedia/vi/e/ec/San_Antonio_Spurs_logo.png",
         "url": "https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8",
@@ -25,6 +11,13 @@
         "title": "01:45 | AC Milan vs Cagliari",
         "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png",
         "url": "https://alive.yarncdn.live/hqtv_blv_phanbap/tracks-v2a1/mono.m3u8",
+        "time": "2026-05-25 01:45:00"
+    },
+    {
+        "group": "HỘI QUÁN",
+        "title": "01:45 | Torino vs Juventus",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjMFcsnbi0W9T38__QcAu2PZRYvouexKckTg&s",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8",
         "time": "2026-05-25 01:45:00"
     },
     {
@@ -50,16 +43,16 @@
     },
     {
         "group": "THIÊN ĐÌNH",
-        "title": "22:00 | Crystal Palace vs Arsenal",
-        "logo": "https://upload.wikimedia.org/wikipedia/vi/a/a2/Crystal_Palace_FC_logo_%282022%29.svg.png",
-        "url": "https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8",
-        "time": "2026-05-24 22:00:00"
-    },
-    {
-        "group": "THIÊN ĐÌNH",
         "title": "01:45 | AC Milan vs Cagliari",
         "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png",
         "url": "https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8",
+        "time": "2026-05-25 01:45:00"
+    },
+    {
+        "group": "THIÊN ĐÌNH",
+        "title": "01:45 | Cremonese vs Como",
+        "logo": "https://1.bp.blogspot.com/-jBb9nJTi22g/Xw1w0zq5ypI/AAAAAAAAaoI/y5xrZ4P7Kg0MDoclmpkw1QJvvFh0JJkBACLcBGAsYHQ/s1600/US-Cremonese_logo_tr_237-design.png",
+        "url": "https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8",
         "time": "2026-05-25 01:45:00"
     },
     {
@@ -71,108 +64,31 @@
     },
     {
         "group": "THIÊN ĐÌNH",
-        "title": "02:00 | Villarreal vs Atletico Madrid",
-        "logo": "https://upload.wikimedia.org/wikipedia/vi/7/70/Villarreal_CF_logo.svg",
-        "url": "https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8",
-        "time": "2026-05-25 02:00:00"
+        "title": "22:00 | Tromso vs Aalesund",
+        "logo": "https://media.api-sports.io/football/teams/325.png",
+        "url": "https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8",
+        "time": "2026-05-25 22:00:00"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "AC Milan vs Cagliari",
         "logo": "https://media.api-sports.io/football/teams/489.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8",
-        "time": "2026-05-24 17:38:43"
+        "time": "2026-05-24 18:45:36"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "Villarreal vs Atletico Madrid",
         "logo": "https://media.api-sports.io/football/teams/533.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8",
-        "time": "2026-05-24 17:38:43"
+        "time": "2026-05-24 18:45:36"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "Ham-Kam vs Lillestrom",
         "logo": "https://media.api-sports.io/football/teams/2159.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8",
-        "time": "2026-05-24 17:38:43"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "15:00 | Brighton & Hove Albion FC vs Manchester United",
-        "logo": "https://img.colatv88xd.cc/football/team/9b43a690d5a09f1e319f036821e8e1d3.png!w80",
-        "url": "https://live5.msrktz.app/live/97312754.m3u8",
-        "time": "2026-05-24 15:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "15:00 | Manchester City vs Aston Villa",
-        "logo": "https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80",
-        "url": "https://live5.msrktz.app/live/14830711.m3u8",
-        "time": "2026-05-24 15:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "15:00 | Liverpool vs Brentford",
-        "logo": "https://img.colatv88xd.cc/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png!w80",
-        "url": "https://live5.msrktz.app/live/87379114.m3u8",
-        "time": "2026-05-24 15:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "15:00 | Crystal Palace vs Arsenal",
-        "logo": "https://img.colatv88xd.cc/football/team/42396d18444156e640c37476c2b41b93.png!w80",
-        "url": "https://live5.msrktz.app/live/33982309.m3u8",
-        "time": "2026-05-24 15:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "15:00 | West Ham United vs Leeds",
-        "logo": "https://img.colatv88xd.cc/football/team/d71ebda5c7fbca9093a1c2978c46f619.png!w80",
-        "url": "https://live5.msrktz.app/live/68848594.m3u8",
-        "time": "2026-05-24 15:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "15:00 | Fulham vs Newcastle",
-        "logo": "https://img.colatv88xd.cc/football/team/29982511f1ea861967c3e6478d6a8a68.png!w80",
-        "url": "https://live5.msrktz.app/live/82054853.m3u8",
-        "time": "2026-05-24 15:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "15:00 | Tottenham Hotspur vs Everton",
-        "logo": "https://img.colatv88xd.cc/football/team/8b22ab4041e666b996a2d96f20dea707.png!w80",
-        "url": "https://live5.msrktz.app/live/14707124.m3u8",
-        "time": "2026-05-24 15:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "15:00 | Sunderland vs Chelsea",
-        "logo": "https://img.colatv88xd.cc/football/team/957bdc50c307e2a9b526b34b3792da1a.png!w80",
-        "url": "https://live5.msrktz.app/live/02456966.m3u8",
-        "time": "2026-05-24 15:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "15:00 | Burnley vs Wolverhampton Wanderers",
-        "logo": "https://img.colatv88xd.cc/football/team/1091af5aa9fc4a30411785954edb9159.png!w80",
-        "url": "https://live5.msrktz.app/live/88508431.m3u8",
-        "time": "2026-05-24 15:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "16:00 | S.S.C. Napoli vs Udinese Calcio",
-        "logo": "https://img.colatv88xd.cc/football/team/37ed13d27edccd30e053167962c02b3a.png!w80",
-        "url": "https://live5.msrktz.app/live/75915087.m3u8",
-        "time": "2026-05-24 16:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "18:00 | Olympiacos Piraeus vs Real Madrid",
-        "logo": "https://img.colatv88xd.cc/basketball/team/e713068dda3d8da9f9872e61a850a142.png!w80",
-        "url": "https://live5.msrktz.app/live/90865415.m3u8",
-        "time": "2026-05-24 18:00:00"
+        "time": "2026-05-24 18:45:36"
     },
     {
         "group": "CA LA TV",
@@ -183,10 +99,38 @@
     },
     {
         "group": "CA LA TV",
+        "title": "18:45 | AC Milan vs Cagliari",
+        "logo": "https://img.colatv88xd.cc/football/team/643ef4101b017dc1495dbd9e9d5cce28.png!w80",
+        "url": "https://live5.msrktz.app/live/33982309.m3u8",
+        "time": "2026-05-24 18:45:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "18:00 | Olympiacos Piraeus vs Real Madrid",
+        "logo": "https://img.colatv88xd.cc/basketball/team/e713068dda3d8da9f9872e61a850a142.png!w80",
+        "url": "https://live5.msrktz.app/live/90865415.m3u8",
+        "time": "2026-05-24 18:00:00"
+    },
+    {
+        "group": "CA LA TV",
         "title": "18:45 | Hellas Verona F.C. vs A.S. Roma",
         "logo": "https://img.colatv88xd.cc/football/team/b8e39abb18bb1c69396c59ff73ecf124.png!w80",
         "url": "https://live5.msrktz.app/live/43612277.m3u8",
         "time": "2026-05-24 18:45:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "18:45 | U.S. Cremonese vs Calcio Como",
+        "logo": "https://img.colatv88xd.cc/football/team/0b0e25267dabd15c405070329df5fbdb.png!w80",
+        "url": "https://live5.msrktz.app/live/68848594.m3u8",
+        "time": "2026-05-24 18:45:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "19:00 | Villarreal vs Atlético Madrid",
+        "logo": "https://img.colatv88xd.cc/football/team/aee62af96a956756cc29fe4831286357.png!w80",
+        "url": "https://live5.msrktz.app/live/97312754.m3u8",
+        "time": "2026-05-24 19:00:00"
     },
     {
         "group": "CA LA TV",
@@ -197,10 +141,59 @@
     },
     {
         "group": "CA LA TV",
+        "title": "21:30 | Corinthians Paulista vs Atletico Mineiro",
+        "logo": "https://img.colatv88xd.cc/football/team/aa4d61da1df31972e52e1e62f90ec558.png!w80",
+        "url": "https://live5.msrktz.app/live/88508431.m3u8",
+        "time": "2026-05-24 21:30:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "22:00 | Seattle Storm vs Washington Mystics",
+        "logo": "https://img.colatv88xd.cc/basketball/team/21275a59516956d98aedc00b97faadc4.png!w80",
+        "url": "https://live5.msrktz.app/live/87379114.m3u8",
+        "time": "2026-05-24 22:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "23:00 | Inter Miami vs Philadelphia Union",
+        "logo": "https://img.colatv88xd.cc/football/team/976fe1d29c112f4baeb844cdda2f04cb.png!w80",
+        "url": "https://live5.msrktz.app/live/02456966.m3u8",
+        "time": "2026-05-24 23:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "00:00 | San Antonio Spurs vs Oklahoma City Thunder",
+        "logo": "https://img.colatv88xd.cc/basketball/team/5305d1a7b721b5bef418041eff53ba82.png!w80",
+        "url": "https://live5.msrktz.app/live/82054853.m3u8",
+        "time": "2026-05-25 00:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "07:30 | Paju Citizen FC vs Gimpo C",
+        "logo": "https://img.colatv88xd.cc/football/team/bba486a5a39fcc03df6ed029550b2acc.png!w80",
+        "url": "https://live5.msrktz.app/live/14707124.m3u8",
+        "time": "2026-05-25 07:30:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "07:30 | Suwon Samsung Bluewings vs Cheonan City",
+        "logo": "https://img.colatv88xd.cc/football/team/b7d71976c00a588ae7b9d077e6f94810.png!w80",
+        "url": "https://live5.msrktz.app/live/14830711.m3u8",
+        "time": "2026-05-25 07:30:00"
+    },
+    {
+        "group": "CA LA TV",
         "title": "09:30 | South Melbourne vs Avondale FC",
         "logo": "https://img.colatv88xd.cc/football/team/3728683390847f335552d077cf0b8752.png!w80",
         "url": "https://live5.msrktz.app/live/90725470.m3u8",
         "time": "2026-05-25 09:30:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "13:00 | Hvidovre vs Esbjerg",
+        "logo": "https://img.colatv88xd.cc/football/team/865113ccf397b8f317e0681c9c3234dd.png!w80",
+        "url": "https://live5.msrktz.app/live/75915087.m3u8",
+        "time": "2026-05-25 13:00:00"
     },
     {
         "group": "CA LA TV",
@@ -218,800 +211,1353 @@
     },
     {
         "group": "FPT SPORT",
-        "title": "23h00 ngày 24/05 Napoli vs Udinese (Lương Sơn) BLV MAYBACH m3u",
+        "title": "01h30 ngày 25/05 River Plate vs Belgrano (Lương Sơn) BLV LEO m3u",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b",
-        "time": "2026-05-24 17:38:45"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h00 ngày 24/05 Napoli vs Udinese (Lương Sơn) BLV MAYBACH flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
         "title": "07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8",
-        "time": "2026-05-24 17:38:45"
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 UNSW FC Women vs University of Sydney Women (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/8988f3aa5ce2f85d4c50a0bc65d9d998/playlist.m3u8",
-        "time": "2026-05-24 17:38:45"
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Newcastle Olympic FC Reserves vs Charlestown Azzurri Reserves (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/6f115b2fe383bc3710a61f46cc1b22f9/playlist.m3u8",
-        "time": "2026-05-24 17:38:45"
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
         "title": "07h10 ngày 23/05 Boston Legacy W vs Seattle Reign (W) (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8",
-        "time": "2026-05-24 17:38:45"
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Mexico vs Ghana (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8",
-        "time": "2026-05-24 17:38:45"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "22h00 ngày 24/05 Crystal Palace vs Arsenal (Chuối Chiên) HD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8",
-        "time": "2026-05-24 17:38:45"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "22h00 ngày 24/05 Crystal Palace vs Arsenal (Chuối Chiên) HD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/max.flv",
-        "time": "2026-05-24 17:38:45"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "22h00 ngày 24/05 Crystal Palace vs Arsenal (Chuối Chiên) FHD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8",
-        "time": "2026-05-24 17:38:45"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "22h00 ngày 24/05 Crystal Palace vs Arsenal (Chuối Chiên) FHD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/maxhd.flv",
-        "time": "2026-05-24 17:38:45"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h00 ngày 24/05 Napoli vs Udinese (Chuối Chiên) HD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/m5x5/playlist.m3u8",
-        "time": "2026-05-24 17:38:45"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h00 ngày 24/05 Napoli vs Udinese (Chuối Chiên) HD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/m5x5.flv",
-        "time": "2026-05-24 17:38:45"
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
         "title": "23h15 ngày 24/05 Sporting CP vs Torreense (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/m5x6/playlist.m3u8",
-        "time": "2026-05-24 17:38:45"
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
         "title": "23h15 ngày 24/05 Sporting CP vs Torreense (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/m5x6.flv",
-        "time": "2026-05-24 17:38:45"
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Cremonese vs Como (Chuối Chiên) HD1",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Cremonese vs Como (Chuối Chiên) HD2",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/m5x1.flv",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Lecce vs Genoa (Chuối Chiên) HD1",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Lecce vs Genoa (Chuối Chiên) HD2",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/m5x2.flv",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 AC Milan vs Cagliari (Chuối Chiên) HD1",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 AC Milan vs Cagliari (Chuối Chiên) HD2",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/max.flv",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 AC Milan vs Cagliari (Chuối Chiên) FHD1",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 AC Milan vs Cagliari (Chuối Chiên) FHD2",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/maxhd.flv",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Torino vs Juventus (Chuối Chiên) HD1",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/m5x3/playlist.m3u8",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Torino vs Juventus (Chuối Chiên) HD2",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/m5x3.flv",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Verona vs AS Roma (Chuối Chiên) HD1",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoichay/playlist.m3u8",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Verona vs AS Roma (Chuối Chiên) HD2",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoichay.flv",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Verona vs AS Roma (Chuối Chiên) FHD1",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoichayhd/playlist.m3u8",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Verona vs AS Roma (Chuối Chiên) FHD2",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoichayhd.flv",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
         "title": "02h00 ngày 25/05 Villarreal vs Atletico Madrid (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8",
-        "time": "2026-05-24 17:38:45"
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
         "title": "02h00 ngày 25/05 Villarreal vs Atletico Madrid (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoibo.flv",
-        "time": "2026-05-24 17:38:45"
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
         "title": "02h00 ngày 25/05 Villarreal vs Atletico Madrid (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8",
-        "time": "2026-05-24 17:38:45"
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
         "title": "02h00 ngày 25/05 Villarreal vs Atletico Madrid (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv",
-        "time": "2026-05-24 17:38:45"
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
         "title": "04h00 ngày 25/05 Columbus Crew vs Atlanta United FC (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8",
-        "time": "2026-05-24 17:38:45"
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
         "title": "04h00 ngày 25/05 Columbus Crew vs Atlanta United FC (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv",
-        "time": "2026-05-24 17:38:45"
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
         "title": "04h00 ngày 25/05 Columbus Crew vs Atlanta United FC (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8",
-        "time": "2026-05-24 17:38:45"
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
         "title": "04h00 ngày 25/05 Columbus Crew vs Atlanta United FC (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv",
-        "time": "2026-05-24 17:38:45"
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
         "title": "06h00 ngày 25/05 Inter Miami vs Philadelphia Union (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
-        "time": "2026-05-24 17:38:45"
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
         "title": "06h00 ngày 25/05 Inter Miami vs Philadelphia Union (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay.flv",
-        "time": "2026-05-24 17:38:45"
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
         "title": "06h00 ngày 25/05 Inter Miami vs Philadelphia Union (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
-        "time": "2026-05-24 17:38:45"
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
         "title": "06h00 ngày 25/05 Inter Miami vs Philadelphia Union (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv",
-        "time": "2026-05-24 17:38:45"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h00 ngày 25/05 Los Angeles FC vs Seattle Sounders (Chuối Chiên) HD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoichay/playlist.m3u8",
-        "time": "2026-05-24 17:38:45"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h00 ngày 25/05 Los Angeles FC vs Seattle Sounders (Chuối Chiên) HD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoichay.flv",
-        "time": "2026-05-24 17:38:45"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h00 ngày 25/05 Los Angeles FC vs Seattle Sounders (Chuối Chiên) FHD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoichayhd/playlist.m3u8",
-        "time": "2026-05-24 17:38:45"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h00 ngày 25/05 Los Angeles FC vs Seattle Sounders (Chuối Chiên) FHD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoichayhd.flv",
-        "time": "2026-05-24 17:38:45"
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
         "title": "16h30 ngày 25/05 South Melbourne vs Avondale (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8",
-        "time": "2026-05-24 17:38:45"
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
         "title": "16h30 ngày 25/05 South Melbourne vs Avondale (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho.flv",
-        "time": "2026-05-24 17:38:45"
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
         "title": "16h30 ngày 25/05 South Melbourne vs Avondale (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
-        "time": "2026-05-24 17:38:45"
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
         "title": "16h30 ngày 25/05 South Melbourne vs Avondale (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv",
-        "time": "2026-05-24 17:38:45"
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC (Gà Vàng) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/821d54abadb12c6c15edba538ab20ad1/playlist.m3u8",
-        "time": "2026-05-24 17:38:45"
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
         "title": "07h00 ngày 23/05 Sporting Kansas CityReserves vs Austin FC II (Gà Vàng) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8",
-        "time": "2026-05-24 17:38:45"
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8",
-        "time": "2026-05-24 17:38:45"
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "23h00 ngày 24/05 Napoli vs Udinese [HẢI THANH] (Socolive) flv",
+        "title": "01h45 ngày 25/05 AC Milan vs Cagliari [BLV XO] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1779646675-0-0-1a0ed9ffbb29f14a4a5842b52fc2c21b",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1779650995-0-0-d8f85112d35bad71b0bdaa2beb2e9e29",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "23h00 ngày 24/05 Napoli vs Udinese [HẢI THANH] (Socolive) hdFlv",
+        "title": "01h45 ngày 25/05 AC Milan vs Cagliari [BLV XO] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1779646675-0-0-73d50e93f8085ffb4e8d3cfef808dd29",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1779650995-0-0-6d8ca597e80999eb6341d1ef492fdca3",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "23h00 ngày 24/05 Napoli vs Udinese [HẢI THANH] (Socolive) m3u8",
+        "title": "01h45 ngày 25/05 AC Milan vs Cagliari [BLV XO] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1779646675-0-0-7d30f5cb1cf7ba85f62dc0fd12fe6520",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1779650995-0-0-55cc3d314042937c87ff33c86b20cec5",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "23h00 ngày 24/05 Napoli vs Udinese [HẢI THANH] (Socolive) hdM3u8",
+        "title": "01h45 ngày 25/05 AC Milan vs Cagliari [BLV XO] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1779646675-0-0-ff1972f03a7aff7d914c8d11747d996f",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1779650995-0-0-fe6b1049e02a9b147b8e27628b94af18",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "23h00 ngày 24/05 Napoli vs Udinese [QUỐC KHÁNH] (Socolive) flv",
+        "title": "01h45 ngày 25/05 Hellas Verona vs AS Roma [BLV COZY] (Socolive) flv",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-602153_lsd.flv?txSecret=4363d6c93ea0b1728ae6003dfa8a6cde&txTime=6a138723",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1779650995-0-0-42a716ed0662c6c4768c79eb3a1aa137",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "23h00 ngày 24/05 Napoli vs Udinese [QUỐC KHÁNH] (Socolive) hdFlv",
+        "title": "01h45 ngày 25/05 Hellas Verona vs AS Roma [BLV COZY] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-602153_lhd.flv?txSecret=36f8526607dc205c16e7f4a1155973db&txTime=6a138723",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1779650995-0-0-d5b4108a99bda6f3fa7543dfd201208c",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "23h00 ngày 24/05 Napoli vs Udinese [QUỐC KHÁNH] (Socolive) m3u8",
+        "title": "01h45 ngày 25/05 Hellas Verona vs AS Roma [BLV COZY] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=4363d6c93ea0b1728ae6003dfa8a6cde&txTime=6a138723",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1779650995-0-0-c0ba12270b037f9daea9669c4a7b7b72",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "23h00 ngày 24/05 Napoli vs Udinese [QUỐC KHÁNH] (Socolive) hdM3u8",
+        "title": "01h45 ngày 25/05 Hellas Verona vs AS Roma [BLV COZY] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=36f8526607dc205c16e7f4a1155973db&txTime=6a138723",
-        "time": "2026-05-24 17:38:45"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "22h00 ngày 24/05 Crystal Palace vs Arsenal [TẠ BIÊN GIỚI] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1779646675-0-0-48a205473b17002839a2dc03d904981d",
-        "time": "2026-05-24 17:38:45"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "22h00 ngày 24/05 Crystal Palace vs Arsenal [TẠ BIÊN GIỚI] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1779646675-0-0-b284f7d28e0ec106f20c81dcb913a1e7",
-        "time": "2026-05-24 17:38:45"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "22h00 ngày 24/05 Crystal Palace vs Arsenal [TẠ BIÊN GIỚI] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1779646675-0-0-3163c9b4eb56453680573643803ab6a8",
-        "time": "2026-05-24 17:38:45"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "22h00 ngày 24/05 Crystal Palace vs Arsenal [TẠ BIÊN GIỚI] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1779646675-0-0-98b17c31fc57c4233a5c4aad37dfedfa",
-        "time": "2026-05-24 17:38:45"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h00 ngày 24/05 Kristiansund BK vs Viking [BLV WUKONG] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1779646675-0-0-817795adfa7fac4fb98c1a33f595ea64",
-        "time": "2026-05-24 17:38:45"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h00 ngày 24/05 Kristiansund BK vs Viking [BLV WUKONG] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1779646675-0-0-8b2117776d269786df6d1519c9ad5437",
-        "time": "2026-05-24 17:38:45"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h00 ngày 24/05 Kristiansund BK vs Viking [BLV WUKONG] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1779646675-0-0-6983b60df3e1f62bf49c13e4876f7dab",
-        "time": "2026-05-24 17:38:45"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h00 ngày 24/05 Kristiansund BK vs Viking [BLV WUKONG] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1779646675-0-0-3522f22df4e498cd4b9c093d733a2db9",
-        "time": "2026-05-24 17:38:45"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h00 ngày 24/05 Napoli vs Udinese [PINKMAN] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=beaa2376a2286320d964be5daa1118d4&txTime=6a138723",
-        "time": "2026-05-24 17:38:45"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h00 ngày 24/05 Napoli vs Udinese [PINKMAN] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=c26a7582f5239369023e6ccc5b33297c&txTime=6a138723",
-        "time": "2026-05-24 17:38:45"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h00 ngày 24/05 Napoli vs Udinese [PINKMAN] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=beaa2376a2286320d964be5daa1118d4&txTime=6a138723",
-        "time": "2026-05-24 17:38:45"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h00 ngày 24/05 Napoli vs Udinese [PINKMAN] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=c26a7582f5239369023e6ccc5b33297c&txTime=6a138723",
-        "time": "2026-05-24 17:38:45"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h00 ngày 24/05 Napoli vs Udinese [BLV A WIN] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1779646675-0-0-86ea8bcc5f6d86599820faba4a6c9dbe",
-        "time": "2026-05-24 17:38:45"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h00 ngày 24/05 Napoli vs Udinese [BLV A WIN] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1779646675-0-0-d70cc91874cbfc4b04e627fd6e8c0a0d",
-        "time": "2026-05-24 17:38:45"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h00 ngày 24/05 Napoli vs Udinese [BLV A WIN] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1779646675-0-0-9e1f6c9a991b8ae9972243db7278acc0",
-        "time": "2026-05-24 17:38:45"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h00 ngày 24/05 Napoli vs Udinese [BLV A WIN] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1779646675-0-0-30be7c67fd90e029ac48f8d4654221fe",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1779650995-0-0-f90aaa1f1609c41aa893c47a3f3cfa4a",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
         "title": "23h15 ngày 24/05 Sporting CP vs SCU Torreense [ĐỖ TÚ TÀI] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1779646675-0-0-b610fae1617921f582122d93b6206a7b",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1779650995-0-0-96a4a86d3a74e4ed273ebdfe7f13cd7b",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
         "title": "23h15 ngày 24/05 Sporting CP vs SCU Torreense [ĐỖ TÚ TÀI] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1779646675-0-0-3b5125dd77122b24b21883cc289cdb64",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1779650995-0-0-5cab5b57c20569a430205b3c9e391a1e",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
         "title": "23h15 ngày 24/05 Sporting CP vs SCU Torreense [ĐỖ TÚ TÀI] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1779646675-0-0-1e13b8f2f22bf2b91c38593ff43f5cd8",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1779650995-0-0-5191687073a1686e7643c4a6a76a4aed",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
         "title": "23h15 ngày 24/05 Sporting CP vs SCU Torreense [ĐỖ TÚ TÀI] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1779646675-0-0-33dc1bb2580b5b4ebc67bc3f62fbfd18",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1779650995-0-0-e8248f5bb0507ec7efefa1299f2838f5",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "23h30 ngày 24/05 Sporting Gijon vs Almeria [TRÀ ĐÁ] (Socolive) flv",
+        "title": "01h00 ngày 25/05 Catanzaro vs Monza [KÉP] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-603914_lsd.flv?auth_key=1779646675-0-0-b82a2b24aea27e6933b0670e794807c6",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1779650995-0-0-bb0255ba6387e1c689f708e27fc40188",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "23h30 ngày 24/05 Sporting Gijon vs Almeria [TRÀ ĐÁ] (Socolive) hdFlv",
+        "title": "01h00 ngày 25/05 Catanzaro vs Monza [KÉP] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1779646675-0-0-106ff7836734a1b63cc1b527e0ff2776",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1779650995-0-0-77edd0456a4b2d4e481d23b7e8a8b676",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "23h30 ngày 24/05 Sporting Gijon vs Almeria [TRÀ ĐÁ] (Socolive) m3u8",
+        "title": "01h00 ngày 25/05 Catanzaro vs Monza [KÉP] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1779646675-0-0-6f7f8ad70d8fd65697d77b8d61244138",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1779650995-0-0-45a2115c1b9f56b352cef222fe036e7c",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "23h30 ngày 24/05 Sporting Gijon vs Almeria [TRÀ ĐÁ] (Socolive) hdM3u8",
+        "title": "01h00 ngày 25/05 Catanzaro vs Monza [KÉP] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1779646675-0-0-b0f395e892169fbd171e189c59e9cb0b",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1779650995-0-0-4f4818fb7ad4d00606f6c50b989a61e8",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "23h30 ngày 24/05 UD Las Palmas vs Real Zaragoza [BLV VIP] (Socolive) flv",
+        "title": "01h45 ngày 25/05 Cremonese vs Como [BLV A WIN] (Socolive) flv",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=8b5641b08acdce315de96c8a3d2fa64b&txTime=6a138723",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1779650995-0-0-fe2d307904b086000b0854f96ef3928e",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "23h30 ngày 24/05 UD Las Palmas vs Real Zaragoza [BLV VIP] (Socolive) hdFlv",
+        "title": "01h45 ngày 25/05 Cremonese vs Como [BLV A WIN] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=0a02f6f1f6b2dbf5236566d78592e655&txTime=6a138723",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1779650995-0-0-cb5943df0edc496fc1c09afee67ad0b4",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "23h30 ngày 24/05 UD Las Palmas vs Real Zaragoza [BLV VIP] (Socolive) m3u8",
+        "title": "01h45 ngày 25/05 Cremonese vs Como [BLV A WIN] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=8b5641b08acdce315de96c8a3d2fa64b&txTime=6a138723",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1779650995-0-0-99a5cadd2b081240886c2f7af7ae7a23",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "23h30 ngày 24/05 UD Las Palmas vs Real Zaragoza [BLV VIP] (Socolive) hdM3u8",
+        "title": "01h45 ngày 25/05 Cremonese vs Como [BLV A WIN] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=0a02f6f1f6b2dbf5236566d78592e655&txTime=6a138723",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1779650995-0-0-829bb81a308cb5669ce7b133b61881b6",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "23h30 ngày 24/05 Malaga vs Racing Santander [BLV VOI] (Socolive) flv",
+        "title": "02h00 ngày 25/05 Villarreal CF vs Atletico Madrid [CHANH MUỐI] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1779646675-0-0-a86203406e48b26bfd601bd22468a3cd",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1779650995-0-0-fe37914089265eb9f5b9da262b8f1512",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "23h30 ngày 24/05 Malaga vs Racing Santander [BLV VOI] (Socolive) hdFlv",
+        "title": "02h00 ngày 25/05 Villarreal CF vs Atletico Madrid [CHANH MUỐI] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1779646675-0-0-5f87c8f5153e54651b1bb24ea43d32af",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1779650995-0-0-03acd4375ac40dfcd67dc4a88db6c840",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "23h30 ngày 24/05 Malaga vs Racing Santander [BLV VOI] (Socolive) m3u8",
+        "title": "02h00 ngày 25/05 Villarreal CF vs Atletico Madrid [CHANH MUỐI] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1779646675-0-0-67e1534b60fb4fabf4db03ed65aabb5b",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1779650995-0-0-ccb53828d99728255a6a8ba07146b2eb",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "23h30 ngày 24/05 Malaga vs Racing Santander [BLV VOI] (Socolive) hdM3u8",
+        "title": "02h00 ngày 25/05 Villarreal CF vs Atletico Madrid [CHANH MUỐI] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1779646675-0-0-d6541d2b94770d31ad49dc525a724c1b",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1779650995-0-0-84a375aa7f9718b3eea87f1cc382ed16",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "23h30 ngày 24/05 Real Valladolid CF vs Deportivo La Coruna [CHANH MUỐI] (Socolive) flv",
+        "title": "01h45 ngày 25/05 Hellas Verona vs AS Roma [BLV KEM] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1779646675-0-0-4b7d112d58bcd4db6d14fdc6cc5fc9b2",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1779651355-0-0-e2769dc3441e8b43fb4df16f49757875",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "23h30 ngày 24/05 Real Valladolid CF vs Deportivo La Coruna [CHANH MUỐI] (Socolive) hdFlv",
+        "title": "01h45 ngày 25/05 Hellas Verona vs AS Roma [BLV KEM] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1779646675-0-0-429b67bf859be43af4a70c95dd1267dd",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1779651355-0-0-3f8d8b5cebbd94021c3c34b2588dd1fd",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "23h30 ngày 24/05 Real Valladolid CF vs Deportivo La Coruna [CHANH MUỐI] (Socolive) m3u8",
+        "title": "01h45 ngày 25/05 Hellas Verona vs AS Roma [BLV KEM] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1779646675-0-0-cd55e6981fe19fee849e7fd8541dff52",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1779651355-0-0-fc3231d6cebba9a2594f860059aa789f",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "23h30 ngày 24/05 Real Valladolid CF vs Deportivo La Coruna [CHANH MUỐI] (Socolive) hdM3u8",
+        "title": "01h45 ngày 25/05 Hellas Verona vs AS Roma [BLV KEM] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1779646675-0-0-1ec6dc97243c44b67c76b7406897e1de",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1779651355-0-0-73ee46f34b5f51d25241ddac34c0cf40",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "23h00 ngày 24/05 Joventut Badalona vs San Pablo Burgos [A CHÈ] (Socolive) flv",
+        "title": "01h45 ngày 25/05 AC Milan vs Cagliari [A BỆU] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1779646675-0-0-6a8de1e77731c2dc343c3df79103f612",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1779651355-0-0-4129a1897c7807cc8a49b88d171e429c",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "23h00 ngày 24/05 Joventut Badalona vs San Pablo Burgos [A CHÈ] (Socolive) hdFlv",
+        "title": "01h45 ngày 25/05 AC Milan vs Cagliari [A BỆU] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1779646675-0-0-877831325b8b1a6a804b43d1ef56580d",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1779651355-0-0-4397f054da45b0567f35ddd2f4ddc533",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "23h00 ngày 24/05 Joventut Badalona vs San Pablo Burgos [A CHÈ] (Socolive) m3u8",
+        "title": "01h45 ngày 25/05 AC Milan vs Cagliari [A BỆU] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1779646675-0-0-a31307cb3653648e8bcee6e055150cbf",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1779651355-0-0-af994b858e78d6183ee41eb04d86144c",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "23h00 ngày 24/05 Joventut Badalona vs San Pablo Burgos [A CHÈ] (Socolive) hdM3u8",
+        "title": "01h45 ngày 25/05 AC Milan vs Cagliari [A BỆU] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1779646675-0-0-76e1b6d3094d48a03c1142a9822e5cc4",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1779651355-0-0-57be4290bcb4e852c6b7ca3cda4e97cb",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "ENG D1: Bolton Wanderers vs Stockport County [TƯ MÃ Ý] (Socolive) flv",
+        "title": "01h45 ngày 25/05 Hellas Verona vs AS Roma [CÔNG CHẤT] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-611377_lsd.flv?auth_key=1779646675-0-0-f9835098f74a28b44779286cbcbbe6f4",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1779651355-0-0-626334d1aadac7679a447ac70fbef29c",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "ENG D1: Bolton Wanderers vs Stockport County [TƯ MÃ Ý] (Socolive) hdFlv",
+        "title": "01h45 ngày 25/05 Hellas Verona vs AS Roma [CÔNG CHẤT] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-611377_lhd.flv?auth_key=1779646675-0-0-b81857153772e922563e7675672412b5",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1779651355-0-0-85b486a068fcae7ee8353967c2763c50",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "ENG D1: Bolton Wanderers vs Stockport County [TƯ MÃ Ý] (Socolive) m3u8",
+        "title": "01h45 ngày 25/05 Hellas Verona vs AS Roma [CÔNG CHẤT] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-611377_lsd.m3u8?auth_key=1779646675-0-0-1728e1065fee3a29b744f88428eeb660",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1779651355-0-0-6008696b98ffffede14786f0c0932753",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "ENG D1: Bolton Wanderers vs Stockport County [TƯ MÃ Ý] (Socolive) hdM3u8",
+        "title": "01h45 ngày 25/05 Hellas Verona vs AS Roma [CÔNG CHẤT] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1779646675-0-0-429c45a5e46267da9e7dd73db3f56d36",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1779651355-0-0-d690f48e6d9da0ab70cd8917a030a7a3",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Hellas Verona vs AS Roma [LOKA] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1779651355-0-0-d1d2a88d6dc2770796559b7eaaa827fd",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Hellas Verona vs AS Roma [LOKA] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1779651355-0-0-847a098933b5036e1317ad8ce2860132",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Hellas Verona vs AS Roma [LOKA] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1779651355-0-0-5f7bed10b09c5c790916e615ba8daff0",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Hellas Verona vs AS Roma [LOKA] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1779651355-0-0-fb9d20f1ab38d452fa1c696de638d771",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 AC Milan vs Cagliari [LÃO LÂM] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1779651355-0-0-909fcf1667728c612bb1e423ed7819dc",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 AC Milan vs Cagliari [LÃO LÂM] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1779651355-0-0-3b0394036fef7e2c95a479a57ad5791e",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 AC Milan vs Cagliari [LÃO LÂM] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1779651355-0-0-a652692f323eb81d789a7973154e4832",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 AC Milan vs Cagliari [LÃO LÂM] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1779651355-0-0-0a872f7958ef1d282f438378fe914136",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 AC Milan vs Cagliari [BLV MIXI] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1779651355-0-0-f7eaed12a07ba4d3c0663a8322afaa94",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 AC Milan vs Cagliari [BLV MIXI] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1779651355-0-0-382d8479d6730948aad0c070d689fbd6",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 AC Milan vs Cagliari [BLV MIXI] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1779651355-0-0-5fabb724c4d582df81996979cbc06db2",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 AC Milan vs Cagliari [BLV MIXI] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1779651355-0-0-f05585a792b066f7617776d8d0290dcb",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Hellas Verona vs AS Roma [BLV LONG] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-9912050_lsd.flv?txSecret=f9976c890f1772cdb5244b01ba7fe3b4&txTime=6a13996b",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Hellas Verona vs AS Roma [BLV LONG] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-9912050_lhd.flv?txSecret=8a89669c5e3a89dbb19b3ed0328f6007&txTime=6a13996b",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Hellas Verona vs AS Roma [BLV LONG] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=f9976c890f1772cdb5244b01ba7fe3b4&txTime=6a13996b",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Hellas Verona vs AS Roma [BLV LONG] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=8a89669c5e3a89dbb19b3ed0328f6007&txTime=6a13996b",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 AC Milan vs Cagliari [VƯƠNG ANH] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=f1df36a1160f6ae30893b98088615e92&txTime=6a13996b",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 AC Milan vs Cagliari [VƯƠNG ANH] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=85425eee4762e2d3c391e5da0a66c529&txTime=6a13996b",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 AC Milan vs Cagliari [VƯƠNG ANH] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=f1df36a1160f6ae30893b98088615e92&txTime=6a13996b",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 AC Milan vs Cagliari [VƯƠNG ANH] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=85425eee4762e2d3c391e5da0a66c529&txTime=6a13996b",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Torino vs Juventus [BLV ROBBEN] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1779651355-0-0-3ef8744d855e68ded43ebe0d0e932f77",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Torino vs Juventus [BLV ROBBEN] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1779651355-0-0-ab059f95186c7748229c8701950b02f3",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Torino vs Juventus [BLV ROBBEN] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1779651355-0-0-26d1682ec2fb130603d1ae9127dd8564",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Torino vs Juventus [BLV ROBBEN] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1779651355-0-0-0f34412589b341fabe906b0337398bd7",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h00 ngày 25/05 Catanzaro vs Monza [BLV RYO] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1779651355-0-0-5e0133dc9a4468f11d21cf6b8bf4f9c8",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h00 ngày 25/05 Catanzaro vs Monza [BLV RYO] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1779651355-0-0-a94501c649a37fbad200f20da89b2784",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h00 ngày 25/05 Catanzaro vs Monza [BLV RYO] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1779651355-0-0-82534021fc26bc6b5a56f4430c9a5266",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h00 ngày 25/05 Catanzaro vs Monza [BLV RYO] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1779651355-0-0-295f793e787e4fc91352fa2349bae429",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
         "title": "00h30 ngày 25/05 FCSB vs FC Botosani [BLV RAMBO] (Socolive) flv",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=d93e408b565a2f3757882ec133b2c16c&txTime=6a13888b",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=102dacfdefb25f8349e21d8e18f6b524&txTime=6a13996b",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
         "title": "00h30 ngày 25/05 FCSB vs FC Botosani [BLV RAMBO] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=5dd47f6210ebe25839e1c78cd71293ed&txTime=6a13888b",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=e3e6498dba8398de5fdb2434a2798760&txTime=6a13996b",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
         "title": "00h30 ngày 25/05 FCSB vs FC Botosani [BLV RAMBO] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=d93e408b565a2f3757882ec133b2c16c&txTime=6a13888b",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=102dacfdefb25f8349e21d8e18f6b524&txTime=6a13996b",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
         "title": "00h30 ngày 25/05 FCSB vs FC Botosani [BLV RAMBO] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=5dd47f6210ebe25839e1c78cd71293ed&txTime=6a13888b",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=e3e6498dba8398de5fdb2434a2798760&txTime=6a13996b",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Lecce vs Genoa [TƯ MÃ Ý] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-611377_lsd.flv?auth_key=1779651355-0-0-a23412ec46e6e796d8e2395066160a2b",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Lecce vs Genoa [TƯ MÃ Ý] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-611377_lhd.flv?auth_key=1779651355-0-0-3d1f8dfccb1a4d5642cdaf2b1c41d4b0",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Lecce vs Genoa [TƯ MÃ Ý] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-611377_lsd.m3u8?auth_key=1779651355-0-0-59da488759c6fe4bd67ecb2d5335f5be",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Lecce vs Genoa [TƯ MÃ Ý] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1779651355-0-0-65a7e2aa01b5a2a7f62d5501cd8cee8d",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Torino vs Juventus [BLV GÔN] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=2867b91de80409d411d6caebc858ea92&txTime=6a13996b",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Torino vs Juventus [BLV GÔN] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=b0bce7b359440692e193148d4edb038d&txTime=6a13996b",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Torino vs Juventus [BLV GÔN] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=2867b91de80409d411d6caebc858ea92&txTime=6a13996b",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Torino vs Juventus [BLV GÔN] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=b0bce7b359440692e193148d4edb038d&txTime=6a13996b",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Torino vs Juventus [QUỐC KHÁNH] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-602153_lsd.flv?txSecret=941000123920d020025b4031d11fac87&txTime=6a13996b",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Torino vs Juventus [QUỐC KHÁNH] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-602153_lhd.flv?txSecret=96910d40f89af4c7d51447097113ac17&txTime=6a13996b",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Torino vs Juventus [QUỐC KHÁNH] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=941000123920d020025b4031d11fac87&txTime=6a13996b",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Torino vs Juventus [QUỐC KHÁNH] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=96910d40f89af4c7d51447097113ac17&txTime=6a13996b",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Cremonese vs Como [BLV WUKONG] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1779651355-0-0-5ec252b9a333a2fa09710ceea4d1f080",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Cremonese vs Como [BLV WUKONG] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1779651355-0-0-418912e000fbaf1874a7b602c8e79c0d",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Cremonese vs Como [BLV WUKONG] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1779651355-0-0-14f1ffc258e94f62151276438cdb23e7",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Cremonese vs Como [BLV WUKONG] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1779651355-0-0-3c6c5c3c50db78ca3f0b7fa22db64ebe",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 25/05 Villarreal CF vs Atletico Madrid [BLV VIP] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=017c19faddf19c0aebe8621afc0b435f&txTime=6a13996b",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 25/05 Villarreal CF vs Atletico Madrid [BLV VIP] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=cf77d04f6a6c85a9a9c2c264cb26f5a9&txTime=6a13996b",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 25/05 Villarreal CF vs Atletico Madrid [BLV VIP] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=017c19faddf19c0aebe8621afc0b435f&txTime=6a13996b",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 25/05 Villarreal CF vs Atletico Madrid [BLV VIP] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=cf77d04f6a6c85a9a9c2c264cb26f5a9&txTime=6a13996b",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 25/05 Villarreal CF vs Atletico Madrid [BLV THÓC] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-606448_lsd.flv?auth_key=1779651355-0-0-d584e2ebe2180508b4054a2394aefa15",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 25/05 Villarreal CF vs Atletico Madrid [BLV THÓC] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-606448_lhd.flv?auth_key=1779651355-0-0-f9ecede12d8e62717b91c10367ad6903",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 25/05 Villarreal CF vs Atletico Madrid [BLV THÓC] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1779651355-0-0-bcc927c9b2815153986023510c792f83",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 25/05 Villarreal CF vs Atletico Madrid [BLV THÓC] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779651355-0-0-0bfc4c894a26cbd24119a203ea6456b8",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Torino vs Juventus [BLV HÚP] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-611382_lsd.flv?auth_key=1779651355-0-0-d7c7104644e548daec6c043a2353ad0e",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Torino vs Juventus [BLV HÚP] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-611382_lhd.flv?auth_key=1779651355-0-0-9da7de277a3db0cf8d9851263747fa24",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Torino vs Juventus [BLV HÚP] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1779651355-0-0-aecf0d48bc515afabc313e85724c907a",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Torino vs Juventus [BLV HÚP] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1779651355-0-0-4d52c49f41c5a9618b8ccff84a524e6e",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1779647035-0-0-45888820454c9f84e4ea4996d157c179",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1779651355-0-0-03d72813126033ae5b3e634b9f490184",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1779647035-0-0-964b0de11a18aa6cf21c2b29181d69c3",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1779651355-0-0-fee9e7668dde27942da3e606690b8759",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1779647035-0-0-b6ff3c42108a256e14bd23be338124e7",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1779651355-0-0-1382218f52dc5709f820bd1830e4657f",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1779647035-0-0-719cf341e25edaa78bad5c6fe00a9ad8",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1779651355-0-0-1152c67e62525bec826b348239e3518f",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "22h00 ngày 24/05 Crystal Palace vs Arsenal [BLV XO] (Socolive) flv",
+        "title": "01h45 ngày 25/05 Hellas Verona vs AS Roma [BLV FIREMAN] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1779647395-0-0-deeb1e44a95ffe07ab970aa4985bea21",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1779651715-0-0-f78032e7a1ab717fb55ea2f4a6133c29",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "22h00 ngày 24/05 Crystal Palace vs Arsenal [BLV XO] (Socolive) hdFlv",
+        "title": "01h45 ngày 25/05 Hellas Verona vs AS Roma [BLV FIREMAN] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1779647395-0-0-6d5fb1c2ba06c1224ba8d6c31060540d",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1779651715-0-0-65308b9451ce62bffcffc50317742edc",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "22h00 ngày 24/05 Crystal Palace vs Arsenal [BLV XO] (Socolive) m3u8",
+        "title": "01h45 ngày 25/05 Hellas Verona vs AS Roma [BLV FIREMAN] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1779647395-0-0-c24473c8fe377e434e1e8edc3d29b084",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1779651715-0-0-06ea600ff8d505f39a25c1b7cd923bcd",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "22h00 ngày 24/05 Crystal Palace vs Arsenal [BLV XO] (Socolive) hdM3u8",
+        "title": "01h45 ngày 25/05 Hellas Verona vs AS Roma [BLV FIREMAN] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1779647395-0-0-83bdafba29de7f1715d2a1d7077ac034",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1779651715-0-0-d82bc50fd855f76c7e79839444ffc7c3",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "22h00 ngày 24/05 Crystal Palace vs Arsenal [BLV PEWPEW] (Socolive) flv",
+        "title": "01h45 ngày 25/05 AC Milan vs Cagliari [BLV PEWPEW] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1779647395-0-0-e4a26b60dea38c5d5161083577018dd9",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1779651715-0-0-1a62d1e50a29ebd006cfa038307493c5",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "22h00 ngày 24/05 Crystal Palace vs Arsenal [BLV PEWPEW] (Socolive) hdFlv",
+        "title": "01h45 ngày 25/05 AC Milan vs Cagliari [BLV PEWPEW] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1779647395-0-0-2c965a08016e77d2d47d1b6a6c293655",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1779651715-0-0-96242807b2093862cc70ebe359818fa9",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "22h00 ngày 24/05 Crystal Palace vs Arsenal [BLV PEWPEW] (Socolive) m3u8",
+        "title": "01h45 ngày 25/05 AC Milan vs Cagliari [BLV PEWPEW] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1779647395-0-0-6fdd5fc029bb14836bd7cc9fb941da18",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1779651715-0-0-ae8e084a45d6630d68e269d8a8133862",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "22h00 ngày 24/05 Crystal Palace vs Arsenal [BLV PEWPEW] (Socolive) hdM3u8",
+        "title": "01h45 ngày 25/05 AC Milan vs Cagliari [BLV PEWPEW] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1779647395-0-0-a87a94546cd7d06878a25f960e660adf",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1779651715-0-0-72dcb45c3e2e2c121aa6d1f4846258c2",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "22h00 ngày 24/05 Crystal Palace vs Arsenal [CÔNG CHẤT] (Socolive) flv",
+        "title": "01h45 ngày 25/05 Torino vs Juventus [BLV VITAMIN] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1779647395-0-0-14e1102568cd38d5ec4b1f525dfcf253",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1779651715-0-0-66ab0a292fe4e9a5dcd72e7551dbe5f5",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "22h00 ngày 24/05 Crystal Palace vs Arsenal [CÔNG CHẤT] (Socolive) hdFlv",
+        "title": "01h45 ngày 25/05 Torino vs Juventus [BLV VITAMIN] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1779647395-0-0-df4b13abcc86c17e636d68b77ccd6fca",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1779651715-0-0-e690de32c93cf0c2402c4dd1724c9035",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "22h00 ngày 24/05 Crystal Palace vs Arsenal [CÔNG CHẤT] (Socolive) m3u8",
+        "title": "01h45 ngày 25/05 Torino vs Juventus [BLV VITAMIN] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1779647395-0-0-b1edac3bd852540a0c792b4b5bede825",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1779651715-0-0-169dfaceb3e565b3a79c7408dd4bc5e7",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "22h00 ngày 24/05 Crystal Palace vs Arsenal [CÔNG CHẤT] (Socolive) hdM3u8",
+        "title": "01h45 ngày 25/05 Torino vs Juventus [BLV VITAMIN] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1779647395-0-0-9a50c272212c00051cc9e67fa981f803",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1779651715-0-0-c273473defc3eecb05448aee2dad9582",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "22h00 24/05 Crystal Palace vs Arsenal (Hội Quán) FHD",
+        "title": "01h45 ngày 25/05 Cremonese vs Como [HẢI THANH] (Socolive) flv",
         "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1779651715-0-0-cb0ef9b9c6009cf1c9fd2912f81facad",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "22h00 24/05 Crystal Palace vs Arsenal (Hội Quán) SD",
+        "title": "01h45 ngày 25/05 Cremonese vs Como [HẢI THANH] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8",
-        "time": "2026-05-24 17:38:45"
+        "url": "https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1779651715-0-0-2fad2293d56545e5c350d883858ed6f7",
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "22h00 24/05 Manchester City vs Aston Villa (Hội Quán) FHD",
+        "title": "01h45 ngày 25/05 Cremonese vs Como [HẢI THANH] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1779651715-0-0-260519db7285d8661e377cc82471d531",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Cremonese vs Como [HẢI THANH] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1779651715-0-0-40ad731d14f5a67d7a02c904fed7ca7a",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Torino vs Juventus [NGƯỜI CÁ] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1779651715-0-0-03dcbbe120c40d66001fe97c3fef4fba",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Torino vs Juventus [NGƯỜI CÁ] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1779651715-0-0-e720fb1734c9922e3af5968247f4223b",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Torino vs Juventus [NGƯỜI CÁ] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1779651715-0-0-9c5d1d62df5cf51fb197bd670fcaef96",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Torino vs Juventus [NGƯỜI CÁ] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1779651715-0-0-d5b4247d80389d28f3bec20414661e15",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Cremonese vs Como [BLV CÁO] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-597929_lsd.flv?auth_key=1779651715-0-0-8230f2dab63674d14641febf7f95ade0",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Cremonese vs Como [BLV CÁO] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-597929_lhd.flv?auth_key=1779651715-0-0-aead397a3ea146043d8cfe9e49ecc21e",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Cremonese vs Como [BLV CÁO] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1779651715-0-0-0d08ee3999bb63d4a0c86b3853877eeb",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Cremonese vs Como [BLV CÁO] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1779651715-0-0-c959ac52a07b5bb236dec6900006c30f",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Lecce vs Genoa [BLV A TINH] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-598119_lsd.flv?txSecret=79505cfcf151c32a936e3af8c6aec71c&txTime=6a139ad3",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Lecce vs Genoa [BLV A TINH] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=130245baceb847e6b4c69998d63994e1&txTime=6a139ad3",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Lecce vs Genoa [BLV A TINH] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=79505cfcf151c32a936e3af8c6aec71c&txTime=6a139ad3",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Lecce vs Genoa [BLV A TINH] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=130245baceb847e6b4c69998d63994e1&txTime=6a139ad3",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Cremonese vs Como [HÀ DUY KIÊN] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-607400_lsd.flv?auth_key=1779651715-0-0-9e2d27dde159a37bb4cc02d3126bcb67",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Cremonese vs Como [HÀ DUY KIÊN] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1779651715-0-0-bd8f4cf8126a4aca8a45921c81433127",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Cremonese vs Como [HÀ DUY KIÊN] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1779651715-0-0-81cb5f79ddae9cccbaa19b8897771e3f",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Cremonese vs Como [HÀ DUY KIÊN] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1779651715-0-0-946b1e96cd50cd3da14c022d610c1fbf",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Cremonese vs Como [PINKMAN] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=3dc840b18ff7dde28a83c99a2cec4ef5&txTime=6a139ad3",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Cremonese vs Como [PINKMAN] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=cc7a7171abe54fd4c1535094cfeaff84&txTime=6a139ad3",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Cremonese vs Como [PINKMAN] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=3dc840b18ff7dde28a83c99a2cec4ef5&txTime=6a139ad3",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 ngày 25/05 Cremonese vs Como [PINKMAN] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=cc7a7171abe54fd4c1535094cfeaff84&txTime=6a139ad3",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 25/05 Villarreal CF vs Atletico Madrid [BLV VOI] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1779651715-0-0-9e28205f7d8a52968beacb22b40a3850",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 25/05 Villarreal CF vs Atletico Madrid [BLV VOI] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1779651715-0-0-69b6bfa3a9132f7be896a7b70a30b1e0",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 25/05 Villarreal CF vs Atletico Madrid [BLV VOI] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1779651715-0-0-23118e12a255af76e8be5299d9a40797",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 25/05 Villarreal CF vs Atletico Madrid [BLV VOI] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1779651715-0-0-dc0c9116ca2f9763926d43e440df0ff6",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 25/05 Villarreal CF vs Atletico Madrid [TRÀ ĐÁ] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-603914_lsd.flv?auth_key=1779651715-0-0-fd8d84db47a0c35b0bcc9e9cd3428d47",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 25/05 Villarreal CF vs Atletico Madrid [TRÀ ĐÁ] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1779651715-0-0-622b97e4ebda0ea5b8ce131e2128f65e",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 25/05 Villarreal CF vs Atletico Madrid [TRÀ ĐÁ] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1779651715-0-0-78762453254871747c0808914247c20b",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 25/05 Villarreal CF vs Atletico Madrid [TRÀ ĐÁ] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1779651715-0-0-58a09746761cd1a2e39c5caec49ecef8",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 25/05 AC Milan vs Cagliari (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 25/05 AC Milan vs Cagliari (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanbap/tracks-v1a1/mono.m3u8",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 25/05 Torino vs Juventus (Hội Quán) FHD",
         "logo": "",
         "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8",
-        "time": "2026-05-24 17:38:45"
+        "time": "2026-05-24 18:45:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "22h00 24/05 Manchester City vs Aston Villa (Hội Quán) SD",
+        "title": "01h45 25/05 Torino vs Juventus (Hội Quán) SD",
         "logo": "",
         "url": "https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8",
-        "time": "2026-05-24 17:38:45"
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h15 25/05 Giovanni Mpetshi Perricard vs Novak Djokovic (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h15 25/05 Giovanni Mpetshi Perricard vs Novak Djokovic (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 25/05 Cremonese vs Como (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8",
+        "time": "2026-05-24 18:45:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h45 25/05 Cremonese vs Como (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8",
+        "time": "2026-05-24 18:45:37"
     }
 ]
