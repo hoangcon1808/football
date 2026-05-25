@@ -1,31 +1,24 @@
 [
     {
         "group": "HỘI QUÁN",
-        "title": "07:00 | San Antonio Spurs vs Oklahoma City Thunder",
-        "logo": "https://upload.wikimedia.org/wikipedia/vi/e/ec/San_Antonio_Spurs_logo.png",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8",
-        "time": "2026-05-25 07:00:00"
-    },
-    {
-        "group": "HỘI QUÁN",
-        "title": "06:00 | Inter Miami vs Philadelphia Union",
-        "logo": "https://media.api-sports.io/football/teams/9568.png",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8",
-        "time": "2026-05-25 06:00:00"
-    },
-    {
-        "group": "HỘI QUÁN",
-        "title": "08:15 | Los Angeles FC vs Seattle Sounders",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/86/Los_Angeles_Football_Club.svg",
-        "url": "https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8",
-        "time": "2026-05-25 08:15:00"
-    },
-    {
-        "group": "HỘI QUÁN",
-        "title": "08:00 | U.N.A.M. - Pumas vs Cruz Azul",
-        "logo": "https://media.api-sports.io/football/teams/2286.png",
+        "title": "14:30 | Suwon Bluewings vs Cheonan City",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7b/Suwon_Samsung_Bluewings.svg",
         "url": "https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8",
-        "time": "2026-05-25 08:00:00"
+        "time": "2026-05-25 14:30:00"
+    },
+    {
+        "group": "HỘI QUÁN",
+        "title": "22:00 | Sarpsborg 08 FF vs Molde",
+        "logo": "https://media.api-sports.io/football/teams/333.png",
+        "url": "https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8",
+        "time": "2026-05-25 22:00:00"
+    },
+    {
+        "group": "HỘI QUÁN",
+        "title": "01:30 | SC Paderborn 07 vs VfL Wolfsburg",
+        "logo": "https://dothethao.net.vn/wp-content/uploads/2020/06/sc-paderborn-logo-900px.png",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8",
+        "time": "2026-05-26 01:30:00"
     },
     {
         "group": "THIÊN ĐÌNH",
@@ -60,42 +53,21 @@
         "title": "Croatia U17 vs Belgium U17",
         "logo": "https://media.api-sports.io/football/teams/17945.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8",
-        "time": "2026-05-25 01:54:11"
+        "time": "2026-05-25 06:20:57"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "Ham-Kam vs Lillestrom",
         "logo": "https://media.api-sports.io/football/teams/2159.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8",
-        "time": "2026-05-25 01:54:11"
+        "time": "2026-05-25 06:20:57"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "Lyngby vs AC Horsens",
         "logo": "https://media.api-sports.io/football/teams/625.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8",
-        "time": "2026-05-25 01:54:11"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "01:10 | U.N.A.M.- Pumas vs Cruz Azul",
-        "logo": "https://img.colatv88xd.cc/football/team/7654a95374767f93f6bec6a3d4819f76.png!w80",
-        "url": "https://live5.msrktz.app/live/02456966.m3u8",
-        "time": "2026-05-25 01:10:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "00:00 | San Antonio Spurs vs Oklahoma City Thunder",
-        "logo": "https://img.colatv88xd.cc/basketball/team/5305d1a7b721b5bef418041eff53ba82.png!w80",
-        "url": "https://live5.msrktz.app/live/82054853.m3u8",
-        "time": "2026-05-25 00:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "01:20 | Los Angeles FC vs Seattle Sounders",
-        "logo": "https://img.colatv88xd.cc/football/team/9c5ad5227377e12b87f77790d3d88c1c.png!w80",
-        "url": "https://live5.msrktz.app/live/88508431.m3u8",
-        "time": "2026-05-25 01:20:00"
+        "time": "2026-05-25 06:20:57"
     },
     {
         "group": "CA LA TV",
@@ -124,6 +96,13 @@
         "logo": "https://img.colatv88xd.cc/football/team/3728683390847f335552d077cf0b8752.png!w80",
         "url": "https://live5.msrktz.app/live/90725470.m3u8",
         "time": "2026-05-25 09:30:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "11:00 | Kolding vs Hillerod",
+        "logo": "https://img.colatv88xd.cc/football/team/7fbd8bb9f25d755c1062a28e210186d1.png!w80",
+        "url": "https://live5.msrktz.app/live/82054853.m3u8",
+        "time": "2026-05-25 11:00:00"
     },
     {
         "group": "CA LA TV",
@@ -183,6 +162,20 @@
     },
     {
         "group": "CA LA TV",
+        "title": "22:00 | Botafogo vs Athletic MG",
+        "logo": "https://img.colatv88xd.cc/football/team/a632c7cdcfb1f9898d77898dd4ea00c8.png!w80",
+        "url": "https://live5.msrktz.app/live/88508431.m3u8",
+        "time": "2026-05-25 22:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "00:00 | Aucas vs Manta",
+        "logo": "https://img.colatv88xd.cc/football/team/7770d591cd0855fc12e5fbfe80f83221.png!w80",
+        "url": "https://live5.msrktz.app/live/02456966.m3u8",
+        "time": "2026-05-26 00:00:00"
+    },
+    {
+        "group": "CA LA TV",
         "title": "02:00 | Golden State Valkyries vs Connecticut Sun",
         "logo": "https://img.colatv88xd.cc/basketball/team/380d81d4050b81debf9a5500239e96d0.png!w80",
         "url": "https://live5.msrktz.app/live/87379114.m3u8",
@@ -197,926 +190,436 @@
     },
     {
         "group": "FPT SPORT",
-        "title": "08h10 ngày 25/05 Pumas U.N.A.M. vs CDSyC Cruz Azul (Lương Sơn) BLV KAKA m3u",
+        "title": "12h10 ngày 25/05 BOURNEMOUTH vs MAN CITY (Lương Sơn) BLV LEO REPLAY m3u",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6",
-        "time": "2026-05-25 01:54:12"
+        "url": "https://hls.cdnfaster-a.live/live/TO6A/index.m3u8?expire=1891408380&sign=df6b95775ca8cf6b58a17d54271d96e3",
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
-        "title": "08h10 ngày 25/05 Pumas U.N.A.M. vs CDSyC Cruz Azul (Lương Sơn) BLV KAKA flv",
+        "title": "12h10 ngày 25/05 BOURNEMOUTH vs MAN CITY (Lương Sơn) BLV LEO REPLAY flv",
         "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h10 ngày 25/05 Pumas U.N.A.M. vs CDSyC Cruz Azul (Lương Sơn) BLV KEVILL m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h10 ngày 25/05 Pumas U.N.A.M. vs CDSyC Cruz Azul (Lương Sơn) BLV KEVILL flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h10 ngày 25/05 Pumas U.N.A.M. vs CDSyC Cruz Azul (Lương Sơn) BLV TÔN LẬP m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h10 ngày 25/05 Pumas U.N.A.M. vs CDSyC Cruz Azul (Lương Sơn) BLV TÔN LẬP flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h00 ngày 25/05 San Antonio Spurs vs klahoma City Thunder (Lương Sơn) BLV YẾN THANH m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h00 ngày 25/05 San Antonio Spurs vs klahoma City Thunder (Lương Sơn) BLV YẾN THANH flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 25/05 CD Motagua vs Marathon (Lương Sơn) BLV MÃ SIÊU m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 25/05 CD Motagua vs Marathon (Lương Sơn) BLV MÃ SIÊU flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h20 ngày 25/05 Los Angeles FC vs Seattle Sounders (Lương Sơn) BLV SHIN m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h20 ngày 25/05 Los Angeles FC vs Seattle Sounders (Lương Sơn) BLV SHIN flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587",
-        "time": "2026-05-25 01:54:12"
+        "url": "https://flv.cdnfaster-a.live/live/TO6A.flv?expire=1891408380&sign=df6b95775ca8cf6b58a17d54271d96e3",
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
         "title": "07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8",
-        "time": "2026-05-25 01:54:12"
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 UNSW FC Women vs University of Sydney Women (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/8988f3aa5ce2f85d4c50a0bc65d9d998/playlist.m3u8",
-        "time": "2026-05-25 01:54:12"
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Newcastle Olympic FC Reserves vs Charlestown Azzurri Reserves (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/6f115b2fe383bc3710a61f46cc1b22f9/playlist.m3u8",
-        "time": "2026-05-25 01:54:12"
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
         "title": "07h10 ngày 23/05 Boston Legacy W vs Seattle Reign (W) (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8",
-        "time": "2026-05-25 01:54:12"
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Mexico vs Ghana (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h00 ngày 25/05 Los Angeles FC vs Seattle Sounders (Chuối Chiên) HD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/m3x1/playlist.m3u8",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h00 ngày 25/05 Los Angeles FC vs Seattle Sounders (Chuối Chiên) HD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/m3x1.flv",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h00 ngày 25/05 U.N.A.M. - Pumas vs Cruz Azul (Chuối Chiên) HD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/m3x2/playlist.m3u8",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h00 ngày 25/05 U.N.A.M. - Pumas vs Cruz Azul (Chuối Chiên) HD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/m3x2.flv",
-        "time": "2026-05-25 01:54:12"
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
         "title": "14h30 ngày 25/05 Suwon Bluewings vs Cheonan City (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
-        "time": "2026-05-25 01:54:12"
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
         "title": "14h30 ngày 25/05 Suwon Bluewings vs Cheonan City (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay.flv",
-        "time": "2026-05-25 01:54:12"
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
         "title": "14h30 ngày 25/05 Suwon Bluewings vs Cheonan City (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
-        "time": "2026-05-25 01:54:12"
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
         "title": "14h30 ngày 25/05 Suwon Bluewings vs Cheonan City (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv",
-        "time": "2026-05-25 01:54:12"
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
         "title": "16h30 ngày 25/05 South Melbourne vs Avondale (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8",
-        "time": "2026-05-25 01:54:12"
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
         "title": "16h30 ngày 25/05 South Melbourne vs Avondale (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho.flv",
-        "time": "2026-05-25 01:54:12"
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
         "title": "16h30 ngày 25/05 South Melbourne vs Avondale (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
-        "time": "2026-05-25 01:54:12"
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
         "title": "16h30 ngày 25/05 South Melbourne vs Avondale (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv",
-        "time": "2026-05-25 01:54:12"
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
         "title": "18h00 ngày 25/05 Bhutan W vs Nepal W (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoichay/playlist.m3u8",
-        "time": "2026-05-25 01:54:12"
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
         "title": "18h00 ngày 25/05 Bhutan W vs Nepal W (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoichay.flv",
-        "time": "2026-05-25 01:54:12"
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
         "title": "18h00 ngày 25/05 Bhutan W vs Nepal W (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoichayhd/playlist.m3u8",
-        "time": "2026-05-25 01:54:12"
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
         "title": "18h00 ngày 25/05 Bhutan W vs Nepal W (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoichayhd.flv",
-        "time": "2026-05-25 01:54:12"
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
         "title": "20h00 ngày 25/05 Hvidovre vs Esbjerg (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8",
-        "time": "2026-05-25 01:54:12"
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
         "title": "20h00 ngày 25/05 Hvidovre vs Esbjerg (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/max.flv",
-        "time": "2026-05-25 01:54:12"
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
         "title": "20h00 ngày 25/05 Hvidovre vs Esbjerg (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8",
-        "time": "2026-05-25 01:54:12"
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
         "title": "20h00 ngày 25/05 Hvidovre vs Esbjerg (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/maxhd.flv",
-        "time": "2026-05-25 01:54:12"
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
         "title": "23h00 ngày 25/05 Budaiya vs Al Najma (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8",
-        "time": "2026-05-25 01:54:12"
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
         "title": "23h00 ngày 25/05 Budaiya vs Al Najma (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv",
-        "time": "2026-05-25 01:54:12"
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
         "title": "23h00 ngày 25/05 Budaiya vs Al Najma (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8",
-        "time": "2026-05-25 01:54:12"
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
         "title": "23h00 ngày 25/05 Budaiya vs Al Najma (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv",
-        "time": "2026-05-25 01:54:12"
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
         "title": "00h00 ngày 26/05 Estonia U17 vs Spain U17 (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8",
-        "time": "2026-05-25 01:54:12"
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
         "title": "00h00 ngày 26/05 Estonia U17 vs Spain U17 (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoibo.flv",
-        "time": "2026-05-25 01:54:12"
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
         "title": "00h00 ngày 26/05 Estonia U17 vs Spain U17 (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8",
-        "time": "2026-05-25 01:54:12"
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
         "title": "00h00 ngày 26/05 Estonia U17 vs Spain U17 (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv",
-        "time": "2026-05-25 01:54:12"
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC (Gà Vàng) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/821d54abadb12c6c15edba538ab20ad1/playlist.m3u8",
-        "time": "2026-05-25 01:54:12"
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
         "title": "07h00 ngày 23/05 Sporting Kansas CityReserves vs Austin FC II (Gà Vàng) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8",
-        "time": "2026-05-25 01:54:12"
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8",
-        "time": "2026-05-25 01:54:12"
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
-        "title": "08h00 ngày 25/05 Pumas U.N.A.M. vs Cruz Azul [BLV TAP] (Socolive) flv",
+        "title": "Tường thuật: ENG PR - Brighton Hove Albion vs Manchester United [Sóc nhàm nhang nhồ] (Socolive) flv",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=565a9ebd091a531b3c96330c9ba656f7&txTime=6a13fbdb",
-        "time": "2026-05-25 01:54:12"
+        "url": "https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1779693115-0-0-f6cd5c90e96965a2433372d44ab84902",
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
-        "title": "08h00 ngày 25/05 Pumas U.N.A.M. vs Cruz Azul [BLV TAP] (Socolive) hdFlv",
+        "title": "Tường thuật: ENG PR - Brighton Hove Albion vs Manchester United [Sóc nhàm nhang nhồ] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=19f3d172c6365cee2ba16761c8ab55c4&txTime=6a13fbdb",
-        "time": "2026-05-25 01:54:12"
+        "url": "https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1779693115-0-0-2355cd2c39a6d226f1adbd7ba6aa3496",
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
-        "title": "08h00 ngày 25/05 Pumas U.N.A.M. vs Cruz Azul [BLV TAP] (Socolive) m3u8",
+        "title": "Tường thuật: ENG PR - Brighton Hove Albion vs Manchester United [Sóc nhàm nhang nhồ] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=565a9ebd091a531b3c96330c9ba656f7&txTime=6a13fbdb",
-        "time": "2026-05-25 01:54:12"
+        "url": "https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1779693115-0-0-bc87fe763057ba488d759a4383458dd6",
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
-        "title": "08h00 ngày 25/05 Pumas U.N.A.M. vs Cruz Azul [BLV TAP] (Socolive) hdM3u8",
+        "title": "Tường thuật: ENG PR - Brighton Hove Albion vs Manchester United [Sóc nhàm nhang nhồ] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=19f3d172c6365cee2ba16761c8ab55c4&txTime=6a13fbdb",
-        "time": "2026-05-25 01:54:12"
+        "url": "https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1779693115-0-0-a6a175f42fe61564a30e8381b389652e",
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
-        "title": "08h00 ngày 25/05 Pumas U.N.A.M. vs Cruz Azul [BLV COCA] (Socolive) flv",
+        "title": "Tường thuật: ENG PR - Manchester City vs Aston Villa [Sóc trong rừng xà nu] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1779676555-0-0-5565ab663a82a01e91531019fab29798",
-        "time": "2026-05-25 01:54:12"
+        "url": "https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1779693115-0-0-803e35653a816b70aa35e75620735eb0",
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
-        "title": "08h00 ngày 25/05 Pumas U.N.A.M. vs Cruz Azul [BLV COCA] (Socolive) hdFlv",
+        "title": "Tường thuật: ENG PR - Manchester City vs Aston Villa [Sóc trong rừng xà nu] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1779676555-0-0-0f189cc3d471b3a0fe32141914345b19",
-        "time": "2026-05-25 01:54:12"
+        "url": "https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1779693115-0-0-b4041b33916b8a1e76d44f31a9b2ed75",
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
-        "title": "08h00 ngày 25/05 Pumas U.N.A.M. vs Cruz Azul [BLV COCA] (Socolive) m3u8",
+        "title": "Tường thuật: ENG PR - Manchester City vs Aston Villa [Sóc trong rừng xà nu] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1779676555-0-0-03d47ac92838b0b6413965d8565d8eaa",
-        "time": "2026-05-25 01:54:12"
+        "url": "https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1779693115-0-0-ac5816b5c87406f364eac966070fde9d",
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
-        "title": "08h00 ngày 25/05 Pumas U.N.A.M. vs Cruz Azul [BLV COCA] (Socolive) hdM3u8",
+        "title": "Tường thuật: ENG PR - Manchester City vs Aston Villa [Sóc trong rừng xà nu] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1779676555-0-0-c07c661c3c4e7c4519440d6e94f8569e",
-        "time": "2026-05-25 01:54:12"
+        "url": "https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1779693115-0-0-ce538a41153649c3caa6ac8a2eeec311",
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
-        "title": "07h00 ngày 25/05 San Antonio Spurs vs Oklahoma City Thunder [A CHÈ] (Socolive) flv",
+        "title": "Tường thuật: ENG PR - Sunderland vs Chelsea [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1779676555-0-0-e2abaa8f851c65e48fd43efadcc40d9f",
-        "time": "2026-05-25 01:54:12"
+        "url": "https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1779693115-0-0-945a605745456a3e9c750034339b10db",
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
-        "title": "07h00 ngày 25/05 San Antonio Spurs vs Oklahoma City Thunder [A CHÈ] (Socolive) hdFlv",
+        "title": "Tường thuật: ENG PR - Sunderland vs Chelsea [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1779676555-0-0-7c9b5983d66e3a8133cfbe404096c61b",
-        "time": "2026-05-25 01:54:12"
+        "url": "https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1779693115-0-0-328923f8506162d1d2b20a15c9d8667f",
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
-        "title": "07h00 ngày 25/05 San Antonio Spurs vs Oklahoma City Thunder [A CHÈ] (Socolive) m3u8",
+        "title": "Tường thuật: ENG PR - Sunderland vs Chelsea [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1779676555-0-0-e738ee8d44bb58c85eba9c1f0f117296",
-        "time": "2026-05-25 01:54:12"
+        "url": "https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1779693115-0-0-79fb5f4db24d3f5ef86f67b91e4f8b05",
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
-        "title": "07h00 ngày 25/05 San Antonio Spurs vs Oklahoma City Thunder [A CHÈ] (Socolive) hdM3u8",
+        "title": "Tường thuật: ENG PR - Sunderland vs Chelsea [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1779676555-0-0-0c79e856610b8f02761827bfe10e057f",
-        "time": "2026-05-25 01:54:12"
+        "url": "https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1779693115-0-0-23dc8720f4c50db5a48b0e1251d0f672",
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
-        "title": "08h00 ngày 25/05 Pumas U.N.A.M. vs Cruz Azul [BLV RÔSI] (Socolive) flv",
+        "title": "Tường thuật: ITA D1 - AC Milan vs Cagliari [Sóc mèo méo meo] (Socolive) flv",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=7bd48a708879f4c1a8da9debbbf55467&txTime=6a13fd43",
-        "time": "2026-05-25 01:54:12"
+        "url": "https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1779693115-0-0-1e7afc1e637bfc552b89e408cd0c2563",
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
-        "title": "08h00 ngày 25/05 Pumas U.N.A.M. vs Cruz Azul [BLV RÔSI] (Socolive) hdFlv",
+        "title": "Tường thuật: ITA D1 - AC Milan vs Cagliari [Sóc mèo méo meo] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=c701e6b8abf5fd6940ce21f9c5b62602&txTime=6a13fd43",
-        "time": "2026-05-25 01:54:12"
+        "url": "https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1779693115-0-0-14d329dfc343b108d52ecab0506f96fd",
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
-        "title": "08h00 ngày 25/05 Pumas U.N.A.M. vs Cruz Azul [BLV RÔSI] (Socolive) m3u8",
+        "title": "Tường thuật: ITA D1 - AC Milan vs Cagliari [Sóc mèo méo meo] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=7bd48a708879f4c1a8da9debbbf55467&txTime=6a13fd43",
-        "time": "2026-05-25 01:54:12"
+        "url": "https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1779693115-0-0-5774aed67285666f5f89c8805133cfa3",
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
-        "title": "08h00 ngày 25/05 Pumas U.N.A.M. vs Cruz Azul [BLV RÔSI] (Socolive) hdM3u8",
+        "title": "Tường thuật: ITA D1 - AC Milan vs Cagliari [Sóc mèo méo meo] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=c701e6b8abf5fd6940ce21f9c5b62602&txTime=6a13fd43",
-        "time": "2026-05-25 01:54:12"
+        "url": "https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1779693115-0-0-a2c2e3b7b8f503ea15899e8c6f6ccaa5",
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
-        "title": "08h00 ngày 25/05 Pumas U.N.A.M. vs Cruz Azul [BLV MESSI] (Socolive) flv",
+        "title": "Tường thuật: ENG PR - Crystal Palace vs Arsenal [Sóc trèo cây ngô đồng] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1779676915-0-0-fd261584923a554b30febf9e878d5e77",
-        "time": "2026-05-25 01:54:12"
+        "url": "https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1779693115-0-0-a0fcafab4a03e801b2ee13e8f499710a",
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
-        "title": "08h00 ngày 25/05 Pumas U.N.A.M. vs Cruz Azul [BLV MESSI] (Socolive) hdFlv",
+        "title": "Tường thuật: ENG PR - Crystal Palace vs Arsenal [Sóc trèo cây ngô đồng] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1779676915-0-0-53ee536940fa261ac7d1afba9b91b0b3",
-        "time": "2026-05-25 01:54:12"
+        "url": "https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1779693115-0-0-eca6e9d212e6bb0bbc075b91929d32c2",
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
-        "title": "08h00 ngày 25/05 Pumas U.N.A.M. vs Cruz Azul [BLV MESSI] (Socolive) m3u8",
+        "title": "Tường thuật: ENG PR - Crystal Palace vs Arsenal [Sóc trèo cây ngô đồng] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1779676915-0-0-96816b7ae1c139fa2b6658e9f2d030b0",
-        "time": "2026-05-25 01:54:12"
+        "url": "https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1779693115-0-0-618d45c4b96e74113698e99099c53276",
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
-        "title": "08h00 ngày 25/05 Pumas U.N.A.M. vs Cruz Azul [BLV MESSI] (Socolive) hdM3u8",
+        "title": "Tường thuật: ENG PR - Crystal Palace vs Arsenal [Sóc trèo cây ngô đồng] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1779676915-0-0-f0dae41ef01097debd68f678ecdd1812",
-        "time": "2026-05-25 01:54:12"
+        "url": "https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1779693115-0-0-dcf5c2f8b9b02383980b9938a66bb7ff",
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
-        "title": "08h00 ngày 25/05 Pumas U.N.A.M. vs Cruz Azul [TẠ BIÊN GIỚI] (Socolive) flv",
+        "title": "Tường thuật: ENG PR - Liverpool vs Brentford [Sóc đau cổ vai gáy] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1779676915-0-0-0fbaeecb51402fa88255a635128df34c",
-        "time": "2026-05-25 01:54:12"
+        "url": "https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1779693115-0-0-3f31c14627b89019f2fc05e3874e8688",
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
-        "title": "08h00 ngày 25/05 Pumas U.N.A.M. vs Cruz Azul [TẠ BIÊN GIỚI] (Socolive) hdFlv",
+        "title": "Tường thuật: ENG PR - Liverpool vs Brentford [Sóc đau cổ vai gáy] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1779676915-0-0-7b040442e25e6cb8b0e002006fac9509",
-        "time": "2026-05-25 01:54:12"
+        "url": "https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1779693115-0-0-bd368c89f1a54bab34fd509e6da37161",
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
-        "title": "08h00 ngày 25/05 Pumas U.N.A.M. vs Cruz Azul [TẠ BIÊN GIỚI] (Socolive) m3u8",
+        "title": "Tường thuật: ENG PR - Liverpool vs Brentford [Sóc đau cổ vai gáy] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1779676915-0-0-8419252f0afe1d2cbfbe2055156ca891",
-        "time": "2026-05-25 01:54:12"
+        "url": "https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1779693115-0-0-5186ef6a8df56dc2ae7743385b2b9b9c",
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
-        "title": "08h00 ngày 25/05 Pumas U.N.A.M. vs Cruz Azul [TẠ BIÊN GIỚI] (Socolive) hdM3u8",
+        "title": "Tường thuật: ENG PR - Liverpool vs Brentford [Sóc đau cổ vai gáy] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1779676915-0-0-4d61ccf608464b9c575ed6e256981752",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h15 ngày 25/05 Los Angeles FC vs Seattle Sounders [RICKHANTER] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=0384de4808c2b369d6d56c1717d04237&txTime=6a13fd43",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h15 ngày 25/05 Los Angeles FC vs Seattle Sounders [RICKHANTER] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=37784b7a47dfcf708d9fc5ec63177944&txTime=6a13fd43",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h15 ngày 25/05 Los Angeles FC vs Seattle Sounders [RICKHANTER] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=0384de4808c2b369d6d56c1717d04237&txTime=6a13fd43",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h15 ngày 25/05 Los Angeles FC vs Seattle Sounders [RICKHANTER] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=37784b7a47dfcf708d9fc5ec63177944&txTime=6a13fd43",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h15 ngày 25/05 Los Angeles FC vs Seattle Sounders [SAO LA] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=216ac8c1b82572aedbfdca690cae14bf&txTime=6a13fd43",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h15 ngày 25/05 Los Angeles FC vs Seattle Sounders [SAO LA] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=ca4ad723730cd4c48dbebdc73ec3b83e&txTime=6a13fd43",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h15 ngày 25/05 Los Angeles FC vs Seattle Sounders [SAO LA] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=216ac8c1b82572aedbfdca690cae14bf&txTime=6a13fd43",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h15 ngày 25/05 Los Angeles FC vs Seattle Sounders [SAO LA] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=ca4ad723730cd4c48dbebdc73ec3b83e&txTime=6a13fd43",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h15 ngày 25/05 Los Angeles FC vs Seattle Sounders [BLV 7UP] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1779676915-0-0-b39ad97b222640094e88eff4a9ccbfd9",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h15 ngày 25/05 Los Angeles FC vs Seattle Sounders [BLV 7UP] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1779676915-0-0-fbb7facd3fa460c8de4c0110b5de5f40",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h15 ngày 25/05 Los Angeles FC vs Seattle Sounders [BLV 7UP] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1779676915-0-0-363d6a1425adbb75eceedbe5b3907093",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h15 ngày 25/05 Los Angeles FC vs Seattle Sounders [BLV 7UP] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1779676915-0-0-9c2c15879bc95e14caba7ced24844fa8",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h00 ngày 25/05 San Antonio Spurs vs Oklahoma City Thunder [KING] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1779676915-0-0-e4962ad8cdb8b41cc6a1af0daff7813b",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h00 ngày 25/05 San Antonio Spurs vs Oklahoma City Thunder [KING] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1779676915-0-0-d274dcdbb51ee8c08fbfd184ff12f815",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h00 ngày 25/05 San Antonio Spurs vs Oklahoma City Thunder [KING] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1779676915-0-0-ceebdae7c9914e7b60ce132627f6db39",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h00 ngày 25/05 San Antonio Spurs vs Oklahoma City Thunder [KING] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1779676915-0-0-b2a82d7ccd6af4580e37e87b9fe5c346",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h00 ngày 25/05 San Antonio Spurs vs Oklahoma City Thunder [HUNTER] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1779676915-0-0-3ba18fff3db0d54ef5c21ed3fda00d5b",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h00 ngày 25/05 San Antonio Spurs vs Oklahoma City Thunder [HUNTER] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1779676915-0-0-bab89a2a5c9387e2339af6949bc63f58",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h00 ngày 25/05 San Antonio Spurs vs Oklahoma City Thunder [HUNTER] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1779676915-0-0-e3631d3b729817b1bcf6385dde7d2f67",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h00 ngày 25/05 San Antonio Spurs vs Oklahoma City Thunder [HUNTER] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1779676915-0-0-d0c003ceaadcd4ff61c47f715faaa7f9",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h00 ngày 25/05 San Antonio Spurs vs Oklahoma City Thunder [CHAN SENA] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1779676915-0-0-7f23136a38ac80facce683d08edac1bc",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h00 ngày 25/05 San Antonio Spurs vs Oklahoma City Thunder [CHAN SENA] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1779676915-0-0-cb84e186757abf870d8503c53988de38",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h00 ngày 25/05 San Antonio Spurs vs Oklahoma City Thunder [CHAN SENA] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1779676915-0-0-3439fa7aa54615f668dae71455b754b6",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h00 ngày 25/05 San Antonio Spurs vs Oklahoma City Thunder [CHAN SENA] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1779676915-0-0-0bce80ecc9590eb1d110995b444dcfbe",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h15 ngày 25/05 Los Angeles FC vs Seattle Sounders [BLV BÉO] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=228dc6f4966a2aaef34888868cda9a49&txTime=6a13feab",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h15 ngày 25/05 Los Angeles FC vs Seattle Sounders [BLV BÉO] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=1e8306526a78a6960b13371154f0a6fd&txTime=6a13feab",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h15 ngày 25/05 Los Angeles FC vs Seattle Sounders [BLV BÉO] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=228dc6f4966a2aaef34888868cda9a49&txTime=6a13feab",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h15 ngày 25/05 Los Angeles FC vs Seattle Sounders [BLV BÉO] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=1e8306526a78a6960b13371154f0a6fd&txTime=6a13feab",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h00 ngày 25/05 Pumas U.N.A.M. vs Cruz Azul [TYPN] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912009_lsd.flv?txSecret=b48b6db044a57e0256d356b44dae5b4a&txTime=6a13feab",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h00 ngày 25/05 Pumas U.N.A.M. vs Cruz Azul [TYPN] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912009_lhd.flv?txSecret=58584b777c4d307e128ed8701a53f098&txTime=6a13feab",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h00 ngày 25/05 Pumas U.N.A.M. vs Cruz Azul [TYPN] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912009_lsd.m3u8?txSecret=b48b6db044a57e0256d356b44dae5b4a&txTime=6a13feab",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h00 ngày 25/05 Pumas U.N.A.M. vs Cruz Azul [TYPN] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=58584b777c4d307e128ed8701a53f098&txTime=6a13feab",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h15 ngày 25/05 Los Angeles FC vs Seattle Sounders [BLV TOMMY] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1779677275-0-0-c9f22871f9a7dfee3d7ce996147d1ac6",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h15 ngày 25/05 Los Angeles FC vs Seattle Sounders [BLV TOMMY] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1779677275-0-0-c64e6ac27e83328146b6fc38e46b2ecf",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h15 ngày 25/05 Los Angeles FC vs Seattle Sounders [BLV TOMMY] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1779677275-0-0-1c16e0637593787a0715e55821bedfe0",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h15 ngày 25/05 Los Angeles FC vs Seattle Sounders [BLV TOMMY] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1779677275-0-0-e4b05eb56adb2fa02da1787ce870b1cc",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h15 ngày 25/05 Los Angeles FC vs Seattle Sounders [BLV PIRLO] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-351530_lsd.flv?auth_key=1779677275-0-0-0c549b39f5efce54ebe3b33aafba0c22",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h15 ngày 25/05 Los Angeles FC vs Seattle Sounders [BLV PIRLO] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-351530_lhd.flv?auth_key=1779677275-0-0-d5c2e950d5fdd89f3562e10f004e4dfc",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h15 ngày 25/05 Los Angeles FC vs Seattle Sounders [BLV PIRLO] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1779677275-0-0-73f6b9fabeef147f9fd85af108fe0d2e",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h15 ngày 25/05 Los Angeles FC vs Seattle Sounders [BLV PIRLO] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1779677275-0-0-ee07df4475047fb78c392c3c2af2f25e",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h00 ngày 25/05 San Antonio Spurs vs Oklahoma City Thunder [BRIAN] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1779677275-0-0-04ceb56f17537042bca9adeca0c6321c",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h00 ngày 25/05 San Antonio Spurs vs Oklahoma City Thunder [BRIAN] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1779677275-0-0-38cd467540816271147c48af904a4fc7",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h00 ngày 25/05 San Antonio Spurs vs Oklahoma City Thunder [BRIAN] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1779677275-0-0-3267acc367be9a365ba138683b215a8a",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h00 ngày 25/05 San Antonio Spurs vs Oklahoma City Thunder [BRIAN] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1779677275-0-0-47375b8d87a9e8b55213ceec3c983519",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h00 ngày 25/05 San Antonio Spurs vs Oklahoma City Thunder [BLV HENRY] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1779677275-0-0-b55bda53f69dad01ad7841a6965e1aef",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h00 ngày 25/05 San Antonio Spurs vs Oklahoma City Thunder [BLV HENRY] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1779677275-0-0-2e50da60832ea58ac02d759f11dd50b1",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h00 ngày 25/05 San Antonio Spurs vs Oklahoma City Thunder [BLV HENRY] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1779677275-0-0-10e001fe328ad55514fae8155c33358e",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h00 ngày 25/05 San Antonio Spurs vs Oklahoma City Thunder [BLV HENRY] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1779677275-0-0-64d9aac8d435841f68788d3292976a6f",
-        "time": "2026-05-25 01:54:12"
+        "url": "https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1779693115-0-0-1b895b2ea8989818a10991a2a96240a7",
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1779677275-0-0-45c08523a3c4a2b45ea59321d9920b58",
-        "time": "2026-05-25 01:54:12"
+        "url": "https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1779693475-0-0-c5428f59c2578fbd1e8f029c06988b06",
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1779677275-0-0-1696e87a8a59061d1806dad8ea029c5c",
-        "time": "2026-05-25 01:54:12"
+        "url": "https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1779693475-0-0-148a60770419165da82625616fabaa7f",
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1779677275-0-0-4e9e8ef8514f36e6d9a1e28a72684b65",
-        "time": "2026-05-25 01:54:12"
+        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1779693475-0-0-b794708f807ad5418e68a4b175747c77",
+        "time": "2026-05-25 06:20:58"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1779677275-0-0-ba59542a4444aab7384bd213fefea929",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h00 25/05 San Antonio Spurs vs Oklahoma City Thunder (Hội Quán) FHD",
-        "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h00 25/05 San Antonio Spurs vs Oklahoma City Thunder (Hội Quán) SD",
-        "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 25/05 Inter Miami vs Philadelphia Union (Hội Quán) FHD",
-        "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 25/05 Inter Miami vs Philadelphia Union (Hội Quán) SD",
-        "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h15 25/05 Los Angeles FC vs Seattle Sounders (Hội Quán) FHD",
-        "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h15 25/05 Los Angeles FC vs Seattle Sounders (Hội Quán) SD",
-        "logo": "",
-        "url": "https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h00 25/05 U.N.A.M. - Pumas vs Cruz Azul (Hội Quán) FHD",
-        "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8",
-        "time": "2026-05-25 01:54:12"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "08h00 25/05 U.N.A.M. - Pumas vs Cruz Azul (Hội Quán) SD",
-        "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8",
-        "time": "2026-05-25 01:54:12"
+        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1779693475-0-0-d829adb6bbd5028dfdcd4fcb755ceb12",
+        "time": "2026-05-25 06:20:58"
     }
 ]
