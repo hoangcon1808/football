@@ -8,20 +8,6 @@
     },
     {
         "group": "HỘI QUÁN",
-        "title": "16:00 | Thái Nguyên Nữ vs Phong Phú Hà Nam Nữ",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjQ0dfv8HJuFpVXUyKUUOB50eJlWmZ1kDHMw&s",
-        "url": "https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8",
-        "time": "2026-05-27 16:00:00"
-    },
-    {
-        "group": "HỘI QUÁN",
-        "title": "18:00 | Altay vs FC Astana",
-        "logo": "https://media.api-sports.io/football/teams/4544.png",
-        "url": "https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8",
-        "time": "2026-05-27 18:00:00"
-    },
-    {
-        "group": "HỘI QUÁN",
         "title": "02:00 | Crystal Palace vs Rayo Vallecano",
         "logo": "https://upload.wikimedia.org/wikipedia/vi/a/a2/Crystal_Palace_FC_logo_%282022%29.svg.png",
         "url": "https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8",
@@ -29,10 +15,17 @@
     },
     {
         "group": "HỘI QUÁN",
-        "title": "17:00 | Iga Świątek vs Sára Bejlek",
-        "logo": "https://cdn.images.express.co.uk/img/dynamic/72/590x/secondary/4885381.jpg?r=1690841549720",
+        "title": "21:00 | Valentin Royer vs Novak Djokovic",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVceA9jrHXNRuDxl74r2XUF6La-AxRYeuGJA&s",
         "url": "https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8",
-        "time": "2026-05-27 17:00:00"
+        "time": "2026-05-27 21:00:00"
+    },
+    {
+        "group": "HỘI QUÁN",
+        "title": "00:00 | Barcelona W vs Real Sociedad W",
+        "logo": "https://media.api-sports.io/football/teams/1918.png",
+        "url": "https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8",
+        "time": "2026-05-28 00:00:00"
     },
     {
         "group": "HỘI QUÁN",
@@ -40,6 +33,13 @@
         "logo": "https://upload.wikimedia.org/wikipedia/vi/4/41/River_Plate_logo.png",
         "url": "https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8",
         "time": "2026-05-28 07:30:00"
+    },
+    {
+        "group": "HỘI QUÁN",
+        "title": "18:30 | Belgium U17 vs Spain U17",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "url": "https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8",
+        "time": "2026-05-28 18:30:00"
     },
     {
         "group": "HỘI QUÁN",
@@ -57,94 +57,45 @@
     },
     {
         "group": "HỘI QUÁN",
-        "title": "19:00 | UK OPEN",
+        "title": "21:00 | UK OPEN",
         "logo": "https://img.freepik.com/vector-mien-phi/mau-thiet-ke-logo-billiard_23-2150883890.jpg",
         "url": "https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8",
-        "time": "2026-05-27 19:00:00"
+        "time": "2026-05-27 21:00:00"
     },
     {
         "group": "VÒNG CẤM TV",
-        "title": "Altay vs FC Astana",
-        "logo": "https://media.api-sports.io/football/teams/4544.png",
+        "title": "Ararat-Armenia vs Gandzasar",
+        "logo": "https://media.api-sports.io/football/teams/3683.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8",
-        "time": "2026-05-27 09:37:24"
+        "time": "2026-05-27 16:28:39"
     },
     {
         "group": "VÒNG CẤM TV",
-        "title": "Buriram United vs Selangor",
-        "logo": "https://media.api-sports.io/football/teams/2780.png",
+        "title": "Crystal Palace vs Rayo Vallecano",
+        "logo": "https://media.api-sports.io/football/teams/52.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8",
-        "time": "2026-05-27 09:37:24"
+        "time": "2026-05-27 16:28:39"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "Bangladesh W vs Maldives W",
         "logo": "https://static.flashscore.com/res/image/data/vDW19LGG-0EYShBaD.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8",
-        "time": "2026-05-27 09:37:24"
+        "time": "2026-05-27 16:28:39"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "Paris Saint Germain vs Arsenal",
         "logo": "https://media.api-sports.io/football/teams/85.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_lenh/playlist.m3u8",
-        "time": "2026-05-27 09:37:24"
+        "time": "2026-05-27 16:28:39"
     },
     {
         "group": "CA LA TV",
-        "title": "08:00 | Xiamen Feilu vs Jiangxi Beidamen",
-        "logo": "https://img.colatv88xd.cc/football/team/781ec70f5330d740f23ff6ba778ae7e4.png!w80",
-        "url": "https://live05.msdht.app/live/08552895.m3u8",
-        "time": "2026-05-27 08:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "08:00 | Changchun Xidu vs Beijing Technology",
-        "logo": "https://img.colatv88xd.cc/football/team/0011800200177bdd6d5197b2bd13e8d9.png!w80",
+        "title": "15:00 | FC Ararat-Armenia vs FC Gandzasar",
+        "logo": "https://img.colatv88xd.cc/football/team/445b142144eafa15449f92563fd1b978.png!w80",
         "url": "https://live05.msdht.app/live/68848594.m3u8",
-        "time": "2026-05-27 08:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "10:00 | Seoul Nữ vs Hyundai Steel Red Angels Nữ",
-        "logo": "https://img.colatv88xd.cc/football/team/19ba34d167be9b01eb848a0a777932ac.png!w80",
-        "url": "https://live05.msdht.app/live/43612277.m3u8",
-        "time": "2026-05-27 10:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "11:00 | Altai Semey vs FC Astana",
-        "logo": "https://img.colatv88xd.cc/football/team/96717524f82fb5d1366bd0d22c485956.png!w80",
-        "url": "https://live05.msdht.app/live/33982309.m3u8",
-        "time": "2026-05-27 11:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "11:00 | Guangzhou Dandelion Alpha FC vs Ganzhou Ruishi",
-        "logo": "https://img.colatv88xd.cc/football/team/69d796093df94d0b2b4ce1a5d2551df0.png!w80",
-        "url": "https://live05.msdht.app/live/90865415.m3u8",
-        "time": "2026-05-27 11:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "11:30 | Wuhan Three Towns B vs Guangdong Mingtu",
-        "logo": "https://img.colatv88xd.cc/football/team/606d1fab6be38fe79da58c380fbcd975.png!w80",
-        "url": "https://live05.msdht.app/live/87547578.m3u8",
-        "time": "2026-05-27 11:30:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "11:30 | Nantong Haimen vs Shanghai Second",
-        "logo": "https://img.colatv88xd.cc/football/team/4dfc08afd10a8aa30aa5655918faf2c7.png!w80",
-        "url": "https://live05.msdht.app/live/88508431.m3u8",
-        "time": "2026-05-27 11:30:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "12:00 | Buriram vs Selangor",
-        "logo": "https://img.colatv88xd.cc/football/team/649a85f258f62ec83a62983488e4b347.png!w80",
-        "url": "https://live05.msdht.app/live/97312754.m3u8",
-        "time": "2026-05-27 12:00:00"
+        "time": "2026-05-27 15:00:00"
     },
     {
         "group": "CA LA TV",
@@ -155,6 +106,34 @@
     },
     {
         "group": "CA LA TV",
+        "title": "16:00 | Klubi 04 vs PK-35 Vantaa",
+        "logo": "https://img.colatv88xd.cc/football/team/b9c54c71540bb531c7be8efde7ff88ae.png!w80",
+        "url": "https://live05.msdht.app/live/08552895.m3u8",
+        "time": "2026-05-27 16:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "17:00 | Barcelona Nữ vs Real Sociedad Nữ",
+        "logo": "https://img.colatv88xd.cc/football/team/b65ee16a9cfe056825b1e0c15c05cf54.png!w80",
+        "url": "https://live05.msdht.app/live/87547578.m3u8",
+        "time": "2026-05-27 17:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "18:30 | Jamaica vs India",
+        "logo": "https://img.colatv88xd.cc/football/team/f7779710d2026dca44c41da7a9b7c748.png!w80",
+        "url": "https://live05.msdht.app/live/90865415.m3u8",
+        "time": "2026-05-27 18:30:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "19:00 | Crystal Palace vs Rayo Vallecano",
+        "logo": "https://img.colatv88xd.cc/football/team/42396d18444156e640c37476c2b41b93.png!w80",
+        "url": "https://live05.msdht.app/live/24561735.m3u8",
+        "time": "2026-05-27 19:00:00"
+    },
+    {
+        "group": "CA LA TV",
         "title": "22:00 | Libertad vs Universidad Central",
         "logo": "https://img.colatv88xd.cc/football/team/a82c9684d567971fb6a08d24d027892a.png!w80",
         "url": "https://live05.msdht.app/live/99121525.m3u8",
@@ -162,800 +141,1318 @@
     },
     {
         "group": "CA LA TV",
-        "title": "22:00 | Caracas FC vs Botafogo RJ",
-        "logo": "https://img.colatv88xd.cc/football/team/c47d5022e097b7b15702e59b7ded598c.png!w80",
+        "title": "22:00 | Independiente del Valle vs Rosario Central",
+        "logo": "https://img.colatv88xd.cc/football/team/cb9797fa8614b9664231a4861ed71875.png!w80",
+        "url": "https://live05.msdht.app/live/88508431.m3u8",
+        "time": "2026-05-27 22:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "22:00 | Racing Club vs Independiente Petroleros",
+        "logo": "https://img.colatv88xd.cc/football/team/cb3c7e99e401d3ff83eeb36c53996d79.png!w80",
         "url": "https://live05.msdht.app/live/14707124.m3u8",
         "time": "2026-05-27 22:00:00"
     },
     {
         "group": "CA LA TV",
-        "title": "23:00 | New York Liberty vs Phoenix Mercury",
-        "logo": "https://img.colatv88xd.cc/basketball/team/67cf5b4cfacab3792d2fde73e0af4ac0.png!w80",
-        "url": "https://live05.msdht.app/live/82054853.m3u8",
-        "time": "2026-05-27 23:00:00"
+        "title": "22:00 | Cienciano vs Juventud",
+        "logo": "https://img.colatv88xd.cc/football/team/e868bb2eac1923c5aecaddd492860b32.png!w80",
+        "url": "https://live05.msdht.app/live/43612277.m3u8",
+        "time": "2026-05-27 22:00:00"
     },
     {
         "group": "CA LA TV",
-        "title": "11:00 | Kyzylzhar vs Zhetysu Taldykorgan",
-        "logo": "https://img.colatv88xd.cc/football/team/c61c3199500be14782a4d533db7e52a2.png!w80",
-        "url": "https://live05.msdht.app/live/24561735.m3u8",
-        "time": "2026-05-28 11:00:00"
+        "title": "00:30 | Bragantino vs Carabobo",
+        "logo": "https://img.colatv88xd.cc/football/team/9e9d18ccd36d42462fc896e22de890c2.png!w80",
+        "url": "https://live05.msdht.app/live/33982309.m3u8",
+        "time": "2026-05-28 00:30:00"
     },
     {
         "group": "CA LA TV",
-        "title": "00:30 | CLB Cruzeiro vs Barcelona SC",
+        "title": "00:30 | Cruzeiro vs Barcelona SC",
         "logo": "https://img.colatv88xd.cc/football/team/b1cac6380900d22bdb0d31763c658434.png!w80",
         "url": "https://live05.msdht.app/live/02456966.m3u8",
         "time": "2026-05-29 00:30:00"
     },
     {
-        "group": "FPT SPORT",
-        "title": "16h15 ngày 27/05 Rain or Shine Elasto Painters vs Barangay Ginebra San Miguel (Lương Sơn) BLV YẾN THANH m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582",
-        "time": "2026-05-27 09:37:25"
+        "group": "CA LA TV",
+        "title": "12:00 | Iran vs Gambia",
+        "logo": "https://img.colatv88xd.cc/football/team/56de534cf589f6d0ca09630db803ba00.png!w80",
+        "url": "https://live05.msdht.app/live/97312754.m3u8",
+        "time": "2026-05-29 12:00:00"
     },
     {
         "group": "FPT SPORT",
-        "title": "16h15 ngày 27/05 Rain or Shine Elasto Painters vs Barangay Ginebra San Miguel (Lương Sơn) BLV YẾN THANH flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582",
-        "time": "2026-05-27 09:37:25"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "14h30 ngày 27/05 Stallions FC vs Dynamic Herb Cebu (Lương Sơn) BLV LÝ ỨNG m3u",
+        "title": "22h00 ngày 27/05 Al Karma SC vs Dyala (Lương Sơn) BLV LÝ ỨNG m3u",
         "logo": "",
         "url": "https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d",
-        "time": "2026-05-27 09:37:25"
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "14h30 ngày 27/05 Stallions FC vs Dynamic Herb Cebu (Lương Sơn) BLV LÝ ỨNG flv",
+        "title": "22h00 ngày 27/05 Al Karma SC vs Dyala (Lương Sơn) BLV LÝ ỨNG flv",
         "logo": "",
         "url": "https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d",
-        "time": "2026-05-27 09:37:25"
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "14h30 ngày 27/05 Stallions FC vs Dynamic Herb Cebu (Lương Sơn) BLV VÕ TÒNG m3u",
+        "title": "22h00 ngày 27/05 FC Ararat Armenia vs Gandzasar Kapan (Lương Sơn) BLV KAKA m3u",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "14h30 ngày 27/05 Stallions FC vs Dynamic Herb Cebu (Lương Sơn) BLV VÕ TÒNG flv",
+        "title": "22h00 ngày 27/05 FC Ararat Armenia vs Gandzasar Kapan (Lương Sơn) BLV KAKA flv",
         "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h00 ngày 27/05 Urartu vs FC Noah (Lương Sơn) BLV LƯU BỊ m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h00 ngày 27/05 Urartu vs FC Noah (Lương Sơn) BLV LƯU BỊ flv",
+        "logo": "",
+        "url": "https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h00 ngày 27/05 Turan Turkistan vs Ekibastuzets (Lương Sơn) BLV TRIỆU TỬ LONG m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h00 ngày 27/05 Turan Turkistan vs Ekibastuzets (Lương Sơn) BLV TRIỆU TỬ LONG flv",
+        "logo": "",
+        "url": "https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h00 ngày 27/05 FC Pyunik vs FC Van (Lương Sơn) BLV MỘT CHÂN m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/MOTCHAN1/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h00 ngày 27/05 FC Pyunik vs FC Van (Lương Sơn) BLV MỘT CHÂN flv",
+        "logo": "",
+        "url": "https://flv.cdnfaster-a.live/live/MOTCHAN1.flv?expire=2556072660&sign=4b991d1cc92d0eb9bddfcb0b1b372a21",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "21h30 ngày 27/05 FK Alga Bishkek vs FC Bishkek City (Lương Sơn) BLV MAYBACH m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "21h30 ngày 27/05 FK Alga Bishkek vs FC Bishkek City (Lương Sơn) BLV MAYBACH flv",
+        "logo": "",
+        "url": "https://flv.cdnfaster-a.live/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "23h00 ngày 27/05 BGU Minsk vs Osipovichy (Lương Sơn) BLV NGƯỜI THÉP m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "23h00 ngày 27/05 BGU Minsk vs Osipovichy (Lương Sơn) BLV NGƯỜI THÉP flv",
+        "logo": "",
+        "url": "https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "23h00 ngày 27/05 Artis Brno vs Synot Slovacko (Lương Sơn) BLV PHI HỔ m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "23h00 ngày 27/05 Artis Brno vs Synot Slovacko (Lương Sơn) BLV PHI HỔ flv",
+        "logo": "",
+        "url": "https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "23h00 ngày 27/05 Artis Brno vs Synot Slovacko (Lương Sơn) BLV LEO m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "23h00 ngày 27/05 Artis Brno vs Synot Slovacko (Lương Sơn) BLV LEO flv",
+        "logo": "",
+        "url": "https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "23h00 ngày 27/05 Neman Mosty vs Niva Dolbizno (Lương Sơn) BLV LỮ BỐ m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "23h00 ngày 27/05 Neman Mosty vs Niva Dolbizno (Lương Sơn) BLV LỮ BỐ flv",
+        "logo": "",
+        "url": "https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "23h00 ngày 27/05 Neman Mosty vs Niva Dolbizno (Lương Sơn) BLV DƯƠNG CHÍ m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "23h00 ngày 27/05 Neman Mosty vs Niva Dolbizno (Lương Sơn) BLV DƯƠNG CHÍ flv",
+        "logo": "",
+        "url": "https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "23h00 ngày 27/05 NK Primorje vs NK Nafta (Lương Sơn) BLV YẾN THANH m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "23h00 ngày 27/05 NK Primorje vs NK Nafta (Lương Sơn) BLV YẾN THANH flv",
+        "logo": "",
+        "url": "https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "23h00 ngày 27/05 NK Primorje vs NK Nafta (Lương Sơn) BLV PELE m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "23h00 ngày 27/05 NK Primorje vs NK Nafta (Lương Sơn) BLV PELE flv",
+        "logo": "",
+        "url": "https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
         "title": "07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8",
-        "time": "2026-05-27 09:37:25"
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 UNSW FC Women vs University of Sydney Women (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/8988f3aa5ce2f85d4c50a0bc65d9d998/playlist.m3u8",
-        "time": "2026-05-27 09:37:25"
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Newcastle Olympic FC Reserves vs Charlestown Azzurri Reserves (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/6f115b2fe383bc3710a61f46cc1b22f9/playlist.m3u8",
-        "time": "2026-05-27 09:37:25"
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
         "title": "07h10 ngày 23/05 Boston Legacy W vs Seattle Reign (W) (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8",
-        "time": "2026-05-27 09:37:25"
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Mexico vs Ghana (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8",
-        "time": "2026-05-27 09:37:25"
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Xiamen Feilu vs Jiangxi Liansheng (Chuối Chiên) HD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8",
-        "time": "2026-05-27 09:37:25"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Xiamen Feilu vs Jiangxi Liansheng (Chuối Chiên) HD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv",
-        "time": "2026-05-27 09:37:25"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Xiamen Feilu vs Jiangxi Liansheng (Chuối Chiên) FHD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8",
-        "time": "2026-05-27 09:37:25"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Xiamen Feilu vs Jiangxi Liansheng (Chuối Chiên) FHD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv",
-        "time": "2026-05-27 09:37:25"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 27/05 Seoul vs Incheon Red Angels (Chuối Chiên) HD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8",
-        "time": "2026-05-27 09:37:25"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 27/05 Seoul vs Incheon Red Angels (Chuối Chiên) HD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/max.flv",
-        "time": "2026-05-27 09:37:25"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 27/05 Seoul vs Incheon Red Angels (Chuối Chiên) FHD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8",
-        "time": "2026-05-27 09:37:25"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 27/05 Seoul vs Incheon Red Angels (Chuối Chiên) FHD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/maxhd.flv",
-        "time": "2026-05-27 09:37:25"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "18h00 ngày 27/05 Altay vs FC Astana (Chuối Chiên) HD1",
+        "title": "22h00 ngày 27/05 Turan Turkistan vs Ekibastuz (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8",
-        "time": "2026-05-27 09:37:25"
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "18h00 ngày 27/05 Altay vs FC Astana (Chuối Chiên) HD2",
+        "title": "22h00 ngày 27/05 Turan Turkistan vs Ekibastuz (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoibo.flv",
-        "time": "2026-05-27 09:37:25"
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "18h00 ngày 27/05 Altay vs FC Astana (Chuối Chiên) FHD1",
+        "title": "22h00 ngày 27/05 Turan Turkistan vs Ekibastuz (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8",
-        "time": "2026-05-27 09:37:25"
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "18h00 ngày 27/05 Altay vs FC Astana (Chuối Chiên) FHD2",
+        "title": "22h00 ngày 27/05 Turan Turkistan vs Ekibastuz (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv",
-        "time": "2026-05-27 09:37:25"
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "19h00 ngày 27/05 Buriram United vs Selangor (Chuối Chiên) HD1",
+        "title": "02h00 ngày 28/05 Crystal Palace vs Rayo Vallecano (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8",
-        "time": "2026-05-27 09:37:25"
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "19h00 ngày 27/05 Buriram United vs Selangor (Chuối Chiên) HD2",
+        "title": "02h00 ngày 28/05 Crystal Palace vs Rayo Vallecano (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho.flv",
-        "time": "2026-05-27 09:37:25"
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "19h00 ngày 27/05 Buriram United vs Selangor (Chuối Chiên) FHD1",
+        "title": "02h00 ngày 28/05 Crystal Palace vs Rayo Vallecano (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
-        "time": "2026-05-27 09:37:25"
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "19h00 ngày 27/05 Buriram United vs Selangor (Chuối Chiên) FHD2",
+        "title": "02h00 ngày 28/05 Crystal Palace vs Rayo Vallecano (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv",
-        "time": "2026-05-27 09:37:25"
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
         "title": "04h00 ngày 28/05 Chico vs Llaneros (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
-        "time": "2026-05-27 09:37:25"
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
         "title": "04h00 ngày 28/05 Chico vs Llaneros (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay.flv",
-        "time": "2026-05-27 09:37:25"
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
         "title": "04h00 ngày 28/05 Chico vs Llaneros (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
-        "time": "2026-05-27 09:37:25"
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
         "title": "04h00 ngày 28/05 Chico vs Llaneros (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv",
-        "time": "2026-05-27 09:37:25"
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h00 ngày 28/05 Caracas FC vs Botafogo (Chuối Chiên) HD1",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h00 ngày 28/05 Caracas FC vs Botafogo (Chuối Chiên) HD2",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h00 ngày 28/05 Caracas FC vs Botafogo (Chuối Chiên) FHD1",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h00 ngày 28/05 Caracas FC vs Botafogo (Chuối Chiên) FHD2",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC (Gà Vàng) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/821d54abadb12c6c15edba538ab20ad1/playlist.m3u8",
-        "time": "2026-05-27 09:37:25"
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
         "title": "07h00 ngày 23/05 Sporting Kansas CityReserves vs Austin FC II (Gà Vàng) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8",
-        "time": "2026-05-27 09:37:25"
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8",
-        "time": "2026-05-27 09:37:25"
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Iloilo United Royals vs Paranaque Patriots [BRIAN] (Socolive) flv",
+        "title": "22h00 ngày 27/05 Urartu vs FC Noah [BLV ENZO] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1779877076-0-0-f8b72ba7f5d52984747c763298a94045",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1779901916-0-0-8e0dd7348e574d79588ec1e2a8454ea5",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Iloilo United Royals vs Paranaque Patriots [BRIAN] (Socolive) hdFlv",
+        "title": "22h00 ngày 27/05 Urartu vs FC Noah [BLV ENZO] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1779877076-0-0-3d7a8f43b1e983a7658c5a7e6cd89968",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1779901916-0-0-e70c0b2cd65f5b20743375090738ab92",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Iloilo United Royals vs Paranaque Patriots [BRIAN] (Socolive) m3u8",
+        "title": "22h00 ngày 27/05 Urartu vs FC Noah [BLV ENZO] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1779877076-0-0-008d404a1e16670337ac0d9dd2a641c8",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1779901916-0-0-218befe2110724b617d117e907d68ee2",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Iloilo United Royals vs Paranaque Patriots [BRIAN] (Socolive) hdM3u8",
+        "title": "22h00 ngày 27/05 Urartu vs FC Noah [BLV ENZO] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1779877076-0-0-676d813bc517bee3505e3757a87990ec",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1779901916-0-0-5dcdb1d7206c535a6557ba9e4b53c1f1",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h30 ngày 27/05 Ilves Tampere vs TPS Turku [SAO LA] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=6987900af0cf6a4ad21b3be89f73e205&txTime=6a176c2c",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h30 ngày 27/05 Ilves Tampere vs TPS Turku [SAO LA] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=cdee88574bd5c80f314b0e9e7e43f452&txTime=6a176c2c",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h30 ngày 27/05 Ilves Tampere vs TPS Turku [SAO LA] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=6987900af0cf6a4ad21b3be89f73e205&txTime=6a176c2c",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h30 ngày 27/05 Ilves Tampere vs TPS Turku [SAO LA] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=cdee88574bd5c80f314b0e9e7e43f452&txTime=6a176c2c",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h30 ngày 27/05 Ilves Tampere vs TPS Turku [BLV Củ Cải] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1779901916-0-0-d55c6f067d7ee22a0b31213a25aadf90",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h30 ngày 27/05 Ilves Tampere vs TPS Turku [BLV Củ Cải] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1779901916-0-0-924542d43fa8a09096112c7631ef5028",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h30 ngày 27/05 Ilves Tampere vs TPS Turku [BLV Củ Cải] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1779901916-0-0-c882f51b7f73dbaceff7da463ea1db25",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h30 ngày 27/05 Ilves Tampere vs TPS Turku [BLV Củ Cải] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1779901916-0-0-b4a76bcc760962cf7b111e857d82393f",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "CZE D2: SK Artis Brno vs Synot Slovacko [CÔNG CHẤT] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1779901916-0-0-ffdb750266fc218ab7e1c74a9a1ed66f",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "CZE D2: SK Artis Brno vs Synot Slovacko [CÔNG CHẤT] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1779901916-0-0-c637855bc1090197a70c89396e699344",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "CZE D2: SK Artis Brno vs Synot Slovacko [CÔNG CHẤT] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1779901916-0-0-f97244e7dc8f2559efbb56627b0c32ac",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "CZE D2: SK Artis Brno vs Synot Slovacko [CÔNG CHẤT] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1779901916-0-0-9e4fe7d344d124d24487698e718b765e",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "CZE D2: SK Artis Brno vs Synot Slovacko [LOKA] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1779901916-0-0-84b23a3ba46aa3fe1fd1fd31219d9a48",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "CZE D2: SK Artis Brno vs Synot Slovacko [LOKA] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1779901916-0-0-31cb558b01c86be4d5ffbb5ef45eb7ef",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "CZE D2: SK Artis Brno vs Synot Slovacko [LOKA] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1779901916-0-0-6caeb9d686dbc82217c340e3e48b71b0",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "CZE D2: SK Artis Brno vs Synot Slovacko [LOKA] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1779901916-0-0-699b5285a9e3b887a1115f655b772b99",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "FIN D2: Klubi 04 Helsinki vs PK-35 Vantaa [CHANH MUỐI] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1779901916-0-0-00351bfb2e24da673106abd697c0ed1a",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "FIN D2: Klubi 04 Helsinki vs PK-35 Vantaa [CHANH MUỐI] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1779901916-0-0-a5f4b1e864a5ff2005698f5ff74aa6b3",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "FIN D2: Klubi 04 Helsinki vs PK-35 Vantaa [CHANH MUỐI] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1779901916-0-0-5a1a0eb41bc8d7e818a3a69caab73221",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "FIN D2: Klubi 04 Helsinki vs PK-35 Vantaa [CHANH MUỐI] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1779901916-0-0-2561770c0a09b999be39cebfeb469015",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h00 ngày 27/05 Turan vs Ekibastuzets [BLV ALEX] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1779901916-0-0-d17c5b7d8b9f1dbb0f710212e469d6f5",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h00 ngày 27/05 Turan vs Ekibastuzets [BLV ALEX] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1779901916-0-0-526c0c8dc34fb0232ae3c2c25d567d9a",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h00 ngày 27/05 Turan vs Ekibastuzets [BLV ALEX] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1779901916-0-0-f8e24c0e5402deec61179979a271ed5f",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h00 ngày 27/05 Turan vs Ekibastuzets [BLV ALEX] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1779901916-0-0-564a850edb04a3c1a7f8b5a0573eb82f",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "FIN D2: Klubi 04 Helsinki vs PK-35 Vantaa [BLV WUKONG] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1779901916-0-0-c4e1da27e531268bf90784b5afc3f73c",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "FIN D2: Klubi 04 Helsinki vs PK-35 Vantaa [BLV WUKONG] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1779901916-0-0-581d1c15de6dfb552cefd81b2792058a",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "FIN D2: Klubi 04 Helsinki vs PK-35 Vantaa [BLV WUKONG] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1779901916-0-0-e4bd3e60290cd90acc94beb89aa1783a",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "FIN D2: Klubi 04 Helsinki vs PK-35 Vantaa [BLV WUKONG] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1779901916-0-0-c4c8a7838526fb7190e9cbbe7770296d",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h00 ngày 27/05 FC Pyunik vs FK Van Charentsavan [TƯ MÃ Ý] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-611377_lsd.flv?auth_key=1779901916-0-0-bf55eebe2a890ee1305765c819e09385",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h00 ngày 27/05 FC Pyunik vs FK Van Charentsavan [TƯ MÃ Ý] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-611377_lhd.flv?auth_key=1779901916-0-0-7f084d1d8004ffcce37a60a95d27fa34",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h00 ngày 27/05 FC Pyunik vs FK Van Charentsavan [TƯ MÃ Ý] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-611377_lsd.m3u8?auth_key=1779901916-0-0-3b0dee5a84c78693116f9fdf871bb939",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h00 ngày 27/05 FC Pyunik vs FK Van Charentsavan [TƯ MÃ Ý] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1779901916-0-0-64e2de115ac046083878b927c60602ea",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "GBBL: Alba Berlin vs Vechta [HUNTER] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1779901918-0-0-07b4ad3a12edb3cafd70876bb5b03f90",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "GBBL: Alba Berlin vs Vechta [HUNTER] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1779901918-0-0-279ef8dd44364bc0eae4526eb0be5ca6",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "GBBL: Alba Berlin vs Vechta [HUNTER] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1779901918-0-0-d7a3df5bfc9f703592ae9dd2b02e006a",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "GBBL: Alba Berlin vs Vechta [HUNTER] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1779901918-0-0-44820f92c486f05779bb70e002ab2132",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1779877076-0-0-67ba3dea2801d797d3ba115eb9907bfb",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1779901916-0-0-44acb2610a657ea6efe9347c212c2580",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1779877076-0-0-bba856a49d4d39c53650ff417e1cc449",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1779901916-0-0-a81c6b98ebee5c7cac2fca46eae73761",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1779877076-0-0-ebe02940977e1714cf5c004d056b7244",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1779901916-0-0-8cb99fa9de303e433383ff09a03647b4",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1779877076-0-0-08ffec334f6977d4ec4691bb4075c0e0",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1779901916-0-0-2a1aa48c57d9a51fc07885e4164e3a11",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Changchun Xidu vs Beijing IT [DECO] (Socolive) flv",
+        "title": "22h30 ngày 27/05 Ilves Tampere vs TPS Turku [A BỆU] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1779877436-0-0-e24e8d566d4aeec11f14d2805ec44975",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1779902276-0-0-45ca121ce28b2c4eb195024428d0b5e6",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Changchun Xidu vs Beijing IT [DECO] (Socolive) hdFlv",
+        "title": "22h30 ngày 27/05 Ilves Tampere vs TPS Turku [A BỆU] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1779877436-0-0-741fc40cb04861736a27e49ef1d2f3f6",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1779902276-0-0-babeb05f9794566a8b3ba812c47cb452",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Changchun Xidu vs Beijing IT [DECO] (Socolive) m3u8",
+        "title": "22h30 ngày 27/05 Ilves Tampere vs TPS Turku [A BỆU] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1779877436-0-0-4d68fb1d75860c7eb9bc42b2574fbfd7",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1779902276-0-0-77f40f3eb653678ff7ee5a7c7286dae5",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Changchun Xidu vs Beijing IT [DECO] (Socolive) hdM3u8",
+        "title": "22h30 ngày 27/05 Ilves Tampere vs TPS Turku [A BỆU] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1779877436-0-0-e84f9341eca5de6fd408b5c009ff246a",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1779902276-0-0-3f5b02b1dee796fa97153513e38bb472",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Changchun Xidu vs Beijing IT [BLV COCA] (Socolive) flv",
+        "title": "21h00 ngày 27/05 Pakhtakor vs FC Kattaqorgon [BLV RÔSI] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1779877436-0-0-cf3c3974d8d970d6d45cf19f8cf9be3b",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=102d573fff16c0c06c62a112b3530ba8&txTime=6a176d94",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Changchun Xidu vs Beijing IT [BLV COCA] (Socolive) hdFlv",
+        "title": "21h00 ngày 27/05 Pakhtakor vs FC Kattaqorgon [BLV RÔSI] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1779877436-0-0-e3862e073b07c2c2b26f46aa0260a351",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=eb3af258c80176f1071d4f2a262135cc&txTime=6a176d94",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Changchun Xidu vs Beijing IT [BLV COCA] (Socolive) m3u8",
+        "title": "21h00 ngày 27/05 Pakhtakor vs FC Kattaqorgon [BLV RÔSI] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1779877436-0-0-eba90bd36e46afbcd0a9445a827549b7",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=102d573fff16c0c06c62a112b3530ba8&txTime=6a176d94",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Changchun Xidu vs Beijing IT [BLV COCA] (Socolive) hdM3u8",
+        "title": "21h00 ngày 27/05 Pakhtakor vs FC Kattaqorgon [BLV RÔSI] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1779877436-0-0-5a5a14f60dfdf4c03c6e0c6079d9da31",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=eb3af258c80176f1071d4f2a262135cc&txTime=6a176d94",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Xiamen Feilu vs Jiangxi Lushan [BLV TAP] (Socolive) flv",
+        "title": "22h30 ngày 27/05 Ilves Tampere vs TPS Turku [DECO] (Socolive) flv",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=231f35523251ebc666de8a7ba3c15d79&txTime=6a170c8c",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1779902276-0-0-ac1fe1c0dd44799582ad18e7167235ea",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Xiamen Feilu vs Jiangxi Lushan [BLV TAP] (Socolive) hdFlv",
+        "title": "22h30 ngày 27/05 Ilves Tampere vs TPS Turku [DECO] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=0fbfb9263754075b739f9dad684e87a8&txTime=6a170c8c",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1779902276-0-0-575ae5ce53f9d1fb76eec6d43ebe63c3",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Xiamen Feilu vs Jiangxi Lushan [BLV TAP] (Socolive) m3u8",
+        "title": "22h30 ngày 27/05 Ilves Tampere vs TPS Turku [DECO] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=231f35523251ebc666de8a7ba3c15d79&txTime=6a170c8c",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1779902276-0-0-98f06ae910dfb552b66cb2c853defb1e",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Xiamen Feilu vs Jiangxi Lushan [BLV TAP] (Socolive) hdM3u8",
+        "title": "22h30 ngày 27/05 Ilves Tampere vs TPS Turku [DECO] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=0fbfb9263754075b739f9dad684e87a8&txTime=6a170c8c",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1779902276-0-0-a03a7038233b7d074da165084377ef81",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Xiamen Feilu vs Jiangxi Lushan [BLV COZY] (Socolive) flv",
+        "title": "22h30 ngày 27/05 Ilves Tampere vs TPS Turku [BLV LONG] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1779877436-0-0-490d8195936f94b4ef9e3de170eb8f39",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niur.live/live/stream-9912050_lsd.flv?txSecret=c40dd8d3045a7ccc91a3b40a78952d4a&txTime=6a176d94",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Xiamen Feilu vs Jiangxi Lushan [BLV COZY] (Socolive) hdFlv",
+        "title": "22h30 ngày 27/05 Ilves Tampere vs TPS Turku [BLV LONG] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1779877436-0-0-b97b7e844def9a9ad7d2a4ea3c310202",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niur.live/live/stream-9912050_lhd.flv?txSecret=0c3b3fed5b4e7937ea2ea9039d60c4ee&txTime=6a176d94",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Xiamen Feilu vs Jiangxi Lushan [BLV COZY] (Socolive) m3u8",
+        "title": "22h30 ngày 27/05 Ilves Tampere vs TPS Turku [BLV LONG] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1779877436-0-0-f77998b68cf654943585c0f6f93eb88e",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=c40dd8d3045a7ccc91a3b40a78952d4a&txTime=6a176d94",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Xiamen Feilu vs Jiangxi Lushan [BLV COZY] (Socolive) hdM3u8",
+        "title": "22h30 ngày 27/05 Ilves Tampere vs TPS Turku [BLV LONG] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1779877436-0-0-ade0978553dcd55b48789cbe1bd4f4d6",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=0c3b3fed5b4e7937ea2ea9039d60c4ee&txTime=6a176d94",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Xiamen Feilu vs Jiangxi Lushan [NGƯỜI CÁ] (Socolive) flv",
+        "title": "FIN D2: Klubi 04 Helsinki vs PK-35 Vantaa [BLV KEM] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1779877436-0-0-95c00c16fc0b952e938504a0f677c8d2",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1779902276-0-0-7e7636275e1803b80582e767e53bb905",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Xiamen Feilu vs Jiangxi Lushan [NGƯỜI CÁ] (Socolive) hdFlv",
+        "title": "FIN D2: Klubi 04 Helsinki vs PK-35 Vantaa [BLV KEM] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1779877436-0-0-1870fd10021920cf5dd485bf188b11ae",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1779902276-0-0-3ddef9396e550ea19e39120aaa455052",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Xiamen Feilu vs Jiangxi Lushan [NGƯỜI CÁ] (Socolive) m3u8",
+        "title": "FIN D2: Klubi 04 Helsinki vs PK-35 Vantaa [BLV KEM] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1779877436-0-0-ff1d429519e82afa6069d4036127854a",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1779902276-0-0-8fdd9e1d8021053164e85abe9d2f4915",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Xiamen Feilu vs Jiangxi Lushan [NGƯỜI CÁ] (Socolive) hdM3u8",
+        "title": "FIN D2: Klubi 04 Helsinki vs PK-35 Vantaa [BLV KEM] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1779877436-0-0-4bd9e74a35c673dbf91e3198c09a5559",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1779902276-0-0-b86d7caef11b76a940493fdd8ed04c2b",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "14h30 ngày 27/05 Stallion Laguna FC vs Dynamic Herb Cebu [TRÀ ĐÁ] (Socolive) flv",
+        "title": "CZE D2: SK Artis Brno vs Synot Slovacko [BLV FIREMAN] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-603914_lsd.flv?auth_key=1779877436-0-0-b6c60d1e00fbeee9bf82a7f2b5193fb1",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1779902276-0-0-908d727fa33fef75e9abcf56e558564a",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "14h30 ngày 27/05 Stallion Laguna FC vs Dynamic Herb Cebu [TRÀ ĐÁ] (Socolive) hdFlv",
+        "title": "CZE D2: SK Artis Brno vs Synot Slovacko [BLV FIREMAN] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1779877436-0-0-3fe2e528d76874c798bbd13d9ae9f665",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1779902276-0-0-fc8a66cf743e78a460f1c296e9890cc9",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "14h30 ngày 27/05 Stallion Laguna FC vs Dynamic Herb Cebu [TRÀ ĐÁ] (Socolive) m3u8",
+        "title": "CZE D2: SK Artis Brno vs Synot Slovacko [BLV FIREMAN] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1779877436-0-0-12a2af7c1ba99d43a7f81a0d7d058b91",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1779902276-0-0-37c571dc2e0c246497bf181fb5dbd1d8",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "14h30 ngày 27/05 Stallion Laguna FC vs Dynamic Herb Cebu [TRÀ ĐÁ] (Socolive) hdM3u8",
+        "title": "CZE D2: SK Artis Brno vs Synot Slovacko [BLV FIREMAN] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1779877436-0-0-b82cb52d200ecc359938d5797c5f34da",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1779902276-0-0-8c8ef47a25ea7b4f54af0eb0bf126a4e",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "17h00 ngày 27/05 Sejong Sportstoto WFC vs Gyeongju KHNP Women's [SAO LA] (Socolive) flv",
+        "title": "FIN D2: Klubi 04 Helsinki vs PK-35 Vantaa [HÀ DUY KIÊN] (Socolive) flv",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=e83aeb1c2d71337b6b1fac09aad66c51&txTime=6a170c8c",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull06.scstream.net/live/stream-607400_lsd.flv?auth_key=1779902276-0-0-b643377e55551e313a741f3a732dbff3",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "17h00 ngày 27/05 Sejong Sportstoto WFC vs Gyeongju KHNP Women's [SAO LA] (Socolive) hdFlv",
+        "title": "FIN D2: Klubi 04 Helsinki vs PK-35 Vantaa [HÀ DUY KIÊN] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=26bfe883a9a4d2cca35edadbe6360ff7&txTime=6a170c8c",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1779902276-0-0-1c4b18ce379c04012363a6314a471f4d",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "17h00 ngày 27/05 Sejong Sportstoto WFC vs Gyeongju KHNP Women's [SAO LA] (Socolive) m3u8",
+        "title": "FIN D2: Klubi 04 Helsinki vs PK-35 Vantaa [HÀ DUY KIÊN] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=e83aeb1c2d71337b6b1fac09aad66c51&txTime=6a170c8c",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1779902276-0-0-6c0938794ad36af1188fe91d3d54ce18",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "17h00 ngày 27/05 Sejong Sportstoto WFC vs Gyeongju KHNP Women's [SAO LA] (Socolive) hdM3u8",
+        "title": "FIN D2: Klubi 04 Helsinki vs PK-35 Vantaa [HÀ DUY KIÊN] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=26bfe883a9a4d2cca35edadbe6360ff7&txTime=6a170c8c",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1779902276-0-0-fa00d590e88d864f8b3ce2239e2991e4",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Iloilo United Royals vs Paranaque Patriots [KING] (Socolive) flv",
+        "title": "CZE D2: SK Artis Brno vs Synot Slovacko [PINKMAN] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1779877436-0-0-4f2089c05afe038fa520354165127892",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=1a08618527a7515459ed961c9a2d8989&txTime=6a176d94",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Iloilo United Royals vs Paranaque Patriots [KING] (Socolive) hdFlv",
+        "title": "CZE D2: SK Artis Brno vs Synot Slovacko [PINKMAN] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1779877436-0-0-eef40a60fb3ab414b23b2e612f6c8e19",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=bb0bfbe5b7bbd8163b111fc70d817ea4&txTime=6a176d94",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Iloilo United Royals vs Paranaque Patriots [KING] (Socolive) m3u8",
+        "title": "CZE D2: SK Artis Brno vs Synot Slovacko [PINKMAN] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1779877436-0-0-4f51b7174c41666f7e91b30459e60795",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=1a08618527a7515459ed961c9a2d8989&txTime=6a176d94",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Iloilo United Royals vs Paranaque Patriots [KING] (Socolive) hdM3u8",
+        "title": "CZE D2: SK Artis Brno vs Synot Slovacko [PINKMAN] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1779877436-0-0-c67c5f29af3242fd35ffad1095f2d1fa",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=bb0bfbe5b7bbd8163b111fc70d817ea4&txTime=6a176d94",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Xiamen Feilu vs Jiangxi Lushan [BLV LION] (Socolive) flv",
+        "title": "22h00 ngày 27/05 Urartu vs FC Noah [NGƯỜI CÁ] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-603255_lsd.flv?auth_key=1779877436-0-0-ee2583e606fa1ea3e1526294eb9a4171",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1779902276-0-0-dadef5459f87e281e265e1a818b201cf",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Xiamen Feilu vs Jiangxi Lushan [BLV LION] (Socolive) hdFlv",
+        "title": "22h00 ngày 27/05 Urartu vs FC Noah [NGƯỜI CÁ] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-603255_lhd.flv?auth_key=1779877436-0-0-82705674082629324d5d19ef21d30456",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1779902276-0-0-9c7ab0114f684f89d425973b447b7001",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Xiamen Feilu vs Jiangxi Lushan [BLV LION] (Socolive) m3u8",
+        "title": "22h00 ngày 27/05 Urartu vs FC Noah [NGƯỜI CÁ] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1779877436-0-0-ace3285b05b2f8cfb04c670d07cb3941",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1779902276-0-0-7b87f4970060fd7605876bf155fd1ec9",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Xiamen Feilu vs Jiangxi Lushan [BLV LION] (Socolive) hdM3u8",
+        "title": "22h00 ngày 27/05 Urartu vs FC Noah [NGƯỜI CÁ] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1779877436-0-0-0ecf0612b2ed1b382a8cfe8e51efbcee",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1779902276-0-0-4f8fef99cceafbca406697385b7df99b",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "17h00 ngày 27/05 Seoul Amazones Women vs Incheon Hyundai Steel Red Angels WFC [LÃO LÂM] (Socolive) flv",
+        "title": "22h00 ngày 27/05 Turan vs Ekibastuzets [BLV RYO] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1779877796-0-0-1804468f611b1369aa6890175f71f531",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1779902276-0-0-7e174d08ef283ae766ab1f38ca05c758",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "17h00 ngày 27/05 Seoul Amazones Women vs Incheon Hyundai Steel Red Angels WFC [LÃO LÂM] (Socolive) hdFlv",
+        "title": "22h00 ngày 27/05 Turan vs Ekibastuzets [BLV RYO] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1779877796-0-0-333769acbb8f333ba16d4e70c59e6a09",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1779902276-0-0-fc90094098b01aff278b5ea86123c53a",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "17h00 ngày 27/05 Seoul Amazones Women vs Incheon Hyundai Steel Red Angels WFC [LÃO LÂM] (Socolive) m3u8",
+        "title": "22h00 ngày 27/05 Turan vs Ekibastuzets [BLV RYO] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1779877796-0-0-6c7512396232f370da132d2b135b3f9f",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1779902276-0-0-dbefd2c98670fd8c28f5514ab7aad1bd",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "17h00 ngày 27/05 Seoul Amazones Women vs Incheon Hyundai Steel Red Angels WFC [LÃO LÂM] (Socolive) hdM3u8",
+        "title": "22h00 ngày 27/05 Turan vs Ekibastuzets [BLV RYO] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1779877796-0-0-85da33a23691f791bce830be5a5d4f95",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1779902276-0-0-b38409435a40d19af5e470abe52670ae",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Changchun Xidu vs Beijing IT [TYPN] (Socolive) flv",
+        "title": "22h00 ngày 27/05 FC Pyunik vs FK Van Charentsavan [BLV A TINH] (Socolive) flv",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912009_lsd.flv?txSecret=252fd7da7d8407627952cdbfb98a06f1&txTime=6a170df4",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niur.live/live/stream-598119_lsd.flv?txSecret=e8885c9561fef4a43642bf5b3e667ad3&txTime=6a176d94",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Changchun Xidu vs Beijing IT [TYPN] (Socolive) hdFlv",
+        "title": "22h00 ngày 27/05 FC Pyunik vs FK Van Charentsavan [BLV A TINH] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912009_lhd.flv?txSecret=71a333fcf4d984370cfd8d132313dd9b&txTime=6a170df4",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=418c5da1e53ab32e964d91e4015dd247&txTime=6a176d94",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Changchun Xidu vs Beijing IT [TYPN] (Socolive) m3u8",
+        "title": "22h00 ngày 27/05 FC Pyunik vs FK Van Charentsavan [BLV A TINH] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912009_lsd.m3u8?txSecret=252fd7da7d8407627952cdbfb98a06f1&txTime=6a170df4",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=e8885c9561fef4a43642bf5b3e667ad3&txTime=6a176d94",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Changchun Xidu vs Beijing IT [TYPN] (Socolive) hdM3u8",
+        "title": "22h00 ngày 27/05 FC Pyunik vs FK Van Charentsavan [BLV A TINH] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=71a333fcf4d984370cfd8d132313dd9b&txTime=6a170df4",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=418c5da1e53ab32e964d91e4015dd247&txTime=6a176d94",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "14h30 ngày 27/05 Stallion Laguna FC vs Dynamic Herb Cebu [BLV A TÚ] (Socolive) flv",
+        "title": "22h00 ngày 27/05 Ararat-Armenia FC vs Gandzasar Kapan [BLV ROBBEN] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1779877796-0-0-b6dfae08798700488ff66f703c87ccd6",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1779902636-0-0-c06afe37f1d32b4330876fa3e57a1283",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "14h30 ngày 27/05 Stallion Laguna FC vs Dynamic Herb Cebu [BLV A TÚ] (Socolive) hdFlv",
+        "title": "22h00 ngày 27/05 Ararat-Armenia FC vs Gandzasar Kapan [BLV ROBBEN] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1779877796-0-0-abca131c8f14bae630f6ddd09ca6dafe",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1779902636-0-0-73934ad5fb19a399b2468fcc6faa6f8e",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "14h30 ngày 27/05 Stallion Laguna FC vs Dynamic Herb Cebu [BLV A TÚ] (Socolive) m3u8",
+        "title": "22h00 ngày 27/05 Ararat-Armenia FC vs Gandzasar Kapan [BLV ROBBEN] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1779877796-0-0-2218c479c1d68292a78930181c7ae3e3",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1779902636-0-0-2210c5e2bb26c1fed350a4e192cf6621",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "14h30 ngày 27/05 Stallion Laguna FC vs Dynamic Herb Cebu [BLV A TÚ] (Socolive) hdM3u8",
+        "title": "22h00 ngày 27/05 Ararat-Armenia FC vs Gandzasar Kapan [BLV ROBBEN] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1779877796-0-0-65366b6ebe889b36146eb73f384855bd",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1779902636-0-0-75350bb8e76def3628bb5ab73686fe60",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Changchun Xidu vs Beijing IT [BLV CÒ] (Socolive) flv",
+        "title": "22h00 ngày 27/05 Ararat-Armenia FC vs Gandzasar Kapan [BLV RAMBO] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1779877796-0-0-89f3c3b2087a8b4d807e197851721160",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=455224b3c559366c00081075094cd2ca&txTime=6a176efc",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Changchun Xidu vs Beijing IT [BLV CÒ] (Socolive) hdFlv",
+        "title": "22h00 ngày 27/05 Ararat-Armenia FC vs Gandzasar Kapan [BLV RAMBO] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1779877796-0-0-58532507b3d582d1280494bc013ffd70",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=05f65fe718f49f306ca033f065bfec81&txTime=6a176efc",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Changchun Xidu vs Beijing IT [BLV CÒ] (Socolive) m3u8",
+        "title": "22h00 ngày 27/05 Ararat-Armenia FC vs Gandzasar Kapan [BLV RAMBO] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1779877796-0-0-3b7638a0ed29f0a6ee22f6179b690b90",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=455224b3c559366c00081075094cd2ca&txTime=6a176efc",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "15h00 ngày 27/05 Changchun Xidu vs Beijing IT [BLV CÒ] (Socolive) hdM3u8",
+        "title": "22h00 ngày 27/05 Ararat-Armenia FC vs Gandzasar Kapan [BLV RAMBO] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1779877796-0-0-0db8a00cff631cf4d6eef80fd1b94d31",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=05f65fe718f49f306ca033f065bfec81&txTime=6a176efc",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "17h00 ngày 27/05 Sarangani Marlins vs Binan Tatak Gel [BLV HENRY] (Socolive) flv",
+        "title": "22h00 ngày 27/05 Ararat-Armenia FC vs Gandzasar Kapan [CR Bưởi] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1779877796-0-0-76f2f563eb85836dcf92375c48262f83",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1779902636-0-0-0af325bb757290c49d6ae6eb024b3a4d",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "17h00 ngày 27/05 Sarangani Marlins vs Binan Tatak Gel [BLV HENRY] (Socolive) hdFlv",
+        "title": "22h00 ngày 27/05 Ararat-Armenia FC vs Gandzasar Kapan [CR Bưởi] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1779877796-0-0-7d77b533d890efb1afd063fcbe93650a",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1779902636-0-0-64359d68a8f4bc5fa02ed9c1d5f0fa09",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "17h00 ngày 27/05 Sarangani Marlins vs Binan Tatak Gel [BLV HENRY] (Socolive) m3u8",
+        "title": "22h00 ngày 27/05 Ararat-Armenia FC vs Gandzasar Kapan [CR Bưởi] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1779877796-0-0-fba5cdb892497a8cddf28a0547c17222",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1779902636-0-0-193c7144e9d4f716cb60614fa7e82d57",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "17h00 ngày 27/05 Sarangani Marlins vs Binan Tatak Gel [BLV HENRY] (Socolive) hdM3u8",
+        "title": "22h00 ngày 27/05 Ararat-Armenia FC vs Gandzasar Kapan [CR Bưởi] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1779877796-0-0-27303de0829392dc0741817d3701a6ea",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1779902636-0-0-db6b3317b0dc304a8c71b15d511a63c2",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "17h00 ngày 27/05 Seoul Amazones Women vs Incheon Hyundai Steel Red Angels WFC [BLV ALEX] (Socolive) flv",
+        "title": "22h00 ngày 27/05 FC Pyunik vs FK Van Charentsavan [TYPN] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1779877796-0-0-27e5a2ecac6dd41974e84889b3b9f112",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niur.live/live/stream-9912009_lsd.flv?txSecret=8f0a1abedc8944b2d42ab56d425f21cb&txTime=6a176efc",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "17h00 ngày 27/05 Seoul Amazones Women vs Incheon Hyundai Steel Red Angels WFC [BLV ALEX] (Socolive) hdFlv",
+        "title": "22h00 ngày 27/05 FC Pyunik vs FK Van Charentsavan [TYPN] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1779877796-0-0-95f45eea4b0d1a06516612c7b43a608c",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niur.live/live/stream-9912009_lhd.flv?txSecret=cf06ab16b53b08baf1cfab8c8fe7ccff&txTime=6a176efc",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "17h00 ngày 27/05 Seoul Amazones Women vs Incheon Hyundai Steel Red Angels WFC [BLV ALEX] (Socolive) m3u8",
+        "title": "22h00 ngày 27/05 FC Pyunik vs FK Van Charentsavan [TYPN] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1779877796-0-0-92ad31d55f095d22f4e3b4719d2ac502",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niur.live/live/stream-9912009_lsd.m3u8?txSecret=8f0a1abedc8944b2d42ab56d425f21cb&txTime=6a176efc",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "17h00 ngày 27/05 Seoul Amazones Women vs Incheon Hyundai Steel Red Angels WFC [BLV ALEX] (Socolive) hdM3u8",
+        "title": "22h00 ngày 27/05 FC Pyunik vs FK Van Charentsavan [TYPN] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1779877796-0-0-1ebdf82491c8894bf79748e1822292aa",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=cf06ab16b53b08baf1cfab8c8fe7ccff&txTime=6a176efc",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "17h00 ngày 27/05 Sarangani Marlins vs Binan Tatak Gel [CHAN SENA] (Socolive) flv",
+        "title": "22h00 ngày 27/05 FC Pyunik vs FK Van Charentsavan [BLV A WIN] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1779877796-0-0-8d2f8931886dfd47b3cccca9cbe971eb",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1779902636-0-0-3a08ed2119576e8646926e70eb1ddb9e",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "17h00 ngày 27/05 Sarangani Marlins vs Binan Tatak Gel [CHAN SENA] (Socolive) hdFlv",
+        "title": "22h00 ngày 27/05 FC Pyunik vs FK Van Charentsavan [BLV A WIN] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1779877796-0-0-398a580d574a438eb37a72b59db2ac23",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1779902636-0-0-0b0d4ba6c32d066e556106ab21aec3a5",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "17h00 ngày 27/05 Sarangani Marlins vs Binan Tatak Gel [CHAN SENA] (Socolive) m3u8",
+        "title": "22h00 ngày 27/05 FC Pyunik vs FK Van Charentsavan [BLV A WIN] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1779877796-0-0-8e41ec11d84db0bc8227135c09f8a743",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1779902636-0-0-d237b05d3358d77474911e87507c4026",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "17h00 ngày 27/05 Sarangani Marlins vs Binan Tatak Gel [CHAN SENA] (Socolive) hdM3u8",
+        "title": "22h00 ngày 27/05 FC Pyunik vs FK Van Charentsavan [BLV A WIN] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1779877796-0-0-a48c2ac9b22f88d84f83a85747a050c2",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1779902636-0-0-7a9881a8ee6cee8ae032d783dfea0dd2",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "16h00 27/05 Thái Nguyên Nữ vs Phong Phú Hà Nam Nữ (Hội Quán) FHD",
+        "title": "22h00 ngày 27/05 Urartu vs FC Noah [BLV KAN] (Socolive) flv",
         "logo": "",
-        "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=becb3217029e5a33cb1cd6dcbe95ff08&txTime=6a176efc",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "16h00 27/05 Thái Nguyên Nữ vs Phong Phú Hà Nam Nữ (Hội Quán) SD",
+        "title": "22h00 ngày 27/05 Urartu vs FC Noah [BLV KAN] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8",
-        "time": "2026-05-27 09:37:25"
+        "url": "https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=0672200ed2d6f06608f6e3219fe9632f&txTime=6a176efc",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h00 ngày 27/05 Urartu vs FC Noah [BLV KAN] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=becb3217029e5a33cb1cd6dcbe95ff08&txTime=6a176efc",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h00 ngày 27/05 Urartu vs FC Noah [BLV KAN] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=0672200ed2d6f06608f6e3219fe9632f&txTime=6a176efc",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h00 ngày 27/05 Ararat-Armenia FC vs Gandzasar Kapan [BLV VIP] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=cc4ae2d02b4e8b5955fb367db06f5104&txTime=6a176efc",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h00 ngày 27/05 Ararat-Armenia FC vs Gandzasar Kapan [BLV VIP] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=03c90abe072b8c92aaabe2237f31125e&txTime=6a176efc",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h00 ngày 27/05 Ararat-Armenia FC vs Gandzasar Kapan [BLV VIP] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=cc4ae2d02b4e8b5955fb367db06f5104&txTime=6a176efc",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h00 ngày 27/05 Ararat-Armenia FC vs Gandzasar Kapan [BLV VIP] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=03c90abe072b8c92aaabe2237f31125e&txTime=6a176efc",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h00 ngày 27/05 Urartu vs FC Noah [BLV VOI] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1779902636-0-0-9ee5ac96d9b5d9b7590d2e20d65b5bab",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h00 ngày 27/05 Urartu vs FC Noah [BLV VOI] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1779902636-0-0-782a87489c3c89f026360ec92f332461",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h00 ngày 27/05 Urartu vs FC Noah [BLV VOI] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1779902636-0-0-bc8fd1dbe675a0e9a16c44a8e960f5c1",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h00 ngày 27/05 Urartu vs FC Noah [BLV VOI] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1779902636-0-0-b2b6764750a792ea3ca511496e6f70a8",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "GBBL: Alba Berlin vs Vechta [A CHÈ] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1779902636-0-0-f989e5471526860e2721d28d3d634dd9",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "GBBL: Alba Berlin vs Vechta [A CHÈ] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1779902636-0-0-f88dd0b0dddf2d256d92a6d24a476620",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "GBBL: Alba Berlin vs Vechta [A CHÈ] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1779902636-0-0-d4b852e0fe87ac8782a48fbd9f84be1c",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "GBBL: Alba Berlin vs Vechta [A CHÈ] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1779902636-0-0-b42eb9acff2776dfd73e3e4976c84d5a",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h00 27/05 Ararat-Armenia vs Gandzasar (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h00 27/05 Ararat-Armenia vs Gandzasar (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v1a1/mono.m3u8",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "21h00 27/05 Valentin Royer vs Novak Djokovic (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "21h00 27/05 Valentin Royer vs Novak Djokovic (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8",
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
         "title": "15h00 27/05 YEO Jia Min vs Akane YAMAGUCHI  (Hội Quán) FHD",
         "logo": "",
         "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8",
-        "time": "2026-05-27 09:37:25"
+        "time": "2026-05-27 16:28:46"
     },
     {
         "group": "FPT SPORT",
         "title": "15h00 27/05 YEO Jia Min vs Akane YAMAGUCHI  (Hội Quán) SD",
         "logo": "",
         "url": "https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8",
-        "time": "2026-05-27 09:37:25"
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "21h00 27/05 UK OPEN (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8",
+        "time": "2026-05-27 16:28:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "21h00 27/05 UK OPEN (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8",
+        "time": "2026-05-27 16:28:46"
     }
 ]
