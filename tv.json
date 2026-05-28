@@ -1,492 +1,422 @@
 [
     {
         "group": "VÒNG CẤM TV",
-        "title": "Estonia U17 vs Croatia U17",
-        "logo": "https://media.api-sports.io/football/teams/17950.png",
+        "title": "Rep. Of Ireland vs Qatar",
+        "logo": "https://media.api-sports.io/football/teams/776.png",
+        "url": "https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8",
+        "time": "2026-05-28 19:29:51"
+    },
+    {
+        "group": "VÒNG CẤM TV",
+        "title": "Morocco U17 vs Senegal U17",
+        "logo": "https://media.api-sports.io/football/teams/21302.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8",
-        "time": "2026-05-28 16:49:00"
+        "time": "2026-05-28 19:29:51"
     },
     {
         "group": "CA LA TV",
-        "title": "16:00 | Estonia U17 vs Croatia U17",
-        "logo": "https://img.colatv88xd.cc/football/team/350035841e1182bf4389c52752d8bd0d.png!w80",
-        "url": "https://live05.msdht.app/live/43612277.m3u8",
-        "time": "2026-05-28 16:00:00"
+        "title": "18:00 | Ai Cập vs Nga",
+        "logo": "https://img.colatv88xd.cc/football/team/65a579da11fa712149bca347ecfcb208.png!w80",
+        "url": "https://live05.msdht.app/live/24561735.m3u8",
+        "time": "2026-05-28 18:00:00"
     },
     {
         "group": "CA LA TV",
-        "title": "16:00 | Torpedo Kutaisi vs Gagra",
-        "logo": "https://img.colatv88xd.cc/football/team/cad9c0e0d8ed90e53989eb85f98940fa.png!w80",
+        "title": "18:45 | Ireland vs Qatar",
+        "logo": "https://img.colatv88xd.cc/football/team/c940e50f90b9e73f42045c05d49c6e17.png!w80",
+        "url": "https://live05.msdht.app/live/33982309.m3u8",
+        "time": "2026-05-28 18:45:00"
+    },
+    {
+        "group": "HỘI QUÁN",
+        "title": "23:30 | Ludogorets vs Lokomotiv Plovdiv",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/87/Ludogorets_FC.png",
+        "url": "https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8",
+        "time": "2026-05-29 23:30:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "19:00 | Casa Pia AC vs Torreense",
+        "logo": "https://img.colatv88xd.cc/football/team/0ee6b6e8c21275bb7a79e64c4baf90c1.png!w80",
         "url": "https://live05.msdht.app/live/68848594.m3u8",
-        "time": "2026-05-28 16:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "15:00 | Ordabasy vs Kairat",
-        "logo": "https://img.colatv88xd.cc/football/team/56445b7fccea061fbee0ac71cbd53a83.png!w80",
-        "url": "https://live05.msdht.app/live/87379114.m3u8",
-        "time": "2026-05-28 15:00:00"
-    },
-    {
-        "group": "HỘI QUÁN",
-        "title": "21:00 | Đ",
-        "logo": "https://img.freepik.com/vector-mien-phi/mau-thiet-ke-logo-billiard_23-2150883890.jpg",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8",
-        "time": "2026-05-28 21:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "17:00 | Lokomotive Leipzig vs Wurzburger Kickers",
-        "logo": "https://img.colatv88xd.cc/football/team/eaa4ca0a29e611c9800611aa60df09c9.png!w80",
-        "url": "https://live05.msdht.app/live/87547578.m3u8",
-        "time": "2026-05-28 17:00:00"
-    },
-    {
-        "group": "HỘI QUÁN",
-        "title": "23:00 | Aryna Sabalenka vs Elsa Jacquemot",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Sabalenka_WM18_%283%29_%2830063199288%29.jpg",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8",
-        "time": "2026-05-28 23:00:00"
-    },
-    {
-        "group": "HỘI QUÁN",
-        "title": "23:00 | Estonia U17 vs Croatia U17",
-        "logo": "https://media.api-sports.io/football/teams/17950.png",
-        "url": "https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8",
-        "time": "2026-05-28 23:00:00"
+        "time": "2026-05-28 19:00:00"
     },
     {
         "group": "FPT SPORT",
-        "title": "22h00 ngày 28/05 Ordabasy vs FC Kairat Almaty (Lương Sơn) BLV TÔN LẬP m3u",
+        "title": "01h00 ngày 29/05 Egypt vs Russia (Lương Sơn) BLV MỘT CHÂN m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/MOTCHAN1/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299",
+        "time": "2026-05-28 19:29:52"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h30 ngày 29/05 Fiorentina U20 vs Parma U20 (Lương Sơn) BLV MAYBACH m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b",
+        "time": "2026-05-28 19:29:52"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 29/05 Casa Pia AC vs SCU Torreense (Lương Sơn) BLV HÀN TÍN m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df",
+        "time": "2026-05-28 19:29:52"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h30 ngày 29/05 Fiorentina U20 vs Parma U20 (Lương Sơn) BLV TÔN LẬP m3u",
         "logo": "",
         "url": "https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df",
-        "time": "2026-05-28 16:49:01"
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "22h00 ngày 28/05 Naft Misan vs Al Quwa Al Jawiya (Lương Sơn) BLV TRIỆU TỬ LONG m3u",
+        "title": "01h00 ngày 29/05 Egypt vs Russia (Lương Sơn) BLV KAKA m3u",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "23h00 ngày 28/05 Estonia U17 vs Croatia U17 (Lương Sơn) BLV PHI HỔ m3u",
+        "title": "01h00 ngày 29/05 Egypt vs Russia (Lương Sơn) BLV DƯƠNG CHÍ m3u",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "23h00 ngày 28/05 Estonia U17 vs Croatia U17 (Lương Sơn) BLV LỮ BỐ m3u",
+        "title": "01h45 ngày 29/05 Ireland vs Qatar (Lương Sơn) BLV LỮ BỐ m3u",
         "logo": "",
         "url": "https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1",
-        "time": "2026-05-28 16:49:01"
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "23h20 ngày 28/05 Al Fahaheel SC vs Al-Salmiyah (Lương Sơn) BLV VƯƠNG LUÂN m3u",
+        "title": "01h45 ngày 29/05 Ireland vs Qatar (Lương Sơn) BLV PHI HỔ m3u",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "22h00 ngày 28/05 Ordabasy vs FC Kairat Almaty [BLV LONG] (Socolive) m3u8",
+        "title": "00h30 ngày 29/05 Al Qasim Sport Club vs AL Najaf (Lương Sơn) BLV FERNANDO m3u",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=48b19256ccb299eb5043e7277672efa1&txTime=6a18c1e4",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "22h00 ngày 28/05 Ordabasy vs FC Kairat Almaty [BLV LONG] (Socolive) hdM3u8",
+        "title": "02h00 ngày 29/05 Morocco U17 vs Senegal U17 (Lương Sơn) BLV LÝ ỨNG m3u",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=a6798b2ab8e37ccccb88b87f3d274b21&txTime=6a18c1e4",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "KUW D1: Al Fahaheel SC vs Al-Salmiya [ĐỖ TÚ TÀI] (Socolive) hdM3u8",
+        "title": "00h30 ngày 29/05 Al Qasim Sport Club vs AL Najaf (Lương Sơn) BLV LÃO HẠC m3u",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1779989756-0-0-cd1a7bb7649c4688a8380718e8dd4ab0",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "UEFA U17: Estonia U17 vs Croatia U17 [LOKA] (Socolive) hdM3u8",
+        "title": "01h45 ngày 29/05 Ireland vs Qatar [BLV LONG] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1779989756-0-0-b1bf3b9382869f21a7af671374ece9b1",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=3efcf97f7cda8c590af6427e53e00c1d&txTime=6a18e944",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "UEFA U17: Estonia U17 vs Croatia U17 [BLV KEM] (Socolive) hdM3u8",
+        "title": "01h45 ngày 29/05 Ireland vs Qatar [BLV LONG] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1779989396-0-0-a157c80da25e4ce5d9cda0336e7f67f5",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=c708250437296ad127062216b893e0e4&txTime=6a18e944",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "UEFA U17: Estonia U17 vs Croatia U17 [BLV FIREMAN] (Socolive) hdM3u8",
+        "title": "01h00 ngày 29/05 Egypt vs Russia [LÃO LÂM] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1779989756-0-0-a32c16daa3e049eea9a27b0d54ff1067",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1779999476-0-0-a69e989dba3286c95bde42c3584d1495",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "CAN U17: Egypt U17 vs Tanzania U17 [BLV GÔN] (Socolive) m3u8",
+        "title": "01h45 ngày 29/05 Ireland vs Qatar [BLV KEM] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=6c39cb36f62be9b24da6c0742a5afac8&txTime=6a18c34c",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1779999116-0-0-ffb3e93d3aad4bdf97108834a740e532",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "CAN U17: Egypt U17 vs Tanzania U17 [CHANH MUỐI] (Socolive) m3u8",
+        "title": "01h45 ngày 29/05 Ireland vs Qatar [BLV KEM] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1779989396-0-0-84c3328b5c196718a26775ddea1c689a",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1779999116-0-0-e6d8e172ace2d43296adc493c2eca8c1",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "CAN U17: Egypt U17 vs Tanzania U17 [BLV GÔN] (Socolive) hdM3u8",
+        "title": "02h00 ngày 29/05 Morocco U17 vs Senegal U17 [NGƯỜI CÁ] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=80ce0cbc9cd74071e48d561f5d4c289e&txTime=6a18c34c",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1779999476-0-0-42d4d239b5bbc8a100360a5367290a19",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "UEFA U17: Estonia U17 vs Croatia U17 [BLV KEM] (Socolive) m3u8",
+        "title": "01h00 ngày 29/05 Egypt vs Russia [BLV COCA] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1779989396-0-0-c5560ef883f5a56ffbaacc7c93139cf7",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1779999476-0-0-4150ddaf2da27f9c3695b2c618d5cfc5",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "VTBUL: Unics Kazan vs Zenit Petersburg [A CHÈ] (Socolive) hdM3u8",
+        "title": "01h45 ngày 29/05 Ireland vs Qatar [CÔNG CHẤT] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1779989756-0-0-5cf693be28c9358614d5c87f4a9b0039",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1779999476-0-0-2dc428cc77a33102473578c928f57ddb",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "CAN U17: Egypt U17 vs Tanzania U17 [BLV WUKONG] (Socolive) hdM3u8",
+        "title": "01h45 ngày 29/05 Ireland vs Qatar [BLV FIREMAN] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1779989396-0-0-15e973d4235c39ccaafad981d796e029",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1779999116-0-0-07b7fca8978034a92f17ad75cd82eba5",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "UEFA U17: Estonia U17 vs Croatia U17 [BLV FIREMAN] (Socolive) m3u8",
+        "title": "02h00 ngày 29/05 Casa Pia AC vs SCU Torreense [BLV YONE] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1779989756-0-0-f006125e71ee3623646639e9b6f93a0e",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1779999116-0-0-c07a89ea52d27a54be54394589222dc4",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "KUW D1: Al Fahaheel SC vs Al-Salmiya [ĐỖ TÚ TÀI] (Socolive) m3u8",
+        "title": "01h45 ngày 29/05 Ireland vs Qatar [CÔNG CHẤT] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1779989756-0-0-2f877e2cc9817145123f6b4eb9d541e5",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1779999476-0-0-7be40ea3820f59d3d18285a3e3cdd7ec",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "CAN U17: Egypt U17 vs Tanzania U17 [CHANH MUỐI] (Socolive) hdM3u8",
+        "title": "01h45 ngày 29/05 Ireland vs Qatar [LOKA] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1779989396-0-0-c4b8f9dd28f6f57de0b7a3c9a2cb28a4",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1779999116-0-0-9fa62ed51395c179f9c526cebe7830d2",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "DEN WD1: Kolding BK Women vs Fortuna Hjorring Women [BLV VIP] (Socolive) m3u8",
+        "title": "02h00 ngày 29/05 Morocco U17 vs Senegal U17 [NGƯỜI CÁ] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=9d8bc2cc6236899b103421040bf96a56&txTime=6a18c34c",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1779999476-0-0-feceb038eb50f3ce54b81b77d69307c7",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "22h00 ngày 28/05 Ordabasy vs FC Kairat Almaty [LÃO LÂM] (Socolive) m3u8",
+        "title": "02h00 ngày 29/05 Morocco U17 vs Senegal U17 [BLV CÁO] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1779989756-0-0-da8655977a9a7dbbfc73b56e9c2358b5",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1779999116-0-0-e1e70a20a13f4c2bb9f2781b986b18d6",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "CAN U17: Egypt U17 vs Tanzania U17 [BLV WUKONG] (Socolive) m3u8",
+        "title": "02h00 ngày 29/05 Casa Pia AC vs SCU Torreense [BLV YONE] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1779989396-0-0-0bada9f0b5f14d48b37b2a73bc429d99",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1779999116-0-0-3478a0c1a0160a64f363c603904c16fb",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "22h00 ngày 28/05 Ordabasy vs FC Kairat Almaty [LÃO LÂM] (Socolive) hdM3u8",
+        "title": "01h45 ngày 29/05 Ireland vs Qatar [BLV FIREMAN] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1779989756-0-0-16d265d87128bfed26b38599bb1c31d6",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1779999116-0-0-874c2719a53b1ea2f85232e68d957a2f",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "UEFA U17: Estonia U17 vs Croatia U17 [CÔNG CHẤT] (Socolive) m3u8",
+        "title": "02h00 ngày 29/05 Morocco U17 vs Senegal U17 [BLV CÁO] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1779989396-0-0-416413701834fcce9a3f21f953c2b835",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1779999116-0-0-d346ef1040a09520a55a74b2d968e703",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "UEFA U17: Estonia U17 vs Croatia U17 [LOKA] (Socolive) m3u8",
+        "title": "01h45 ngày 29/05 Ireland vs Qatar [LOKA] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1779989756-0-0-3440c209608307893d3c8962c1a6954e",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1779999116-0-0-c22451aa89c30e0900b3600fbaad044a",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "DEN WD1: Kolding BK Women vs Fortuna Hjorring Women [BLV VITAMIN] (Socolive) m3u8",
+        "title": "01h00 ngày 29/05 Egypt vs Russia [LÃO LÂM] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1779989396-0-0-38e5dcd2e3752a1b0107635e01cc63db",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1779999476-0-0-f23464270c880f13dcff5f4ac3468a78",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "DEN WD1: Kolding BK Women vs Fortuna Hjorring Women [BLV VITAMIN] (Socolive) hdM3u8",
+        "title": "01h00 ngày 29/05 Egypt vs Russia [BLV COCA] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1779989396-0-0-d820ff5765d191aca8372282d36746ab",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1779999476-0-0-8581518cb9e7687c98c4e77395ab6962",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "VTBUL: Unics Kazan vs Zenit Petersburg [A CHÈ] (Socolive) m3u8",
+        "title": "01h00 ngày 29/05 Egypt vs Russia [BLV A TINH] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1779989756-0-0-0c4e455f76b825ce36b3a65b2ff7c927",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=5339fb9070611ee0a366f825b12ea66a&txTime=6a18eaac",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "UEFA U17: Estonia U17 vs Croatia U17 [CÔNG CHẤT] (Socolive) hdM3u8",
+        "title": "01h00 ngày 29/05 Egypt vs Russia [BLV A TINH] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1779989396-0-0-2b7e69dcd365b319901dd3e79fd24c31",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=e212f969038939acc6606c47c0e35e75&txTime=6a18eaac",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "UEFA U17: Estonia U17 vs Croatia U17 [PINKMAN] (Socolive) m3u8",
+        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=6cdca8be37fd2a5e688379bdbcadd1e9&txTime=6a18c4b4",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1779999476-0-0-53ffdd736a1d603b87d312c819b0bd38",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "22h00 ngày 28/05 Ordabasy vs FC Kairat Almaty [BLV BÉO] (Socolive) hdM3u8",
+        "title": "01h45 29/05 Rep. Of Ireland vs Qatar (Hội Quán) FHD",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=2e4151b0008a6260646130a162e631fb&txTime=6a18c4b4",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "DEN WD1: Kolding BK Women vs Fortuna Hjorring Women [QUỐC KHÁNH] (Socolive) hdM3u8",
+        "title": "01h00 ngày 29/05 Egypt vs Russia [KÉP] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=101fdebdbcc730144010761dd711b774&txTime=6a18c34c",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1779999836-0-0-5fa332a679bb4d2c65ddff3f20415262",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "DEN WD1: Kolding BK Women vs Fortuna Hjorring Women [QUỐC KHÁNH] (Socolive) m3u8",
+        "title": "01h45 ngày 29/05 Ireland vs Qatar [A BỆU] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=272f5dfca5eeae4a77e52b046c74fb28&txTime=6a18c34c",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1779999836-0-0-2d874bda5abd70ba9d3a659d70261618",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "DEN WD1: Kolding BK Women vs Fortuna Hjorring Women [BLV VIP] (Socolive) hdM3u8",
+        "title": "01h45 ngày 29/05 Ireland vs Qatar [A BỆU] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=7bdf48b9dd4e961fe11250d3ef146fc8&txTime=6a18c34c",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1779999836-0-0-9155537735e504a4d261812c37030ce0",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "UEFA U17: Estonia U17 vs Croatia U17 [PINKMAN] (Socolive) hdM3u8",
+        "title": "02h00 ngày 29/05 Casa Pia AC vs SCU Torreense [ĐỖ TÚ TÀI] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=505e64aab81100a23dbe4a22aef4568c&txTime=6a18c4b4",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1779999836-0-0-d01011ab258c73ef6396ab6bdf1076e2",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "22h00 ngày 28/05 Ordabasy vs FC Kairat Almaty [BLV TAP] (Socolive) m3u8",
+        "title": "01h00 ngày 29/05 Egypt vs Russia [KÉP] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=a01ba74982c069c306197c0d31904221&txTime=6a18c4b4",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1779999836-0-0-387a90cca5a5bf0a8df228f6b13bdcb8",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "22h00 ngày 28/05 Ordabasy vs FC Kairat Almaty [BLV TAP] (Socolive) hdM3u8",
+        "title": "01h45 29/05 Rep. Of Ireland vs Qatar (Hội Quán) SD",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=89a565317b9beead9d946732b7e64724&txTime=6a18c4b4",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "KUW D1: Al Fahaheel SC vs Al-Salmiya [BLV RAMBO] (Socolive) hdM3u8",
+        "title": "01h00 ngày 29/05 Egypt vs Russia [BLV THÓC] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=d762329f436bac5a2ba7bbb4a65943ee&txTime=6a18c4b4",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779999836-0-0-5078f16a9981b97fb0fa460840509a3b",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "KUW D1: Al Fahaheel SC vs Al-Salmiya [BLV RAMBO] (Socolive) m3u8",
+        "title": "01h00 ngày 29/05 Egypt vs Russia [BLV THÓC] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=55d02432141409f729fd0859f1938bcc&txTime=6a18c4b4",
-        "time": "2026-05-28 16:49:01"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "22h00 ngày 28/05 Ordabasy vs FC Kairat Almaty [BLV BÉO] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=12259092b7fa08f627d333ccb27421e3&txTime=6a18c4b4",
-        "time": "2026-05-28 16:49:01"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "GEO D1: Torpedo Kutaisi vs Gagra FC [BLV ALEX] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1779990116-0-0-20ccba8f6b2e3e0cee5112b9d4a57ba3",
-        "time": "2026-05-28 16:49:01"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "UEFA U17: Estonia U17 vs Croatia U17 [BLV ENZO] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1779990116-0-0-c2762928c3b12534c91938513761a45d",
-        "time": "2026-05-28 16:49:01"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "22h00 ngày 28/05 Ordabasy vs FC Kairat Almaty [BLV LUCAS] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1779990116-0-0-d45b9e78a7942532af507b10e45f2ca7",
-        "time": "2026-05-28 16:49:01"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h00 28/05 Estonia U17 vs Croatia U17 (Hội Quán) FHD",
-        "logo": "",
-        "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8",
-        "time": "2026-05-28 16:49:01"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h00 28/05 Aryna Sabalenka vs Elsa Jacquemot (Hội Quán) FHD",
-        "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8",
-        "time": "2026-05-28 16:49:01"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "UEFA U17: Estonia U17 vs Croatia U17 [BLV ENZO] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1779990116-0-0-48dbcd07229529578e1fc46ed0b27813",
-        "time": "2026-05-28 16:49:01"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "VTBUL: Unics Kazan vs Zenit Petersburg [HUNTER] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1779990116-0-0-62daa9200e9cfbff3998d5bbc458b761",
-        "time": "2026-05-28 16:49:01"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "GEO D1: Torpedo Kutaisi vs Gagra FC [BLV ALEX] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1779990116-0-0-06589b5512832cff0d7d6ba44f7b9662",
-        "time": "2026-05-28 16:49:01"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h00 28/05 Estonia U17 vs Croatia U17 (Hội Quán) SD",
-        "logo": "",
-        "url": "https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8",
-        "time": "2026-05-28 16:49:01"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h00 28/05 Aryna Sabalenka vs Elsa Jacquemot (Hội Quán) SD",
-        "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8",
-        "time": "2026-05-28 16:49:01"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "VTBUL: Unics Kazan vs Zenit Petersburg [HUNTER] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1779990116-0-0-f75a65d8a1a8f8db56de972aadfc3080",
-        "time": "2026-05-28 16:49:01"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "22h00 28/05 Ben Shelton vs Raphael Collignon (Hội Quán) FHD",
-        "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8",
-        "time": "2026-05-28 16:49:01"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "GEO D1: Torpedo Kutaisi vs Gagra FC [BLV LION] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1779990116-0-0-5ad2b3b46840faec7497f0feebaf189c",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1779999836-0-0-2ba7c2326658073f1c4ac5a191071904",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
         "title": "21h00 28/05 Đ (Hội Quán) FHD",
         "logo": "",
         "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8",
-        "time": "2026-05-28 16:49:01"
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "GEO D1: Torpedo Kutaisi vs Gagra FC [BLV LION] (Socolive) hdM3u8",
+        "title": "02h00 ngày 29/05 Casa Pia AC vs SCU Torreense [BLV WUKONG] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1779990116-0-0-9481f34d8709e2c4688e371a0ec14e44",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1779999836-0-0-08978f961cc2578ebbd6969881a32540",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "CAN U17: Egypt U17 vs Tanzania U17 [BLV VOI] (Socolive) m3u8",
+        "title": "02h00 ngày 29/05 Morocco U17 vs Senegal U17 [CHANH MUỐI] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1779990116-0-0-cf83368031a85587e019e782561e6ceb",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1779999836-0-0-633ee67a45ae745fd2de930dd82ecd9c",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "CAN U17: Egypt U17 vs Tanzania U17 [BLV VOI] (Socolive) hdM3u8",
+        "title": "02h00 ngày 29/05 Casa Pia AC vs SCU Torreense [BLV ALEX] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1779990116-0-0-98b4ed2993a30edaadf81c8e76d24912",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1779999836-0-0-a4f2296c8d3869a5ed8e890877c76c6f",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "DEN WD1: Kolding BK Women vs Fortuna Hjorring Women [BLV A WIN] (Socolive) m3u8",
+        "title": "02h00 ngày 29/05 Casa Pia AC vs SCU Torreense [BLV ALEX] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1779990116-0-0-f01f2813e23d8922af0b1d48da51df29",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1779999836-0-0-eedb9ad0dd06bdda6eadfb57d8babff2",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "22h00 ngày 28/05 Ordabasy vs FC Kairat Almaty [BLV LUCAS] (Socolive) hdM3u8",
+        "title": "02h00 ngày 29/05 Casa Pia AC vs SCU Torreense [ĐỖ TÚ TÀI] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1779990116-0-0-54caa0f93ee1bb41ec2b19169818a9bb",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1779999836-0-0-7da8a0f538eee348a728f39a44a38503",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "DEN WD1: Kolding BK Women vs Fortuna Hjorring Women [BLV A WIN] (Socolive) hdM3u8",
+        "title": "01h00 ngày 29/05 Egypt vs Russia [CR Bưởi] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1779990116-0-0-dd1fbae8be1fe297968fcf7c4d16d841",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1779999836-0-0-3be3632e33c673fc27c15e6214d35f0b",
+        "time": "2026-05-28 19:29:52"
     },
     {
         "group": "FPT SPORT",
-        "title": "21h00 28/05 Đ (Hội Quán) SD",
+        "title": "01h00 ngày 29/05 Egypt vs Russia [CR Bưởi] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8",
-        "time": "2026-05-28 16:49:01"
+        "url": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1779999836-0-0-661a8d270db085fd655d2da171c9f4fa",
+        "time": "2026-05-28 19:29:52"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 29/05 Casa Pia AC vs SCU Torreense [BLV WUKONG] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1779999836-0-0-dbe01a67b26cdbc1be60fc4d548cc679",
+        "time": "2026-05-28 19:29:52"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 29/05 Morocco U17 vs Senegal U17 [CHANH MUỐI] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1779999836-0-0-04cb0a1c92bf812eb8f758879d5e93aa",
+        "time": "2026-05-28 19:29:52"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1779999476-0-0-2690c0bac0966688d2f1e72373512132",
+        "time": "2026-05-28 19:29:52"
     }
 ]
