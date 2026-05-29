@@ -15,13 +15,6 @@
     },
     {
         "group": "HỘI QUÁN",
-        "title": "07:30 | Boca Juniors vs U. Catolica",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Escudo_del_Club_Atl%C3%A9tico_Boca_Juniors_2012.svg",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8",
-        "time": "2026-05-29 07:30:00"
-    },
-    {
-        "group": "HỘI QUÁN",
         "title": "23:30 | Ludogorets vs Lokomotiv Plovdiv",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/8/87/Ludogorets_FC.png",
         "url": "https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8",
@@ -63,6 +56,13 @@
         "time": "2026-05-30 23:00:00"
     },
     {
+        "group": "HỘI QUÁN",
+        "title": "12:00 | Yokohama FC vs Omiya Ardija",
+        "logo": "https://upload.wikimedia.org/wikipedia/vi/1/18/YokohamaFC.png",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8",
+        "time": "2026-05-30 12:00:00"
+    },
+    {
         "group": "THIÊN ĐÌNH",
         "title": "22:00 | Morocco vs Burundi",
         "logo": "https://media.api-sports.io/football/teams/31.png",
@@ -74,70 +74,35 @@
         "title": "Montenegro U17 vs Italy U17",
         "logo": "https://media.api-sports.io/football/teams/17966.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8",
-        "time": "2026-05-29 00:14:04"
+        "time": "2026-05-29 04:44:45"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "Shenyang Urban vs SHANGHAI SIPG",
         "logo": "https://media.api-sports.io/football/teams/5684.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8",
-        "time": "2026-05-29 00:14:04"
+        "time": "2026-05-29 04:44:45"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "Welayta Dicha vs Negelle Arsi",
         "logo": "https://media.api-sports.io/football/teams/4124.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8",
-        "time": "2026-05-29 00:14:04"
+        "time": "2026-05-29 04:44:45"
     },
     {
         "group": "CA LA TV",
-        "title": "00:00 | Dallas Wings vs Las Vegas Aces",
-        "logo": "https://img.colatv88xd.cc/basketball/team/58709b9e7964e03c28ebe777ef823eca.png!w80",
-        "url": "https://live05.msdht.app/live/19919577.m3u8",
-        "time": "2026-05-29 00:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "00:30 | America de Cali vs Macara",
-        "logo": "https://img.colatv88xd.cc/football/team/ed6ae7fa894cb5bdbccfd605d1d6ad04.png!w80",
-        "url": "https://live05.msdht.app/live/99121525.m3u8",
-        "time": "2026-05-29 00:30:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "00:30 | Club Atletico Tigre vs Alianza Atl",
-        "logo": "https://img.colatv88xd.cc/football/team/95c9ef810563d777a5330b142f9ba38b.png!w80",
-        "url": "https://live05.msdht.app/live/88508431.m3u8",
-        "time": "2026-05-29 00:30:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "00:30 | San Antonio Spurs vs Oklahoma City Thunder",
-        "logo": "https://img.colatv88xd.cc/basketball/team/5305d1a7b721b5bef418041eff53ba82.png!w80",
-        "url": "https://live05.msdht.app/live/87379114.m3u8",
-        "time": "2026-05-29 00:30:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "00:30 | Boca Juniors vs U. Catolica",
-        "logo": "https://img.colatv88xd.cc/football/team/9ed2c4f6adc51975cdbd2a93093e6a43.png!w80",
+        "title": "07:00 | Shaanxi Union vs Nanjing City",
+        "logo": "https://img.colatv88xd.cc/football/team/69b0ed18e16d15d6888baad52e6fa88f.png!w80",
         "url": "https://live05.msdht.app/live/14707124.m3u8",
-        "time": "2026-05-29 00:30:00"
+        "time": "2026-05-29 07:00:00"
     },
     {
         "group": "CA LA TV",
-        "title": "00:30 | Cruzeiro vs Barcelona SC",
-        "logo": "https://img.colatv88xd.cc/football/team/b1cac6380900d22bdb0d31763c658434.png!w80",
-        "url": "https://live05.msdht.app/live/02456966.m3u8",
-        "time": "2026-05-29 00:30:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "02:00 | Golden State Valkyries vs Indiana Fever",
-        "logo": "https://img.colatv88xd.cc/basketball/team/380d81d4050b81debf9a5500239e96d0.png!w80",
-        "url": "https://live05.msdht.app/live/90865415.m3u8",
-        "time": "2026-05-29 02:00:00"
+        "title": "07:30 | Taranaki Mountainairs vs Manawatu Jets",
+        "logo": "https://img.colatv88xd.cc/basketball/team/4a53d9c2cb91af126ea40faba5a3bf5a.png!w80",
+        "url": "https://live05.msdht.app/live/87379114.m3u8",
+        "time": "2026-05-29 07:30:00"
     },
     {
         "group": "CA LA TV",
@@ -152,6 +117,13 @@
         "logo": "https://img.colatv88xd.cc/football/team/62ee76fc01732a90a87f98940d031d6e.png!w80",
         "url": "https://live05.msdht.app/live/08552895.m3u8",
         "time": "2026-05-29 09:30:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "10:15 | North Star vs Brisbane Strikers",
+        "logo": "https://img.colatv88xd.cc/football/team/4fdd983fc166e48243c7eecfdeb57f25.png!w80",
+        "url": "https://live05.msdht.app/live/02456966.m3u8",
+        "time": "2026-05-29 10:15:00"
     },
     {
         "group": "CA LA TV",
@@ -176,6 +148,13 @@
     },
     {
         "group": "CA LA TV",
+        "title": "12:30 | Nha Trang Dolphins vs Sài Gòn Heat",
+        "logo": "https://img.colatv88xd.cc/basketball/team/290bb5a5d16c3896908433bad65712dc.png!w80",
+        "url": "https://live05.msdht.app/live/90865415.m3u8",
+        "time": "2026-05-29 12:30:00"
+    },
+    {
+        "group": "CA LA TV",
         "title": "15:00 | Riga FC vs Grobina",
         "logo": "https://img.colatv88xd.cc/football/team/b7413988c01bdaac56c8118536bdd073.png!w80",
         "url": "https://live05.msdht.app/live/43612277.m3u8",
@@ -196,745 +175,500 @@
         "time": "2026-05-29 17:00:00"
     },
     {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 29/05 CD El Nacional vs Universidad Catolica (Lương Sơn) BLV VÕ TÒNG m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299",
-        "time": "2026-05-29 00:14:05"
+        "group": "CA LA TV",
+        "title": "22:00 | Cobresal vs Nublense",
+        "logo": "https://img.colatv88xd.cc/football/team/a5e650365ee5c40efb649bf12015eb6d.png!w80",
+        "url": "https://live05.msdht.app/live/88508431.m3u8",
+        "time": "2026-05-29 22:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "23:00 | Toronto FC B vs Philadelphia Union II",
+        "logo": "https://img.colatv88xd.cc/football/team/d85b4da177906440b0b1616aff569914.png!w80",
+        "url": "https://live05.msdht.app/live/99121525.m3u8",
+        "time": "2026-05-29 23:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "23:30 | Chicago Sky vs Minnesota Lynx",
+        "logo": "https://img.colatv88xd.cc/basketball/team/96c0adc8a98bb466bfa539f11ce8ae04.png!w80",
+        "url": "https://live05.msdht.app/live/19919577.m3u8",
+        "time": "2026-05-29 23:30:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "01:00 | Hàn Quốc vs Trinidad & Tobago",
+        "logo": "https://img.colatv88xd.cc/football/team/6581bc34692022be4c21d98778e33df0.png!w80",
+        "url": "https://live05.msdht.app/live/90725470.m3u8",
+        "time": "2026-05-31 01:00:00"
     },
     {
         "group": "FPT SPORT",
-        "title": "06h00 ngày 29/05 CD El Nacional vs Universidad Catolica (Lương Sơn) BLV VÕ TÒNG flv",
+        "title": "10h00 ngày 29/05 CISF vs Friends United (Lương Sơn) NHÀ ÐÀI m3u",
         "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299",
-        "time": "2026-05-29 00:14:05"
+        "url": "https://auto.cdnfaster.live/live/sd-6Mwe5TPRYYyWbYUaNx/playlist.m3u8",
+        "time": "2026-05-29 04:44:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "10h00 ngày 29/05 Nasinu FC vs Labasa FC (Lương Sơn) NHÀ ÐÀI m3u",
+        "logo": "",
+        "url": "https://auto.cdnfaster.live/live/sd-6Mwe5Wdeo5u2iwTDhv/playlist.m3u8",
+        "time": "2026-05-29 04:44:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "10h40 ngày 29/05 Suva FC vs Lautoka (Lương Sơn) NHÀ ÐÀI m3u",
+        "logo": "",
+        "url": "https://auto.cdnfaster.live/live/sd-6Mwe5WdeoAHzTu741i/playlist.m3u8",
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
         "title": "07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8",
-        "time": "2026-05-29 00:14:05"
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 UNSW FC Women vs University of Sydney Women (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/8988f3aa5ce2f85d4c50a0bc65d9d998/playlist.m3u8",
-        "time": "2026-05-29 00:14:05"
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Newcastle Olympic FC Reserves vs Charlestown Azzurri Reserves (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/6f115b2fe383bc3710a61f46cc1b22f9/playlist.m3u8",
-        "time": "2026-05-29 00:14:05"
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
         "title": "07h10 ngày 23/05 Boston Legacy W vs Seattle Reign (W) (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8",
-        "time": "2026-05-29 00:14:05"
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Mexico vs Ghana (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8",
-        "time": "2026-05-29 00:14:05"
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 America de Cali vs Macara (Chuối Chiên) HD1",
+        "title": "16h30 ngày 29/05 Heidelberg United vs Dandenong Thunder (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8",
-        "time": "2026-05-29 00:14:05"
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 America de Cali vs Macara (Chuối Chiên) HD2",
+        "title": "16h30 ngày 29/05 Heidelberg United vs Dandenong Thunder (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/m5x1.flv",
-        "time": "2026-05-29 00:14:05"
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Tigre vs Alianza Atletico (Chuối Chiên) HD1",
+        "title": "17h00 ngày 29/05 Ethiopia Nigd Bank vs Mebrat Hayl (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8",
-        "time": "2026-05-29 00:14:05"
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Tigre vs Alianza Atletico (Chuối Chiên) HD2",
+        "title": "17h00 ngày 29/05 Ethiopia Nigd Bank vs Mebrat Hayl (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/m5x2.flv",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Boca Juniors vs U. Catolica (Chuối Chiên) HD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Boca Juniors vs U. Catolica (Chuối Chiên) HD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Boca Juniors vs U. Catolica (Chuối Chiên) FHD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Boca Juniors vs U. Catolica (Chuối Chiên) FHD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Cruzeiro vs Barcelona SC (Chuối Chiên) HD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/m5x3/playlist.m3u8",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Cruzeiro vs Barcelona SC (Chuối Chiên) HD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/m5x3.flv",
-        "time": "2026-05-29 00:14:05"
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
         "title": "18h30 ngày 29/05 Montenegro U17 vs Italy U17 (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8",
-        "time": "2026-05-29 00:14:05"
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
         "title": "18h30 ngày 29/05 Montenegro U17 vs Italy U17 (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoito.flv",
-        "time": "2026-05-29 00:14:05"
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
         "title": "18h30 ngày 29/05 Montenegro U17 vs Italy U17 (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8",
-        "time": "2026-05-29 00:14:05"
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
         "title": "18h30 ngày 29/05 Montenegro U17 vs Italy U17 (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv",
-        "time": "2026-05-29 00:14:05"
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
         "title": "18h35 ngày 29/05 Shenyang Urban vs SHANGHAI SIPG (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8",
-        "time": "2026-05-29 00:14:05"
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
         "title": "18h35 ngày 29/05 Shenyang Urban vs SHANGHAI SIPG (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho.flv",
-        "time": "2026-05-29 00:14:05"
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
         "title": "18h35 ngày 29/05 Shenyang Urban vs SHANGHAI SIPG (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
-        "time": "2026-05-29 00:14:05"
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
         "title": "18h35 ngày 29/05 Shenyang Urban vs SHANGHAI SIPG (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv",
-        "time": "2026-05-29 00:14:05"
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
         "title": "19h00 ngày 29/05 Suhul Shire vs Hadiya Hosaena (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8",
-        "time": "2026-05-29 00:14:05"
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
         "title": "19h00 ngày 29/05 Suhul Shire vs Hadiya Hosaena (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/max.flv",
-        "time": "2026-05-29 00:14:05"
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
         "title": "19h00 ngày 29/05 Suhul Shire vs Hadiya Hosaena (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8",
-        "time": "2026-05-29 00:14:05"
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
         "title": "19h00 ngày 29/05 Suhul Shire vs Hadiya Hosaena (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/maxhd.flv",
-        "time": "2026-05-29 00:14:05"
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
         "title": "20h00 ngày 29/05 Welayta Dicha vs Negelle Arsi (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/anhhot/playlist.m3u8",
-        "time": "2026-05-29 00:14:05"
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
         "title": "20h00 ngày 29/05 Welayta Dicha vs Negelle Arsi (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/anhhot.flv",
-        "time": "2026-05-29 00:14:05"
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
         "title": "20h00 ngày 29/05 Welayta Dicha vs Negelle Arsi (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/anhhothd/playlist.m3u8",
-        "time": "2026-05-29 00:14:05"
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
         "title": "20h00 ngày 29/05 Welayta Dicha vs Negelle Arsi (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/anhhothd.flv",
-        "time": "2026-05-29 00:14:05"
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
         "title": "21h00 ngày 29/05 Masr vs Kahraba Ismailia (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
-        "time": "2026-05-29 00:14:05"
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
         "title": "21h00 ngày 29/05 Masr vs Kahraba Ismailia (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay.flv",
-        "time": "2026-05-29 00:14:05"
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
         "title": "21h00 ngày 29/05 Masr vs Kahraba Ismailia (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
-        "time": "2026-05-29 00:14:05"
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
         "title": "21h00 ngày 29/05 Masr vs Kahraba Ismailia (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv",
-        "time": "2026-05-29 00:14:05"
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC (Gà Vàng) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/821d54abadb12c6c15edba538ab20ad1/playlist.m3u8",
-        "time": "2026-05-29 00:14:05"
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
         "title": "07h00 ngày 23/05 Sporting Kansas CityReserves vs Austin FC II (Gà Vàng) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8",
-        "time": "2026-05-29 00:14:05"
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 29/05 Palmeiras - SP vs Atletico Junior Barranquilla [BLV RÔSI] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=930d58e7296908b4bb70fbd7554d2d7e&txTime=6a1929f4",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 29/05 Palmeiras - SP vs Atletico Junior Barranquilla [BLV RÔSI] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=0959bbd3fcaacdaf2b5102d522e3afd0&txTime=6a1929f4",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 29/05 Palmeiras - SP vs Atletico Junior Barranquilla [BLV RÔSI] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=930d58e7296908b4bb70fbd7554d2d7e&txTime=6a1929f4",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 29/05 Palmeiras - SP vs Atletico Junior Barranquilla [BLV RÔSI] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=0959bbd3fcaacdaf2b5102d522e3afd0&txTime=6a1929f4",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Cruzeiro - MG vs Barcelona SC(ECU) [BLV CUỘI] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1780016036-0-0-8b5f64695a0dac189e504f8c8e33cc3d",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Cruzeiro - MG vs Barcelona SC(ECU) [BLV CUỘI] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1780016036-0-0-3ff0c3e2edea1406033634b43bd40a60",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Cruzeiro - MG vs Barcelona SC(ECU) [BLV CUỘI] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1780016036-0-0-8e411928232485a1e2bb3fb8c2082d85",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Cruzeiro - MG vs Barcelona SC(ECU) [BLV CUỘI] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1780016036-0-0-8c035a160d1978d178898070c5ac87c2",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Boca Juniors vs Univ Catolica [BLV Củ Cải] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1780016396-0-0-b10871fbadc04713dfa9d841d7f10697",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Boca Juniors vs Univ Catolica [BLV Củ Cải] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1780016396-0-0-36470c939716a7c20472d4e93760282a",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Boca Juniors vs Univ Catolica [BLV Củ Cải] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1780016396-0-0-06a1fdd620ae306a391b748022e883df",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Boca Juniors vs Univ Catolica [BLV Củ Cải] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1780016396-0-0-f6d6d9e142745e3f95cbe14c425c4783",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Cruzeiro - MG vs Barcelona SC(ECU) [MONEY MAN] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-605412_lsd.flv?auth_key=1780016396-0-0-665a0dc27b33d3b2b0b2251f1cbd15d5",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Cruzeiro - MG vs Barcelona SC(ECU) [MONEY MAN] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-605412_lhd.flv?auth_key=1780016396-0-0-d0f9dc0293e184b487e7e6c7c91c7b62",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Cruzeiro - MG vs Barcelona SC(ECU) [MONEY MAN] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-605412_lsd.m3u8?auth_key=1780016396-0-0-c9fea5e9f0f8462f37b8296462ed96db",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Cruzeiro - MG vs Barcelona SC(ECU) [MONEY MAN] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-605412_lhd.m3u8?auth_key=1780016396-0-0-33f1c6bccbb35d9064a1971da09216b8",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 America de Cali vs Macara [BLV MESSI] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1780016396-0-0-510863dce1677c54b8e9ff905c7f7a2a",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 America de Cali vs Macara [BLV MESSI] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1780016396-0-0-ad9bdbd84ef1f2fe07fa17de2b3286e9",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 America de Cali vs Macara [BLV MESSI] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1780016396-0-0-97a1af380c6ff3ed862f2b4cc3254037",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 America de Cali vs Macara [BLV MESSI] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1780016396-0-0-cae0b30a98c95638c4362dbf3ac8ea9d",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 San Antonio Spurs vs Oklahoma City Thunder [CHAN SENA] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1780016396-0-0-fa15604671ef728059d3c90973b242c4",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 San Antonio Spurs vs Oklahoma City Thunder [CHAN SENA] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1780016396-0-0-a1ccd0c60e85753bb5b8356f396ad821",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 San Antonio Spurs vs Oklahoma City Thunder [CHAN SENA] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780016396-0-0-def1c880e0ad59f2ea7e6ccacbf47577",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 San Antonio Spurs vs Oklahoma City Thunder [CHAN SENA] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780016396-0-0-755444065d97364b1c5545015360329d",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 San Antonio Spurs vs Oklahoma City Thunder [A CHÈ] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1780016756-0-0-c8459b4dcb067339c837be5196ea55b6",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 San Antonio Spurs vs Oklahoma City Thunder [A CHÈ] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780016756-0-0-757bddcf2f7211b57234f0bf0b00adb7",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 San Antonio Spurs vs Oklahoma City Thunder [A CHÈ] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780016756-0-0-067bff9ba2035bf71451f163d8b89fe6",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 San Antonio Spurs vs Oklahoma City Thunder [A CHÈ] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780016756-0-0-41f468ece0b2d8edb03c5124c1b93a37",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Boca Juniors vs Univ Catolica [RICKHANTER] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=2de086f1e5afd4682b1420c7fefdc107&txTime=6a192cc4",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Boca Juniors vs Univ Catolica [RICKHANTER] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=7ee89eb40ec1820f97a86d5b68ccdfeb&txTime=6a192cc4",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Boca Juniors vs Univ Catolica [RICKHANTER] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=2de086f1e5afd4682b1420c7fefdc107&txTime=6a192cc4",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Boca Juniors vs Univ Catolica [RICKHANTER] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=7ee89eb40ec1820f97a86d5b68ccdfeb&txTime=6a192cc4",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Club Atletico Tigre vs Alianza Atletico Sullana [BLV CHIVAS] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=716c3d3ad287ccdf857b4b6524184975&txTime=6a192cc4",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Club Atletico Tigre vs Alianza Atletico Sullana [BLV CHIVAS] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=6fb375df41916e898b2a174645a38ae6&txTime=6a192cc4",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Club Atletico Tigre vs Alianza Atletico Sullana [BLV CHIVAS] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=716c3d3ad287ccdf857b4b6524184975&txTime=6a192cc4",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Club Atletico Tigre vs Alianza Atletico Sullana [BLV CHIVAS] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=6fb375df41916e898b2a174645a38ae6&txTime=6a192cc4",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Boca Juniors vs Univ Catolica [BLV 7UP] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1780016756-0-0-388134cb79fdfc16baf0dd8898ba700a",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Boca Juniors vs Univ Catolica [BLV 7UP] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1780016756-0-0-e8b770b5acd477a5415255b08116c2eb",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Boca Juniors vs Univ Catolica [BLV 7UP] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1780016756-0-0-7c5db6d735fabe0103ea2f83901cfe94",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Boca Juniors vs Univ Catolica [BLV 7UP] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780016756-0-0-b5adc1db7d885391e6090fca5026aa01",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Cruzeiro - MG vs Barcelona SC(ECU) [BLV PEWPEW] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1780016756-0-0-d262ac446ec66e50409fdb5b2c3a6b8d",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Cruzeiro - MG vs Barcelona SC(ECU) [BLV PEWPEW] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1780016756-0-0-43f7b9f016bb4ae2e0423090d706bf71",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Cruzeiro - MG vs Barcelona SC(ECU) [BLV PEWPEW] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1780016756-0-0-272179db357aa6f67a3bd31865633b9c",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Cruzeiro - MG vs Barcelona SC(ECU) [BLV PEWPEW] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780016756-0-0-56a0a655fe7708f02797a65c0fe9f278",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Boca Juniors vs Univ Catolica [DECO] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1780016756-0-0-6db7faf0f396969e56383ea20ef56fbb",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Boca Juniors vs Univ Catolica [DECO] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1780016756-0-0-a5afbc9789a900bf6fa6ac3d5b0e1605",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Boca Juniors vs Univ Catolica [DECO] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1780016756-0-0-58ffa97b89c4eb4aab16a41dcea7bce5",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Boca Juniors vs Univ Catolica [DECO] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1780016756-0-0-b1ff0074bd1aa8ced41f80fc8be3d68b",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 America de Cali vs Macara [HÀ DUY KIÊN] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-607400_lsd.flv?auth_key=1780016756-0-0-8859e0d368342e6d5a66c3eb361b6b27",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 America de Cali vs Macara [HÀ DUY KIÊN] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1780016756-0-0-991822198d47da28bff0988e37602069",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 America de Cali vs Macara [HÀ DUY KIÊN] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1780016756-0-0-5f3e0c89cf44b44b226f28ad37ef4fb9",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 America de Cali vs Macara [HÀ DUY KIÊN] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1780016756-0-0-41a10864e1ce48bf5335742fbec0a38e",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Cruzeiro - MG vs Barcelona SC(ECU) [BLV RYO] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1780016756-0-0-d71d49e5696337053622d402a8311fef",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Cruzeiro - MG vs Barcelona SC(ECU) [BLV RYO] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1780016756-0-0-89866155331cc8c5784cf70eed0029bd",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Cruzeiro - MG vs Barcelona SC(ECU) [BLV RYO] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1780016756-0-0-a08af5c73a76e664d9820ebebcddf9aa",
-        "time": "2026-05-29 00:14:05"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "07h30 ngày 29/05 Cruzeiro - MG vs Barcelona SC(ECU) [BLV RYO] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1780016756-0-0-cfd8d23416c73babb91f586d979cd471",
-        "time": "2026-05-29 00:14:05"
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780016756-0-0-7c0296739ce9e4c7ceecc8bc626d5ab9",
-        "time": "2026-05-29 00:14:05"
+        "url": "https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780032236-0-0-e4ab7d449dd100fbd6086e8c9ac4b258",
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780016756-0-0-88877d20ae2f000073b47aa8c8c51b89",
-        "time": "2026-05-29 00:14:05"
+        "url": "https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780032236-0-0-3a99bf2bbb8e19863661c9d7238363d3",
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780016756-0-0-3a6ee884742ca1b9a5ea4b7ff61d42bc",
-        "time": "2026-05-29 00:14:05"
+        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780032236-0-0-cf73cca2e68516f82c064ace0ac1a2c2",
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780016756-0-0-7395437d659b0d018f5d9e2bb5abdee8",
-        "time": "2026-05-29 00:14:05"
+        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780032236-0-0-bf004d61ac5200bee11b246840bd1674",
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "07h30 29/05 Boca Juniors vs U. Catolica (Hội Quán) FHD",
+        "title": "Tường thuật: INTERF - Ireland vs Qatar [Sóc trong rừng xà nu] (Socolive) flv",
         "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8",
-        "time": "2026-05-29 00:14:05"
+        "url": "https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1780032596-0-0-18d19562e7612cf4ba235b994ee21d73",
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "07h30 29/05 Boca Juniors vs U. Catolica (Hội Quán) SD",
+        "title": "Tường thuật: INTERF - Ireland vs Qatar [Sóc trong rừng xà nu] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8",
-        "time": "2026-05-29 00:14:05"
+        "url": "https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1780032596-0-0-74186a6e97d982f206a8e49265dcc15e",
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "07h30 29/05 Cruzeiro vs Barcelona SC (Hội Quán) FHD",
+        "title": "Tường thuật: INTERF - Ireland vs Qatar [Sóc trong rừng xà nu] (Socolive) m3u8",
         "logo": "",
-        "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8",
-        "time": "2026-05-29 00:14:05"
+        "url": "https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1780032596-0-0-bcdca71a5a78da0654fe2ee1caa75aa9",
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "07h30 29/05 Cruzeiro vs Barcelona SC (Hội Quán) SD",
+        "title": "Tường thuật: INTERF - Ireland vs Qatar [Sóc trong rừng xà nu] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8",
-        "time": "2026-05-29 00:14:05"
+        "url": "https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1780032596-0-0-f1d390062b52defa600895d75767312d",
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "07h30 29/05 Oklahoma City Thunder vs San Antonio Spurs (Hội Quán) FHD",
+        "title": "Tường thuật: EGY D1 - Petrojet vs El Gounah [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv",
         "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8",
-        "time": "2026-05-29 00:14:05"
+        "url": "https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1780032596-0-0-1b7f68ebfa4a9bb5145590ba47325278",
+        "time": "2026-05-29 04:44:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "07h30 29/05 Oklahoma City Thunder vs San Antonio Spurs (Hội Quán) SD",
+        "title": "Tường thuật: EGY D1 - Petrojet vs El Gounah [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8",
-        "time": "2026-05-29 00:14:05"
+        "url": "https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1780032596-0-0-53434ef44adce33be63815c948ca12a1",
+        "time": "2026-05-29 04:44:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: EGY D1 - Petrojet vs El Gounah [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1780032596-0-0-0575e0241ba1c11b4481a9f68d8984e5",
+        "time": "2026-05-29 04:44:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: EGY D1 - Petrojet vs El Gounah [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1780032596-0-0-41840be5557c383b1744496a79c7e410",
+        "time": "2026-05-29 04:44:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: UEFA ECL - Crystal Palace vs Rayo Vallecano [Sóc nhàm nhang nhồ] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1780032596-0-0-57ec7794f5d302ffbb83075b2b4fc78b",
+        "time": "2026-05-29 04:44:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: UEFA ECL - Crystal Palace vs Rayo Vallecano [Sóc nhàm nhang nhồ] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1780032596-0-0-c3a0a17e172bdd88babbf36173554ecb",
+        "time": "2026-05-29 04:44:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: UEFA ECL - Crystal Palace vs Rayo Vallecano [Sóc nhàm nhang nhồ] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1780032596-0-0-288a9917e689c88bd6a2e60d01759bc7",
+        "time": "2026-05-29 04:44:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: UEFA ECL - Crystal Palace vs Rayo Vallecano [Sóc nhàm nhang nhồ] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1780032596-0-0-7b3afedfbb3d83be50fa580cd52e364b",
+        "time": "2026-05-29 04:44:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: LIB Cup - Fluminense - RJ vs Deportivo La Guaira [Sóc đau cổ vai gáy] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1780032596-0-0-ed26e3757681abc60c0b688deb894c92",
+        "time": "2026-05-29 04:44:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: LIB Cup - Fluminense - RJ vs Deportivo La Guaira [Sóc đau cổ vai gáy] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1780032596-0-0-f07f33fdde146262da2cfa313646eccf",
+        "time": "2026-05-29 04:44:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: LIB Cup - Fluminense - RJ vs Deportivo La Guaira [Sóc đau cổ vai gáy] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1780032596-0-0-9c30bc139bd8589138b1f33889ebcd9b",
+        "time": "2026-05-29 04:44:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: LIB Cup - Fluminense - RJ vs Deportivo La Guaira [Sóc đau cổ vai gáy] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1780032596-0-0-60d0b2c5e115783a3f653f449c2c19ca",
+        "time": "2026-05-29 04:44:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: UEFA U17 - Belgium U17 vs Spain U17 [Sóc trèo cây ngô đồng] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1780032596-0-0-cb3c2986dca50f4d7b31c93464616c5d",
+        "time": "2026-05-29 04:44:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: UEFA U17 - Belgium U17 vs Spain U17 [Sóc trèo cây ngô đồng] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1780032596-0-0-a447e892a6560dd8ca5c56da1a0ef901",
+        "time": "2026-05-29 04:44:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: UEFA U17 - Belgium U17 vs Spain U17 [Sóc trèo cây ngô đồng] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1780032596-0-0-2774be94e1ccea01c09e6ee7bf8fad24",
+        "time": "2026-05-29 04:44:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: UEFA U17 - Belgium U17 vs Spain U17 [Sóc trèo cây ngô đồng] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1780032596-0-0-5a17b63455ae481afe10c823d68eecda",
+        "time": "2026-05-29 04:44:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: INTERF - Egypt vs Russia [Sóc mèo méo meo] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1780032596-0-0-5c51e04893cec3f80bdf9734582206cc",
+        "time": "2026-05-29 04:44:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: INTERF - Egypt vs Russia [Sóc mèo méo meo] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1780032596-0-0-427868983f7e211944df8f61295a381c",
+        "time": "2026-05-29 04:44:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: INTERF - Egypt vs Russia [Sóc mèo méo meo] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1780032596-0-0-e98064be41b067e1a9a4449538ed510d",
+        "time": "2026-05-29 04:44:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: INTERF - Egypt vs Russia [Sóc mèo méo meo] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1780032596-0-0-f144a8c82a8cf42cb22c055dccc2e6dc",
+        "time": "2026-05-29 04:44:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "11h00 29/05 KFF Singapore Badminton Open 2026 (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8",
+        "time": "2026-05-29 04:44:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "11h00 29/05 KFF Singapore Badminton Open 2026 (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8",
+        "time": "2026-05-29 04:44:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "12h00 29/05 KFF Singapore Badminton Open 2026 (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8",
+        "time": "2026-05-29 04:44:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "12h00 29/05 KFF Singapore Badminton Open 2026 (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8",
+        "time": "2026-05-29 04:44:46"
     }
 ]
