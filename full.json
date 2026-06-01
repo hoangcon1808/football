@@ -1,20 +1,6 @@
 [
     {
         "group": "HỘI QUÁN",
-        "title": "04:30 | Brazil vs Panama",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
-        "url": "https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8",
-        "time": "2026-06-01 04:30:00"
-    },
-    {
-        "group": "HỘI QUÁN",
-        "title": "04:30 | Brazil vs Panama",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8",
-        "time": "2026-06-01 04:30:00"
-    },
-    {
-        "group": "HỘI QUÁN",
         "title": "16:00 | Vietnam U19 vs Timor-Leste U19",
         "logo": "https://media.api-sports.io/football/teams/19157.png",
         "url": "https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8",
@@ -38,8 +24,22 @@
         "group": "HỘI QUÁN",
         "title": "20:00 | Indonesia U19 vs Myanmar U19",
         "logo": "https://media.api-sports.io/football/teams/19149.png",
+        "url": "https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-01 20:00:00"
+    },
+    {
+        "group": "HỘI QUÁN",
+        "title": "20:00 | Indonesia U19 vs Myanmar U19",
+        "logo": "https://media.api-sports.io/football/teams/19149.png",
         "url": "https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8",
         "time": "2026-06-01 20:00:00"
+    },
+    {
+        "group": "HỘI QUÁN",
+        "title": "23:00 | Slovakia vs Malta",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/250px-Flag_of_Slovakia.svg.png",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-01 23:00:00"
     },
     {
         "group": "HỘI QUÁN",
@@ -81,42 +81,35 @@
         "title": "Vietnam U19 vs Timor-Leste U19",
         "logo": "https://media.api-sports.io/football/teams/19157.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8",
-        "time": "2026-05-31 23:00:13"
+        "time": "2026-06-01 00:13:58"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "Denmark U17 vs Italy U17",
         "logo": "https://media.api-sports.io/football/teams/17948.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_delua/playlist.m3u8",
-        "time": "2026-05-31 23:00:13"
+        "time": "2026-06-01 00:13:58"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "France U17 vs Montenegro U17",
         "logo": "https://media.api-sports.io/football/teams/12507.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8",
-        "time": "2026-05-31 23:00:13"
+        "time": "2026-06-01 00:13:58"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "Tajikistan vs Palestine",
         "logo": "https://media.api-sports.io/football/teams/1536.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8",
-        "time": "2026-05-31 23:00:13"
+        "time": "2026-06-01 00:13:58"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "Brunei vs Timoer-Lester",
         "logo": "https://static.flashscore.com/res/image/data/b3MRYRwS-dCIdRhFh.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_khomuc/playlist.m3u8",
-        "time": "2026-05-31 23:00:13"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "21:30 | Brazil vs Panama",
-        "logo": "https://img.colatv88xd.cc/football/team/99bf3d153d4bf67d640051a1af322505.png!w80",
-        "url": "https://live05.msdht.app/live/90725470.m3u8",
-        "time": "2026-05-31 21:30:00"
+        "time": "2026-06-01 00:13:58"
     },
     {
         "group": "CA LA TV",
@@ -155,9 +148,16 @@
     },
     {
         "group": "CA LA TV",
+        "title": "10:30 | Melbourne Victory FC Young vs Melbourne Knights",
+        "logo": "https://img.colatv88xd.cc/football/team/e1cb64d87c630dfeebd887026bf5ec2c.png!w80",
+        "url": "https://live05.msdht.app/live/99121525.m3u8",
+        "time": "2026-06-01 10:30:00"
+    },
+    {
+        "group": "CA LA TV",
         "title": "11:30 | Đan Mạch U17 vs Ý U17",
         "logo": "https://img.colatv88xd.cc/football/team/685d3703a0b1410dc3bf2280eb5a15ec.png!w80",
-        "url": "https://live05.msdht.app/live/88508431.m3u8",
+        "url": "https://live05.msdht.app/live/90725470.m3u8",
         "time": "2026-06-01 11:30:00"
     },
     {
@@ -197,13 +197,6 @@
     },
     {
         "group": "CA LA TV",
-        "title": "23:00 | CA Penarol vs Central Espanol",
-        "logo": "https://img.colatv88xd.cc/football/team/d95f60f58aac7368fb6659aa0f27cfbf.png!w80",
-        "url": "https://live05.msdht.app/live/99121525.m3u8",
-        "time": "2026-06-01 23:00:00"
-    },
-    {
-        "group": "CA LA TV",
         "title": "16:00 | Croatia vs Bỉ",
         "logo": "https://img.colatv88xd.cc/football/team/0c383e8deecbd58d5cbdfd324132b91f.png!w80",
         "url": "https://live05.msdht.app/live/97312754.m3u8",
@@ -211,730 +204,1010 @@
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 Brazil vs Panama (Lương Sơn) BLV VƯƠNG LUÂN m3u",
+        "title": "06h30 ngày 01/06 Cruzeiro vs Fluminense RJ (Lương Sơn) BLV LÝ QUỲ m3u",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 Brazil vs Panama (Lương Sơn) BLV VƯƠNG LUÂN flv",
+        "title": "06h30 ngày 01/06 Cruzeiro vs Fluminense RJ (Lương Sơn) BLV LÝ QUỲ flv",
         "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 Brazil vs Panama (Lương Sơn) BLV FERNANDO m3u",
+        "title": "06h30 ngày 01/06 Remo Belem (PA) vs Sao Paulo (Lương Sơn) BLV SHIN m3u",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 Brazil vs Panama (Lương Sơn) BLV FERNANDO flv",
+        "title": "06h30 ngày 01/06 Remo Belem (PA) vs Sao Paulo (Lương Sơn) BLV SHIN flv",
         "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 01/06 Palestino vs Audax Italiano (Lương Sơn) BLV KAKA m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 01/06 Palestino vs Audax Italiano (Lương Sơn) BLV KAKA flv",
+        "logo": "",
+        "url": "https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 01/06 Westchester Flames vs Staten Island ASC (Lương Sơn) BLV VÕ TÒNG m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 01/06 Westchester Flames vs Staten Island ASC (Lương Sơn) BLV VÕ TÒNG flv",
+        "logo": "",
+        "url": "https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
         "title": "07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8",
-        "time": "2026-05-31 23:00:14"
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 UNSW FC Women vs University of Sydney Women (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/8988f3aa5ce2f85d4c50a0bc65d9d998/playlist.m3u8",
-        "time": "2026-05-31 23:00:14"
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Newcastle Olympic FC Reserves vs Charlestown Azzurri Reserves (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/6f115b2fe383bc3710a61f46cc1b22f9/playlist.m3u8",
-        "time": "2026-05-31 23:00:14"
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
         "title": "07h10 ngày 23/05 Boston Legacy W vs Seattle Reign (W) (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8",
-        "time": "2026-05-31 23:00:14"
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Mexico vs Ghana (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8",
-        "time": "2026-05-31 23:00:14"
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 Brazil vs Panama (Chuối Chiên) HD1",
+        "title": "06h30 ngày 01/06 Cruzeiro vs Fluminense (Chuối Chiên) HD1",
         "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 Brazil vs Panama (Chuối Chiên) HD2",
+        "title": "06h30 ngày 01/06 Cruzeiro vs Fluminense (Chuối Chiên) HD2",
         "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/max.flv",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://gckc0525.edgemaxcdn.org/live/m5x1.flv",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 Brazil vs Panama (Chuối Chiên) FHD1",
+        "title": "06h30 ngày 01/06 remo vs Sao Paulo (Chuối Chiên) HD1",
         "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 Brazil vs Panama (Chuối Chiên) FHD2",
+        "title": "06h30 ngày 01/06 remo vs Sao Paulo (Chuối Chiên) HD2",
         "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/maxhd.flv",
-        "time": "2026-05-31 23:00:14"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 Brazil vs Panama (Chuối Chiên) HD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/anhhot/playlist.m3u8",
-        "time": "2026-05-31 23:00:14"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 Brazil vs Panama (Chuối Chiên) HD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/anhhot.flv",
-        "time": "2026-05-31 23:00:14"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 Brazil vs Panama (Chuối Chiên) FHD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/anhhothd/playlist.m3u8",
-        "time": "2026-05-31 23:00:14"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 Brazil vs Panama (Chuối Chiên) FHD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/anhhothd.flv",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://gckc0525.edgemaxcdn.org/live/m5x2.flv",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
         "title": "16h00 ngày 01/06 Vietnam U19 vs Timor-Leste U19 (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
-        "time": "2026-05-31 23:00:14"
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
         "title": "16h00 ngày 01/06 Vietnam U19 vs Timor-Leste U19 (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay.flv",
-        "time": "2026-05-31 23:00:14"
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
         "title": "16h00 ngày 01/06 Vietnam U19 vs Timor-Leste U19 (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
-        "time": "2026-05-31 23:00:14"
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
         "title": "16h00 ngày 01/06 Vietnam U19 vs Timor-Leste U19 (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv",
-        "time": "2026-05-31 23:00:14"
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
         "title": "16h00 ngày 01/06 Vietnam U19 vs Timor-Leste U19 (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8",
-        "time": "2026-05-31 23:00:14"
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
         "title": "16h00 ngày 01/06 Vietnam U19 vs Timor-Leste U19 (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoito.flv",
-        "time": "2026-05-31 23:00:14"
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
         "title": "16h00 ngày 01/06 Vietnam U19 vs Timor-Leste U19 (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8",
-        "time": "2026-05-31 23:00:14"
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
         "title": "16h00 ngày 01/06 Vietnam U19 vs Timor-Leste U19 (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv",
-        "time": "2026-05-31 23:00:14"
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
         "title": "17h00 ngày 01/06 Vanraure Hachinohe vs Fukushima United (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/anhbeo/playlist.m3u8",
-        "time": "2026-05-31 23:00:14"
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
         "title": "17h00 ngày 01/06 Vanraure Hachinohe vs Fukushima United (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/anhbeo.flv",
-        "time": "2026-05-31 23:00:14"
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
         "title": "17h00 ngày 01/06 Vanraure Hachinohe vs Fukushima United (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/anhbeohd/playlist.m3u8",
-        "time": "2026-05-31 23:00:14"
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
         "title": "17h00 ngày 01/06 Vanraure Hachinohe vs Fukushima United (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/anhbeohd.flv",
-        "time": "2026-05-31 23:00:14"
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
         "title": "18h30 ngày 01/06 Denmark U17 vs Italy U17 (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/ngokhong/playlist.m3u8",
-        "time": "2026-05-31 23:00:14"
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
         "title": "18h30 ngày 01/06 Denmark U17 vs Italy U17 (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/ngokhong.flv",
-        "time": "2026-05-31 23:00:14"
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
         "title": "18h30 ngày 01/06 Denmark U17 vs Italy U17 (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/ngokhonghd/playlist.m3u8",
-        "time": "2026-05-31 23:00:14"
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
         "title": "18h30 ngày 01/06 Denmark U17 vs Italy U17 (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/ngokhonghd.flv",
-        "time": "2026-05-31 23:00:14"
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
         "title": "18h30 ngày 01/06 France U17 vs Montenegro U17 (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8",
-        "time": "2026-05-31 23:00:14"
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
         "title": "18h30 ngày 01/06 France U17 vs Montenegro U17 (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho.flv",
-        "time": "2026-05-31 23:00:14"
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
         "title": "18h30 ngày 01/06 France U17 vs Montenegro U17 (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
-        "time": "2026-05-31 23:00:14"
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
         "title": "18h30 ngày 01/06 France U17 vs Montenegro U17 (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv",
-        "time": "2026-05-31 23:00:14"
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
         "title": "20h00 ngày 01/06 Indonesia U19 vs Myanmar U19 (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8",
-        "time": "2026-05-31 23:00:14"
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
         "title": "20h00 ngày 01/06 Indonesia U19 vs Myanmar U19 (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoibo.flv",
-        "time": "2026-05-31 23:00:14"
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
         "title": "20h00 ngày 01/06 Indonesia U19 vs Myanmar U19 (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8",
-        "time": "2026-05-31 23:00:14"
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
         "title": "20h00 ngày 01/06 Indonesia U19 vs Myanmar U19 (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv",
-        "time": "2026-05-31 23:00:14"
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
         "title": "20h00 ngày 01/06 Indonesia U19 vs Myanmar U19 (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/alex/playlist.m3u8",
-        "time": "2026-05-31 23:00:14"
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
         "title": "20h00 ngày 01/06 Indonesia U19 vs Myanmar U19 (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/alex.flv",
-        "time": "2026-05-31 23:00:14"
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
         "title": "20h00 ngày 01/06 Indonesia U19 vs Myanmar U19 (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/alexhd/playlist.m3u8",
-        "time": "2026-05-31 23:00:14"
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
         "title": "20h00 ngày 01/06 Indonesia U19 vs Myanmar U19 (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/alexhd.flv",
-        "time": "2026-05-31 23:00:14"
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 01/06 Japan U20 vs Côte d'Ivoire U20 (Chuối Chiên) HD1",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 01/06 Japan U20 vs Côte d'Ivoire U20 (Chuối Chiên) HD2",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/max.flv",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 01/06 Japan U20 vs Côte d'Ivoire U20 (Chuối Chiên) FHD1",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 01/06 Japan U20 vs Côte d'Ivoire U20 (Chuối Chiên) FHD2",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/maxhd.flv",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC (Gà Vàng) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/821d54abadb12c6c15edba538ab20ad1/playlist.m3u8",
-        "time": "2026-05-31 23:00:14"
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
         "title": "07h00 ngày 23/05 Sporting Kansas CityReserves vs Austin FC II (Gà Vàng) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8",
-        "time": "2026-05-31 23:00:14"
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8",
-        "time": "2026-05-31 23:00:14"
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 Brazil vs Panama [BLV THÓC] (Socolive) flv",
+        "title": "07h00 ngày 01/06 Capitanes de Arecibo vs Piratas de Quebradillas [BRIAN] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-606448_lsd.flv?auth_key=1780270916-0-0-758cf7e1bb801d22420bda294b001ebc",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1780275236-0-0-8d1ff713b35241c02d6e80e26346b405",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 Brazil vs Panama [BLV THÓC] (Socolive) hdFlv",
+        "title": "07h00 ngày 01/06 Capitanes de Arecibo vs Piratas de Quebradillas [BRIAN] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-606448_lhd.flv?auth_key=1780270916-0-0-fb0446d1d15d8ab2170570f34c55c18b",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1780275236-0-0-7986b11e243edc9bc238a9c7e60d9efc",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 Brazil vs Panama [BLV THÓC] (Socolive) m3u8",
+        "title": "07h00 ngày 01/06 Capitanes de Arecibo vs Piratas de Quebradillas [BRIAN] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1780270916-0-0-090be9bc991337b8a9c7635851f71e86",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1780275236-0-0-205ff0c5eaa0ca4b6380aff1e9ff5c34",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 Brazil vs Panama [BLV THÓC] (Socolive) hdM3u8",
+        "title": "07h00 ngày 01/06 Capitanes de Arecibo vs Piratas de Quebradillas [BRIAN] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1780270916-0-0-20732164999c58f89d7ca2014509d09e",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780275236-0-0-03ee3a15d7204e4dcb308ead63ceaec0",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 Brazil vs Panama [BLV CÒ] (Socolive) flv",
+        "title": "06h30 ngày 01/06 Cruzeiro - MG vs Fluminense - RJ [BLV COCA] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1780270916-0-0-96831d26b16964dcd12f571551615be2",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1780275596-0-0-c4882d0798c5449644a744f173b5c569",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 Brazil vs Panama [BLV CÒ] (Socolive) hdFlv",
+        "title": "06h30 ngày 01/06 Cruzeiro - MG vs Fluminense - RJ [BLV COCA] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1780270916-0-0-4b99453669dac244c2ca3358d2d6bc18",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1780275596-0-0-05c0eb040c653f890ed0e3f4f34ec8ea",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 Brazil vs Panama [BLV CÒ] (Socolive) m3u8",
+        "title": "06h30 ngày 01/06 Cruzeiro - MG vs Fluminense - RJ [BLV COCA] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1780270916-0-0-3b94b26a6f02163d30423d6c1bf2ef84",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1780275596-0-0-335ec5234f5233e4091a706c9a660dc1",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 Brazil vs Panama [BLV CÒ] (Socolive) hdM3u8",
+        "title": "06h30 ngày 01/06 Cruzeiro - MG vs Fluminense - RJ [BLV COCA] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1780270916-0-0-ffcebedc6ea007f822c89f666a819f4f",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780275596-0-0-0894dd6e9c3a4a2083c0345639920950",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 O.Higgins vs Everton CD [BLV NẤM] (Socolive) flv",
+        "title": "07h00 ngày 01/06 Palestino vs Audax Italiano [BLV ENZO] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1780271276-0-0-ecba60cd925964f020234b6843b9be77",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1780275596-0-0-779afbfa43002de799c21e3ec100892d",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 O.Higgins vs Everton CD [BLV NẤM] (Socolive) hdFlv",
+        "title": "07h00 ngày 01/06 Palestino vs Audax Italiano [BLV ENZO] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1780271276-0-0-6e617f8bd570cb77cc177146509fd462",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1780275596-0-0-6e8cde9e58d918f35bca0eedccc0d381",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 O.Higgins vs Everton CD [BLV NẤM] (Socolive) m3u8",
+        "title": "07h00 ngày 01/06 Palestino vs Audax Italiano [BLV ENZO] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1780271276-0-0-27451681fea4179eb4dcc892cfb58f69",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1780275596-0-0-d380be38ba18a459d535bdcf4e9971d9",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 O.Higgins vs Everton CD [BLV NẤM] (Socolive) hdM3u8",
+        "title": "07h00 ngày 01/06 Palestino vs Audax Italiano [BLV ENZO] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1780271276-0-0-62fd4862a3436e9329601418fcdb5f6b",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1780275596-0-0-1772e529b06fd89195169d3dddb7afed",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 Brazil vs Panama [BLV KEM] (Socolive) flv",
+        "title": "07h00 ngày 01/06 Palestino vs Audax Italiano [BLV ĐỐM] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1780271276-0-0-7d23c2d473d7da464db6f56c33dcb1d8",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1780275596-0-0-05b233279aeda801947041cfba1d6d27",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 Brazil vs Panama [BLV KEM] (Socolive) hdFlv",
+        "title": "07h00 ngày 01/06 Palestino vs Audax Italiano [BLV ĐỐM] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1780271276-0-0-65313692c7ea300ec97ea5b8ad04a390",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1780275596-0-0-19e9469731af873104a391f988a2e0f0",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 Brazil vs Panama [BLV KEM] (Socolive) m3u8",
+        "title": "07h00 ngày 01/06 Palestino vs Audax Italiano [BLV ĐỐM] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1780271276-0-0-202c97d371a18efcb293a53d632774ac",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1780275596-0-0-9a9a9640f06285348ed63a634e132425",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 Brazil vs Panama [BLV KEM] (Socolive) hdM3u8",
+        "title": "07h00 ngày 01/06 Palestino vs Audax Italiano [BLV ĐỐM] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780271276-0-0-24b12bc73b93f319cc0bf10534cd8236",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1780275596-0-0-1d0c80f45dcca27a99c188a8d80b6cad",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 O.Higgins vs Everton CD [XUÂN SON] (Socolive) flv",
+        "title": "06h30 ngày 01/06 Cruzeiro - MG vs Fluminense - RJ [CR Bưởi] (Socolive) flv",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=bc15d013fd9857a6a57d80e78d1c3218&txTime=6a1d0efc",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1780275596-0-0-84aa78ef8768ddae6360bd6a439189ba",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 O.Higgins vs Everton CD [XUÂN SON] (Socolive) hdFlv",
+        "title": "06h30 ngày 01/06 Cruzeiro - MG vs Fluminense - RJ [CR Bưởi] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=af28de77decf74639488fd7d3502f3ab&txTime=6a1d0efc",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1780275596-0-0-b7b469170a666ba7d73db9c67ac6c6d2",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 O.Higgins vs Everton CD [XUÂN SON] (Socolive) m3u8",
+        "title": "06h30 ngày 01/06 Cruzeiro - MG vs Fluminense - RJ [CR Bưởi] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=bc15d013fd9857a6a57d80e78d1c3218&txTime=6a1d0efc",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1780275596-0-0-683da6fd13f95f339a204bfc6dd7c6d3",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 O.Higgins vs Everton CD [XUÂN SON] (Socolive) hdM3u8",
+        "title": "06h30 ngày 01/06 Cruzeiro - MG vs Fluminense - RJ [CR Bưởi] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=af28de77decf74639488fd7d3502f3ab&txTime=6a1d0efc",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780275596-0-0-36bf08bc972ffcd95906da350a96c997",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 Brazil vs Panama [BLV LUCAS] (Socolive) flv",
+        "title": "06h30 ngày 01/06 Cruzeiro - MG vs Fluminense - RJ [VƯƠNG ANH] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1780271276-0-0-11b139439b1c5c83dcf94174cf6dde79",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=0beaba29b3f9027dd2b328254d203e45&txTime=6a1d1fdc",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 Brazil vs Panama [BLV LUCAS] (Socolive) hdFlv",
+        "title": "06h30 ngày 01/06 Cruzeiro - MG vs Fluminense - RJ [VƯƠNG ANH] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1780271276-0-0-95943587dffbba5508a9dab467d38048",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=c13a26aa63ef0f1eb451d6fa66ce92b2&txTime=6a1d1fdc",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 Brazil vs Panama [BLV LUCAS] (Socolive) m3u8",
+        "title": "06h30 ngày 01/06 Cruzeiro - MG vs Fluminense - RJ [VƯƠNG ANH] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1780271276-0-0-207e10f57609179f39f2b477e6eda9b0",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=0beaba29b3f9027dd2b328254d203e45&txTime=6a1d1fdc",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 Brazil vs Panama [BLV LUCAS] (Socolive) hdM3u8",
+        "title": "06h30 ngày 01/06 Cruzeiro - MG vs Fluminense - RJ [VƯƠNG ANH] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1780271276-0-0-28709303f706c1868327d2492fedb378",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=c13a26aa63ef0f1eb451d6fa66ce92b2&txTime=6a1d1fdc",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "05h00 ngày 01/06 Cienciano vs Sporting Cristal [BLV YONE] (Socolive) flv",
+        "title": "06h30 ngày 01/06 Cruzeiro - MG vs Fluminense - RJ [BLV CUỘI] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1780271276-0-0-b6042839054f329d4a921dd581232e4c",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1780275596-0-0-b903c1a3d5673fd069363819dbb05bf4",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "05h00 ngày 01/06 Cienciano vs Sporting Cristal [BLV YONE] (Socolive) hdFlv",
+        "title": "06h30 ngày 01/06 Cruzeiro - MG vs Fluminense - RJ [BLV CUỘI] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1780271276-0-0-b422729112d08b440324b6b121d8b3f3",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1780275596-0-0-449749a8c7610efd3bb055d109ca325d",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "05h00 ngày 01/06 Cienciano vs Sporting Cristal [BLV YONE] (Socolive) m3u8",
+        "title": "06h30 ngày 01/06 Cruzeiro - MG vs Fluminense - RJ [BLV CUỘI] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1780271276-0-0-c157701a885c1a236df3d504f49f90b4",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1780275596-0-0-deed277da5798e698e58fa1fff100759",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "05h00 ngày 01/06 Cienciano vs Sporting Cristal [BLV YONE] (Socolive) hdM3u8",
+        "title": "06h30 ngày 01/06 Cruzeiro - MG vs Fluminense - RJ [BLV CUỘI] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1780271276-0-0-17b86a4688cf9b777b1ec835db8dbe9a",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1780275596-0-0-e87ab252620765f1e76f980fa78ecb2a",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "05h00 ngày 01/06 Cienciano vs Sporting Cristal [NGƯỜI CÁ] (Socolive) flv",
+        "title": "06h30 ngày 01/06 Remo - PA vs São Paulo - SP [BLV A TÚ] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1780271276-0-0-deddc3608a99706c36252790b1507244",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1780275596-0-0-992a9065c63b656448412b6cdedb1a24",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "05h00 ngày 01/06 Cienciano vs Sporting Cristal [NGƯỜI CÁ] (Socolive) hdFlv",
+        "title": "06h30 ngày 01/06 Remo - PA vs São Paulo - SP [BLV A TÚ] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1780271276-0-0-79c3b3479f7d9d44157d0a34c86cc196",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1780275596-0-0-65c9449014370c03a2284bfb6779a324",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "05h00 ngày 01/06 Cienciano vs Sporting Cristal [NGƯỜI CÁ] (Socolive) m3u8",
+        "title": "06h30 ngày 01/06 Remo - PA vs São Paulo - SP [BLV A TÚ] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780271276-0-0-851eeeecc46db9df1669d999bd1455f3",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1780275596-0-0-9ef74bdffe84e2200e4dbe35e803dc76",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "05h00 ngày 01/06 Cienciano vs Sporting Cristal [NGƯỜI CÁ] (Socolive) hdM3u8",
+        "title": "06h30 ngày 01/06 Remo - PA vs São Paulo - SP [BLV A TÚ] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780271276-0-0-d8b8b5ff78dadc5c40b30d47c561b68b",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1780275596-0-0-74bbd7938339db9afacd63d21a9ca893",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 Brazil vs Panama [LÃO LÂM] (Socolive) flv",
+        "title": "06h30 ngày 01/06 Remo - PA vs São Paulo - SP [BLV LION] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1780271636-0-0-87014898de528d78d658661b46160ebb",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull06.scstream.net/live/stream-603255_lsd.flv?auth_key=1780275596-0-0-58a5bf68ec956b0eb4bad7af65f8fef1",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 Brazil vs Panama [LÃO LÂM] (Socolive) hdFlv",
+        "title": "06h30 ngày 01/06 Remo - PA vs São Paulo - SP [BLV LION] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1780271636-0-0-f613b7c359056baa5e92a6c952ca4e82",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull06.scstream.net/live/stream-603255_lhd.flv?auth_key=1780275596-0-0-c33eb29e83030ce703b8b8c1b2aba614",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 Brazil vs Panama [LÃO LÂM] (Socolive) m3u8",
+        "title": "06h30 ngày 01/06 Remo - PA vs São Paulo - SP [BLV LION] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1780271636-0-0-103ecedc90151dc216965db1e6d9d21a",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1780275596-0-0-9ed15b44a05998bbe852f783184ea123",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 Brazil vs Panama [LÃO LÂM] (Socolive) hdM3u8",
+        "title": "06h30 ngày 01/06 Remo - PA vs São Paulo - SP [BLV LION] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780271636-0-0-4833984ab4b41f85ff0b4ea5cecc95ab",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1780275596-0-0-f4a890bad270f2ff140b98fd9e95680b",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "05h00 ngày 01/06 Cienciano vs Sporting Cristal [BLV ALEX] (Socolive) flv",
+        "title": "06h30 ngày 01/06 Cruzeiro - MG vs Fluminense - RJ [BLV LUCAS] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1780271636-0-0-c0fdfe80f3379f99852c271b0b677f3a",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1780275596-0-0-40bc18ddd284935ae2871309b6a7f33c",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "05h00 ngày 01/06 Cienciano vs Sporting Cristal [BLV ALEX] (Socolive) hdFlv",
+        "title": "06h30 ngày 01/06 Cruzeiro - MG vs Fluminense - RJ [BLV LUCAS] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1780271636-0-0-e216c14e6abdb04fc96755752bcc005c",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1780275596-0-0-e0267c8e5867c2f7a58a4945e70a9046",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "05h00 ngày 01/06 Cienciano vs Sporting Cristal [BLV ALEX] (Socolive) m3u8",
+        "title": "06h30 ngày 01/06 Cruzeiro - MG vs Fluminense - RJ [BLV LUCAS] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1780271636-0-0-dc69073bb6edbcc7ef3282d234beba9d",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1780275596-0-0-b10aa0419a9f6063f15e8aaa810837ef",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "05h00 ngày 01/06 Cienciano vs Sporting Cristal [BLV ALEX] (Socolive) hdM3u8",
+        "title": "06h30 ngày 01/06 Cruzeiro - MG vs Fluminense - RJ [BLV LUCAS] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780271636-0-0-35e7468f764665230a1edd946bb4a68e",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1780275596-0-0-d1eb92b636b702b29d2e4fddace1fbd3",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "05h00 ngày 01/06 Cienciano vs Sporting Cristal [BLV GÔN] (Socolive) flv",
+        "title": "07h00 ngày 01/06 Capitanes de Arecibo vs Piratas de Quebradillas [CHAN SENA] (Socolive) flv",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=1c0e53e1c61c6030bab89322272d5b96&txTime=6a1d1064",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1780275596-0-0-681a2a313c9163c73456f063ced184ba",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "05h00 ngày 01/06 Cienciano vs Sporting Cristal [BLV GÔN] (Socolive) hdFlv",
+        "title": "07h00 ngày 01/06 Capitanes de Arecibo vs Piratas de Quebradillas [CHAN SENA] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=60b5dfc6f256436382f2cc77f68ecbd6&txTime=6a1d1064",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1780275596-0-0-2b3d50e862a1badcd5a56fc1e3b882ba",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "05h00 ngày 01/06 Cienciano vs Sporting Cristal [BLV GÔN] (Socolive) m3u8",
+        "title": "07h00 ngày 01/06 Capitanes de Arecibo vs Piratas de Quebradillas [CHAN SENA] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=1c0e53e1c61c6030bab89322272d5b96&txTime=6a1d1064",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780275596-0-0-f6aaaccbea70b6a268006c626cfd1ca7",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "05h00 ngày 01/06 Cienciano vs Sporting Cristal [BLV GÔN] (Socolive) hdM3u8",
+        "title": "07h00 ngày 01/06 Capitanes de Arecibo vs Piratas de Quebradillas [CHAN SENA] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=60b5dfc6f256436382f2cc77f68ecbd6&txTime=6a1d1064",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780275596-0-0-0c9cbba9f61e80f8b8edb290b9ed174d",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 Brazil vs Panama [HÀ DUY KIÊN] (Socolive) flv",
+        "title": "07h00 ngày 01/06 Palestino vs Audax Italiano [BLV RÔSI] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-607400_lsd.flv?auth_key=1780271636-0-0-7a6647408268aed5576d8a203d57dfff",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=fe0ac0fc97dcc8de8fd8ed99bcd0bc9a&txTime=6a1d2144",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 Brazil vs Panama [HÀ DUY KIÊN] (Socolive) hdFlv",
+        "title": "07h00 ngày 01/06 Palestino vs Audax Italiano [BLV RÔSI] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1780271636-0-0-f7b5306b87bdcb3ab9eafad3a8b6cba9",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=3109318cd1e0d9301c3846e88cd4fada&txTime=6a1d2144",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 Brazil vs Panama [HÀ DUY KIÊN] (Socolive) m3u8",
+        "title": "07h00 ngày 01/06 Palestino vs Audax Italiano [BLV RÔSI] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1780271636-0-0-7896bf6158289855f55fe099715d7037",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=fe0ac0fc97dcc8de8fd8ed99bcd0bc9a&txTime=6a1d2144",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 ngày 01/06 Brazil vs Panama [HÀ DUY KIÊN] (Socolive) hdM3u8",
+        "title": "07h00 ngày 01/06 Palestino vs Audax Italiano [BLV RÔSI] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1780271636-0-0-07e031ad8f5413666f7e56e6c820d79b",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=3109318cd1e0d9301c3846e88cd4fada&txTime=6a1d2144",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h30 ngày 01/06 Remo - PA vs São Paulo - SP [XUÂN SON] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=fb2704280542acab6ff1ec578f94f5af&txTime=6a1d2144",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h30 ngày 01/06 Remo - PA vs São Paulo - SP [XUÂN SON] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=c06c0652b1dd08e7cfddff38dadb9f46&txTime=6a1d2144",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h30 ngày 01/06 Remo - PA vs São Paulo - SP [XUÂN SON] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=fb2704280542acab6ff1ec578f94f5af&txTime=6a1d2144",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h30 ngày 01/06 Remo - PA vs São Paulo - SP [XUÂN SON] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=c06c0652b1dd08e7cfddff38dadb9f46&txTime=6a1d2144",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 01/06 Palestino vs Audax Italiano [A PÁO] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1780275956-0-0-062e4c88661492707b5b3fe2123f1a6c",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 01/06 Palestino vs Audax Italiano [A PÁO] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1780275956-0-0-6a1ae6999aa481721ac87f4a294f61b1",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 01/06 Palestino vs Audax Italiano [A PÁO] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1780275956-0-0-bccf39534fdd335c15a694e857dbed5c",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 01/06 Palestino vs Audax Italiano [A PÁO] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1780275956-0-0-7266620ede000f613aef69b96f39fc20",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 01/06 Palestino vs Audax Italiano [BLV TOMIA] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1780275956-0-0-44d3dcffa96f7d4ab40507801f3e2584",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 01/06 Palestino vs Audax Italiano [BLV TOMIA] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1780275956-0-0-58ffa790ee0a716071ed443d0a6264c6",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 01/06 Palestino vs Audax Italiano [BLV TOMIA] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1780275956-0-0-42e7ddfb8ad5572e3234f360c3c9ad6b",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 01/06 Palestino vs Audax Italiano [BLV TOMIA] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1780275956-0-0-c34ac9e99821860317702c5b111941f6",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h30 ngày 01/06 Cruzeiro - MG vs Fluminense - RJ [LÃO LÂM] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1780275956-0-0-fd5270cd158840e1121c286ad6ab6155",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h30 ngày 01/06 Cruzeiro - MG vs Fluminense - RJ [LÃO LÂM] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1780275956-0-0-be6cd9c317c250ba65306b11d2f55fc6",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h30 ngày 01/06 Cruzeiro - MG vs Fluminense - RJ [LÃO LÂM] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1780275956-0-0-ddbe93f61a79084bb4c43af191edd00a",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h30 ngày 01/06 Cruzeiro - MG vs Fluminense - RJ [LÃO LÂM] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780275956-0-0-23429b0597a872c99f1e21703b2b613d",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 01/06 Palestino vs Audax Italiano [LOGAN] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1780275956-0-0-c2ccb0db3507b03b6337276b11901add",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 01/06 Palestino vs Audax Italiano [LOGAN] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1780275956-0-0-8a04227b3575ab1d67d0c3244f92b38f",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 01/06 Palestino vs Audax Italiano [LOGAN] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1780275956-0-0-1983dc4a36bdcffbf5465949342291b7",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 01/06 Palestino vs Audax Italiano [LOGAN] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1780275956-0-0-f01eaaf5e696aee74ab4aa42b3ea967b",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h30 ngày 01/06 Cuiaba vs CRB AL [HÀ DUY KIÊN] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-607400_lsd.flv?auth_key=1780275956-0-0-ba8c4b9ba99db0ef8faee8688246d92d",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h30 ngày 01/06 Cuiaba vs CRB AL [HÀ DUY KIÊN] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1780275956-0-0-3529f3ab7abfc0284be5abb894dbdc31",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h30 ngày 01/06 Cuiaba vs CRB AL [HÀ DUY KIÊN] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1780275956-0-0-483d5f5de82201d7ed484c77a10dd5fa",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h30 ngày 01/06 Cuiaba vs CRB AL [HÀ DUY KIÊN] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1780275956-0-0-b93444527afccc7401eacbba7a366704",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h30 ngày 01/06 Cuiaba vs CRB AL [BLV THÓC] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-606448_lsd.flv?auth_key=1780275956-0-0-595e94becc0c40ad7a7ba6bc35e8a3eb",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h30 ngày 01/06 Cuiaba vs CRB AL [BLV THÓC] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-606448_lhd.flv?auth_key=1780275956-0-0-62850f72b65748af119754dd3a26a0c6",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h30 ngày 01/06 Cuiaba vs CRB AL [BLV THÓC] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1780275956-0-0-c759c095d04384e1fe11437499f49c4a",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h30 ngày 01/06 Cuiaba vs CRB AL [BLV THÓC] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1780275956-0-0-d61db2353783c30e8f7fc955cae4574c",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h30 ngày 01/06 Remo - PA vs São Paulo - SP [BLV NẤM] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1780275956-0-0-67459ce4ebd6aba615cef56a256592c2",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h30 ngày 01/06 Remo - PA vs São Paulo - SP [BLV NẤM] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1780275956-0-0-809e1ea95c59ac9a776dee3f2ba6fac5",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h30 ngày 01/06 Remo - PA vs São Paulo - SP [BLV NẤM] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1780275956-0-0-2103f577c7b79a059578b60dfc0aceb5",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h30 ngày 01/06 Remo - PA vs São Paulo - SP [BLV NẤM] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1780275956-0-0-35fb4dd85df8e116a717bc5c9a8d4b7f",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 01/06 Capitanes de Arecibo vs Piratas de Quebradillas [A CHÈ] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1780275956-0-0-c22419d692e8bd0a9f48b773833a21c2",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 01/06 Capitanes de Arecibo vs Piratas de Quebradillas [A CHÈ] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780275956-0-0-50d0f6dada969e9c3282ccb4da56c721",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 01/06 Capitanes de Arecibo vs Piratas de Quebradillas [A CHÈ] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780275956-0-0-625df7caaea8c0ffc4292de781071104",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 01/06 Capitanes de Arecibo vs Piratas de Quebradillas [A CHÈ] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780275956-0-0-f6e2352dcfea751e9eab6acb977e9ae3",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780271636-0-0-94501cd846738bb048dd60155289beba",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780275956-0-0-4a77a2bd360e8162ee3062f7877fd85e",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780271636-0-0-50b88dc68a43d362279fa3455458d3ef",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780275956-0-0-9d1f6643ca43d2acd701169847dc5bdf",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780271636-0-0-4b21383aea9bd705dfe08e7165c1935e",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780275956-0-0-3b6b1b83c9549e9b307a4b44b84e15c2",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780271636-0-0-47b140c06eec3613cd1f5f9646d4bdd7",
-        "time": "2026-05-31 23:00:14"
+        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780275956-0-0-5fab970fb027778d3d629f5631a92248",
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 01/06 Brazil vs Panama (Hội Quán) FHD",
+        "title": "06h30 01/06 Remo vs Sao Paulo (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h30 01/06 Remo vs Sao Paulo (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-01 00:13:59"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 01/06 Palestino vs A. Italiano (Hội Quán) FHD",
         "logo": "",
         "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8",
-        "time": "2026-05-31 23:00:14"
+        "time": "2026-06-01 00:13:59"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h30 01/06 Brazil vs Panama (Hội Quán) SD",
+        "title": "07h00 01/06 Palestino vs A. Italiano (Hội Quán) SD",
         "logo": "",
         "url": "https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8",
-        "time": "2026-05-31 23:00:14"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "04h30 01/06 Brazil vs Panama (Hội Quán) FHD",
-        "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8",
-        "time": "2026-05-31 23:00:14"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "04h30 01/06 Brazil vs Panama (Hội Quán) SD",
-        "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8",
-        "time": "2026-05-31 23:00:14"
+        "time": "2026-06-01 00:13:59"
     }
 ]
