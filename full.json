@@ -1,13 +1,6 @@
 [
     {
         "group": "HỘI QUÁN",
-        "title": "01:45 | Wales vs Ghana",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Flag_of_Wales.svg",
-        "url": "https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8",
-        "time": "2026-06-03 01:45:00"
-    },
-    {
-        "group": "HỘI QUÁN",
         "title": "07:00 | Haiti vs New Zealand",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/250px-Flag_of_Haiti.svg.png",
         "url": "https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8",
@@ -25,6 +18,13 @@
         "title": "20:00 | Philippines U19 vs Australia U19",
         "logo": "https://media.api-sports.io/football/teams/19153.png",
         "url": "https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-03 20:00:00"
+    },
+    {
+        "group": "HỘI QUÁN",
+        "title": "20:00 | Philippines U19 vs Australia U19",
+        "logo": "https://media.api-sports.io/football/teams/19153.png",
+        "url": "https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8",
         "time": "2026-06-03 20:00:00"
     },
     {
@@ -57,10 +57,10 @@
     },
     {
         "group": "HỘI QUÁN",
-        "title": "01:30 | Joao Fonseca vs Jakub Mensik",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Jo%C3%A3o_Fonseca_%282024_Cary%29_09_%28cropped%29.jpg",
+        "title": "07:30 | San Antonio Spurs - New York Knicks",
+        "logo": "https://upload.wikimedia.org/wikipedia/vi/e/ec/San_Antonio_Spurs_logo.png",
         "url": "https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8",
-        "time": "2026-06-03 01:30:00"
+        "time": "2026-06-04 07:30:00"
     },
     {
         "group": "HỘI QUÁN",
@@ -78,45 +78,38 @@
     },
     {
         "group": "VÒNG CẤM TV",
-        "title": "Wales vs Ghana",
-        "logo": "https://media.api-sports.io/football/teams/767.png",
-        "url": "https://bglive.yarncdn.live/live/bgtv_blv_khomuc/playlist.m3u8",
-        "time": "2026-06-02 20:21:09"
-    },
-    {
-        "group": "VÒNG CẤM TV",
         "title": "Portugal U19 vs Kazakhstan U19",
         "logo": "https://media.api-sports.io/football/teams/10343.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8",
-        "time": "2026-06-02 20:21:09"
+        "time": "2026-06-02 22:32:20"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "Philippines vs Guam",
         "logo": "https://media.api-sports.io/football/teams/1555.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8",
-        "time": "2026-06-02 20:21:09"
+        "time": "2026-06-02 22:32:20"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "Kyrgyzstan vs Kenya",
         "logo": "https://media.api-sports.io/football/teams/1554.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8",
-        "time": "2026-06-02 20:21:09"
+        "time": "2026-06-02 22:32:20"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "Latvia U17 vs Albania U17",
         "logo": "https://media.api-sports.io/football/teams/17960.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8",
-        "time": "2026-06-02 20:21:09"
+        "time": "2026-06-02 22:32:20"
     },
     {
-        "group": "CA LA TV",
-        "title": "18:45 | Wales vs Ghana",
-        "logo": "https://img.colatv88xd.cc/football/team/588f43d3d2fe15b2dad77de9f2cc5c51.png!w80",
-        "url": "https://live05.msdht.app/live/08552895.m3u8",
-        "time": "2026-06-02 18:45:00"
+        "group": "VÒNG CẤM TV",
+        "title": "Poland vs Nigeria",
+        "logo": "https://media.api-sports.io/football/teams/24.png",
+        "url": "https://bglive.yarncdn.live/live/bgtv_blv_khomuc/playlist.m3u8",
+        "time": "2026-06-02 22:32:20"
     },
     {
         "group": "CA LA TV",
@@ -197,6 +190,13 @@
     },
     {
         "group": "CA LA TV",
+        "title": "15:00 | Hy Lạp U19 vs Serbia U19",
+        "logo": "https://img.colatv88xd.cc/football/team/1da38e9fc1f765ffa964a0ab64c8d8fe.png!w80",
+        "url": "https://live05.msdht.app/live/08552895.m3u8",
+        "time": "2026-06-03 15:00:00"
+    },
+    {
+        "group": "CA LA TV",
         "title": "15:00 | Montenegro U19 vs Georgia U19",
         "logo": "https://img.colatv88xd.cc/football/team/9866b8a83d35abdd89ed76d565d71f75.png!w80",
         "url": "https://live05.msdht.app/live/43612277.m3u8",
@@ -210,731 +210,360 @@
         "time": "2026-06-03 18:45:00"
     },
     {
-        "group": "CA LA TV",
-        "title": "23:00 | Hàn Quốc vs El Salvador",
-        "logo": "https://img.colatv88xd.cc/football/team/6581bc34692022be4c21d98778e33df0.png!w80",
-        "url": "https://live05.msdht.app/live/41943555.m3u8",
-        "time": "2026-06-03 23:00:00"
+        "group": "FPT SPORT",
+        "title": "04h00 ngày 03/06 12 de Octubre vs Atlantida SC (Lương Sơn) NHÀ ÐÀI m3u",
+        "logo": "",
+        "url": "https://auto.cdnfaster.live/live/sd-6Mwe5Q6DLCmUGLnnW8/playlist.m3u8",
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
-        "title": "01h45 ngày 03/06 Wales vs Ghana (Lương Sơn) BLV PHI HỔ m3u",
+        "title": "04h00 ngày 03/06 Dep.Independiente Medellin vs Cucuta (Lương Sơn) NHÀ ÐÀI m3u",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f",
-        "time": "2026-06-02 20:21:11"
+        "url": "https://auto.cdnfaster.live/live/sd-6MwdLb4nizfPtePGPE/playlist.m3u8",
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
-        "title": "01h45 ngày 03/06 Wales vs Ghana (Lương Sơn) BLV PHI HỔ flv",
+        "title": "05h00 ngày 03/06 Deportivo Merlo vs Deportivo Laferrere (Lương Sơn) NHÀ ÐÀI m3u",
         "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h45 ngày 03/06 Wales vs Ghana (Lương Sơn) BLV HÀN TÍN m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h45 ngày 03/06 Wales vs Ghana (Lương Sơn) BLV HÀN TÍN flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h45 ngày 03/06 Wales vs Ghana (Lương Sơn) BLV LEO m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h45 ngày 03/06 Wales vs Ghana (Lương Sơn) BLV LEO flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 03/06 Tanzania U17 vs Senegal U17 (Lương Sơn) BLV TRIỆU TỬ LONG m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 03/06 Tanzania U17 vs Senegal U17 (Lương Sơn) BLV TRIỆU TỬ LONG flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 03/06 Tanzania U17 vs Senegal U17 (Lương Sơn) BLV NGƯỜI THÉP m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 03/06 Tanzania U17 vs Senegal U17 (Lương Sơn) BLV NGƯỜI THÉP flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h15 ngày 03/06 Brescia vs Ascoli (Lương Sơn) BLV GẤU KA m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 03/06 USM Alger vs CR Belouizdad (Lương Sơn) BLV TÔN LẬP m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 03/06 USM Alger vs CR Belouizdad (Lương Sơn) BLV TÔN LẬP flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 03/06 USM Alger vs CR Belouizdad (Lương Sơn) BLV TÂY MÔN KHÁNH m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 03/06 USM Alger vs CR Belouizdad (Lương Sơn) BLV TÂY MÔN KHÁNH flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da",
-        "time": "2026-06-02 20:21:11"
+        "url": "https://auto.cdnfaster.live/live/sd-6MvVdDMNf9E7BeJr68/playlist.m3u8",
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
         "title": "07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8",
-        "time": "2026-06-02 20:21:11"
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 UNSW FC Women vs University of Sydney Women (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/8988f3aa5ce2f85d4c50a0bc65d9d998/playlist.m3u8",
-        "time": "2026-06-02 20:21:11"
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Newcastle Olympic FC Reserves vs Charlestown Azzurri Reserves (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/6f115b2fe383bc3710a61f46cc1b22f9/playlist.m3u8",
-        "time": "2026-06-02 20:21:11"
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
         "title": "07h10 ngày 23/05 Boston Legacy W vs Seattle Reign (W) (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8",
-        "time": "2026-06-02 20:21:11"
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Mexico vs Ghana (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h45 ngày 03/06 Wales vs Ghana (Chuối Chiên) HD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h45 ngày 03/06 Wales vs Ghana (Chuối Chiên) HD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay.flv",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h45 ngày 03/06 Wales vs Ghana (Chuối Chiên) FHD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h45 ngày 03/06 Wales vs Ghana (Chuối Chiên) FHD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 03/06 Tanzania U17 vs Senegal U17 (Chuối Chiên) HD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/ngokhong/playlist.m3u8",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 03/06 Tanzania U17 vs Senegal U17 (Chuối Chiên) HD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/ngokhong.flv",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 03/06 Tanzania U17 vs Senegal U17 (Chuối Chiên) FHD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/ngokhonghd/playlist.m3u8",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 03/06 Tanzania U17 vs Senegal U17 (Chuối Chiên) FHD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/ngokhonghd.flv",
-        "time": "2026-06-02 20:21:11"
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
         "title": "10h30 ngày 03/06 Belgium W vs Poland W (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8",
-        "time": "2026-06-02 20:21:11"
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
         "title": "10h30 ngày 03/06 Belgium W vs Poland W (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoibo.flv",
-        "time": "2026-06-02 20:21:11"
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
         "title": "10h30 ngày 03/06 Belgium W vs Poland W (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8",
-        "time": "2026-06-02 20:21:11"
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
         "title": "10h30 ngày 03/06 Belgium W vs Poland W (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv",
-        "time": "2026-06-02 20:21:11"
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
         "title": "18h30 ngày 03/06 Philippines vs Guam (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8",
-        "time": "2026-06-02 20:21:11"
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
         "title": "18h30 ngày 03/06 Philippines vs Guam (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoito.flv",
-        "time": "2026-06-02 20:21:11"
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
         "title": "18h30 ngày 03/06 Philippines vs Guam (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8",
-        "time": "2026-06-02 20:21:11"
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
         "title": "18h30 ngày 03/06 Philippines vs Guam (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv",
-        "time": "2026-06-02 20:21:11"
+        "time": "2026-06-02 22:32:21"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h30 ngày 03/06 China W vs Czech Republic W (Chuối Chiên) HD1",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
+        "time": "2026-06-02 22:32:21"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h30 ngày 03/06 China W vs Czech Republic W (Chuối Chiên) HD2",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay.flv",
+        "time": "2026-06-02 22:32:21"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h30 ngày 03/06 China W vs Czech Republic W (Chuối Chiên) FHD1",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
+        "time": "2026-06-02 22:32:21"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h30 ngày 03/06 China W vs Czech Republic W (Chuối Chiên) FHD2",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv",
+        "time": "2026-06-02 22:32:21"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h35 ngày 03/06 China W vs Russia W (Chuối Chiên) HD1",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/ngokhong/playlist.m3u8",
+        "time": "2026-06-02 22:32:21"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h35 ngày 03/06 China W vs Russia W (Chuối Chiên) HD2",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/ngokhong.flv",
+        "time": "2026-06-02 22:32:21"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h35 ngày 03/06 China W vs Russia W (Chuối Chiên) FHD1",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/ngokhonghd/playlist.m3u8",
+        "time": "2026-06-02 22:32:21"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h35 ngày 03/06 China W vs Russia W (Chuối Chiên) FHD2",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/ngokhonghd.flv",
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
         "title": "20h00 ngày 03/06 Philippines U19 vs Australia U19 (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8",
-        "time": "2026-06-02 20:21:11"
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
         "title": "20h00 ngày 03/06 Philippines U19 vs Australia U19 (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho.flv",
-        "time": "2026-06-02 20:21:11"
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
         "title": "20h00 ngày 03/06 Philippines U19 vs Australia U19 (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
-        "time": "2026-06-02 20:21:11"
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
         "title": "20h00 ngày 03/06 Philippines U19 vs Australia U19 (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv",
-        "time": "2026-06-02 20:21:11"
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
         "title": "20h00 ngày 03/06 Japan U20 vs Portugal U20 (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8",
-        "time": "2026-06-02 20:21:11"
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
         "title": "20h00 ngày 03/06 Japan U20 vs Portugal U20 (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/max.flv",
-        "time": "2026-06-02 20:21:11"
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
         "title": "20h00 ngày 03/06 Japan U20 vs Portugal U20 (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8",
-        "time": "2026-06-02 20:21:11"
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
         "title": "20h00 ngày 03/06 Japan U20 vs Portugal U20 (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/maxhd.flv",
-        "time": "2026-06-02 20:21:11"
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC (Gà Vàng) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/821d54abadb12c6c15edba538ab20ad1/playlist.m3u8",
-        "time": "2026-06-02 20:21:11"
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
         "title": "07h00 ngày 23/05 Sporting Kansas CityReserves vs Austin FC II (Gà Vàng) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8",
-        "time": "2026-06-02 20:21:11"
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8",
-        "time": "2026-06-02 20:21:11"
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
-        "title": "01h45 ngày 03/06 Wales vs Ghana [BLV ROBBEN] (Socolive) flv",
+        "title": "06h00 ngày 03/06 Dep.Independiente Medellin vs Cucuta Deportivo [BLV RYO] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1780434319-0-0-6bc15394e59c3693e23b9c389aaea67a",
-        "time": "2026-06-02 20:21:11"
+        "url": "https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1780441879-0-0-fb9350ffb9d935b51281e3c609ab73fd",
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
-        "title": "01h45 ngày 03/06 Wales vs Ghana [BLV ROBBEN] (Socolive) hdFlv",
+        "title": "06h00 ngày 03/06 Dep.Independiente Medellin vs Cucuta Deportivo [BLV RYO] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1780434319-0-0-be9a3de054f888f091791fc85d46d6f7",
-        "time": "2026-06-02 20:21:11"
+        "url": "https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1780441879-0-0-4dd6200a0ca8f1b2732a86fb1006399e",
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
-        "title": "01h45 ngày 03/06 Wales vs Ghana [BLV ROBBEN] (Socolive) m3u8",
+        "title": "06h00 ngày 03/06 Dep.Independiente Medellin vs Cucuta Deportivo [BLV RYO] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1780434319-0-0-072979190830e60a381e090244e04b5b",
-        "time": "2026-06-02 20:21:11"
+        "url": "https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1780441879-0-0-9505bee92cf887a5d5a8370bb301465b",
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
-        "title": "01h45 ngày 03/06 Wales vs Ghana [BLV ROBBEN] (Socolive) hdM3u8",
+        "title": "06h00 ngày 03/06 Dep.Independiente Medellin vs Cucuta Deportivo [BLV RYO] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780434319-0-0-27367feb3fa06b618b4e74c256e1a9ae",
-        "time": "2026-06-02 20:21:11"
+        "url": "https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1780441879-0-0-b72fa093a6d4339c25de42ca75dfb09b",
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h15 ngày 03/06 Brescia vs Ascoli [BLV A WIN] (Socolive) flv",
+        "title": "06h00 ngày 03/06 Dep.Independiente Medellin vs Cucuta Deportivo [BLV A TÚ] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1780434319-0-0-f98b5f8519ea0a76bf574819c2a4a27c",
-        "time": "2026-06-02 20:21:11"
+        "url": "https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1780442239-0-0-95509c7de9333c27756a17f5a1c53bf3",
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h15 ngày 03/06 Brescia vs Ascoli [BLV A WIN] (Socolive) hdFlv",
+        "title": "06h00 ngày 03/06 Dep.Independiente Medellin vs Cucuta Deportivo [BLV A TÚ] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1780434319-0-0-5e81f5a04945fc4a6a2fa44c7f2fc6c4",
-        "time": "2026-06-02 20:21:11"
+        "url": "https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1780442239-0-0-3c8f4e0482a3d3888ec478ca049545d5",
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h15 ngày 03/06 Brescia vs Ascoli [BLV A WIN] (Socolive) m3u8",
+        "title": "06h00 ngày 03/06 Dep.Independiente Medellin vs Cucuta Deportivo [BLV A TÚ] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1780434319-0-0-891594197264c9a2b22aa126c3dcbab0",
-        "time": "2026-06-02 20:21:11"
+        "url": "https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1780442239-0-0-25d656596decc556276035f21d9d63c4",
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h15 ngày 03/06 Brescia vs Ascoli [BLV A WIN] (Socolive) hdM3u8",
+        "title": "06h00 ngày 03/06 Dep.Independiente Medellin vs Cucuta Deportivo [BLV A TÚ] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1780434319-0-0-f0cde29caad6ae98f476b767e4fafc09",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 03/06 Tanzania U17 vs Senegal U17 [BLV VITAMIN] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1780434319-0-0-21e0a8a4bb11ae828dc3a2295512ce60",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 03/06 Tanzania U17 vs Senegal U17 [BLV VITAMIN] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1780434319-0-0-0aefb14dc172b6fa2e2c9a0eb1b820b6",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 03/06 Tanzania U17 vs Senegal U17 [BLV VITAMIN] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1780434319-0-0-6251f3796d056a44beb82db603a786f7",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 03/06 Tanzania U17 vs Senegal U17 [BLV VITAMIN] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1780434319-0-0-6ab3329ad99d6cb58c0d934e8cecb04a",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h45 ngày 03/06 Wales vs Ghana [BLV XO] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1780434319-0-0-6f730aed8767e3661fc0b8f483ed5c2a",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h45 ngày 03/06 Wales vs Ghana [BLV XO] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1780434319-0-0-93585992ffce106306daf92b14f520b9",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h45 ngày 03/06 Wales vs Ghana [BLV XO] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1780434319-0-0-3b2d84bfb78523cdd920b6ab5f082d80",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h45 ngày 03/06 Wales vs Ghana [BLV XO] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780434319-0-0-2b98d55e3dba429107f4b8c676589319",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h45 ngày 03/06 Wales vs Ghana [BLV LONG] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912117_lsd.flv?auth_key=1780434679-0-0-e010cb2a0e34daf101b19737c6eff35b",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h45 ngày 03/06 Wales vs Ghana [BLV LONG] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912117_lhd.flv?auth_key=1780434679-0-0-3bc46e3c5928cb7de5012292dd6afc54",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h45 ngày 03/06 Wales vs Ghana [BLV LONG] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912117_lsd.m3u8?auth_key=1780434679-0-0-f17f4d34fa785d81c26a238753235f5b",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h45 ngày 03/06 Wales vs Ghana [BLV LONG] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912117_lhd.m3u8?auth_key=1780434679-0-0-c66d66931c1293a6abcc946a5c686d57",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h45 ngày 03/06 Wales vs Ghana [PINKMAN] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=310ea9e029cd8275ffb5a9a90748f14b&txTime=6a1f8d47",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h45 ngày 03/06 Wales vs Ghana [PINKMAN] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=061c160bf79e468f3f3b6221aa92a3f4&txTime=6a1f8d47",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h45 ngày 03/06 Wales vs Ghana [PINKMAN] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=310ea9e029cd8275ffb5a9a90748f14b&txTime=6a1f8d47",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h45 ngày 03/06 Wales vs Ghana [PINKMAN] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=061c160bf79e468f3f3b6221aa92a3f4&txTime=6a1f8d47",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h45 ngày 03/06 Wales vs Ghana [ĐỖ TÚ TÀI] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1780434679-0-0-3427145a890eb456fbc391d1f6230faa",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h45 ngày 03/06 Wales vs Ghana [ĐỖ TÚ TÀI] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1780434679-0-0-5b563622be36bdb2a694a09c507cf91e",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h45 ngày 03/06 Wales vs Ghana [ĐỖ TÚ TÀI] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1780434679-0-0-3fe0fd99f8216d2893782d4a134b9898",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h45 ngày 03/06 Wales vs Ghana [ĐỖ TÚ TÀI] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1780434679-0-0-35cd57252e799b49d4bfe0bc448a2164",
-        "time": "2026-06-02 20:21:11"
+        "url": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1780442239-0-0-ec46756e3c05939f28705a6c575f20ec",
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780434679-0-0-c882c31f00e2cd080e195d9ab8ff6c4b",
-        "time": "2026-06-02 20:21:11"
+        "url": "https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780442239-0-0-3aaf6267133f178f25d38df528da1860",
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780434679-0-0-e49a17932f3e12abf4f5588656161082",
-        "time": "2026-06-02 20:21:11"
+        "url": "https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780442239-0-0-a43251316ff887ed4c04b3bfd131ca6e",
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780434679-0-0-85f66d15a16082863bcb785244e5659f",
-        "time": "2026-06-02 20:21:11"
+        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780442239-0-0-6d2ddba4c1d07127ed1c2fb3cbe22be4",
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780434679-0-0-df38ac5fa9976091ed33fd1b29913da4",
-        "time": "2026-06-02 20:21:11"
+        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780442239-0-0-01c54a142b5e8056ad23985124b75fe8",
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h00 ngày 03/06 Tanzania U17 vs Senegal U17 [BLV ALEX] (Socolive) flv",
+        "title": "06h00 ngày 03/06 Dep.Independiente Medellin vs Cucuta Deportivo [BLV NẤM] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1780435039-0-0-dcff8b2c1d02990b95d9d06bbab5ef46",
-        "time": "2026-06-02 20:21:11"
+        "url": "https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1780442599-0-0-fb92f5e71a8f9a6a197017a1978ae760",
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h00 ngày 03/06 Tanzania U17 vs Senegal U17 [BLV ALEX] (Socolive) hdFlv",
+        "title": "06h00 ngày 03/06 Dep.Independiente Medellin vs Cucuta Deportivo [BLV NẤM] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1780435039-0-0-fab68aed214715600633514a2f2a5e6b",
-        "time": "2026-06-02 20:21:11"
+        "url": "https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1780442599-0-0-1f121be3ec8c2209d336fcb3fc6aaf0d",
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h00 ngày 03/06 Tanzania U17 vs Senegal U17 [BLV ALEX] (Socolive) m3u8",
+        "title": "06h00 ngày 03/06 Dep.Independiente Medellin vs Cucuta Deportivo [BLV NẤM] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1780435039-0-0-7c33706606fe169430e46718a19eb360",
-        "time": "2026-06-02 20:21:11"
+        "url": "https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1780442599-0-0-4f85e1435cf0956dc09d1b4cee97ffda",
+        "time": "2026-06-02 22:32:21"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h00 ngày 03/06 Tanzania U17 vs Senegal U17 [BLV ALEX] (Socolive) hdM3u8",
+        "title": "06h00 ngày 03/06 Dep.Independiente Medellin vs Cucuta Deportivo [BLV NẤM] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780435039-0-0-b30bf75ec8b19874135b2698533e15e9",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h45 ngày 03/06 Wales vs Ghana [THẠCH TÚ] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912116_lsd.flv?auth_key=1780435039-0-0-e8c3f0414d8cb7184510c7400a3dfc57",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h45 ngày 03/06 Wales vs Ghana [THẠCH TÚ] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1780435039-0-0-abe6251bb69245b5304e31e2a408cdb0",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h45 ngày 03/06 Wales vs Ghana [THẠCH TÚ] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1780435039-0-0-e8c9edc3a5341f107e9f689d5a1d1f82",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h45 ngày 03/06 Wales vs Ghana [THẠCH TÚ] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1780435039-0-0-905814d9a89ff34185dce3a627aaea83",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h15 ngày 03/06 Brescia vs Ascoli [LOKA] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1780435039-0-0-75627322364fd4b0ba4f1b6dc9c73cf8",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h15 ngày 03/06 Brescia vs Ascoli [LOKA] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1780435039-0-0-9796d5227efde25543e22ed5a9815f90",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h15 ngày 03/06 Brescia vs Ascoli [LOKA] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1780435039-0-0-ea6f8e6f5c2b638cbfb81e026775b96c",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h15 ngày 03/06 Brescia vs Ascoli [LOKA] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780435039-0-0-b7f5e8e186c35656eceaf832ca0d2a27",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h15 ngày 03/06 Brescia vs Ascoli [BLV WUKONG] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1780435039-0-0-c51c9aed7b66aa54907ea0a23b1ba7a2",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h15 ngày 03/06 Brescia vs Ascoli [BLV WUKONG] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1780435039-0-0-5ac32bd6f97499e9991094116b69d1eb",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h15 ngày 03/06 Brescia vs Ascoli [BLV WUKONG] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1780435039-0-0-a24e96bed697ce69f3bbc7f37525c768",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h15 ngày 03/06 Brescia vs Ascoli [BLV WUKONG] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1780435039-0-0-861c97609e9785ee2a013e79bb563804",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 03/06 Tanzania U17 vs Senegal U17 [QUỐC KHÁNH] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-602153_lsd.flv?txSecret=2d326c4fb6df3779041d5f59ff79a711&txTime=6a1f8eaf",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 03/06 Tanzania U17 vs Senegal U17 [QUỐC KHÁNH] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-602153_lhd.flv?txSecret=9ff372018b1bfab68ba35d6e59666ec2&txTime=6a1f8eaf",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 03/06 Tanzania U17 vs Senegal U17 [QUỐC KHÁNH] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=2d326c4fb6df3779041d5f59ff79a711&txTime=6a1f8eaf",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 03/06 Tanzania U17 vs Senegal U17 [QUỐC KHÁNH] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=9ff372018b1bfab68ba35d6e59666ec2&txTime=6a1f8eaf",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h45 03/06 Wales vs Ghana (Hội Quán) FHD",
-        "logo": "",
-        "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h45 03/06 Wales vs Ghana (Hội Quán) SD",
-        "logo": "",
-        "url": "https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 03/06 Joao Fonseca vs Jakub Mensik (Hội Quán) FHD",
-        "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8",
-        "time": "2026-06-02 20:21:11"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 03/06 Joao Fonseca vs Jakub Mensik (Hội Quán) SD",
-        "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-02 20:21:11"
+        "url": "https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1780442599-0-0-e40f0199f4ae7c4e8bdfe52b24831b6f",
+        "time": "2026-06-02 22:32:21"
     }
 ]
