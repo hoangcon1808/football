@@ -36,13 +36,6 @@
     },
     {
         "group": "HỘI QUÁN",
-        "title": "02:00 | Spain vs Iraq",
-        "logo": "https://media.api-sports.io/football/teams/9.png",
-        "url": "https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8",
-        "time": "2026-06-05 02:00:00"
-    },
-    {
-        "group": "HỘI QUÁN",
         "title": "02:10 | France vs Ivory Coast",
         "logo": "https://media.api-sports.io/football/teams/2.png",
         "url": "https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8",
@@ -54,6 +47,13 @@
         "logo": "https://media.api-sports.io/football/teams/2.png",
         "url": "https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8",
         "time": "2026-06-05 02:10:00"
+    },
+    {
+        "group": "HỘI QUÁN",
+        "title": "23:00 | Belarus vs Syria",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Flag_of_Belarus_%28variant%29.svg/250px-Flag_of_Belarus_%28variant%29.svg.png",
+        "url": "https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-05 23:00:00"
     },
     {
         "group": "HỘI QUÁN",
@@ -78,45 +78,38 @@
     },
     {
         "group": "VÒNG CẤM TV",
-        "title": "Spain vs Iraq",
-        "logo": "https://media.api-sports.io/football/teams/9.png",
-        "url": "https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8",
-        "time": "2026-06-04 19:03:27"
-    },
-    {
-        "group": "VÒNG CẤM TV",
         "title": "France vs Ivory Coast",
         "logo": "https://media.api-sports.io/football/teams/2.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8",
-        "time": "2026-06-04 19:03:27"
+        "time": "2026-06-04 21:01:28"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "Singapore vs China",
         "logo": "https://media.api-sports.io/football/teams/1546.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_khomuc/playlist.m3u8",
-        "time": "2026-06-04 19:03:27"
+        "time": "2026-06-04 21:01:28"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "Thailand vs Kuwait",
         "logo": "https://media.api-sports.io/football/teams/1564.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8",
-        "time": "2026-06-04 19:03:27"
+        "time": "2026-06-04 21:01:28"
+    },
+    {
+        "group": "VÒNG CẤM TV",
+        "title": "Singapore U19 vs Thailand U19",
+        "logo": "https://media.api-sports.io/football/teams/19154.png",
+        "url": "https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8",
+        "time": "2026-06-04 21:01:28"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "Indonesia vs Oman",
         "logo": "https://media.api-sports.io/football/teams/1571.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8",
-        "time": "2026-06-04 19:03:27"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "19:00 | Tây Ban Nha vs Iraq",
-        "logo": "https://img.colatv88xd.cc/football/team/e5858bd2ddb51631a85b1af22f5a1a6a.png!w80",
-        "url": "https://live05.msdht.app/live/97312754.m3u8",
-        "time": "2026-06-04 19:00:00"
+        "time": "2026-06-04 21:01:28"
     },
     {
         "group": "CA LA TV",
@@ -211,6 +204,13 @@
     },
     {
         "group": "CA LA TV",
+        "title": "17:00 | Nga vs Burkina Faso",
+        "logo": "https://img.colatv88xd.cc/football/team/ca3445d71de0ef386033037868c58d92.png!w80",
+        "url": "https://live05.msdht.app/live/97312754.m3u8",
+        "time": "2026-06-05 17:00:00"
+    },
+    {
+        "group": "CA LA TV",
         "title": "00:00 | Haiti vs Peru",
         "logo": "https://img.colatv88xd.cc/football/team/d55980e43b8a49a3ac62d7a899334f11.png!w80",
         "url": "https://live05.msdht.app/live/90865415.m3u8",
@@ -218,1059 +218,912 @@
     },
     {
         "group": "FPT SPORT",
-        "title": "01h00 ngày 05/06 Hassania Agadir vs Union Touarga Sport Rabat (Lương Sơn) BLV GẤU KA m3u",
+        "title": "02h10 ngày 05/06 France vs Ivory Coast (Lương Sơn) BLV LỮ BỐ m3u",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14",
-        "time": "2026-06-04 19:03:28"
+        "url": "https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1",
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Italy U17 vs Spain U17 (Lương Sơn) BLV KEVILL m3u",
+        "title": "02h10 ngày 05/06 France vs Ivory Coast (Lương Sơn) BLV LỮ BỐ flv",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799",
-        "time": "2026-06-04 19:03:28"
+        "url": "https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1",
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Italy U17 vs Spain U17 (Lương Sơn) BLV KEVILL flv",
+        "title": "02h10 ngày 05/06 France vs Ivory Coast (Lương Sơn) BLV LƯU BỊ m3u",
         "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799",
-        "time": "2026-06-04 19:03:28"
+        "url": "https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1",
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Sweden vs Greece (Lương Sơn) BLV LÝ QUỲ m3u",
+        "title": "02h10 ngày 05/06 France vs Ivory Coast (Lương Sơn) BLV LƯU BỊ flv",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3",
-        "time": "2026-06-04 19:03:28"
+        "url": "https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1",
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Sweden vs Greece (Lương Sơn) BLV LÝ QUỲ flv",
+        "title": "02h10 ngày 05/06 France vs Ivory Coast (Lương Sơn) BLV PHI HỔ m3u",
         "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3",
-        "time": "2026-06-04 19:03:28"
+        "url": "https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h10 ngày 05/06 France vs Ivory Coast (Lương Sơn) BLV PHI HỔ flv",
+        "logo": "",
+        "url": "https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h10 ngày 05/06 France vs Ivory Coast (Lương Sơn) BLV LEO m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h10 ngày 05/06 France vs Ivory Coast (Lương Sơn) BLV LEO flv",
+        "logo": "",
+        "url": "https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 05/06 FAR Forces Armee Royales vs DHJ Difaa Hassani Jadidi (Lương Sơn) BLV FERNANDO m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 05/06 FAR Forces Armee Royales vs DHJ Difaa Hassani Jadidi (Lương Sơn) BLV FERNANDO flv",
+        "logo": "",
+        "url": "https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 05/06 FAR Forces Armee Royales vs DHJ Difaa Hassani Jadidi (Lương Sơn) BLV QUAN VŨ m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 05/06 FAR Forces Armee Royales vs DHJ Difaa Hassani Jadidi (Lương Sơn) BLV QUAN VŨ flv",
+        "logo": "",
+        "url": "https://flv.cdnfaster-a.live/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 05/06 Spain vs Iraq (Lương Sơn) BLV HÀN TÍN m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 05/06 Spain vs Iraq (Lương Sơn) BLV HÀN TÍN flv",
+        "logo": "",
+        "url": "https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 05/06 Spain vs Iraq (Lương Sơn) BLV PELE m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 05/06 Spain vs Iraq (Lương Sơn) BLV PELE flv",
+        "logo": "",
+        "url": "https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 05/06 Spain vs Iraq (Lương Sơn) BLV VƯƠNG LUÂN m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 05/06 Spain vs Iraq (Lương Sơn) BLV VƯƠNG LUÂN flv",
+        "logo": "",
+        "url": "https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 05/06 Spain vs Iraq (Lương Sơn) BLV DƯƠNG CHÍ m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 05/06 Spain vs Iraq (Lương Sơn) BLV DƯƠNG CHÍ flv",
+        "logo": "",
+        "url": "https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h30 ngày 05/06 Millonarios (W) vs Independiente Medellin (W) (Lương Sơn) BLV LÝ ỨNG m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h30 ngày 05/06 Millonarios (W) vs Independiente Medellin (W) (Lương Sơn) BLV LÝ ỨNG flv",
+        "logo": "",
+        "url": "https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h30 ngày 05/06 Millonarios (W) vs Independiente Medellin (W) (Lương Sơn) BLV MAYBACH m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h30 ngày 05/06 Millonarios (W) vs Independiente Medellin (W) (Lương Sơn) BLV MAYBACH flv",
+        "logo": "",
+        "url": "https://flv.cdnfaster-a.live/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h10 ngày 05/06 Sao Luis MA vs Tupan MA (Lương Sơn) BLV TRIỆU TỬ LONG m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h10 ngày 05/06 Sao Luis MA vs Tupan MA (Lương Sơn) BLV TRIỆU TỬ LONG flv",
+        "logo": "",
+        "url": "https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070",
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8",
-        "time": "2026-06-04 19:03:28"
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 UNSW FC Women vs University of Sydney Women (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/8988f3aa5ce2f85d4c50a0bc65d9d998/playlist.m3u8",
-        "time": "2026-06-04 19:03:28"
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Newcastle Olympic FC Reserves vs Charlestown Azzurri Reserves (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/6f115b2fe383bc3710a61f46cc1b22f9/playlist.m3u8",
-        "time": "2026-06-04 19:03:28"
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "07h10 ngày 23/05 Boston Legacy W vs Seattle Reign (W) (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8",
-        "time": "2026-06-04 19:03:28"
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Mexico vs Ghana (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Sweden vs Greece (Chuối Chiên) HD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Sweden vs Greece (Chuối Chiên) HD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho.flv",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Sweden vs Greece (Chuối Chiên) FHD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Sweden vs Greece (Chuối Chiên) FHD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Sweden vs Greece (Chuối Chiên) HD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Sweden vs Greece (Chuối Chiên) HD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/troctru.flv",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Sweden vs Greece (Chuối Chiên) FHD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Sweden vs Greece (Chuối Chiên) FHD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd.flv",
-        "time": "2026-06-04 19:03:28"
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "02h00 ngày 05/06 Spain vs Iraq (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8",
-        "time": "2026-06-04 19:03:28"
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "02h00 ngày 05/06 Spain vs Iraq (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/max.flv",
-        "time": "2026-06-04 19:03:28"
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "02h00 ngày 05/06 Spain vs Iraq (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8",
-        "time": "2026-06-04 19:03:28"
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "02h00 ngày 05/06 Spain vs Iraq (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/maxhd.flv",
-        "time": "2026-06-04 19:03:28"
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "02h00 ngày 05/06 Spain vs Iraq (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8",
-        "time": "2026-06-04 19:03:28"
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "02h00 ngày 05/06 Spain vs Iraq (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoito.flv",
-        "time": "2026-06-04 19:03:28"
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "02h00 ngày 05/06 Spain vs Iraq (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8",
-        "time": "2026-06-04 19:03:28"
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "02h00 ngày 05/06 Spain vs Iraq (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv",
-        "time": "2026-06-04 19:03:28"
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h10 ngày 05/06 France vs Ivory Coast (Chuối Chiên) HD1",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h10 ngày 05/06 France vs Ivory Coast (Chuối Chiên) HD2",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho.flv",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h10 ngày 05/06 France vs Ivory Coast (Chuối Chiên) FHD1",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h10 ngày 05/06 France vs Ivory Coast (Chuối Chiên) FHD2",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv",
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "02h10 ngày 05/06 France vs Ivory Coast (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/ngokhong/playlist.m3u8",
-        "time": "2026-06-04 19:03:28"
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "02h10 ngày 05/06 France vs Ivory Coast (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/ngokhong.flv",
-        "time": "2026-06-04 19:03:28"
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "02h10 ngày 05/06 France vs Ivory Coast (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/ngokhonghd/playlist.m3u8",
-        "time": "2026-06-04 19:03:28"
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "02h10 ngày 05/06 France vs Ivory Coast (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/ngokhonghd.flv",
-        "time": "2026-06-04 19:03:28"
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "02h30 ngày 05/06 Turkey W vs Netherlands W (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8",
-        "time": "2026-06-04 19:03:28"
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "02h30 ngày 05/06 Turkey W vs Netherlands W (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoibo.flv",
-        "time": "2026-06-04 19:03:28"
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "02h30 ngày 05/06 Turkey W vs Netherlands W (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8",
-        "time": "2026-06-04 19:03:28"
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "02h30 ngày 05/06 Turkey W vs Netherlands W (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv",
-        "time": "2026-06-04 19:03:28"
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "03h30 ngày 05/06 Ukraine W vs Germany W (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/rockie/playlist.m3u8",
-        "time": "2026-06-04 19:03:28"
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "03h30 ngày 05/06 Ukraine W vs Germany W (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/rockie.flv",
-        "time": "2026-06-04 19:03:28"
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "03h30 ngày 05/06 Ukraine W vs Germany W (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/rockiehd/playlist.m3u8",
-        "time": "2026-06-04 19:03:28"
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "03h30 ngày 05/06 Ukraine W vs Germany W (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/rockiehd.flv",
-        "time": "2026-06-04 19:03:28"
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "06h00 ngày 05/06 Brazil W vs Dominican Republic W (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
-        "time": "2026-06-04 19:03:28"
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "06h00 ngày 05/06 Brazil W vs Dominican Republic W (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay.flv",
-        "time": "2026-06-04 19:03:28"
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "06h00 ngày 05/06 Brazil W vs Dominican Republic W (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
-        "time": "2026-06-04 19:03:28"
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "06h00 ngày 05/06 Brazil W vs Dominican Republic W (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv",
-        "time": "2026-06-04 19:03:28"
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "16h00 ngày 05/06 Brunei U19 vs Malaysia U19 (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/cauca/playlist.m3u8",
-        "time": "2026-06-04 19:03:28"
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "16h00 ngày 05/06 Brunei U19 vs Malaysia U19 (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/cauca.flv",
-        "time": "2026-06-04 19:03:28"
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "16h00 ngày 05/06 Brunei U19 vs Malaysia U19 (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/caucahd/playlist.m3u8",
-        "time": "2026-06-04 19:03:28"
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "16h00 ngày 05/06 Brunei U19 vs Malaysia U19 (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/caucahd.flv",
-        "time": "2026-06-04 19:03:28"
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h30 ngày 05/06 Thailand vs Kuwait (Chuối Chiên) HD1",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h30 ngày 05/06 Thailand vs Kuwait (Chuối Chiên) HD2",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/troctru.flv",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h30 ngày 05/06 Thailand vs Kuwait (Chuối Chiên) FHD1",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h30 ngày 05/06 Thailand vs Kuwait (Chuối Chiên) FHD2",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd.flv",
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC (Gà Vàng) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/821d54abadb12c6c15edba538ab20ad1/playlist.m3u8",
-        "time": "2026-06-04 19:03:28"
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "07h00 ngày 23/05 Sporting Kansas CityReserves vs Austin FC II (Gà Vàng) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8",
-        "time": "2026-06-04 19:03:28"
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [BLV FIREMAN] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1780602079-0-0-5065c12f0de5cdea9d5f9dfa26a8c42f",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [BLV FIREMAN] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1780602079-0-0-92de7fc88bdd1e9c19f052c969859f73",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [BLV FIREMAN] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1780602079-0-0-c8637d3f1c100ac573c19087c9417d04",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [BLV FIREMAN] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780602079-0-0-16d84a07b57a570ef2bc095cc123d110",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [HẢI THANH] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1780602079-0-0-b51f413c2530b26bc05bc892abee1c25",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [HẢI THANH] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1780602079-0-0-b007f35e3321ff1d68ff43e416ff31ce",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [HẢI THANH] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1780602079-0-0-351ac76932f1767dd07f55ed9e8bc7e2",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [HẢI THANH] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780602079-0-0-f9db73196bd3fc72ca13cce7ee9156ba",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 05/06 Spain vs Iraq [BLV COCA] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1780602079-0-0-df451323e4da305f3b70eff96dde9f71",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 05/06 Spain vs Iraq [BLV COCA] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1780602079-0-0-f68faf2c909fa4a90526cd0d5c4fd9e9",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 05/06 Spain vs Iraq [BLV COCA] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1780602079-0-0-a80a0d04130704eb6b9014a5b07714b8",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 05/06 Spain vs Iraq [BLV COCA] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780602079-0-0-19557da54622dd640153cd958899c0f8",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [LOKA] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1780602079-0-0-bbf8690126e7c99d9af7f3e10645bd8e",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [LOKA] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1780602079-0-0-08b3b077508c6e1845be05cea7765d36",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [LOKA] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1780602079-0-0-089ce53893b665f9865d64a7f3679b25",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [LOKA] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780602079-0-0-412fab215fd8e01f84b19f7801f96342",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [BLV MESSI] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1780602079-0-0-3a5c00a12be68553c0a9f04a6538bfea",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [BLV MESSI] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1780602079-0-0-5f7289b1b24bd734b816f61f28558fe1",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [BLV MESSI] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1780602079-0-0-2b80762cf049b0306248c86301f4287c",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [BLV MESSI] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1780602079-0-0-be1ef0bd72af42064289e9b515e9ac0f",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 05/06 Spain vs Iraq [ĐỖ TÚ TÀI] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1780602079-0-0-39483da661fafb330c55991668f74dae",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 05/06 Spain vs Iraq [ĐỖ TÚ TÀI] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1780602079-0-0-067ef58f8fbf797f0dfc58116dbcdef9",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 05/06 Spain vs Iraq [ĐỖ TÚ TÀI] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1780602079-0-0-2a8060939f39fcd19bff9d1b2c8b9203",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 05/06 Spain vs Iraq [ĐỖ TÚ TÀI] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1780602079-0-0-87db5b4a5e5316f7ccd164bd4529b020",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780602079-0-0-305e88ebec8d28d81844e875dbce33c7",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780602079-0-0-4cf7e528509d5c37c52967e37a6ac4d7",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780602079-0-0-b9c918dd41e47ef8415da33dc974bac7",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780602079-0-0-fa500a71b11e517c65dfe4b87955bf9d",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 05/06 Spain vs Iraq [VƯƠNG ANH] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=b313b6204310b3b2362610bf12896c9c&txTime=6a221c97",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 05/06 Spain vs Iraq [VƯƠNG ANH] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=e5ddd8d4e1c8469f2d998f118491fa43&txTime=6a221c97",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 05/06 Spain vs Iraq [VƯƠNG ANH] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=b313b6204310b3b2362610bf12896c9c&txTime=6a221c97",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 05/06 Spain vs Iraq [VƯƠNG ANH] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=e5ddd8d4e1c8469f2d998f118491fa43&txTime=6a221c97",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 05/06 Spain vs Iraq [CÔNG CHẤT] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1780602439-0-0-cccbc35588f047242e5ae67b3f572e5c",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 05/06 Spain vs Iraq [CÔNG CHẤT] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1780602439-0-0-37803517a67a8efb35d682fde2fa0b93",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 05/06 Spain vs Iraq [CÔNG CHẤT] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1780602439-0-0-1344cd6d8d5b5c2edd7f92a400855ede",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 05/06 Spain vs Iraq [CÔNG CHẤT] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780602439-0-0-2307ea4fcc14c3957e7f9ad19950bd8b",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Sweden vs Greece [BLV Củ Cải] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1780602439-0-0-5e4eddc1cbf819a0b2513a5db04fb835",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Sweden vs Greece [BLV Củ Cải] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1780602439-0-0-9ba25d19f7b1bc143a8ef6ffe4f93448",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Sweden vs Greece [BLV Củ Cải] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1780602439-0-0-fee504e62107fbae246527c4a267f3be",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Sweden vs Greece [BLV Củ Cải] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1780602439-0-0-e02c1be2e3c776e3b0aebc293e70cef2",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Sweden vs Greece [NGƯỜI CÁ] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1780602439-0-0-dc5fe86b0d2ff851c380d44aec4c95ad",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Sweden vs Greece [NGƯỜI CÁ] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1780602439-0-0-0bd9ffc2d756eb65ad42e269d50d4824",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Sweden vs Greece [NGƯỜI CÁ] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780602439-0-0-5a7e14b9fb322dda936ddd158ca4dc2e",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Sweden vs Greece [NGƯỜI CÁ] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780602439-0-0-28dedae9762d208d8253a45e2ab69857",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Sweden vs Greece [CR Bưởi] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1780602439-0-0-1ced592d8ec460dc9b45f575aad33271",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Sweden vs Greece [CR Bưởi] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1780602439-0-0-79eb00b0d365a422ca1140c256e22ebc",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Sweden vs Greece [CR Bưởi] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1780602439-0-0-2fcabb57959bb4ec904c7559a7c04803",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Sweden vs Greece [CR Bưởi] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780602439-0-0-0661bec7f71ef943c51c505cc9bf2f7a",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Sweden vs Greece [LÃO LÂM] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1780602439-0-0-b56c4ca65b24ec0d7e73e6694456914b",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Sweden vs Greece [LÃO LÂM] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1780602439-0-0-91a2dc286994dedcdc173c1d871900c9",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Sweden vs Greece [LÃO LÂM] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1780602439-0-0-f5457ef50e534470853c9ff5ff3af415",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Sweden vs Greece [LÃO LÂM] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780602439-0-0-638d0640aaec63ee8f0a3ecfbf9ca217",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Sweden vs Greece [BLV ENZO] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1780602439-0-0-df7d2a233436cb8e3cd45dd0e16256ef",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Sweden vs Greece [BLV ENZO] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1780602439-0-0-b3716f10737cc2d276cc27837faa6aa8",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Sweden vs Greece [BLV ENZO] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1780602439-0-0-fd31b6d5af72d6b0de083f9af9795823",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Sweden vs Greece [BLV ENZO] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1780602439-0-0-f10bc945c652efb527de0c9c5b1a5ca9",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Italy U17 vs Spain U17 [BLV CÁO] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-597929_lsd.flv?auth_key=1780602439-0-0-464fc6d01515bdc658452d752bcc2707",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Italy U17 vs Spain U17 [BLV CÁO] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-597929_lhd.flv?auth_key=1780602439-0-0-df3073f567fb9fac44198e46b5b7ce13",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Italy U17 vs Spain U17 [BLV CÁO] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1780602439-0-0-f7a027dc14677911d994937b383e8cc3",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Italy U17 vs Spain U17 [BLV CÁO] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780602439-0-0-65c73299034631e3b500b24d23117ed9",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Italy U17 vs Spain U17 [BLV LONG] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912117_lsd.flv?txSecret=aef5d741cafd79a8661e29b86fb044e7&txTime=6a221c97",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Italy U17 vs Spain U17 [BLV LONG] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912117_lhd.flv?txSecret=fe36f3c433a3fed85a18573834dbb6c6&txTime=6a221c97",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Italy U17 vs Spain U17 [BLV LONG] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=aef5d741cafd79a8661e29b86fb044e7&txTime=6a221c97",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Italy U17 vs Spain U17 [BLV LONG] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=fe36f3c433a3fed85a18573834dbb6c6&txTime=6a221c97",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Italy U17 vs Spain U17 [BLV VIP] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=0bc7beaeb60ed895eb7b9fad037b20bd&txTime=6a221c97",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Italy U17 vs Spain U17 [BLV VIP] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=3dcca30c18094c43288e29da28e3c483&txTime=6a221c97",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Italy U17 vs Spain U17 [BLV VIP] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=0bc7beaeb60ed895eb7b9fad037b20bd&txTime=6a221c97",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Italy U17 vs Spain U17 [BLV VIP] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=3dcca30c18094c43288e29da28e3c483&txTime=6a221c97",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Andorra vs Liechtenstein [BLV A WIN] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1780602439-0-0-efa9e7f99831177181ce9c53c0e15b37",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Andorra vs Liechtenstein [BLV A WIN] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1780602439-0-0-2f8c1179f7488d0a0448bbf0886b5882",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Andorra vs Liechtenstein [BLV A WIN] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1780602439-0-0-a00a7b0c2ea93317b14f7670c2375bc0",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Andorra vs Liechtenstein [BLV A WIN] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1780602439-0-0-faa3fe019d9c73c50e2226eca86c4b3a",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Barcelona vs Murcia [KING] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1780602439-0-0-8a63dcd29bb70eb5eb35e86e6294eac5",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Barcelona vs Murcia [KING] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1780602439-0-0-2805de099f2dbbfcc072a56c8cf87874",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Barcelona vs Murcia [KING] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1780602439-0-0-aea521f9d7a1437ce531ed8a3d95a9ec",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 05/06 Barcelona vs Murcia [KING] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1780602439-0-0-6eb14f21834437e22280d942ef88d842",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - Luxembourg vs Italy [Sóc trèo cây ngô đồng] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1780602439-0-0-5b07d894002ba7e83bcae0a513eb9d28",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - Luxembourg vs Italy [Sóc trèo cây ngô đồng] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1780602439-0-0-186fec2dc760122411a2c83baa91956e",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - Luxembourg vs Italy [Sóc trèo cây ngô đồng] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1780602439-0-0-5f33b4f8beced0db9df9988b0133c83c",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - Luxembourg vs Italy [Sóc trèo cây ngô đồng] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1780602439-0-0-71ec1e973e989ea759ffff7897fef8ff",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [BLV ALEX] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1780602799-0-0-a309f27ad29487e7fb197009aac3df9a",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [BLV ALEX] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1780602799-0-0-189481b9ae29af9d397c3bebca7db79f",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [BLV ALEX] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1780602799-0-0-a8ee87e0b72850947e2679b702551046",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [BLV ALEX] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780602799-0-0-0349b09d09f456eddb52a2e2382f976b",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 05/06 Spain vs Iraq [BLV COZY] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1780602799-0-0-58d3813260be76c80e57fc6dd2f2979d",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 05/06 Spain vs Iraq [BLV COZY] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1780602799-0-0-810c21059d307bce8d762175e4f2e7df",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 05/06 Spain vs Iraq [BLV COZY] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1780602799-0-0-2359cdbaf25c4561e977afa07bd6f617",
-        "time": "2026-06-04 19:03:28"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 05/06 Spain vs Iraq [BLV COZY] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780602799-0-0-fcd3ed3db02b5014f0c1775d683fa612",
-        "time": "2026-06-04 19:03:28"
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [BLV KEM] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1780602799-0-0-017a0ef3e8f4acc898f793c015596ccf",
-        "time": "2026-06-04 19:03:28"
+        "url": "https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1780609279-0-0-cc70155c7d173a4f660bcf2c807aca13",
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [BLV KEM] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1780602799-0-0-8132bba95a9a4a341a99724407d0e3bf",
-        "time": "2026-06-04 19:03:28"
+        "url": "https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1780609279-0-0-c0cb6ddb0896e7a4230ca8b0b9b1a8aa",
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [BLV KEM] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1780602799-0-0-1039f5162d92e656ae5d77d8e70ecf2a",
-        "time": "2026-06-04 19:03:28"
+        "url": "https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1780609279-0-0-adbf536a613f0565b5db9cceb632d0e5",
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [BLV KEM] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780602799-0-0-c568e605ded4480f4c3af2154e106e3d",
-        "time": "2026-06-04 19:03:28"
+        "url": "https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780609279-0-0-64df415cb4d0c7be7818ca2f0e79a103",
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 05/06 Sweden vs Greece (Hội Quán) FHD",
+        "title": "02h00 ngày 05/06 Spain vs Iraq [BLV COZY] (Socolive) flv",
         "logo": "",
-        "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8",
-        "time": "2026-06-04 19:03:28"
+        "url": "https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1780609279-0-0-605e9c5df58ef5595a358dd6d7f188b1",
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 05/06 Sweden vs Greece (Hội Quán) SD",
+        "title": "02h00 ngày 05/06 Spain vs Iraq [BLV COZY] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-04 19:03:28"
+        "url": "https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1780609279-0-0-8d62df7749d1a939f0298d03e5c0021e",
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h00 05/06 Spain vs Iraq (Hội Quán) FHD",
+        "title": "02h00 ngày 05/06 Spain vs Iraq [BLV COZY] (Socolive) m3u8",
         "logo": "",
-        "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8",
-        "time": "2026-06-04 19:03:28"
+        "url": "https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1780609279-0-0-44390e5280101021e696b72b2ee144cb",
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h00 05/06 Spain vs Iraq (Hội Quán) SD",
+        "title": "02h00 ngày 05/06 Spain vs Iraq [BLV COZY] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-04 19:03:28"
+        "url": "https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780609279-0-0-488d59df6a30ee394e031676aeaf88e9",
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h00 05/06 Spain vs Iraq (Hội Quán) FHD",
+        "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [BLV ALEX] (Socolive) flv",
         "logo": "",
-        "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8",
-        "time": "2026-06-04 19:03:28"
+        "url": "https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1780609279-0-0-54b6aa2e33b43d02005efd8b6875f88a",
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h00 05/06 Spain vs Iraq (Hội Quán) SD",
+        "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [BLV ALEX] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-04 19:03:28"
+        "url": "https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1780609279-0-0-50b27af7e35137742178deff46b45385",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [BLV ALEX] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1780609279-0-0-495c5c0e97caf5b457ad8cc002180966",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [BLV ALEX] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780609279-0-0-d185cee3f3ba2560526ef8793437f01b",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [LOKA] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1780609639-0-0-c97303f66ef1291579d444fb104625a7",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [LOKA] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1780609639-0-0-c744838d8092d17f5ae1243a1fecb111",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [LOKA] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1780609639-0-0-99940851bfd0bf865d80be142a7d9a20",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [LOKA] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780609639-0-0-8010b1bfbeb08101d0f3e4f7405db001",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [BLV FIREMAN] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1780609639-0-0-86e200f195f2f644d196d021b273effc",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [BLV FIREMAN] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1780609639-0-0-94bc2e57e63579c080c09352761ed722",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [BLV FIREMAN] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1780609639-0-0-4fa449e1b6a801c197cecd2d07f94373",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [BLV FIREMAN] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780609639-0-0-dcd2761bd491b357f6fcae4fbc8c04c2",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [HẢI THANH] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1780609639-0-0-8458705c1e2358f266ed4324c4c4f773",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [HẢI THANH] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1780609639-0-0-0695586f83ab54a6fad629a63bfb885a",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [HẢI THANH] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1780609639-0-0-949853611004bd2d3d25c8614651d9b0",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [HẢI THANH] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780609639-0-0-64d2dd8dc1b684739012c00bf112ed8e",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [BLV MESSI] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1780609639-0-0-e53d866b8078415df7ae664b9ade2561",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [BLV MESSI] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1780609639-0-0-c0bfb5972f71afbfd3f136a6102850af",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [BLV MESSI] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1780609639-0-0-936e13a60c330b619a246e23507a8c68",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h10 ngày 05/06 France vs Cote d'Ivoire [BLV MESSI] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1780609639-0-0-ad1bc027a2abd88a2b5d9e725ba24a68",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 05/06 Spain vs Iraq [BLV COCA] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1780609639-0-0-6fbfb60441088550e553a006b68842b6",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 05/06 Spain vs Iraq [BLV COCA] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1780609639-0-0-62346e8b86ff17ac320634423f15aa0c",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 05/06 Spain vs Iraq [BLV COCA] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1780609639-0-0-5fe292f2a264b6c6c947a6bcb247412e",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 05/06 Spain vs Iraq [BLV COCA] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780609639-0-0-704b96c4b7ce73a247180d6596b11dde",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 05/06 Spain vs Iraq [ĐỖ TÚ TÀI] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1780609639-0-0-5407fdedc4f2b57bc50faf438adb85b1",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 05/06 Spain vs Iraq [ĐỖ TÚ TÀI] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1780609639-0-0-7c3e5ca57102fdfa65d70dfef96fe079",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 05/06 Spain vs Iraq [ĐỖ TÚ TÀI] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1780609639-0-0-be7702fb06230ec4188a9b38560f4347",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 05/06 Spain vs Iraq [ĐỖ TÚ TÀI] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1780609639-0-0-a70bc0c07b77ada324b405c1a2b40fb2",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 05/06 Spain vs Iraq [NGƯỜI CÁ] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1780609639-0-0-03fb5704dbe7d595911b783434fed235",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 05/06 Spain vs Iraq [NGƯỜI CÁ] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1780609639-0-0-4100535d38db451410c56e0db1e8c5a5",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 05/06 Spain vs Iraq [NGƯỜI CÁ] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780609639-0-0-538a21954b69167225e1f2e2c639b592",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 05/06 Spain vs Iraq [NGƯỜI CÁ] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780609639-0-0-c516ec3d940e6916f55768d28c1c89b3",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780609639-0-0-4aabb1da82e086eb3c62b914d3f174f8",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780609639-0-0-05528e9710e05a63c666cc7992ba5b34",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780609639-0-0-2221c4e2901db4c87d9da06b7d9f8bf6",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780609639-0-0-bc5bcff3b412c6ad01bd2659f5f95e03",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 05/06 Spain vs Iraq [VƯƠNG ANH] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=63bb7c5ae4a3fbd781ec80f06159cf85&txTime=6a223a1f",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 05/06 Spain vs Iraq [VƯƠNG ANH] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=954600f147c853cf75106ebc698c8264&txTime=6a223a1f",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 05/06 Spain vs Iraq [VƯƠNG ANH] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=63bb7c5ae4a3fbd781ec80f06159cf85&txTime=6a223a1f",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 05/06 Spain vs Iraq [VƯƠNG ANH] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=954600f147c853cf75106ebc698c8264&txTime=6a223a1f",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 05/06 Spain vs Iraq [CÔNG CHẤT] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1780609999-0-0-f6e6bdd2a165901ddf058756f82f4d2c",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 05/06 Spain vs Iraq [CÔNG CHẤT] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1780609999-0-0-4b99262e323d0b9d0e1f48807da8e6e3",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 05/06 Spain vs Iraq [CÔNG CHẤT] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1780609999-0-0-e5aa70833fddadcbab4ee6bbad50341d",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 05/06 Spain vs Iraq [CÔNG CHẤT] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780609999-0-0-70840f7eba7638b944a97fe9c037c227",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: INTERF - Luxembourg vs Italy [Sóc trèo cây ngô đồng] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1780609999-0-0-fa43d7c462198e928f0d054db946d898",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: INTERF - Luxembourg vs Italy [Sóc trèo cây ngô đồng] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1780609999-0-0-eb2c5fc6427f7addcf0343c1b72ede36",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: INTERF - Luxembourg vs Italy [Sóc trèo cây ngô đồng] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1780609999-0-0-e26893cb10975a2483b9b2431b0f38bb",
+        "time": "2026-06-04 21:01:30"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: INTERF - Luxembourg vs Italy [Sóc trèo cây ngô đồng] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1780609999-0-0-1ca6efdd5c73a4939ed010bde3ad4eff",
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "02h10 05/06 France vs Ivory Coast (Hội Quán) FHD",
         "logo": "",
         "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8",
-        "time": "2026-06-04 19:03:28"
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "02h10 05/06 France vs Ivory Coast (Hội Quán) SD",
         "logo": "",
         "url": "https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-04 19:03:28"
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "02h10 05/06 France vs Ivory Coast (Hội Quán) FHD",
         "logo": "",
         "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8",
-        "time": "2026-06-04 19:03:28"
+        "time": "2026-06-04 21:01:30"
     },
     {
         "group": "FPT SPORT",
         "title": "02h10 05/06 France vs Ivory Coast (Hội Quán) SD",
         "logo": "",
         "url": "https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-04 19:03:28"
+        "time": "2026-06-04 21:01:30"
     }
 ]
