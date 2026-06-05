@@ -1,107 +1,296 @@
 [
     {
         "group": "CA LA TV",
+        "title": "22:45 | Paraguay vs Nicaragua",
+        "logo": "https://img.colatv88xd.cc/football/team/e6092477694f4a62bbb63cf64ee19fe6.png!w80",
+        "url": "https://live05.msdht.app/live/99121525.m3u8",
+        "time": "2026-06-05 22:45:00"
+    },
+    {
+        "group": "HỘI QUÁN",
+        "title": "06:00 | Hà Lan vs Ý",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
+        "url": "https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-06 06:00:00"
+    },
+    {
+        "group": "HỘI QUÁN",
+        "title": "14:00 | Iran vs Indonesia",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg",
+        "url": "https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-06 14:00:00"
+    },
+    {
+        "group": "CA LA TV",
         "title": "22:00 | Wanderers FC vs Danubio FC",
         "logo": "https://img.colatv88xd.cc/football/team/08ba7292cb615ed5b17fa7636854c43a.png!w80",
         "url": "https://live05.msdht.app/live/14707124.m3u8",
         "time": "2026-06-05 22:00:00"
     },
     {
-        "group": "HỘI QUÁN",
-        "title": "01:30 | Ý vs Thổ Nhĩ Kỳ",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8",
-        "time": "2026-06-07 01:30:00"
+        "group": "CA LA TV",
+        "title": "23:00 | Puerto Rico vs Ả Rập Saudi",
+        "logo": "https://img.colatv88xd.cc/football/team/80ce4326387c091af8b8647f3292c818.png!w80",
+        "url": "https://live05.msdht.app/live/87547578.m3u8",
+        "time": "2026-06-05 23:00:00"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h00 ngày 06/06 Ituzaingo vs Real Pilar (Lương Sơn) NHÀ ÐÀI m3u",
+        "title": "05h00 ngày 06/06 Wanderers FC vs Danubio FC (Lương Sơn) BLV SHIN m3u",
         "logo": "",
-        "url": "https://auto.cdnfaster.live/live/sd-6MvVdDMNVbM1rk7uSC/playlist.m3u8",
-        "time": "2026-06-05 21:46:35"
+        "url": "https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587",
+        "time": "2026-06-05 22:48:42"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "04h36 ngày 06/06 Paris Saint-Germain vs Arsenal (Lương Sơn) BLV KEVILL REPLAY m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1",
+        "time": "2026-06-05 22:48:42"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h00 ngày 06/06 Montevideo Wanderers FC vs Danubio FC [PINKMAN] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=5fcf272314010d44052679789b98f025&txTime=6a23a387",
+        "time": "2026-06-05 22:48:42"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h00 ngày 06/06 Montevideo Wanderers FC vs Danubio FC [PINKMAN] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=9a28f07a3ee07b5c040b327c8353c0dc&txTime=6a23a387",
+        "time": "2026-06-05 22:48:42"
     },
     {
         "group": "FPT SPORT",
         "title": "05h00 ngày 06/06 Montevideo Wanderers FC vs Danubio FC [BLV GÔN] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=6c9b682e35449fc4f1f6fd4395919ca7&txTime=6a239577",
-        "time": "2026-06-05 21:46:35"
+        "url": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=3c7243e8128aa4118864a5e6df220d17&txTime=6a23a21f",
+        "time": "2026-06-05 22:48:42"
     },
     {
         "group": "FPT SPORT",
         "title": "05h00 ngày 06/06 Montevideo Wanderers FC vs Danubio FC [BLV GÔN] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=306f48eae2e0a278d98d73aa61dc7012&txTime=6a239577",
-        "time": "2026-06-05 21:46:35"
+        "url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=24e8463a025ee85bc0d7366368fdd465&txTime=6a23a21f",
+        "time": "2026-06-05 22:48:42"
     },
     {
         "group": "FPT SPORT",
-        "title": "03h30 06/06 Ukraina vs Nhật Bản (Hội Quán) FHD",
+        "title": "05h15 ngày 06/06 Paraguay vs Nicaragua [BLV NẤM] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8",
-        "time": "2026-06-05 21:46:35"
+        "url": "https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1780702519-0-0-47d1ca7c8ea8f649bbef9654ca74b8d4",
+        "time": "2026-06-05 22:48:42"
     },
     {
         "group": "FPT SPORT",
-        "title": "03h30 06/06 Ukraina vs Nhật Bản (Hội Quán) SD",
+        "title": "06h00 ngày 06/06 Puerto Rico vs Saudi Arabia [LOGAN] (Socolive) m3u8",
         "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-05 21:46:35"
+        "url": "https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1780702519-0-0-b9ff8a7c643a9ef91a54981a9f66de1d",
+        "time": "2026-06-05 22:48:42"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - Panama vs Dominican Republic [Sóc đau cổ vai gáy] (Socolive) hdM3u8",
+        "title": "05h15 ngày 06/06 Paraguay vs Nicaragua [HÀ DUY KIÊN] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1780698919-0-0-7c711b9dd2106d49da74f076f9724d22",
-        "time": "2026-06-05 21:46:35"
+        "url": "https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1780702159-0-0-5e9a3fa34dbdc5c72c3a42c3cab41795",
+        "time": "2026-06-05 22:48:42"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - Panama vs Dominican Republic [Sóc đau cổ vai gáy] (Socolive) m3u8",
+        "title": "05h15 ngày 06/06 Paraguay vs Nicaragua [KÉP] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1780698919-0-0-e4ed5d36c22b80653e16c702fb61a847",
-        "time": "2026-06-05 21:46:35"
+        "url": "https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1780702519-0-0-2326b658c17c1e33e7226ec0503a7f70",
+        "time": "2026-06-05 22:48:42"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - Sweden vs Greece [Sóc mèo méo meo] (Socolive) m3u8",
+        "title": "06h00 ngày 06/06 Puerto Rico vs Saudi Arabia [A PÁO] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1780698919-0-0-c8f5013ff7dacdbdf2cd48c0c83c88c3",
-        "time": "2026-06-05 21:46:35"
+        "url": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1780702519-0-0-821feb6099787ac475ef706de0cbaf59",
+        "time": "2026-06-05 22:48:42"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: AFF U19 - Timor Leste U19 vs Indonesia U19 [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8",
+        "title": "05h15 ngày 06/06 Paraguay vs Nicaragua [BLV YONE] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1780698919-0-0-ff67582256f9ac6a2590914de65559fc",
-        "time": "2026-06-05 21:46:35"
+        "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1780702159-0-0-f5dbe0e6a45246e3a9062d864d1333d3",
+        "time": "2026-06-05 22:48:42"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - Luxembourg vs Italy [Sóc nhàm nhang nhồ] (Socolive) hdM3u8",
+        "title": "05h15 ngày 06/06 Paraguay vs Nicaragua [HÀ DUY KIÊN] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1780698919-0-0-44f91eb5d1d60785786e9b376df71f11",
-        "time": "2026-06-05 21:46:35"
+        "url": "https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1780702159-0-0-1ad18713c64ee2732fc478f90dc259ee",
+        "time": "2026-06-05 22:48:42"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - Luxembourg vs Italy [Sóc nhàm nhang nhồ] (Socolive) m3u8",
+        "title": "06h00 ngày 06/06 Puerto Rico vs Saudi Arabia [BLV TOMIA] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1780698919-0-0-80cf35b2778ea82b9301c328fd24da78",
-        "time": "2026-06-05 21:46:35"
+        "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1780702159-0-0-7793b6dfe55dd202c55813fecfbfeacd",
+        "time": "2026-06-05 22:48:42"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 06/06 Puerto Rico vs Saudi Arabia [BLV TOMIA] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1780702159-0-0-497d10ce4d808957ceb61b76a9a6d9a4",
+        "time": "2026-06-05 22:48:42"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h15 ngày 06/06 Paraguay vs Nicaragua [BLV YONE] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1780702159-0-0-5b8b773dd874e430b4146e4b1de153f9",
+        "time": "2026-06-05 22:48:42"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h15 ngày 06/06 Paraguay vs Nicaragua [KÉP] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1780702519-0-0-0e46421c9e456eab99a7ffe58277f7b6",
+        "time": "2026-06-05 22:48:42"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 06/06 Argentina Women vs Peru Women [BLV VOI] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1780702519-0-0-6e11d2177f4167e678133c1f056c8c82",
+        "time": "2026-06-05 22:48:42"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 06/06 Argentina Women vs Peru Women [BLV VOI] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1780702519-0-0-2a50e70d1362756d06d3ee2c83120a37",
+        "time": "2026-06-05 22:48:42"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h00 ngày 06/06 Montevideo Wanderers FC vs Danubio FC [BLV A WIN] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1780702519-0-0-0e0e2b9c5ccab0df1da064c9b5db3dec",
+        "time": "2026-06-05 22:48:42"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 06/06 Hà Lan vs Ý (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-05 22:48:42"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 06/06 Puerto Rico vs Saudi Arabia [LOGAN] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1780702519-0-0-0dd94e6258bd43d43d203221ba581485",
+        "time": "2026-06-05 22:48:42"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 06/06 Puerto Rico vs Saudi Arabia [A PÁO] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1780702519-0-0-6859132011985230df4f35f1c0319585",
+        "time": "2026-06-05 22:48:42"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h00 ngày 06/06 Montevideo Wanderers FC vs Danubio FC [BLV A WIN] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1780702519-0-0-37b8ad79ea72507f50015823cff2b90f",
+        "time": "2026-06-05 22:48:42"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h15 ngày 06/06 Paraguay vs Nicaragua [BLV NẤM] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1780702519-0-0-b6be552a4d78ed47d6b5b5ce6a025e47",
+        "time": "2026-06-05 22:48:42"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h15 ngày 06/06 Paraguay vs Nicaragua [BLV KEM] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780702879-0-0-397edd1e9628c5087c0708149934367d",
+        "time": "2026-06-05 22:48:42"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h15 ngày 06/06 Paraguay vs Nicaragua [BLV KEM] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1780702879-0-0-893b4c272bde09becb91e7c023e05e9f",
+        "time": "2026-06-05 22:48:42"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 06/06 Puerto Rico vs Saudi Arabia (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-05 22:48:42"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 06/06 Puerto Rico vs Saudi Arabia [BLV CÒ] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1780702879-0-0-c151eeaad366dd79c9b394d4363f692c",
+        "time": "2026-06-05 22:48:42"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 06/06 Puerto Rico vs Saudi Arabia [BLV LUCAS] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1780702879-0-0-367d3e3295e2e3596492842a49d521c9",
+        "time": "2026-06-05 22:48:42"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 06/06 Operario Ferroviario PR vs Juventude [BLV GIÓ] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1780702879-0-0-ed250c65956d9ed55fb73d99ee5f4f11",
+        "time": "2026-06-05 22:48:42"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 06/06 Puerto Rico vs Saudi Arabia [BLV LUCAS] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1780702879-0-0-13bfb526defec290e6ebafb522191812",
+        "time": "2026-06-05 22:48:42"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780698199-0-0-2647770646c2e0b5ba6361390d600d67",
-        "time": "2026-06-05 21:46:35"
+        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780702519-0-0-598ca530bb4da505a4128e5298729227",
+        "time": "2026-06-05 22:48:42"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 06/06 Operario Ferroviario PR vs Juventude [BLV GIÓ] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1780702879-0-0-03a844520bae2c1c69ea426a14f9dc1c",
+        "time": "2026-06-05 22:48:42"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 06/06 Hà Lan vs Ý (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8",
+        "time": "2026-06-05 22:48:42"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780698199-0-0-9398fbc1384b37db26be17816ab614c8",
-        "time": "2026-06-05 21:46:35"
+        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780702519-0-0-5753fcccca567196b21d8a1654099428",
+        "time": "2026-06-05 22:48:42"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 06/06 Puerto Rico vs Saudi Arabia (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8",
+        "time": "2026-06-05 22:48:42"
     }
 ]
