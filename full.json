@@ -29,13 +29,6 @@
     },
     {
         "group": "HỘI QUÁN",
-        "title": "00:45 | Portugal vs Chile",
-        "logo": "https://media.api-sports.io/football/teams/27.png",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8",
-        "time": "2026-06-07 00:45:00"
-    },
-    {
-        "group": "HỘI QUÁN",
         "title": "01:30 | USA vs Germany",
         "logo": "https://media.api-sports.io/football/teams/2384.png",
         "url": "https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8",
@@ -47,6 +40,13 @@
         "logo": "https://media.api-sports.io/football/teams/10.png",
         "url": "https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8",
         "time": "2026-06-07 03:00:00"
+    },
+    {
+        "group": "HỘI QUÁN",
+        "title": "05:00 | Brazil vs Egypt",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-07 05:00:00"
     },
     {
         "group": "HỘI QUÁN",
@@ -95,49 +95,42 @@
         "title": "Bồ Đào Nha vs Chile",
         "logo": "https://media.api-sports.io/football/teams/27.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8",
-        "time": "2026-06-06 18:50:57"
+        "time": "2026-06-06 20:05:46"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "Bồ Đào Nha vs Chile",
         "logo": "https://media.api-sports.io/football/teams/27.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8",
-        "time": "2026-06-06 18:50:57"
+        "time": "2026-06-06 20:05:46"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "Mỹ vs Đức",
         "logo": "https://media.api-sports.io/football/teams/2384.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8",
-        "time": "2026-06-06 18:50:57"
-    },
-    {
-        "group": "VÒNG CẤM TV",
-        "title": "Úc vs Thụy Sĩ",
-        "logo": "https://media.api-sports.io/football/teams/20.png",
-        "url": "https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8",
-        "time": "2026-06-06 18:50:57"
+        "time": "2026-06-06 20:05:46"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "Đà Nẵng vs Thanh Hóa",
         "logo": "https://upload.wikimedia.org/wikipedia/vi/thumb/f/fb/Logo_CLB_SHB_%C4%90%C3%A0_N%E1%BA%B5ng_3_sao.svg/500px-Logo_CLB_SHB_%C4%90%C3%A0_N%E1%BA%B5ng_3_sao.svg.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_khomuc/playlist.m3u8",
-        "time": "2026-06-06 18:50:57"
+        "time": "2026-06-06 20:05:46"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "Becamex TP.HCM vs Hoàng Anh Gia Lai",
         "logo": "https://becamexhcmcity.com/wp-content/uploads/2025/03/logo0-242x300.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8",
-        "time": "2026-06-06 18:50:57"
+        "time": "2026-06-06 20:05:46"
     },
     {
-        "group": "CA LA TV",
-        "title": "17:45 | Bồ Đào Nha vs Chilê",
-        "logo": "https://img.colatv88xd.cc/football/team/d92d7ec47187a662aacda2d4b4c7628e.png!w80",
-        "url": "https://live05.msdht.app/live/97312754.m3u8",
-        "time": "2026-06-06 17:45:00"
+        "group": "VÒNG CẤM TV",
+        "title": "Đan Mạch vs Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/21.png",
+        "url": "https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8",
+        "time": "2026-06-06 20:05:46"
     },
     {
         "group": "CA LA TV",
@@ -148,17 +141,10 @@
     },
     {
         "group": "CA LA TV",
-        "title": "17:45 | Romania vs Wales",
-        "logo": "https://img.colatv88xd.cc/football/team/1f8d87e1161af68b81bace188a1ec624.png!w80",
-        "url": "https://live05.msdht.app/live/08552895.m3u8",
-        "time": "2026-06-06 17:45:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "18:00 | Đội tuyển QG Albania vs Luxembourg",
-        "logo": "https://img.colatv88xd.cc/football/team/848ef33f5e745846994a756f211e530b.png!w80",
-        "url": "https://live05.msdht.app/live/87547578.m3u8",
-        "time": "2026-06-06 18:00:00"
+        "title": "20:00 | Anh vs New Zealand",
+        "logo": "https://img.colatv88xd.cc/football/team/ba472bb6eb37e333549df040175df856.png!w80",
+        "url": "https://live05.msdht.app/live/33982309.m3u8",
+        "time": "2026-06-06 20:00:00"
     },
     {
         "group": "CA LA TV",
@@ -176,9 +162,9 @@
     },
     {
         "group": "CA LA TV",
-        "title": "20:00 | Anh vs New Zealand",
-        "logo": "https://img.colatv88xd.cc/football/team/ba472bb6eb37e333549df040175df856.png!w80",
-        "url": "https://live05.msdht.app/live/33982309.m3u8",
+        "title": "20:00 | Qatar vs El Salvador",
+        "logo": "https://img.colatv88xd.cc/football/team/7303a103c93fea0445384d6ff3f3d1b9.png!w80",
+        "url": "https://live05.msdht.app/live/87547578.m3u8",
         "time": "2026-06-06 20:00:00"
     },
     {
@@ -239,6 +225,20 @@
     },
     {
         "group": "CA LA TV",
+        "title": "05:30 | South Melbourne vs Altona Magic",
+        "logo": "https://img.colatv88xd.cc/football/team/3728683390847f335552d077cf0b8752.png!w80",
+        "url": "https://live05.msdht.app/live/08552895.m3u8",
+        "time": "2026-06-07 05:30:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "19:00 | Hy Lạp vs Ý",
+        "logo": "https://img.colatv88xd.cc/football/team/1da38e9fc1f765ffa964a0ab64c8d8fe.png!w80",
+        "url": "https://live05.msdht.app/live/97312754.m3u8",
+        "time": "2026-06-07 19:00:00"
+    },
+    {
+        "group": "CA LA TV",
         "title": "19:00 | Ma Rốc vs Na Uy",
         "logo": "https://img.colatv88xd.cc/football/team/d63036cfba56a5c3cb75ab14b33fe677.png!w80",
         "url": "https://live05.msdht.app/live/14830711.m3u8",
@@ -246,1248 +246,1178 @@
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 07/06 MC Oran vs USM Alger (Lương Sơn) BLV QUAN VŨ m3u",
+        "title": "02h00 ngày 07/06 Australia vs Switzerland (Lương Sơn) BLV TÂY MÔN KHÁNH m3u",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7",
-        "time": "2026-06-06 18:50:58"
+        "url": "https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da",
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 07/06 MC Oran vs USM Alger (Lương Sơn) BLV QUAN VŨ flv",
+        "title": "02h00 ngày 07/06 Australia vs Switzerland (Lương Sơn) BLV TÂY MÔN KHÁNH flv",
         "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7",
-        "time": "2026-06-06 18:50:58"
+        "url": "https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da",
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Romania vs Wales (Lương Sơn) BLV TRIỆU TỬ LONG m3u",
+        "title": "02h00 ngày 07/06 Panama vs Bosnia and Herzegovina (Lương Sơn) BLV NGƯỜI THÉP m3u",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070",
-        "time": "2026-06-06 18:50:58"
+        "url": "https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5",
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Romania vs Wales (Lương Sơn) BLV TRIỆU TỬ LONG flv",
+        "title": "02h00 ngày 07/06 Panama vs Bosnia and Herzegovina (Lương Sơn) BLV NGƯỜI THÉP flv",
         "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h35 ngày 07/06 USA vs Germany (Lương Sơn) BLV LÝ ỨNG m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h35 ngày 07/06 USA vs Germany (Lương Sơn) BLV LÝ ỨNG flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d",
-        "time": "2026-06-06 18:50:58"
+        "url": "https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5",
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "01h00 ngày 07/06 Albania vs Luxembourg (Lương Sơn) BLV VƯƠNG LUÂN m3u",
         "logo": "",
         "url": "https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "01h00 ngày 07/06 Albania vs Luxembourg (Lương Sơn) BLV VƯƠNG LUÂN flv",
         "logo": "",
         "url": "https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile (Lương Sơn) BLV LƯU BỊ m3u",
+        "title": "01h35 ngày 07/06 USA vs Germany (Lương Sơn) BLV LÝ ỨNG m3u",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1",
-        "time": "2026-06-06 18:50:58"
+        "url": "https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d",
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile (Lương Sơn) BLV LƯU BỊ flv",
+        "title": "01h35 ngày 07/06 USA vs Germany (Lương Sơn) BLV LÝ ỨNG flv",
         "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile (Lương Sơn) BLV KEVILL m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile (Lương Sơn) BLV KEVILL flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile (Lương Sơn) BLV LEO m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile (Lương Sơn) BLV LEO flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile (Lương Sơn) BLV LỮ BỐ m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile (Lương Sơn) BLV LỮ BỐ flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile (Lương Sơn) BLV KAKA m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile (Lương Sơn) BLV KAKA flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile (Lương Sơn) BLV TÔN LẬP m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile (Lương Sơn) BLV TÔN LẬP flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df",
-        "time": "2026-06-06 18:50:58"
+        "url": "https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d",
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 UNSW FC Women vs University of Sydney Women (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/8988f3aa5ce2f85d4c50a0bc65d9d998/playlist.m3u8",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Newcastle Olympic FC Reserves vs Charlestown Azzurri Reserves (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/6f115b2fe383bc3710a61f46cc1b22f9/playlist.m3u8",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "07h10 ngày 23/05 Boston Legacy W vs Seattle Reign (W) (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Mexico vs Ghana (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 07/06 Gibraltar vs Cayman Islands (Chuối Chiên) HD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 07/06 Gibraltar vs Cayman Islands (Chuối Chiên) HD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/m5x1.flv",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile (Chuối Chiên) HD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile (Chuối Chiên) HD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho.flv",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile (Chuối Chiên) FHD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile (Chuối Chiên) FHD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile (Chuối Chiên) HD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile (Chuối Chiên) HD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoito.flv",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile (Chuối Chiên) FHD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile (Chuối Chiên) FHD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "00h45 ngày 07/06 Romania vs Wales (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "00h45 ngày 07/06 Romania vs Wales (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/m5x2.flv",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "01h00 ngày 07/06 Albania vs Luxembourg (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/m5x3/playlist.m3u8",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "01h00 ngày 07/06 Albania vs Luxembourg (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/m5x3.flv",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "01h30 ngày 07/06 USA vs Germany (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "01h30 ngày 07/06 USA vs Germany (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/troctru.flv",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "01h30 ngày 07/06 USA vs Germany (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "01h30 ngày 07/06 USA vs Germany (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd.flv",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "01h30 ngày 07/06 Italy W vs Turkey W (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "01h30 ngày 07/06 Italy W vs Turkey W (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoibo.flv",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "01h30 ngày 07/06 Italy W vs Turkey W (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "01h30 ngày 07/06 Italy W vs Turkey W (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "02h00 ngày 07/06 Australia vs Switzerland (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/m5x4/playlist.m3u8",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "02h00 ngày 07/06 Australia vs Switzerland (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/m5x4.flv",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 07/06 England vs New Zealand (Chuối Chiên) HD1",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 07/06 England vs New Zealand (Chuối Chiên) HD2",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho.flv",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 07/06 England vs New Zealand (Chuối Chiên) FHD1",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 07/06 England vs New Zealand (Chuối Chiên) FHD2",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv",
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "03h00 ngày 07/06 Bolivia vs Scotland (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/m5x5/playlist.m3u8",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "03h00 ngày 07/06 Bolivia vs Scotland (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/m5x5.flv",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "03h00 ngày 07/06 Qatar vs El Salvador (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/m5x6/playlist.m3u8",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "03h00 ngày 07/06 Qatar vs El Salvador (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/m5x6.flv",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "03h30 ngày 07/06 Canada W vs France W (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "03h30 ngày 07/06 Canada W vs France W (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay.flv",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "03h30 ngày 07/06 Canada W vs France W (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "03h30 ngày 07/06 Canada W vs France W (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 07/06 Argentina vs Honduras (Chuối Chiên) HD1",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 07/06 Argentina vs Honduras (Chuối Chiên) HD2",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoito.flv",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 07/06 Argentina vs Honduras (Chuối Chiên) FHD1",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 07/06 Argentina vs Honduras (Chuối Chiên) FHD2",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv",
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "07h00 ngày 07/06 Germany W vs Japan W (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitim/playlist.m3u8",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "07h00 ngày 07/06 Germany W vs Japan W (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitim.flv",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "07h00 ngày 07/06 Germany W vs Japan W (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitimhd/playlist.m3u8",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "07h00 ngày 07/06 Germany W vs Japan W (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitimhd.flv",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "17h00 ngày 07/06 Kazakhstan W vs Indonesia W (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/cauca/playlist.m3u8",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "17h00 ngày 07/06 Kazakhstan W vs Indonesia W (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/cauca.flv",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "17h00 ngày 07/06 Kazakhstan W vs Indonesia W (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/caucahd/playlist.m3u8",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "17h00 ngày 07/06 Kazakhstan W vs Indonesia W (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/caucahd.flv",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "18h00 ngày 07/06 Da Nang vs Thanh Hóa (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "18h00 ngày 07/06 Da Nang vs Thanh Hóa (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/max.flv",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "18h00 ngày 07/06 Da Nang vs Thanh Hóa (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "18h00 ngày 07/06 Da Nang vs Thanh Hóa (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/maxhd.flv",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC (Gà Vàng) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/821d54abadb12c6c15edba538ab20ad1/playlist.m3u8",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "07h00 ngày 23/05 Sporting Kansas CityReserves vs Austin FC II (Gà Vàng) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile [BLV COCA] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1780774520-0-0-9bd608c61f4a629faa1301bf82ef921d",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile [BLV COCA] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1780774520-0-0-0ebf390492bb2a4d5dc50889a1bf4dca",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile [BLV COCA] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1780774520-0-0-d7afac3143464651c1c7e326119d4f7f",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile [BLV COCA] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780774520-0-0-3685a18da10eebacea98c181b8ef5279",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 ngày 07/06 USA vs Germany [BLV PEWPEW] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1780774520-0-0-9d6dff0b093834398f89ae288faa8133",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 ngày 07/06 USA vs Germany [BLV PEWPEW] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1780774520-0-0-f64b4032be8a37cf9cdc028cf279f817",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 ngày 07/06 USA vs Germany [BLV PEWPEW] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1780774520-0-0-e34f49efa9154c016bf4c37d3215062e",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 ngày 07/06 USA vs Germany [BLV PEWPEW] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780774520-0-0-e2d9b80df0d1ef7a57caba2acd5d7154",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile [BLV ENZO] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1780774520-0-0-3355cda680e68b79c2e4924a9d82ea0d",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile [BLV ENZO] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1780774520-0-0-4c8dd23ab6109ca67a3face5aa0d0247",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile [BLV ENZO] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1780774520-0-0-3ddbad9f3c7114bdac848f6227ad7dd4",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile [BLV ENZO] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1780774520-0-0-a096d76807f3f2a6883c8be68318b5a7",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile [DECO] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1780774520-0-0-98ad704905f4c5eb477fa426426bffb1",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile [DECO] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1780774520-0-0-19bc1b6382371f7203e11b2fa1378a61",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile [DECO] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1780774520-0-0-1f263b6713131c3e8203864a6566ef06",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile [DECO] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1780774520-0-0-ed849a198ea1113ed664b904991d5211",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile [A BỆU] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1780774520-0-0-017ff599726e0547551172c63f3cc463",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile [A BỆU] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1780774520-0-0-c660cd595d451248de58fee80adb81be",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile [A BỆU] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1780774520-0-0-b8380626986f063ad2e43b5bee0dc97c",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile [A BỆU] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780774520-0-0-8974d912b210ddcffccadde431400181",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Romania vs Wales [QUỐC KHÁNH] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-602153_lsd.flv?auth_key=1780774520-0-0-f608b881ab5efcc6209f3871ec2e58db",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Romania vs Wales [QUỐC KHÁNH] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-602153_lhd.flv?auth_key=1780774520-0-0-69ff2d61aec4f67d373d596b829f0098",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Romania vs Wales [QUỐC KHÁNH] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1780774520-0-0-d2272c7bb138a5249fcce7342fb57fc4",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Romania vs Wales [QUỐC KHÁNH] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1780774520-0-0-f3dcc2720cc373a8d84c4f78ebe01f3f",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 07/06 Australia vs Switzerland [ĐỖ TÚ TÀI] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1780774520-0-0-f60bc3321f302d19c51dd4b6bd29a459",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 07/06 Australia vs Switzerland [ĐỖ TÚ TÀI] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1780774520-0-0-e8914a1dd5383d2bae60594c9c4374ea",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 07/06 Australia vs Switzerland [ĐỖ TÚ TÀI] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1780774520-0-0-a0e53a4b1298d4797534af9c89f00b70",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 07/06 Australia vs Switzerland [ĐỖ TÚ TÀI] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1780774520-0-0-8d621c6e3e3e50522632bd2f7cc5748e",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile [BLV TOMMY] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=0e6b11de08f6e7cf35816aa8131e4f4d&txTime=6a24be30",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile [BLV TOMMY] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=d0c0546b0e3268637664d85513dc1bbd&txTime=6a24be30",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile [BLV TOMMY] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=0e6b11de08f6e7cf35816aa8131e4f4d&txTime=6a24be30",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile [BLV TOMMY] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=d0c0546b0e3268637664d85513dc1bbd&txTime=6a24be30",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile [SAO LA] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=90f7f829e44b8aa9ac87d5188f6df2ab&txTime=6a24be30",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile [SAO LA] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=3471a168ee7ebb04bee8d863b7d9a989&txTime=6a24be30",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile [SAO LA] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=90f7f829e44b8aa9ac87d5188f6df2ab&txTime=6a24be30",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Portugal vs Chile [SAO LA] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=3471a168ee7ebb04bee8d863b7d9a989&txTime=6a24be30",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 ngày 07/06 USA vs Germany [BLV ROBBEN] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1780774880-0-0-e1147c85028c0430e93d7a311b3751e6",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 ngày 07/06 USA vs Germany [BLV ROBBEN] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1780774880-0-0-325a5d8d3f78f88783810c536256bcf5",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 ngày 07/06 USA vs Germany [BLV ROBBEN] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1780774880-0-0-939c753a7e6f2aea153e9e9ed077c595",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 ngày 07/06 USA vs Germany [BLV ROBBEN] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780774880-0-0-c2ad9e5a3717243ee74aef0b1d39bfc0",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 ngày 07/06 USA vs Germany [BLV KEM] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1780774880-0-0-8a984553fe46a2e79e8a62ee6d6b4193",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 ngày 07/06 USA vs Germany [BLV KEM] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1780774880-0-0-c93c1a8223d5176d576d784691212eef",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 ngày 07/06 USA vs Germany [BLV KEM] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1780774880-0-0-d52308468564a905b2b2fb2819264103",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 ngày 07/06 USA vs Germany [BLV KEM] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780774880-0-0-388d03bd392d7d4656c98bf226717fff",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 ngày 07/06 USA vs Germany [VƯƠNG ANH] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=a47a703db4c26ca47905cf334b15a980&txTime=6a24be30",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 ngày 07/06 USA vs Germany [VƯƠNG ANH] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=c6b7eaaa9aa4b5ef0e09a6c4bfbcf628&txTime=6a24be30",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 ngày 07/06 USA vs Germany [VƯƠNG ANH] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=a47a703db4c26ca47905cf334b15a980&txTime=6a24be30",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "01h30 ngày 07/06 USA vs Germany [VƯƠNG ANH] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=c6b7eaaa9aa4b5ef0e09a6c4bfbcf628&txTime=6a24be30",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 07/06 Panama vs Bosnia and Herzegovina [BLV XO] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1780774880-0-0-321f21134ac933b7b0b596c642663c5d",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 07/06 Panama vs Bosnia and Herzegovina [BLV XO] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1780774880-0-0-5852786b7243b70a27c71d0f88a8f658",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 07/06 Panama vs Bosnia and Herzegovina [BLV XO] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1780774880-0-0-22550d8bbb1db5a90400fe6b5ededd25",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 07/06 Panama vs Bosnia and Herzegovina [BLV XO] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780774880-0-0-a0663ab2e5e8572ba4037a1c4b1fdd2d",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 07/06 Australia vs Switzerland [BLV WUKONG] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1780774880-0-0-3f9da7c6cd70c7684f120d61184bd2bd",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 07/06 Australia vs Switzerland [BLV WUKONG] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1780774880-0-0-00891b145761d68601a17fd486900b49",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 07/06 Australia vs Switzerland [BLV WUKONG] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1780774880-0-0-cbcab4959cce2dade19ac528453db069",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 07/06 Australia vs Switzerland [BLV WUKONG] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1780774880-0-0-0bd931315da0dbebadcf88a689e3306f",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 07/06 Australia vs Switzerland [PINKMAN] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=43196461c7e5d13779146b8269f92950&txTime=6a24be30",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 07/06 Australia vs Switzerland [PINKMAN] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=2740b90945afa31767d93bccc7c2474e&txTime=6a24be30",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 07/06 Australia vs Switzerland [PINKMAN] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=43196461c7e5d13779146b8269f92950&txTime=6a24be30",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 07/06 Australia vs Switzerland [PINKMAN] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=2740b90945afa31767d93bccc7c2474e&txTime=6a24be30",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780774880-0-0-5dd0b8ab092c19903f2137ab0a57a2c5",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780774880-0-0-47e8210fd8cbf063833e60971f141d0d",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780774880-0-0-4355c7cc862c8558f81baffffc0fcd0b",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780774880-0-0-31f1c604ab5030cc4b4ba84926cb0137",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "01h30 ngày 07/06 USA vs Germany [BLV ALEX] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1780775240-0-0-40b25bbd4ff0a067f42a2bff6c1b3d08",
-        "time": "2026-06-06 18:50:58"
+        "url": "https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1780778480-0-0-d5e51d243ee993aefb5fc5fa5708e593",
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "01h30 ngày 07/06 USA vs Germany [BLV ALEX] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1780775240-0-0-0291ded37d6c74585b0fee5eafc913e2",
-        "time": "2026-06-06 18:50:58"
+        "url": "https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1780778480-0-0-6733fae2fa28af6ef0e1b8160c8ec700",
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "01h30 ngày 07/06 USA vs Germany [BLV ALEX] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1780775240-0-0-8f13f14ab3fc25f75b89f8342e57daaf",
-        "time": "2026-06-06 18:50:58"
+        "url": "https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1780778480-0-0-3065a1561f262b868eb4e0c5e40fa58a",
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "01h30 ngày 07/06 USA vs Germany [BLV ALEX] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780775240-0-0-ff114e5ee58805a7c77d941b9d741f4e",
-        "time": "2026-06-06 18:50:58"
+        "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780778480-0-0-da4f54f12548b8a37ee90ee15d6112d7",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h30 ngày 07/06 USA vs Germany [BLV ROBBEN] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1780778480-0-0-3020d9da7566873c4d395999fe2c6e21",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h30 ngày 07/06 USA vs Germany [BLV ROBBEN] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1780778480-0-0-2b23b96c06525f9d1f9ef931cf722c38",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h30 ngày 07/06 USA vs Germany [BLV ROBBEN] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1780778480-0-0-36972e16111be973d127410f4fc2c0cd",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h30 ngày 07/06 USA vs Germany [BLV ROBBEN] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780778480-0-0-ba6a7791d461f9da95b9c7b58978ae77",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "00h45 ngày 07/06 Portugal vs Chile [BLV TOMMY] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=6e65e715f69514a138b8550169d7dc14&txTime=6a24cc40",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "00h45 ngày 07/06 Portugal vs Chile [BLV TOMMY] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=4d8a3a3b225a59dbbe3712a819b541f5&txTime=6a24cc40",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "00h45 ngày 07/06 Portugal vs Chile [BLV TOMMY] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=6e65e715f69514a138b8550169d7dc14&txTime=6a24cc40",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "00h45 ngày 07/06 Portugal vs Chile [BLV TOMMY] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=4d8a3a3b225a59dbbe3712a819b541f5&txTime=6a24cc40",
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "01h30 ngày 07/06 USA vs Germany [THẠCH TÚ] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912116_lsd.flv?auth_key=1780775240-0-0-5790ff2dda2ed07e8f85b582d5ed4d85",
-        "time": "2026-06-06 18:50:58"
+        "url": "https://pull06.scstream.net/live/stream-9912116_lsd.flv?auth_key=1780778480-0-0-f31a0d5ce6fab3be3e32b5f3b79298bb",
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "01h30 ngày 07/06 USA vs Germany [THẠCH TÚ] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1780775240-0-0-7cfb91fae70ebd384c2190bfc4394f68",
-        "time": "2026-06-06 18:50:58"
+        "url": "https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1780778480-0-0-5bc1683bd49fef25c693499820473e7b",
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "01h30 ngày 07/06 USA vs Germany [THẠCH TÚ] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1780775240-0-0-bb5d4e42a0c851762abc5b1495a0a340",
-        "time": "2026-06-06 18:50:58"
+        "url": "https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1780778480-0-0-4800a13e5558693eacfcb556754e6884",
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "01h30 ngày 07/06 USA vs Germany [THẠCH TÚ] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1780775240-0-0-9623f17f6e5e71099930d8bbef77168b",
-        "time": "2026-06-06 18:50:58"
+        "url": "https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1780778480-0-0-cf0e49292d29a597648bd04ffc46a3b4",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h30 ngày 07/06 USA vs Germany [VƯƠNG ANH] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=44e0ad451c738e938b7a4e3b67d3b8a0&txTime=6a24cc40",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h30 ngày 07/06 USA vs Germany [VƯƠNG ANH] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=495b8e505c21250ea9f549b572086d50&txTime=6a24cc40",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h30 ngày 07/06 USA vs Germany [VƯƠNG ANH] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=44e0ad451c738e938b7a4e3b67d3b8a0&txTime=6a24cc40",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h30 ngày 07/06 USA vs Germany [VƯƠNG ANH] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=495b8e505c21250ea9f549b572086d50&txTime=6a24cc40",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h30 ngày 07/06 USA vs Germany [BLV KEM] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1780778480-0-0-2a764d8eb80589413c87a7f7881d493a",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h30 ngày 07/06 USA vs Germany [BLV KEM] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1780778480-0-0-90ec9d5acc669dce86793b14163e1456",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h30 ngày 07/06 USA vs Germany [BLV KEM] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1780778480-0-0-52afdeac9e217dc7b34e411df8c4ece8",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h30 ngày 07/06 USA vs Germany [BLV KEM] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780778480-0-0-7014f0bef52036432a5c1a1933e5c5e7",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 07/06 England vs New Zealand [LOKA] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1780778480-0-0-409c0e1315a2f1a11cde732445a62805",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 07/06 England vs New Zealand [LOKA] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1780778480-0-0-9964fc1299aed37648c99f81e51115e1",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 07/06 England vs New Zealand [LOKA] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1780778480-0-0-cfca736108a85d3668d3c0b340aedef8",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 07/06 England vs New Zealand [LOKA] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780778480-0-0-3ffac1575e77c4dc718c6687f88d8764",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 07/06 England vs New Zealand [BLV FIREMAN] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1780778480-0-0-e249d4d7d692f45c9d34bd55e79c6043",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 07/06 England vs New Zealand [BLV FIREMAN] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1780778480-0-0-4253b1d019a297d622c1d6a7b7ceafae",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 07/06 England vs New Zealand [BLV FIREMAN] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1780778480-0-0-a6d4466c2eb17a43864d1fa646d67188",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 07/06 England vs New Zealand [BLV FIREMAN] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780778480-0-0-8113f4bee100b9b65999298a06b16eae",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 07/06 England vs New Zealand [CÔNG CHẤT] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1780778480-0-0-a519b187a36cfcc9cb0d7a4771260303",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 07/06 England vs New Zealand [CÔNG CHẤT] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1780778480-0-0-12918d0ced86eaa1f48ae85b4d13d547",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 07/06 England vs New Zealand [CÔNG CHẤT] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1780778480-0-0-b43e1256a02f7216dba5fd835e7552f8",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 07/06 England vs New Zealand [CÔNG CHẤT] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780778480-0-0-5ae4caf0e81c02737602964059dd993e",
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "01h00 ngày 07/06 Albania vs Luxembourg [TRÀ ĐÁ] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-603914_lsd.flv?auth_key=1780775240-0-0-9f1c0de62ef9784068b45ee7a73ab88e",
-        "time": "2026-06-06 18:50:58"
+        "url": "https://pull06.scstream.net/live/stream-603914_lsd.flv?auth_key=1780778480-0-0-816adb52083e416f4f5a9dc9bee140dd",
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "01h00 ngày 07/06 Albania vs Luxembourg [TRÀ ĐÁ] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1780775240-0-0-f36b800ff4ffe1a2ae077db3d1e6ba4e",
-        "time": "2026-06-06 18:50:58"
+        "url": "https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1780778480-0-0-d5e767bc933e97bb5ca488ca0e30d15b",
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "01h00 ngày 07/06 Albania vs Luxembourg [TRÀ ĐÁ] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1780775240-0-0-8c5ef75aa4ae5513657f1fe641f55f9f",
-        "time": "2026-06-06 18:50:58"
+        "url": "https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1780778480-0-0-5ef7aecf71f42cc8dc20c2ad159a7ea8",
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "01h00 ngày 07/06 Albania vs Luxembourg [TRÀ ĐÁ] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1780775240-0-0-f7d8038a3be0e9243fe9026c4ef28ae5",
-        "time": "2026-06-06 18:50:58"
+        "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1780778480-0-0-602084af7885e15339d955844d781584",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 07/06 Australia vs Switzerland [BLV WUKONG] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1780778480-0-0-5081547e51f1bd3354bc0666ddccb364",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 07/06 Australia vs Switzerland [BLV WUKONG] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1780778480-0-0-b10bb09e6a8030334879dcfd7d7722c3",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 07/06 Australia vs Switzerland [BLV WUKONG] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1780778480-0-0-75a43077361cc886160ec8fdf2162c9f",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 07/06 Australia vs Switzerland [BLV WUKONG] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1780778480-0-0-b00abefbb2d77caa61a44e61717af053",
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "01h00 ngày 07/06 Albania vs Luxembourg [BLV VIP] (Socolive) flv",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=9f0feb6f56bfbad8cb7fff2307b82477&txTime=6a24bf98",
-        "time": "2026-06-06 18:50:58"
+        "url": "https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=8e9037aeda6163b9e481e72d23d571fd&txTime=6a24cc40",
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "01h00 ngày 07/06 Albania vs Luxembourg [BLV VIP] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=70dce3745367eb0aff1920f0b4ad8640&txTime=6a24bf98",
-        "time": "2026-06-06 18:50:58"
+        "url": "https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=a4054303494cce3084ed0b3630ffbd65&txTime=6a24cc40",
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "01h00 ngày 07/06 Albania vs Luxembourg [BLV VIP] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=9f0feb6f56bfbad8cb7fff2307b82477&txTime=6a24bf98",
-        "time": "2026-06-06 18:50:58"
+        "url": "https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=8e9037aeda6163b9e481e72d23d571fd&txTime=6a24cc40",
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "01h00 ngày 07/06 Albania vs Luxembourg [BLV VIP] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=70dce3745367eb0aff1920f0b4ad8640&txTime=6a24bf98",
-        "time": "2026-06-06 18:50:58"
+        "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=a4054303494cce3084ed0b3630ffbd65&txTime=6a24cc40",
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Romania vs Wales [BLV CÁP] (Socolive) flv",
+        "title": "02h00 ngày 07/06 Australia vs Switzerland [PINKMAN] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-610677_lsd.flv?auth_key=1780775240-0-0-8a7008a5af55d121bdb759eb2fb239c2",
-        "time": "2026-06-06 18:50:58"
+        "url": "https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=e0cdf0f8dc1e52089d7915ec975d184e&txTime=6a24cc40",
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Romania vs Wales [BLV CÁP] (Socolive) hdFlv",
+        "title": "02h00 ngày 07/06 Australia vs Switzerland [PINKMAN] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-610677_lhd.flv?auth_key=1780775240-0-0-dc6e3598f666cd86dd62ef54faa8cfe2",
-        "time": "2026-06-06 18:50:58"
+        "url": "https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=7d72481b577bbf5d015e39ef2d729fd3&txTime=6a24cc40",
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Romania vs Wales [BLV CÁP] (Socolive) m3u8",
+        "title": "02h00 ngày 07/06 Australia vs Switzerland [PINKMAN] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1780775240-0-0-92d8344d7d6a2245065ae9ce400d60fb",
-        "time": "2026-06-06 18:50:58"
+        "url": "https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=e0cdf0f8dc1e52089d7915ec975d184e&txTime=6a24cc40",
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Romania vs Wales [BLV CÁP] (Socolive) hdM3u8",
+        "title": "02h00 ngày 07/06 Australia vs Switzerland [PINKMAN] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1780775240-0-0-0565ba218cbfa3240c52a350fe4f82ed",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Romania vs Wales [BLV LONG] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912117_lsd.flv?auth_key=1780775240-0-0-4602bc7fdf8f581a08380facf02bd66a",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Romania vs Wales [BLV LONG] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912117_lhd.flv?auth_key=1780775240-0-0-5f37ea0dff9581a9a5ec1952303bac52",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Romania vs Wales [BLV LONG] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912117_lsd.m3u8?auth_key=1780775240-0-0-a92247b848bac4dca5c917eb3d50c036",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 ngày 07/06 Romania vs Wales [BLV LONG] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912117_lhd.m3u8?auth_key=1780775240-0-0-fbbd4d92f191b26288e05e13703d6816",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 07/06 Panama vs Bosnia and Herzegovina [BLV PICK] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1780775240-0-0-48499b6ff5d4c1387a245facddafc3fa",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 07/06 Panama vs Bosnia and Herzegovina [BLV PICK] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1780775240-0-0-c17364bff66fe8c05aedec55b60c5614",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 07/06 Panama vs Bosnia and Herzegovina [BLV PICK] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1780775240-0-0-3a16b577930289e99dd0528c0dd709b1",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 07/06 Panama vs Bosnia and Herzegovina [BLV PICK] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1780775240-0-0-a5ee89d459dfc5a2fc470503e64ffd48",
-        "time": "2026-06-06 18:50:58"
+        "url": "https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=7d72481b577bbf5d015e39ef2d729fd3&txTime=6a24cc40",
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "02h00 ngày 07/06 Australia vs Switzerland [BLV RYO] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1780775240-0-0-941aac3e648132e2e7fe13117e22b3e3",
-        "time": "2026-06-06 18:50:58"
+        "url": "https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1780778480-0-0-7ecbd819f78a7cd7b7f0156743632be0",
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "02h00 ngày 07/06 Australia vs Switzerland [BLV RYO] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1780775240-0-0-5c9b008840e75789607321e7df0c8114",
-        "time": "2026-06-06 18:50:58"
+        "url": "https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1780778480-0-0-6a2c9e057d1f815810569f1fcdddfa2d",
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "02h00 ngày 07/06 Australia vs Switzerland [BLV RYO] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1780775240-0-0-ddcf0405acfd81f5e4947a548d3a8418",
-        "time": "2026-06-06 18:50:58"
+        "url": "https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1780778480-0-0-8f26eac9a7e8f2b89c3cfd40cc56ea1f",
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "02h00 ngày 07/06 Australia vs Switzerland [BLV RYO] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1780775240-0-0-44174c6569efff79eb6990296312b0fe",
-        "time": "2026-06-06 18:50:58"
+        "url": "https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1780778480-0-0-779106dd0c8633ea1378d3b338407709",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 07/06 Panama vs Bosnia and Herzegovina [BLV XO] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1780778480-0-0-95ec8da25cd34c9b9eeac0a406eba279",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 07/06 Panama vs Bosnia and Herzegovina [BLV XO] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1780778480-0-0-1abf108288ae0454c8e2a4ea51bea155",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 07/06 Panama vs Bosnia and Herzegovina [BLV XO] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1780778480-0-0-e439c3f38c8a21df9280090f2e1c6c0e",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 07/06 Panama vs Bosnia and Herzegovina [BLV XO] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780778480-0-0-30b70865e45b1000a046fbed478ffcda",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 07/06 Panama vs Bosnia and Herzegovina [BLV PICK] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1780778480-0-0-644d573bd311ee953640cb2cd10e6928",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 07/06 Panama vs Bosnia and Herzegovina [BLV PICK] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1780778480-0-0-7ec4fa064e0bde953e4ea656bd05bae8",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 07/06 Panama vs Bosnia and Herzegovina [BLV PICK] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1780778480-0-0-b38f2ce8eaafdd99021031d085bc138a",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 07/06 Panama vs Bosnia and Herzegovina [BLV PICK] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1780778480-0-0-e5ac9491d3746371ec3b19875eb145cf",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 07/06 England vs New Zealand [BLV VITAMIN] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1780778480-0-0-f0ed79f699c04bc67160327fd1e98b6c",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 07/06 England vs New Zealand [BLV VITAMIN] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1780778480-0-0-7c5d3fcf96284bd97fbef08ad633db18",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 07/06 England vs New Zealand [BLV VITAMIN] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1780778480-0-0-9f635f4d8194f8872f8c7021e93f5fa0",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 07/06 England vs New Zealand [BLV VITAMIN] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1780778480-0-0-64cd98275a320c2c3c6624f89669dc06",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 07/06 Bolivia vs Scotland [BLV CÁO] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-597929_lsd.flv?auth_key=1780778480-0-0-2d854e9bd5a216531744f54cfe62977c",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 07/06 Bolivia vs Scotland [BLV CÁO] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-597929_lhd.flv?auth_key=1780778480-0-0-7bef0cda19534be56304b7fdde81884f",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 07/06 Bolivia vs Scotland [BLV CÁO] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1780778480-0-0-bf34fe695af649ca4835fda5647afc69",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 07/06 Bolivia vs Scotland [BLV CÁO] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780778480-0-0-5e20e46deff982991879d087d7c169cf",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 07/06 Bolivia vs Scotland [BLV 24H] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-612928_lsd.flv?auth_key=1780778480-0-0-07d9a7a702cef50cc3a78def1eead239",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 07/06 Bolivia vs Scotland [BLV 24H] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-612928_lhd.flv?auth_key=1780778480-0-0-c9cd43a1dd169adec24ec4f4eb5de122",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 07/06 Bolivia vs Scotland [BLV 24H] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-612928_lsd.m3u8?auth_key=1780778480-0-0-a33f3300f645ad9325adadd3e86e6af7",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 07/06 Bolivia vs Scotland [BLV 24H] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1780778480-0-0-8befea4524590b110453cf309feb2433",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780778480-0-0-da6a8f8169c31e286b71edc8edf174fd",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780778480-0-0-305e9a8159a87c81bcb319beffa2e75f",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780778480-0-0-8ac0bc9818823cabcf9b0eda7c45bc20",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780778480-0-0-ecf70344e0d06c8e328e0686f69d517c",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "00h45 ngày 07/06 Portugal vs Chile [DECO] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1780778840-0-0-e026140cecbe88d33a9b02500b16da4d",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "00h45 ngày 07/06 Portugal vs Chile [DECO] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1780778840-0-0-4539cab047c5bdfa7f5a2f6a2cb6a456",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "00h45 ngày 07/06 Portugal vs Chile [DECO] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1780778840-0-0-367eaf50ccb25fae3967faaf70a07ee8",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "00h45 ngày 07/06 Portugal vs Chile [DECO] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1780778840-0-0-ad6ca11c0959999c07861b84a30a9325",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h30 ngày 07/06 USA vs Germany [BLV PEWPEW] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1780778840-0-0-673419bddf19b3492ba0faefd7b328c8",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h30 ngày 07/06 USA vs Germany [BLV PEWPEW] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1780778840-0-0-eae73b52056f4a3864c26491f4497919",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h30 ngày 07/06 USA vs Germany [BLV PEWPEW] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1780778840-0-0-e47a985b47d761d2aaad2f706b160237",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "01h30 ngày 07/06 USA vs Germany [BLV PEWPEW] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780778840-0-0-f39d398a9fb6b6fd9829a8165a5d6cdd",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 07/06 England vs New Zealand [BLV VOI] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1780778840-0-0-3aa6d3ae522c6da68e7c0790342a96f5",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 07/06 England vs New Zealand [BLV VOI] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1780778840-0-0-8610bc782f21ba915ed09b37d744737f",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 07/06 England vs New Zealand [BLV VOI] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1780778840-0-0-e39de9263cc7d1c3499826c58f3de1c8",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 07/06 England vs New Zealand [BLV VOI] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1780778840-0-0-7c3e15f0657def43da3a98772b494097",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 07/06 Australia vs Switzerland [ĐỖ TÚ TÀI] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1780778840-0-0-7e86af1df7033c75917271134d314145",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 07/06 Australia vs Switzerland [ĐỖ TÚ TÀI] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1780778840-0-0-83f607a6bf235b4cfb6cdab79cee7f12",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 07/06 Australia vs Switzerland [ĐỖ TÚ TÀI] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1780778840-0-0-ae6909313468e5873e89433598684b88",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 07/06 Australia vs Switzerland [ĐỖ TÚ TÀI] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1780778840-0-0-008d28646c9155a2580f000b8ff0283a",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 07/06 Qatar vs El Salvador [BLV CÁP] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-610677_lsd.flv?auth_key=1780779200-0-0-c0891f8086bc5e12bf1e4c3dca7581e0",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 07/06 Qatar vs El Salvador [BLV CÁP] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-610677_lhd.flv?auth_key=1780779200-0-0-a23de0483628a514aa8fb3e28710a99f",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 07/06 Qatar vs El Salvador [BLV CÁP] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1780779200-0-0-dd6d02e77a9436f37b7a55d0a0edf647",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 07/06 Qatar vs El Salvador [BLV CÁP] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1780779200-0-0-587047e5d29e2f041e59347131f766ea",
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "01h30 07/06 Ý vs Thổ Nhĩ Kỳ (Hội Quán) FHD",
         "logo": "",
         "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "01h30 07/06 Ý vs Thổ Nhĩ Kỳ (Hội Quán) SD",
         "logo": "",
         "url": "https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 07/06 Portugal vs Chile (Hội Quán) FHD",
-        "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8",
-        "time": "2026-06-06 18:50:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h45 07/06 Portugal vs Chile (Hội Quán) SD",
-        "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "01h30 07/06 USA vs Germany (Hội Quán) FHD",
         "logo": "",
         "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "01h30 07/06 USA vs Germany (Hội Quán) SD",
         "logo": "",
         "url": "https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "02h00 07/06 Australia vs Switzerland (Hội Quán) FHD",
         "logo": "",
         "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "02h00 07/06 Australia vs Switzerland (Hội Quán) SD",
         "logo": "",
         "url": "https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 07/06 England vs New Zealand (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8",
+        "time": "2026-06-06 20:05:47"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 07/06 England vs New Zealand (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "22h30 06/06 IEM Cologne Major 2026 (Hội Quán) FHD",
         "logo": "",
         "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     },
     {
         "group": "FPT SPORT",
         "title": "22h30 06/06 IEM Cologne Major 2026 (Hội Quán) SD",
         "logo": "",
         "url": "https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-06 18:50:58"
+        "time": "2026-06-06 20:05:47"
     }
 ]
