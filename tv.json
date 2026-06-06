@@ -1,24 +1,10 @@
 [
     {
-        "group": "VÒNG CẤM TV",
-        "title": "Ho Chi Minh vs Dong Thap",
-        "logo": "https://media.api-sports.io/football/teams/3672.png",
-        "url": "https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8",
-        "time": "2026-06-06 10:34:06"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "09:00 | Bac Ninh vs PVF-CAND B",
-        "logo": "https://img.colatv88xd.cc/football/team/40b7d679de613aedfb80bcaba85fa7e0.png!w80",
-        "url": "https://live05.msdht.app/live/87547578.m3u8",
-        "time": "2026-06-06 09:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "09:00 | Gia Dinh vs Bình Phước",
-        "logo": "https://img.colatv88xd.cc/football/team/a3fa1f2bd7dbd79b0c531417b56647d6.png!w80",
-        "url": "https://live05.msdht.app/live/43612277.m3u8",
-        "time": "2026-06-06 09:00:00"
+        "group": "HỘI QUÁN",
+        "title": "21:30 | Kyrgyzstan vs Palestine",
+        "logo": "https://media.api-sports.io/football/teams/10941.png",
+        "url": "https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-06 21:30:00"
     },
     {
         "group": "CA LA TV",
@@ -28,39 +14,11 @@
         "time": "2026-06-06 10:00:00"
     },
     {
-        "group": "CA LA TV",
-        "title": "09:00 | Kashiwa Reysol vs Kyoto Sanga",
-        "logo": "https://img.colatv88xd.cc/football/team/d272859d78eb8ca7a14753f4293fbf45.png!w80",
-        "url": "https://live05.msdht.app/live/02456966.m3u8",
-        "time": "2026-06-06 09:00:00"
-    },
-    {
-        "group": "VÒNG CẤM TV",
-        "title": "Kawasaki Frontale vs Sanfrecce Hiroshima",
-        "logo": "https://media.api-sports.io/football/teams/294.png",
-        "url": "https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8",
-        "time": "2026-06-06 10:34:06"
-    },
-    {
         "group": "HỘI QUÁN",
-        "title": "16:00 | Deep Cross Gaming vs GAM Esports",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/b/be/Deep_Cross_Gaming_logo.png",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8",
-        "time": "2026-06-06 16:00:00"
-    },
-    {
-        "group": "HỘI QUÁN",
-        "title": "18:00 | Phu Dong vs Hồng Lĩnh Hà Tĩnh",
-        "logo": "https://media.api-sports.io/football/teams/9167.png",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8",
-        "time": "2026-06-07 18:00:00"
-    },
-    {
-        "group": "HỘI QUÁN",
-        "title": "14:00 | Đài Loan vs Hàn Quốc",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1r0k1Lgj9INFJXffXF2kk8So8HKDYQMeJfw&s",
-        "url": "https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8",
-        "time": "2026-06-07 14:00:00"
+        "title": "01:30 | Ý vs Thổ Nhĩ Kỳ",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-07 01:30:00"
     },
     {
         "group": "HỘI QUÁN",
@@ -71,10 +29,24 @@
     },
     {
         "group": "HỘI QUÁN",
-        "title": "01:30 | Ý vs Thổ Nhĩ Kỳ",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8",
-        "time": "2026-06-07 01:30:00"
+        "title": "14:00 | Đài Loan vs Hàn Quốc",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1r0k1Lgj9INFJXffXF2kk8So8HKDYQMeJfw&s",
+        "url": "https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-07 14:00:00"
+    },
+    {
+        "group": "HỘI QUÁN",
+        "title": "18:00 | Phu Dong vs Hồng Lĩnh Hà Tĩnh",
+        "logo": "https://media.api-sports.io/football/teams/9167.png",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-07 18:00:00"
+    },
+    {
+        "group": "HỘI QUÁN",
+        "title": "16:00 | Deep Cross Gaming vs GAM Esports",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/b/be/Deep_Cross_Gaming_logo.png",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-06 16:00:00"
     },
     {
         "group": "CA LA TV",
@@ -91,563 +63,325 @@
         "time": "2026-06-06 11:00:00"
     },
     {
-        "group": "VÒNG CẤM TV",
-        "title": "Xuan Thien Phu Tho vs Trường Tươi Đồng Nai",
-        "logo": "https://static.bongda24h.vn/Medias/original/2025/09/11/xuan-thien-phu-tho-1109104615.jpg",
-        "url": "https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8",
-        "time": "2026-06-06 10:34:06"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "16h00 ngày 06/06 TDTT Bac Ninh vs PVF-CAND B (Lương Sơn) BLV TRIỆU TỬ LONG m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "16h00 ngày 06/06 Dong Tam Long An vs Quy Nhon United (Lương Sơn) BLV LÝ QUỲ m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 06/06 Kawasaki Frontale vs Hiroshima Sanfrecce (Lương Sơn) BLV LỮ BỐ m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "16h00 ngày 06/06 Ho Chi Minh City vs Dong Thap (Lương Sơn) BLV LÝ ỨNG m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "16h00 ngày 06/06 Kashiwa Reysol vs Kyoto Sanga (Lương Sơn) BLV LÃO HẠC m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "16h00 ngày 06/06 Than Quang Ninh vs Ho Chi Minh City II (Lương Sơn) BLV HÀN TÍN m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "16h00 ngày 06/06 Than Quang Ninh vs Ho Chi Minh City II (Lương Sơn) BLV NGƯỜI THÉP m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
         "group": "FPT SPORT",
         "title": "17h00 ngày 06/06 Kawasaki Frontale vs Hiroshima Sanfrecce (Lương Sơn) BLV YẾN THANH m3u",
         "logo": "",
         "url": "https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "16h00 ngày 06/06 Xuan Thien Phu Tho vs Truong Tuoi Dong Nai (Lương Sơn) BLV VƯƠNG LUÂN m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "16h00 ngày 06/06 Ho Chi Minh City vs Dong Thap (Lương Sơn) BLV MAYBACH m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b",
-        "time": "2026-06-06 10:34:07"
+        "time": "2026-06-06 11:59:09"
     },
     {
         "group": "FPT SPORT",
         "title": "17h00 ngày 06/06 Kawasaki Frontale vs Hiroshima Sanfrecce (Lương Sơn) BLV LƯU BỊ m3u",
         "logo": "",
         "url": "https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1",
-        "time": "2026-06-06 10:34:07"
+        "time": "2026-06-06 11:59:09"
     },
     {
         "group": "FPT SPORT",
-        "title": "16h00 ngày 06/06 Kashiwa Reysol vs Kyoto Sanga [BLV TOMMY] (Socolive) hdM3u8",
+        "title": "18h45 ngày 06/06 Viktoria Plzen U19 vs Slovacko U19 (Lương Sơn) BLV MÃ SIÊU m3u",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=5a0f8cf84ce0bd5e9241b537d526c879&txTime=6a2446a8",
-        "time": "2026-06-06 10:34:07"
+        "url": "https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b",
+        "time": "2026-06-06 11:59:09"
     },
     {
         "group": "FPT SPORT",
-        "title": "16h00 ngày 06/06 Kashiwa Reysol vs Kyoto Sanga [BLV TOMMY] (Socolive) m3u8",
+        "title": "18h00 ngày 06/06 Thailand U23 vs South Korea U23 (Lương Sơn) BLV SHIN m3u",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=aaa697c70117cb2ba57a093cc5446b12&txTime=6a2446a8",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "18h00 ngày 06/06 Thailand U23 vs Korea Republic U23 [BLV GÔN] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=cc42c06c356a237c9dd6e3c0accbf8c3&txTime=6a2446a8",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "16h00 ngày 06/06 Kashiwa Reysol vs Kyoto Sanga [A PÁO] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1780744280-0-0-75487e03ceeb6950257da83f84112731",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h30 ngày 06/06 Gyeongnam FC vs Yongin FC [LOGAN] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1780744280-0-0-03e45862187ab2d668e4003d7234592d",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "16h00 ngày 06/06 Kashiwa Reysol vs Kyoto Sanga [A PÁO] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1780744280-0-0-2da742a26a1a31cc002cd84a09981356",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 06/06 Kawasaki Frontale vs Sanfrecce Hiroshima [BLV Củ Cải] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1780744640-0-0-0afcaf008f2ba26adb7c684435d739fe",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "18h00 ngày 06/06 Thailand U23 vs Korea Republic U23 [BLV GÔN] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=8b5ef3446633071fb999d0d7c863b817&txTime=6a2446a8",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "16h00 ngày 06/06 Kashiwa Reysol vs Kyoto Sanga [BLV ENZO] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1780744280-0-0-3caf0412a858921ed91f442819999d68",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "16h00 ngày 06/06 Bac Ninh vs PVF-CAND B [KÉP] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1780744280-0-0-4d673cfb2628954c0efe39f93ab622f5",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 06/06 Kawasaki Frontale vs Sanfrecce Hiroshima [BLV 7UP] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780744280-0-0-e5e31b82c6f5a867aff467069bb56545",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "16h00 ngày 06/06 Bac Ninh vs PVF-CAND B [KÉP] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1780744280-0-0-9a741e38f0d9f4a8764453579d32968f",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "16h00 ngày 06/06 Xuan Thien Phu Tho vs Truong Tuoi Dong Nai [BLV RAMBO] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=6fd4a618515cc8d0d57026078e4e298f&txTime=6a244810",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 06/06 Abra Weavers vs Negros Hacienderos [CHAN SENA] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780744280-0-0-dd7a683ae14648e13559065c6f81ce11",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h30 ngày 06/06 Hwaseong FC vs Suwon Samsung Bluewings [BLV ANH TÀI] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1780744280-0-0-16f92db022d157bf5086749aebb84035",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "16h00 ngày 06/06 Xuan Thien Phu Tho vs Truong Tuoi Dong Nai [BLV RAMBO] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=fefe624d0980aa95e1b8eabda86cd46f&txTime=6a244810",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "16h15 ngày 06/06 Australia Women's vs Mexico Women's [BLV GIÓ] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1780744280-0-0-fc3f9a1b6e282dad80faf329ba12a81d",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 06/06 Kawasaki Frontale vs Sanfrecce Hiroshima [SAO LA] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=e9dc9daabf893fa7c9ca955ac01b2217&txTime=6a244810",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "16h15 ngày 06/06 Australia Women's vs Mexico Women's [BLV GIÓ] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1780744280-0-0-9402f6997331f0fa7737d48cafd35922",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 06/06 Abra Weavers vs Negros Hacienderos [CHAN SENA] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780744280-0-0-c9e230e4f587471cb4ed35966dac17e8",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 06/06 Kawasaki Frontale vs Sanfrecce Hiroshima [DECO] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1780744640-0-0-f0840cc1c7a5a3691760874d48025217",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 06/06 Kawasaki Frontale vs Sanfrecce Hiroshima [BLV 7UP] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1780744280-0-0-f15a340be49fa52783530c3055c7e82a",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h30 ngày 06/06 Gyeongnam FC vs Yongin FC [LOGAN] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1780744280-0-0-eb9cc1c78d271842e3c7922ea1e2dd4d",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "16h00 ngày 06/06 Kashiwa Reysol vs Kyoto Sanga [BLV ENZO] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1780744280-0-0-c6dd282875fc9fce0dec87c85c4b56b9",
-        "time": "2026-06-06 10:34:07"
+        "url": "https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587",
+        "time": "2026-06-06 11:59:09"
     },
     {
         "group": "FPT SPORT",
         "title": "17h00 ngày 06/06 Kawasaki Frontale vs Sanfrecce Hiroshima [SAO LA] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=dc8f82848832b30a7e6c92761ceb231d&txTime=6a244810",
-        "time": "2026-06-06 10:34:07"
+        "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=692240f460fd10905b706572983aeb94&txTime=6a245d27",
+        "time": "2026-06-06 11:59:09"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 06/06 Thailand U23 vs Korea Republic U23 [BLV GÔN] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=9a44c76b9af74ad5ace7d1aaeec47aff&txTime=6a245bc0",
+        "time": "2026-06-06 11:59:09"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 06/06 Thailand U23 vs Korea Republic U23 [BLV GÔN] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=380776c917408f3bd18f43505e770322&txTime=6a245bc0",
+        "time": "2026-06-06 11:59:09"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 06/06 Kawasaki Frontale vs Sanfrecce Hiroshima [SAO LA] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=4b879b6f7f28e90e8d628713f44c7de1&txTime=6a245d27",
+        "time": "2026-06-06 11:59:09"
     },
     {
         "group": "FPT SPORT",
         "title": "17h30 ngày 06/06 Hwaseong FC vs Suwon Samsung Bluewings [PINKMAN] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=4f1c270f14a2d6837b9ef7e808bee5a2&txTime=6a244810",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "16h15 ngày 06/06 Australia Women's vs Mexico Women's [QUỐC KHÁNH] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1780744640-0-0-9196ee5ccd96a3c16c4cede8d03ac6ce",
-        "time": "2026-06-06 10:34:07"
+        "url": "https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=053aad8f50a4cd9fe05912c19c155e41&txTime=6a245d28",
+        "time": "2026-06-06 11:59:09"
     },
     {
         "group": "FPT SPORT",
         "title": "17h30 ngày 06/06 Hwaseong FC vs Suwon Samsung Bluewings [PINKMAN] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=caef133aa2e7eb7847deb734650aa79d&txTime=6a244810",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 06/06 Kawasaki Frontale vs Sanfrecce Hiroshima [BLV Củ Cải] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1780744640-0-0-54320c49601f853703d2f73161b8d665",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h30 ngày 06/06 Hwaseong FC vs Suwon Samsung Bluewings [BLV ANH TÀI] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1780744280-0-0-b9eacaa24b05523b787a790d19a3b942",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "16h00 ngày 06/06 Kashiwa Reysol vs Kyoto Sanga [BLV VOI] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1780744640-0-0-f0d17b16da4e8d15ba6b8223dcd59100",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 06/06 Kawasaki Frontale vs Sanfrecce Hiroshima [DECO] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1780744640-0-0-47f3e121a6015c560dd907b0f94a7483",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "16h15 ngày 06/06 Australia Women's vs Mexico Women's [QUỐC KHÁNH] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1780744640-0-0-f6b8be04c299fe5ff1cfad950f88ee64",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "16h00 ngày 06/06 Kashiwa Reysol vs Kyoto Sanga [BLV VOI] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1780744640-0-0-a01c029073c3b164bbc55db176a1d0c5",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "16h00 ngày 06/06 Kashiwa Reysol vs Kyoto Sanga [BLV PEWPEW] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780744639-0-0-ffa6d4bd8184c1b6d334c4ed99be3399",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 06/06 Sagan Tosu vs Shonan Bellmare [BLV VIP] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=464dab86687ec4bb9a4737624b3713d9&txTime=6a244978",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 06/06 Sagan Tosu vs Shonan Bellmare [BLV VIP] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=f0a7d6a66532cf9df65de698fffb2d42&txTime=6a244978",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "16h00 ngày 06/06 Kashiwa Reysol vs Kyoto Sanga [BLV PEWPEW] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1780744639-0-0-9de33377413c98adc54a2bd44e3fb892",
-        "time": "2026-06-06 10:34:07"
+        "url": "https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=cf1b35f2f210254d120152594673a14a&txTime=6a245d28",
+        "time": "2026-06-06 11:59:09"
     },
     {
         "group": "FPT SPORT",
         "title": "17h30 ngày 06/06 Gyeongnam FC vs Yongin FC [BLV WUKONG] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1780744640-0-0-5babe951af24bc0792f5cef5552ede3a",
-        "time": "2026-06-06 10:34:07"
+        "url": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1780750039-0-0-7ce11cdb5d59426c3fd4c71530e121f0",
+        "time": "2026-06-06 11:59:09"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 06/06 Kawasaki Frontale vs Sanfrecce Hiroshima [BLV 7UP] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780749680-0-0-c455eef08329c8534f7f74d70fa251d4",
+        "time": "2026-06-06 11:59:09"
     },
     {
         "group": "FPT SPORT",
         "title": "17h30 ngày 06/06 Gyeongnam FC vs Yongin FC [BLV WUKONG] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1780744640-0-0-b30659a33a6fc96fc53945b9cb85460a",
-        "time": "2026-06-06 10:34:07"
+        "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1780750039-0-0-86365053827a0e63f90041472a0ed1cf",
+        "time": "2026-06-06 11:59:09"
     },
     {
         "group": "FPT SPORT",
-        "title": "17h00 ngày 06/06 Sagan Tosu vs Shonan Bellmare [TRÀ ĐÁ] (Socolive) hdM3u8",
+        "title": "17h30 ngày 06/06 Gyeongnam FC vs Yongin FC [LOGAN] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1780744640-0-0-c9c4b16fce7825d6122d77921d4ab1bf",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 06/06 Sagan Tosu vs Shonan Bellmare [TRÀ ĐÁ] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1780744640-0-0-81e0ce9eabd7be818f95f516c0def17d",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "18h00 ngày 06/06 Thailand U23 vs Korea Republic U23 [BEN 10] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1780744640-0-0-1b29e58f25ab0c6a29c6a1ac114e7588",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "18h00 ngày 06/06 Thailand U23 vs Korea Republic U23 [BEN 10] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1780744640-0-0-8990e2e5850be1ffc1654ad4bc167596",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "16h00 ngày 06/06 Kashiwa Reysol vs Kyoto Sanga [BLV COZY] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1780745000-0-0-295ebe0c2c3b3f243dc933f983ee6173",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "16h00 ngày 06/06 Xuan Thien Phu Tho vs Truong Tuoi Dong Nai [ĐỖ TÚ TÀI] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1780745000-0-0-6c6c7aa507c52105542d705a1383c47c",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "16h00 ngày 06/06 Kashiwa Reysol vs Kyoto Sanga [BLV COZY] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780745000-0-0-290c797dbd0aa89cc8f9dd65af25cfef",
-        "time": "2026-06-06 10:34:07"
+        "url": "https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1780749680-0-0-91965116512fb4bd5557772be5163bf2",
+        "time": "2026-06-06 11:59:09"
     },
     {
         "group": "FPT SPORT",
         "title": "17h00 ngày 06/06 Kawasaki Frontale vs Sanfrecce Hiroshima [A BỆU] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1780745000-0-0-1a4815695258e94322f1a66abc405f7a",
-        "time": "2026-06-06 10:34:07"
+        "url": "https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1780750399-0-0-475cd1aec4f40c81d30e3bb26bf75e82",
+        "time": "2026-06-06 11:59:09"
     },
     {
         "group": "FPT SPORT",
-        "title": "16h00 ngày 06/06 Bac Ninh vs PVF-CAND B [BLV YONE] (Socolive) m3u8",
+        "title": "17h30 ngày 06/06 Hwaseong FC vs Suwon Samsung Bluewings [BLV ANH TÀI] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1780745000-0-0-5ed2e106413dda26c9034ff8462f2db8",
-        "time": "2026-06-06 10:34:07"
+        "url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1780749679-0-0-f329d141b47ab3270290705aef7951f4",
+        "time": "2026-06-06 11:59:09"
     },
     {
         "group": "FPT SPORT",
-        "title": "17h00 ngày 06/06 Kawasaki Frontale vs Sanfrecce Hiroshima [A BỆU] (Socolive) hdM3u8",
+        "title": "17h00 ngày 06/06 Kawasaki Frontale vs Sanfrecce Hiroshima [BLV 7UP] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780745000-0-0-7f69e0e05a80e8c6b0e689fd30b6931e",
-        "time": "2026-06-06 10:34:07"
+        "url": "https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1780749680-0-0-25d6f2714961b845274fedc4f9bb9ecc",
+        "time": "2026-06-06 11:59:09"
     },
     {
         "group": "FPT SPORT",
-        "title": "13h30 06/06 POLYTRON Indonesia Open 2026 (Hội Quán) SD",
+        "title": "17h30 ngày 06/06 Hwaseong FC vs Suwon Samsung Bluewings [BLV ANH TÀI] (Socolive) m3u8",
         "logo": "",
-        "url": "https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-06 10:34:07"
+        "url": "https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1780749679-0-0-970f074755c943c4d79df7b74bc3a81b",
+        "time": "2026-06-06 11:59:09"
     },
     {
         "group": "FPT SPORT",
-        "title": "13h30 06/06 POLYTRON Indonesia Open 2026 (Hội Quán) FHD",
+        "title": "17h00 ngày 06/06 Kawasaki Frontale vs Sanfrecce Hiroshima [BLV Củ Cải] (Socolive) m3u8",
         "logo": "",
-        "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8",
-        "time": "2026-06-06 10:34:07"
+        "url": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1780750039-0-0-3b48cefeaae95c0ab9192be0a63ada2c",
+        "time": "2026-06-06 11:59:09"
     },
     {
         "group": "FPT SPORT",
-        "title": "16h00 06/06 POLYTRON Indonesia Open 2026 (Hội Quán) SD",
+        "title": "17h00 ngày 06/06 Sagan Tosu vs Shonan Bellmare [BLV VIP] (Socolive) m3u8",
         "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-06 10:34:07"
+        "url": "https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=8f680a817a05466dfa4c504d253cbc19&txTime=6a245e8f",
+        "time": "2026-06-06 11:59:09"
     },
     {
         "group": "FPT SPORT",
-        "title": "16h00 ngày 06/06 Xuan Thien Phu Tho vs Truong Tuoi Dong Nai [ĐỖ TÚ TÀI] (Socolive) m3u8",
+        "title": "17h00 ngày 06/06 Sagan Tosu vs Shonan Bellmare [BLV VIP] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1780745000-0-0-afcf2da96a39ac053a4053ecfcf7b6bd",
-        "time": "2026-06-06 10:34:07"
+        "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=4763a536a547af6b2c20ff4ac60444a7&txTime=6a245e8f",
+        "time": "2026-06-06 11:59:09"
     },
     {
         "group": "FPT SPORT",
-        "title": "17h00 ngày 06/06 Abra Weavers vs Negros Hacienderos [KING] (Socolive) m3u8",
+        "title": "18h00 ngày 06/06 Beijing IT vs Shanxi Chongde Ronghai [TẠ BIÊN GIỚI] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1780745000-0-0-3f2aca60a93701459a1297ee009fe129",
-        "time": "2026-06-06 10:34:07"
+        "url": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1780749679-0-0-4e49972f659650463a8c0c2414f06ebc",
+        "time": "2026-06-06 11:59:09"
     },
     {
         "group": "FPT SPORT",
-        "title": "16h00 06/06 Deep Cross Gaming vs GAM Esports (Hội Quán) FHD",
+        "title": "18h00 ngày 06/06 Beijing IT vs Shanxi Chongde Ronghai [TẠ BIÊN GIỚI] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8",
-        "time": "2026-06-06 10:34:07"
+        "url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780749679-0-0-3fa97bfdd86ca8b58348dda9b4c96d3d",
+        "time": "2026-06-06 11:59:09"
     },
     {
         "group": "FPT SPORT",
-        "title": "16h00 ngày 06/06 Bac Ninh vs PVF-CAND B [BLV YONE] (Socolive) hdM3u8",
+        "title": "17h30 ngày 06/06 Gyeongnam FC vs Yongin FC [LOGAN] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1780745000-0-0-be087e282966cc01efd6819cbd1e7941",
-        "time": "2026-06-06 10:34:07"
+        "url": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1780749680-0-0-a984eac7f29ca8f4001598fb5d218c01",
+        "time": "2026-06-06 11:59:09"
     },
     {
         "group": "FPT SPORT",
-        "title": "16h00 06/06 Deep Cross Gaming vs GAM Esports (Hội Quán) SD",
+        "title": "18h30 06/06 POLYTRON Indonesia Open 2026 (Hội Quán) SD",
         "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-06 10:34:07"
+        "url": "https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-06 11:59:09"
     },
     {
         "group": "FPT SPORT",
-        "title": "17h00 ngày 06/06 Abra Weavers vs Negros Hacienderos [BRIAN] (Socolive) m3u8",
+        "title": "17h00 ngày 06/06 Kawasaki Frontale vs Sanfrecce Hiroshima [BLV Củ Cải] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1780744999-0-0-5e970b8929c613ff2055859212c4a151",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 06/06 Abra Weavers vs Negros Hacienderos [BRIAN] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780744999-0-0-7b0c13a6b7f204b8f6c8728aefb88680",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 06/06 Hoàng Sao vs Nguyễn Anh Tuấn (Hội Quán) SD",
-        "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 06/06 Kawasaki Frontale vs Sanfrecce Hiroshima (Hội Quán) SD",
-        "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 06/06 Abra Weavers vs Negros Hacienderos [KING] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1780745000-0-0-680f5462a8575e73d84b29a3f22ee79e",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780744640-0-0-c0dcd07a7c5f66f06758a6a1e6d8d02b",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780744640-0-0-426fe74665e148d0877cf389e4f39414",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 06/06 Kawasaki Frontale vs Sanfrecce Hiroshima (Hội Quán) FHD",
-        "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8",
-        "time": "2026-06-06 10:34:07"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 06/06 Hoàng Sao vs Nguyễn Anh Tuấn (Hội Quán) FHD",
-        "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8",
-        "time": "2026-06-06 10:34:07"
+        "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1780750039-0-0-0e06129ddde7b97fab32e06b3b568d6d",
+        "time": "2026-06-06 11:59:09"
     },
     {
         "group": "FPT SPORT",
         "title": "16h00 06/06 POLYTRON Indonesia Open 2026 (Hội Quán) FHD",
         "logo": "",
         "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8",
-        "time": "2026-06-06 10:34:07"
+        "time": "2026-06-06 11:59:09"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 06/06 Beijing IT vs Shanxi Chongde Ronghai [BLV VOI] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1780750399-0-0-980f6e8e1846754ed60fbc31ce7b0a67",
+        "time": "2026-06-06 11:59:09"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 06/06 Beijing IT vs Shanxi Chongde Ronghai [BLV VOI] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1780750399-0-0-c0a5ca805fa908e03f9f4935201ba226",
+        "time": "2026-06-06 11:59:09"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 06/06 Sagan Tosu vs Shonan Bellmare [TRÀ ĐÁ] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1780750040-0-0-c563050b4b174125f2a9907c5c9826fb",
+        "time": "2026-06-06 11:59:09"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 06/06 Thailand U23 vs Korea Republic U23 [BEN 10] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1780750040-0-0-1fde24f63d1b9106ea74b32ae150dcb9",
+        "time": "2026-06-06 11:59:09"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780750039-0-0-60592ca1649f21d9b37f6fa1c0977234",
+        "time": "2026-06-06 11:59:09"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 06/06 Sagan Tosu vs Shonan Bellmare [TRÀ ĐÁ] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1780750040-0-0-bd989504b2518c34edc7fe37685cd7f5",
+        "time": "2026-06-06 11:59:09"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 06/06 Thailand U23 vs Korea Republic U23 [BEN 10] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1780750040-0-0-63e2eeeb92fe58e38e3892774f11c7d4",
+        "time": "2026-06-06 11:59:09"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h30 06/06 tr (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8",
+        "time": "2026-06-06 11:59:09"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "16h00 06/06 POLYTRON Indonesia Open 2026 (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-06 11:59:09"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "16h00 06/06 Deep Cross Gaming vs GAM Esports (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-06 11:59:09"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "16h00 06/06 Deep Cross Gaming vs GAM Esports (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8",
+        "time": "2026-06-06 11:59:09"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 06/06 Kawasaki Frontale vs Sanfrecce Hiroshima [A BỆU] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780750399-0-0-66c5accf6f1b1c42bc9f0dec24c12839",
+        "time": "2026-06-06 11:59:09"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 06/06 Hoàng Sao vs Nguyễn Anh Tuấn (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8",
+        "time": "2026-06-06 11:59:09"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h30 06/06 tr (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-06 11:59:09"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 06/06 Kawasaki Frontale vs Sanfrecce Hiroshima (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-06 11:59:09"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 06/06 Hoàng Sao vs Nguyễn Anh Tuấn (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-06 11:59:09"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h30 06/06 POLYTRON Indonesia Open 2026 (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8",
+        "time": "2026-06-06 11:59:09"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 06/06 Kawasaki Frontale vs Sanfrecce Hiroshima (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8",
+        "time": "2026-06-06 11:59:09"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780750039-0-0-469accebf31d1138a8f4331a5029bc55",
+        "time": "2026-06-06 11:59:09"
     }
 ]
