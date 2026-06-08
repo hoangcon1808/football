@@ -1,149 +1,268 @@
 [
     {
-        "group": "HỘI QUÁN",
-        "title": "07:30 | San Antonio Spurs - New York Knicks",
-        "logo": "https://upload.wikimedia.org/wikipedia/vi/e/ec/San_Antonio_Spurs_logo.png",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8",
-        "time": "2026-06-09 07:30:00"
+        "group": "VÒNG CẤM TV",
+        "title": "Việt Nam W vs Indonesia W",
+        "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/IUYV_ZAMxDdabQPzSpTJtg_96x96.png",
+        "url": "https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8",
+        "time": "2026-06-08 11:59:19"
     },
     {
         "group": "CA LA TV",
-        "title": "05:00 | Kingborough Lions vs Devonport City",
-        "logo": "https://img.colatv88xd.cc/football/team/42e8b0755549e790199f442c4f074d6b.png!w80",
-        "url": "https://live05.msdht.app/live/90865415.m3u8",
-        "time": "2026-06-08 05:00:00"
+        "title": "12:00 | Marikina Shoemasters vs Binan Tatak Gel",
+        "logo": "https://img.colatv88xd.cc/basketball/team/0658f58acb5f49f6ac98258f6ab10bdf.png!w80",
+        "url": "https://live05.msdht.app/live/87379114.m3u8",
+        "time": "2026-06-08 12:00:00"
+    },
+    {
+        "group": "HỘI QUÁN",
+        "title": "11:00 | Uzbekistan vs Úc",
+        "logo": "https://vcdn1-dulich.vnecdn.net/2018/01/25/Uzbekistan-9909-1516848403.png?w=680&h=0&q=100&dpr=2&fit=crop&s=tdzF4zH_kBQ4H9NlhvHzUA",
+        "url": "https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-09 11:00:00"
+    },
+    {
+        "group": "HỘI QUÁN",
+        "title": "17:00 | Việt Nam vs Indonesia",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg/250px-Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg.png",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-08 17:00:00"
+    },
+    {
+        "group": "HỘI QUÁN",
+        "title": "20:00 | Thailand U19 vs Malaysia U19",
+        "logo": "https://media.api-sports.io/football/teams/19155.png",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-08 20:00:00"
+    },
+    {
+        "group": "HỘI QUÁN",
+        "title": "19:00 | Gamingccc",
+        "logo": "https://img-cdn.hltv.org/gallerypicture/tQFZwX3QRcqGp779W3jXaJ.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=1021764ee7d110c568526e9029449903",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-08 19:00:00"
     },
     {
         "group": "FPT SPORT",
-        "title": "12h00 ngày 08/06 Kingborough Lions vs Devonport City (Lương Sơn) BLV LƯU BỊ m3u",
+        "title": "18h30 ngày 08/06 Sri Lanka vs Bhutan (Lương Sơn) BLV SHIN m3u",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1",
-        "time": "2026-06-08 06:58:44"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: TOUT - China U19 vs Tunisia U23 [Sóc trong rừng xà nu] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1780904480-0-0-a9aaec8890e3ebc9b1e36f9f754c1655",
-        "time": "2026-06-08 06:58:44"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - Denmark vs Ukraine [Sóc mèo méo meo] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1780904480-0-0-cb02d961aadd45b9bd1bcbba932d2297",
-        "time": "2026-06-08 06:58:44"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - Portugal vs Chile [Sóc nhàm nhang nhồ] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1780904480-0-0-37a37ca6facc2cca50d0b2d1a2bc3147",
-        "time": "2026-06-08 06:58:44"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: TOUT - China U19 vs Tunisia U23 [Sóc trong rừng xà nu] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1780904480-0-0-f8b4db3561c566d73f9d71d4309fb356",
-        "time": "2026-06-08 06:58:44"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: AFF U19 - Indonesia U19 vs Vietnam U19 [Sóc trèo cây ngô đồng] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1780904480-0-0-67bc66352ba2d489291d53bbe3cad72a",
-        "time": "2026-06-08 06:58:44"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - USA vs Germany [Sóc đau cổ vai gáy] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1780904840-0-0-d11c04703557079c986f24052b26e1c6",
-        "time": "2026-06-08 06:58:44"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: AFF U19 - Indonesia U19 vs Vietnam U19 [Sóc trèo cây ngô đồng] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1780904480-0-0-7247db33abc21e7626dc6bf08a0fe82d",
-        "time": "2026-06-08 06:58:44"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - USA vs Germany [Sóc đau cổ vai gáy] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1780904840-0-0-e85e2c04f47cf43702dcc138deacccc3",
-        "time": "2026-06-08 06:58:44"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "12h00 ngày 08/06 Kingborough Lions vs Devonport City [KÉP] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1780905200-0-0-df4e78f2da1ffa69390c76af7a3d827e",
-        "time": "2026-06-08 06:58:44"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - Argentina vs Honduras [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1780904480-0-0-33c6de82d2b79efa9305549e5210fe8b",
-        "time": "2026-06-08 06:58:44"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - Denmark vs Ukraine [Sóc mèo méo meo] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1780904480-0-0-2cd104949c553724b6c60c54e5661857",
-        "time": "2026-06-08 06:58:44"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "14h00 08/06  Philippin vs Kyrgyzstan  (Hội Quán) SD",
-        "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-08 06:58:44"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - Argentina vs Honduras [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1780904480-0-0-a70198690998dbb73fd26859b91ecf7e",
-        "time": "2026-06-08 06:58:44"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "12h00 ngày 08/06 Kingborough Lions vs Devonport City [KÉP] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1780905200-0-0-27733a38e0ec2545b9ca500ac670e7af",
-        "time": "2026-06-08 06:58:44"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - Portugal vs Chile [Sóc nhàm nhang nhồ] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1780904480-0-0-68ad2243ca310f00b539a3c86a329ccc",
-        "time": "2026-06-08 06:58:44"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "14h00 08/06  Philippin vs Kyrgyzstan  (Hội Quán) FHD",
-        "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8",
-        "time": "2026-06-08 06:58:44"
+        "url": "https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587",
+        "time": "2026-06-08 11:59:20"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780905200-0-0-e0a37d5aca6575c78120ce3291e5bf1a",
-        "time": "2026-06-08 06:58:44"
+        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780922480-0-0-9582c36c3d369323b3e87eccb539d2e8",
+        "time": "2026-06-08 11:59:20"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: INTERF - Denmark vs Ukraine [Sóc mèo méo meo] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1780923200-0-0-df892f547df7414b03ad62ec3a2b165c",
+        "time": "2026-06-08 11:59:20"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [HUNTER] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780922480-0-0-7db520dd3fb2b8ab7dfbcd1c47570684",
+        "time": "2026-06-08 11:59:20"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [BLV HENRY] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780922480-0-0-99deeaa6c05736efbc9d87daeec6515c",
+        "time": "2026-06-08 11:59:20"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [CHAN SENA] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780922480-0-0-0d50893c8a63e85be999e02ab3906c43",
+        "time": "2026-06-08 11:59:20"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [KING] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1780922480-0-0-d04ab5814f70ac7cdf30178e09ccbf81",
+        "time": "2026-06-08 11:59:20"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780905200-0-0-21ceb2e00bc16c8839d7a23aa52c8475",
-        "time": "2026-06-08 06:58:44"
+        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780922480-0-0-557b07ff94e0dba473db44a029ec311f",
+        "time": "2026-06-08 11:59:20"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [BLV HENRY] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1780922480-0-0-05efa153ce1111040bfa7c42722465fd",
+        "time": "2026-06-08 11:59:20"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [CHAN SENA] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780922480-0-0-0119ec54853c651106cb4ead15d5a1b1",
+        "time": "2026-06-08 11:59:20"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [BRIAN] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1780922480-0-0-4990a3455e66aca403f00ef01db0291c",
+        "time": "2026-06-08 11:59:20"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [KING] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1780922480-0-0-6297f05ed9b20214a661da226ecae469",
+        "time": "2026-06-08 11:59:20"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [A CHÈ] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780922480-0-0-fa013c1727faeecc58162446d00107a8",
+        "time": "2026-06-08 11:59:20"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [BRIAN] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780922480-0-0-d2f79298eb661d531557481553504591",
+        "time": "2026-06-08 11:59:20"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [A CHÈ] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780922480-0-0-25c094b67bc1a560ba957ccd556f5a6b",
+        "time": "2026-06-08 11:59:20"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [HUNTER] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1780922480-0-0-2e6190b937ddbaa556654058c2db8ef1",
+        "time": "2026-06-08 11:59:20"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: INTERF - Denmark vs Ukraine [Sóc mèo méo meo] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1780923200-0-0-12311abaed9835dd73763f429696f082",
+        "time": "2026-06-08 11:59:20"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 08/06 Việt Nam vs Indonesia (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8",
+        "time": "2026-06-08 11:59:20"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "16h00 08/06 Anyone's Legend vs Bilibili Gaming (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-08 11:59:20"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: AFF U19 - Indonesia U19 vs Vietnam U19 [Sóc trèo cây ngô đồng] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1780923200-0-0-a95a14bda6ec0a8e59af77230f9282d9",
+        "time": "2026-06-08 11:59:20"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: AFF U19 - Indonesia U19 vs Vietnam U19 [Sóc trèo cây ngô đồng] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1780923200-0-0-1e53cac30834f3bd60252f35230aad29",
+        "time": "2026-06-08 11:59:20"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: INTERF - Portugal vs Chile [Sóc nhàm nhang nhồ] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1780922840-0-0-0d75c20fe029eb155d919ffd336edd1e",
+        "time": "2026-06-08 11:59:20"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: INTERF - Portugal vs Chile [Sóc nhàm nhang nhồ] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1780922840-0-0-d955b5bbb00f3983bcf5db446fa3272d",
+        "time": "2026-06-08 11:59:20"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 08/06 Việt Nam vs Indonesia (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-08 11:59:20"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 08/06 Gamingccc (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-08 11:59:20"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 08/06 Gamingccc (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8",
+        "time": "2026-06-08 11:59:20"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: INTERF - Argentina vs Honduras [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1780923200-0-0-c25887051075ebcd9f85e14f7561e0e1",
+        "time": "2026-06-08 11:59:20"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: INTERF - USA vs Germany [Sóc đau cổ vai gáy] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1780922840-0-0-befa15d7071a369b02b5c865233e1f80",
+        "time": "2026-06-08 11:59:20"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: INTERF - USA vs Germany [Sóc đau cổ vai gáy] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1780922840-0-0-de99b74a08c40fa9b3687054c3c2b744",
+        "time": "2026-06-08 11:59:20"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "16h00 08/06 Anyone's Legend vs Bilibili Gaming (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8",
+        "time": "2026-06-08 11:59:20"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: TOUT - China U19 vs Tunisia U23 [Sóc trong rừng xà nu] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1780923200-0-0-30c0377c13503f514da4bab1f319fc2d",
+        "time": "2026-06-08 11:59:20"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: TOUT - China U19 vs Tunisia U23 [Sóc trong rừng xà nu] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1780923200-0-0-e7f1711144a52a5c5d8bd3969ba2f114",
+        "time": "2026-06-08 11:59:20"
     }
 ]
