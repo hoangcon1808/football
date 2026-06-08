@@ -8,13 +8,6 @@
     },
     {
         "group": "HỘI QUÁN",
-        "title": "05:00 | Canada vs Nhật Bản",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8",
-        "time": "2026-06-08 05:00:00"
-    },
-    {
-        "group": "HỘI QUÁN",
         "title": "17:00 | Việt Nam vs Indonesia",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg/250px-Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg.png",
         "url": "https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8",
@@ -33,6 +26,13 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/330px-Flag_of_Lebanon.svg.png",
         "url": "https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8",
         "time": "2026-06-08 14:00:00"
+    },
+    {
+        "group": "HỘI QUÁN",
+        "title": "17:00 | Kyrgyzstan vs Đài Loan ",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/1280px-Flag_of_Kyrgyzstan.svg.png",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-09 17:00:00"
     },
     {
         "group": "HỘI QUÁN",
@@ -95,63 +95,35 @@
         "title": "Việt Nam W vs Indonesia W",
         "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/IUYV_ZAMxDdabQPzSpTJtg_96x96.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8",
-        "time": "2026-06-07 23:47:25"
+        "time": "2026-06-08 02:04:05"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "North Macedonia U21 vs Mỹ U20",
         "logo": "https://static.flashscore.com/res/image/data/G8TPGWBr-pWJEuGxm.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8",
-        "time": "2026-06-07 23:47:25"
+        "time": "2026-06-08 02:04:05"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "Thái Lan U19 vs Malaysia U19",
         "logo": "https://media.api-sports.io/football/teams/19155.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8",
-        "time": "2026-06-07 23:47:25"
+        "time": "2026-06-08 02:04:05"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "Iraq U20 vs Jordan U20",
         "logo": "https://media.api-sports.io/football/teams/19626.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_khomuc/playlist.m3u8",
-        "time": "2026-06-07 23:47:25"
+        "time": "2026-06-08 02:04:05"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "Ý U21 vs Albania U21",
         "logo": "https://media.api-sports.io/football/teams/8201.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8",
-        "time": "2026-06-07 23:47:25"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "23:00 | Colombia vs Jordan",
-        "logo": "https://img.colatv88xd.cc/football/team/13844d01d85a85bed47338e396b2aa3d.png!w80",
-        "url": "https://live05.msdht.app/live/90725470.m3u8",
-        "time": "2026-06-07 23:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "22:00 | Cincinnati II vs New England Revolution B",
-        "logo": "https://img.colatv88xd.cc/football/team/b3d3c4686cfda0c027e46767e0a0a561.png!w80",
-        "url": "https://live05.msdht.app/live/87379114.m3u8",
-        "time": "2026-06-07 22:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "23:00 | Los Angeles Sparks vs Portland Fire",
-        "logo": "https://img.colatv88xd.cc/basketball/team/0a53a0f3a3e739e2f9e57430b0291e28.png!w80",
-        "url": "https://live05.msdht.app/live/19919577.m3u8",
-        "time": "2026-06-07 23:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "00:00 | Khu bảo tồn động đất San Jose vs Real Monarchs",
-        "logo": "https://img.colatv88xd.cc/football/team/b0d99b5e163d56f84425d465e6e11343.png!w80",
-        "url": "https://live05.msdht.app/live/14707124.m3u8",
-        "time": "2026-06-08 00:00:00"
+        "time": "2026-06-08 02:04:05"
     },
     {
         "group": "CA LA TV",
@@ -183,6 +155,13 @@
     },
     {
         "group": "CA LA TV",
+        "title": "12:00 | Marikina Shoemasters vs Binan Tatak Gel",
+        "logo": "https://img.colatv88xd.cc/basketball/team/0658f58acb5f49f6ac98258f6ab10bdf.png!w80",
+        "url": "https://live05.msdht.app/live/87379114.m3u8",
+        "time": "2026-06-08 12:00:00"
+    },
+    {
+        "group": "CA LA TV",
         "title": "13:00 | Bờ Biển Ngà U23 vs Canada U20",
         "logo": "https://img.colatv88xd.cc/football/team/4ceefb51ae9ec399a69540c895f4519f.png!w80",
         "url": "https://live05.msdht.app/live/24561735.m3u8",
@@ -194,6 +173,20 @@
         "logo": "https://img.colatv88xd.cc/football/team/43b2dd1c93748297cfbbea4d31247641.png!w80",
         "url": "https://live05.msdht.app/live/14830711.m3u8",
         "time": "2026-06-08 13:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "13:00 | Singapore U19 vs Brunei U19",
+        "logo": "https://img.colatv88xd.cc/football/team/bfa20d86a59044ef90a4609dde03985c.png!w80",
+        "url": "https://live05.msdht.app/live/90725470.m3u8",
+        "time": "2026-06-08 13:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "14:00 | ZED FC vs Wadi Degla",
+        "logo": "https://img.colatv88xd.cc/football/team/a08754ab96c283bacbf148154a50c7fc.png!w80",
+        "url": "https://live05.msdht.app/live/19919577.m3u8",
+        "time": "2026-06-08 14:00:00"
     },
     {
         "group": "CA LA TV",
@@ -218,6 +211,13 @@
     },
     {
         "group": "CA LA TV",
+        "title": "09:00 | Úc Nữ vs Mexico Nữ",
+        "logo": "https://img.colatv88xd.cc/football/team/1321008697de305bc0135838af8d2670.png!w80",
+        "url": "https://live05.msdht.app/live/14707124.m3u8",
+        "time": "2026-06-09 09:00:00"
+    },
+    {
+        "group": "CA LA TV",
         "title": "15:00 | Kazakhstan U19 vs Hy Lạp U19",
         "logo": "https://img.colatv88xd.cc/football/team/0b01c7d68feb22290f3b0da91bef689d.png!w80",
         "url": "https://live05.msdht.app/live/78905744.m3u8",
@@ -225,898 +225,590 @@
     },
     {
         "group": "FPT SPORT",
-        "title": "05h00 ngày 08/06 Deportes Limache vs Everton CD (Lương Sơn) BLV KAKA m3u",
+        "title": "07h30 ngày 08/06 Austin FC II vs Los Angeles FC II (Lương Sơn) BLV KAKA m3u",
         "logo": "",
         "url": "https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
-        "title": "05h00 ngày 08/06 Deportes Limache vs Everton CD (Lương Sơn) BLV KAKA flv",
+        "title": "07h30 ngày 08/06 Austin FC II vs Los Angeles FC II (Lương Sơn) BLV KAKA flv",
         "logo": "",
         "url": "https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Colombia vs Jordan (Lương Sơn) BLV LƯU BỊ m3u",
+        "title": "07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs (Lương Sơn) BLV MÃ SIÊU m3u",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1",
-        "time": "2026-06-07 23:47:27"
+        "url": "https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b",
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Colombia vs Jordan (Lương Sơn) BLV LƯU BỊ flv",
+        "title": "07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs (Lương Sơn) BLV MÃ SIÊU flv",
         "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Colombia vs Jordan (Lương Sơn) BLV HEINEKEN m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Colombia vs Jordan (Lương Sơn) BLV HEINEKEN flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/HEINEKEN.flv?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Colombia vs Jordan (Lương Sơn) BLV SHIN m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Colombia vs Jordan (Lương Sơn) BLV SHIN flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 08/06 O.Higgins vs Palestino (Lương Sơn) BLV VÕ TÒNG m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 08/06 O.Higgins vs Palestino (Lương Sơn) BLV VÕ TÒNG flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 08/06 Carabobo FC vs Academia Puerto Cabello (Lương Sơn) BLV QUAN VŨ m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 08/06 Carabobo FC vs Academia Puerto Cabello (Lương Sơn) BLV QUAN VŨ flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7",
-        "time": "2026-06-07 23:47:27"
+        "url": "https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b",
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 UNSW FC Women vs University of Sydney Women (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/8988f3aa5ce2f85d4c50a0bc65d9d998/playlist.m3u8",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Newcastle Olympic FC Reserves vs Charlestown Azzurri Reserves (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/6f115b2fe383bc3710a61f46cc1b22f9/playlist.m3u8",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "07h10 ngày 23/05 Boston Legacy W vs Seattle Reign (W) (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Mexico vs Ghana (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 08/06 Canada W vs Japan W (Chuối Chiên) HD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 08/06 Canada W vs Japan W (Chuối Chiên) HD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoibo.flv",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 08/06 Canada W vs Japan W (Chuối Chiên) FHD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 08/06 Canada W vs Japan W (Chuối Chiên) FHD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Colombia vs Jordan (Chuối Chiên) HD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Colombia vs Jordan (Chuối Chiên) HD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho.flv",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Colombia vs Jordan (Chuối Chiên) FHD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Colombia vs Jordan (Chuối Chiên) FHD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "08h00 ngày 08/06 Lebanon W vs Hong Kong W (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitim/playlist.m3u8",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "08h00 ngày 08/06 Lebanon W vs Hong Kong W (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitim.flv",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "08h00 ngày 08/06 Lebanon W vs Hong Kong W (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitimhd/playlist.m3u8",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "08h00 ngày 08/06 Lebanon W vs Hong Kong W (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitimhd.flv",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "11h00 ngày 08/06 Kazakhstan W vs Iran W (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "11h00 ngày 08/06 Kazakhstan W vs Iran W (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay.flv",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "11h00 ngày 08/06 Kazakhstan W vs Iran W (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "11h00 ngày 08/06 Kazakhstan W vs Iran W (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "14h00 ngày 08/06 Philippines W vs Kyrgyzstan W (Chuối Chiên) HD1",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8",
+        "time": "2026-06-08 02:04:06"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "14h00 ngày 08/06 Philippines W vs Kyrgyzstan W (Chuối Chiên) HD2",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoibo.flv",
+        "time": "2026-06-08 02:04:06"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "14h00 ngày 08/06 Philippines W vs Kyrgyzstan W (Chuối Chiên) FHD1",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8",
+        "time": "2026-06-08 02:04:06"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "14h00 ngày 08/06 Philippines W vs Kyrgyzstan W (Chuối Chiên) FHD2",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv",
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "20h00 ngày 08/06 Côte d'Ivoire U20 vs Canada U20 (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "20h00 ngày 08/06 Côte d'Ivoire U20 vs Canada U20 (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/max.flv",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "20h00 ngày 08/06 Côte d'Ivoire U20 vs Canada U20 (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "20h00 ngày 08/06 Côte d'Ivoire U20 vs Canada U20 (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/maxhd.flv",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "20h00 ngày 08/06 Singapore U19 vs Brunei U19 (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "20h00 ngày 08/06 Singapore U19 vs Brunei U19 (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoichao.flv",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "20h00 ngày 08/06 Singapore U19 vs Brunei U19 (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "20h00 ngày 08/06 Singapore U19 vs Brunei U19 (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "20h00 ngày 08/06 Singapore U19 vs Brunei U19 (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "20h00 ngày 08/06 Singapore U19 vs Brunei U19 (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoigia.flv",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "20h00 ngày 08/06 Singapore U19 vs Brunei U19 (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "20h00 ngày 08/06 Singapore U19 vs Brunei U19 (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "20h00 ngày 08/06 Thailand U19 vs Malaysia U19 (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "20h00 ngày 08/06 Thailand U19 vs Malaysia U19 (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/troctru.flv",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "20h00 ngày 08/06 Thailand U19 vs Malaysia U19 (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "20h00 ngày 08/06 Thailand U19 vs Malaysia U19 (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd.flv",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "21h00 ngày 08/06 Masr vs Wadi Degla (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "21h00 ngày 08/06 Masr vs Wadi Degla (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoito.flv",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "21h00 ngày 08/06 Masr vs Wadi Degla (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "21h00 ngày 08/06 Masr vs Wadi Degla (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "23h30 ngày 08/06 Venezuela U20 vs Portugal U20 (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/cauca/playlist.m3u8",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "23h30 ngày 08/06 Venezuela U20 vs Portugal U20 (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/cauca.flv",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "23h30 ngày 08/06 Venezuela U20 vs Portugal U20 (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/caucahd/playlist.m3u8",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "23h30 ngày 08/06 Venezuela U20 vs Portugal U20 (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/caucahd.flv",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "09h00 ngày 09/06 Peru vs Spain (Chuối Chiên) HD1",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8",
+        "time": "2026-06-08 02:04:06"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "09h00 ngày 09/06 Peru vs Spain (Chuối Chiên) HD2",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho.flv",
+        "time": "2026-06-08 02:04:06"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "09h00 ngày 09/06 Peru vs Spain (Chuối Chiên) FHD1",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
+        "time": "2026-06-08 02:04:06"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "09h00 ngày 09/06 Peru vs Spain (Chuối Chiên) FHD2",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv",
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC (Gà Vàng) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/821d54abadb12c6c15edba538ab20ad1/playlist.m3u8",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "07h00 ngày 23/05 Sporting Kansas CityReserves vs Austin FC II (Gà Vàng) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Los Angeles Sparks W vs Portland Fire W [CHAN SENA] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1780878560-0-0-b8fae3b7dbd742ead85b730f8d454dc5",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Los Angeles Sparks W vs Portland Fire W [CHAN SENA] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1780878560-0-0-2c8ee564ef3250aab48227a36540bfb2",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Los Angeles Sparks W vs Portland Fire W [CHAN SENA] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780878560-0-0-feea9fb3446b4d58fc12dbbf11a7b5e8",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Los Angeles Sparks W vs Portland Fire W [CHAN SENA] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780878560-0-0-800e6d75a386a96ec68579ec25b421c8",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Colombia vs Jordan [BLV MESSI] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1780878560-0-0-aa45c5bc2372e739d832bf1a66e8ce7a",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Colombia vs Jordan [BLV MESSI] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1780878560-0-0-a40f888b0c862d7d30d541533c8ca4d9",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Colombia vs Jordan [BLV MESSI] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1780878560-0-0-11d189f90c4323e9810025573ca875d9",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Colombia vs Jordan [BLV MESSI] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1780878560-0-0-e2d2a2409b2eb3ee24749271eaf47817",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Los Angeles Sparks W vs Portland Fire W [BLV HENRY] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1780878560-0-0-a3769699eaca64689dcfd837d857bc46",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Los Angeles Sparks W vs Portland Fire W [BLV HENRY] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1780878560-0-0-6e1ab906ae69eebc17062718f7b2ed48",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Los Angeles Sparks W vs Portland Fire W [BLV HENRY] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1780878560-0-0-e0489320a85329461091b781b69a1472",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Los Angeles Sparks W vs Portland Fire W [BLV HENRY] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780878560-0-0-8a837e64895b1f35df58c3e249e4aaf3",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Colombia vs Jordan [BLV TOMIA] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1780878560-0-0-30db528d4e9b2d996180a01b61ae97d5",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Colombia vs Jordan [BLV TOMIA] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1780878560-0-0-40fdcdeb80300f2f58c3e7de96e35d5c",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Colombia vs Jordan [BLV TOMIA] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1780878560-0-0-0f8e99334add2109d8b34aeb4d313649",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Colombia vs Jordan [BLV TOMIA] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1780878560-0-0-03323006d817667698a4299479eacb23",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Colombia vs Jordan [BLV CUỘI] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1780878560-0-0-eafe0c9adb3c73d2c2a82e1d55239514",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Colombia vs Jordan [BLV CUỘI] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1780878560-0-0-b1cb3b2e0d225313136611d89a7b9516",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Colombia vs Jordan [BLV CUỘI] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1780878560-0-0-1294f2befc8d6329a370526620f8a5d9",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Colombia vs Jordan [BLV CUỘI] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1780878560-0-0-6e13e2e7b1696a06639d672b956803b6",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 08/06 Cincinnati II vs New England Revolution B [CÔNG CHẤT] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1780878560-0-0-8e12e742df9517f41226a207d4eeee59",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 08/06 Cincinnati II vs New England Revolution B [CÔNG CHẤT] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1780878560-0-0-01dcf11e6b749d4fe201f5339652a8dc",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 08/06 Cincinnati II vs New England Revolution B [CÔNG CHẤT] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1780878560-0-0-74361b2bd96013b35a8aace3e2c8853b",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 08/06 Cincinnati II vs New England Revolution B [CÔNG CHẤT] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780878560-0-0-7adc3da0545cc79fc4c95e8fafa26abc",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Colombia vs Jordan [BLV 7UP] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1780878560-0-0-82890f47e5cacfce03bdfe67889cb4dc",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Colombia vs Jordan [BLV 7UP] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1780878560-0-0-c77c2cf50dae23cfb01003e6a33d7bed",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Colombia vs Jordan [BLV 7UP] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1780878560-0-0-bebabf9bc1e273e694db8248a72ff2c9",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Colombia vs Jordan [BLV 7UP] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780878560-0-0-9ff6197da63bde7083a799c63cdfc916",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 08/06 Cincinnati II vs New England Revolution B [BLV LUCAS] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1780878920-0-0-5e1da2dbddcecc6ec520f848436e5001",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 08/06 Cincinnati II vs New England Revolution B [BLV LUCAS] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1780878920-0-0-8da845643c8a94a269a3e7098922dd8d",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 08/06 Cincinnati II vs New England Revolution B [BLV LUCAS] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1780878920-0-0-9a5f197e5e2d6621dd8592ec8f1ee2a3",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 08/06 Cincinnati II vs New England Revolution B [BLV LUCAS] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1780878920-0-0-c048aa40be3b711977d75ffc89bfd22a",
-        "time": "2026-06-07 23:47:27"
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs [BLV TAP] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1780878920-0-0-eb633b1bb512fc026f3e82f4696f69e6",
-        "time": "2026-06-07 23:47:27"
+        "url": "https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1780886480-0-0-3a149b4e57bb75108fe905e9d057e888",
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs [BLV TAP] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1780878920-0-0-4bf389f6f9c9fd047525f1aea0212ce7",
-        "time": "2026-06-07 23:47:27"
+        "url": "https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1780886480-0-0-5a907769c9902d9132bc6751f4501688",
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs [BLV TAP] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1780878920-0-0-3da0c310a04167644a590fdd48c50e5d",
-        "time": "2026-06-07 23:47:27"
+        "url": "https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1780886480-0-0-e0e124d6772ba8baecb592ea344178b6",
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs [BLV TAP] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1780878920-0-0-bff4f8b865b04a82d9089a6fac6313ef",
-        "time": "2026-06-07 23:47:27"
+        "url": "https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1780886480-0-0-9b87b007a94969f2b7aa75eef166dc50",
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Colombia vs Jordan [BLV A TÚ] (Socolive) flv",
+        "title": "07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [SAO LA] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1780879280-0-0-c4b1cbf183c50ab8c12952756c27b200",
-        "time": "2026-06-07 23:47:27"
+        "url": "https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=0779256420b5b7c1d901bec8a6bd46e0&txTime=6a267388",
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Colombia vs Jordan [BLV A TÚ] (Socolive) hdFlv",
+        "title": "07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [SAO LA] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1780879280-0-0-9fe0327f80e2f92ece0bb91c00813a50",
-        "time": "2026-06-07 23:47:27"
+        "url": "https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=0c22f8e6d457bcfda93313d8d298345d&txTime=6a267388",
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Colombia vs Jordan [BLV A TÚ] (Socolive) m3u8",
+        "title": "07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [SAO LA] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1780879280-0-0-77b5703371684f4d1eee7dce18a81bfa",
-        "time": "2026-06-07 23:47:27"
+        "url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=0779256420b5b7c1d901bec8a6bd46e0&txTime=6a267388",
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Colombia vs Jordan [BLV A TÚ] (Socolive) hdM3u8",
+        "title": "07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [SAO LA] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1780879280-0-0-d61b5473cacf06818ffe406eaf4ecb43",
-        "time": "2026-06-07 23:47:27"
+        "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=0c22f8e6d457bcfda93313d8d298345d&txTime=6a267388",
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Los Angeles Sparks W vs Portland Fire W [BRIAN] (Socolive) flv",
+        "title": "07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [BLV TOMMY] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1780879280-0-0-2b7ecef0566ce40a146ca8b9b50cd543",
-        "time": "2026-06-07 23:47:27"
+        "url": "https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=127e521a7a9f51a4e2f18fb0e41a964b&txTime=6a267388",
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Los Angeles Sparks W vs Portland Fire W [BRIAN] (Socolive) hdFlv",
+        "title": "07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [BLV TOMMY] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1780879280-0-0-c6e088ef4a8b36e368976607cc35c57d",
-        "time": "2026-06-07 23:47:27"
+        "url": "https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=0de97990b16f2844ad89322ebcb31e6f&txTime=6a267388",
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Los Angeles Sparks W vs Portland Fire W [BRIAN] (Socolive) m3u8",
+        "title": "07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [BLV TOMMY] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1780879280-0-0-53760b69dc8c4d5a7df8036b41f93f08",
-        "time": "2026-06-07 23:47:27"
+        "url": "https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=127e521a7a9f51a4e2f18fb0e41a964b&txTime=6a267388",
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Los Angeles Sparks W vs Portland Fire W [BRIAN] (Socolive) hdM3u8",
+        "title": "07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [BLV TOMMY] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780879280-0-0-9414538a992406c558dec876a1584171",
-        "time": "2026-06-07 23:47:27"
+        "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=0de97990b16f2844ad89322ebcb31e6f&txTime=6a267388",
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Colombia vs Jordan [LOGAN] (Socolive) flv",
+        "title": "07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [BLV BÉO] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1780879280-0-0-faa23ce1f95a5d58ce33dcbc236e7c2b",
-        "time": "2026-06-07 23:47:27"
+        "url": "https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=01e4db8bbce092fcb79ede8a9966c517&txTime=6a267388",
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Colombia vs Jordan [LOGAN] (Socolive) hdFlv",
+        "title": "07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [BLV BÉO] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1780879280-0-0-2e88c884f8a90e4d23108fc4d9de8624",
-        "time": "2026-06-07 23:47:27"
+        "url": "https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=1c98a1f2149b762e553bfe0cf265f9e0&txTime=6a267388",
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Colombia vs Jordan [LOGAN] (Socolive) m3u8",
+        "title": "07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [BLV BÉO] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1780879280-0-0-3b496849d5a08c0b548089e68924ea95",
-        "time": "2026-06-07 23:47:27"
+        "url": "https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=01e4db8bbce092fcb79ede8a9966c517&txTime=6a267388",
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Colombia vs Jordan [LOGAN] (Socolive) hdM3u8",
+        "title": "07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [BLV BÉO] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1780879280-0-0-0ce1a072b15f4c6d7361a830e3f2d3b7",
-        "time": "2026-06-07 23:47:27"
+        "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=1c98a1f2149b762e553bfe0cf265f9e0&txTime=6a267388",
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Orlando City B vs Carolina Core [BLV RAMBO] (Socolive) flv",
+        "title": "07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [TẠ BIÊN GIỚI] (Socolive) flv",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=c32bbeebc0b98365c516213d4699f0f7&txTime=6a265600",
-        "time": "2026-06-07 23:47:27"
+        "url": "https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1780886840-0-0-423164be58c0dce2d5cb68bd09df61c9",
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Orlando City B vs Carolina Core [BLV RAMBO] (Socolive) hdFlv",
+        "title": "07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [TẠ BIÊN GIỚI] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=e86ba081adf89cfe8eed39017c99befb&txTime=6a265600",
-        "time": "2026-06-07 23:47:27"
+        "url": "https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780886840-0-0-f1ade553d0b77130bf2a1f8de5f0e9f8",
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Orlando City B vs Carolina Core [BLV RAMBO] (Socolive) m3u8",
+        "title": "07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [TẠ BIÊN GIỚI] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=c32bbeebc0b98365c516213d4699f0f7&txTime=6a265600",
-        "time": "2026-06-07 23:47:27"
+        "url": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1780886840-0-0-dafa852f033f8d926d1d18b4be21dacc",
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Orlando City B vs Carolina Core [BLV RAMBO] (Socolive) hdM3u8",
+        "title": "07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [TẠ BIÊN GIỚI] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=e86ba081adf89cfe8eed39017c99befb&txTime=6a265600",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Los Angeles Sparks W vs Portland Fire W [A CHÈ] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1780879280-0-0-6806efd14ef6f0ac05ddac4e99282214",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Los Angeles Sparks W vs Portland Fire W [A CHÈ] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780879280-0-0-9cc71f0a8f4c694c816bfa2bc2cfe3d4",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Los Angeles Sparks W vs Portland Fire W [A CHÈ] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780879280-0-0-3b91aada4a18768515c7c57a2ebd35f8",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Los Angeles Sparks W vs Portland Fire W [A CHÈ] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780879280-0-0-37639ea2bd6286f850d40f8fa9454540",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Los Angeles Sparks W vs Portland Fire W [HUNTER] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1780879288-0-0-5573bd1876d029b3bc341d694972135a",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Los Angeles Sparks W vs Portland Fire W [HUNTER] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1780879288-0-0-96ae9f674250864168feb32834cd71d8",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Los Angeles Sparks W vs Portland Fire W [HUNTER] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1780879288-0-0-b62322abe42e0737002351ab487d3150",
-        "time": "2026-06-07 23:47:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 08/06 Los Angeles Sparks W vs Portland Fire W [HUNTER] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780879288-0-0-d3fd3140b19789cab0324d0c0f30df3a",
-        "time": "2026-06-07 23:47:27"
+        "url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780886840-0-0-6b17600804fa57d124f79cf9a3f9dc9e",
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780879280-0-0-54585e8bfd9a3ddc89ad7b2b8b135c35",
-        "time": "2026-06-07 23:47:27"
+        "url": "https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780886840-0-0-1b23706d7d33b948801acc58ec9b4e2f",
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780879280-0-0-c1f818ad6bf96424b4780fbf8e08b638",
-        "time": "2026-06-07 23:47:27"
+        "url": "https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780886840-0-0-04d307623ecd1ce5c88f3def61d8282f",
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780879280-0-0-03a4f97d236e89b5e0224789d76e04b3",
-        "time": "2026-06-07 23:47:27"
+        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780886840-0-0-fc5c077ca3d3494af97033f8d798966a",
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780879280-0-0-6e000253918c02805b3265ddefadb43b",
-        "time": "2026-06-07 23:47:27"
+        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780886840-0-0-d79e1fbc744ddeaad7f812a537311b9b",
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
-        "title": "05h00 08/06 Canada vs Nhật Bản (Hội Quán) FHD",
+        "title": "07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs [CÔNG CHẤT] (Socolive) flv",
         "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8",
-        "time": "2026-06-07 23:47:27"
+        "url": "https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1780887200-0-0-1b36f03eef4b18d630132cc2abd39fa1",
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
-        "title": "05h00 08/06 Canada vs Nhật Bản (Hội Quán) SD",
+        "title": "07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs [CÔNG CHẤT] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-07 23:47:27"
+        "url": "https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1780887200-0-0-85fcfa89457c1a33740cf936ae6f41ff",
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
-        "title": "06h00 08/06 Colombia vs Jordan (Hội Quán) FHD",
+        "title": "07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs [CÔNG CHẤT] (Socolive) m3u8",
         "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8",
-        "time": "2026-06-07 23:47:27"
+        "url": "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1780887200-0-0-b131d33924d5d60ab20e1172d8edef89",
+        "time": "2026-06-08 02:04:06"
     },
     {
         "group": "FPT SPORT",
-        "title": "06h00 08/06 Colombia vs Jordan (Hội Quán) SD",
+        "title": "07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs [CÔNG CHẤT] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-07 23:47:27"
+        "url": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780887200-0-0-1f246143881434381647a7f92918ef29",
+        "time": "2026-06-08 02:04:06"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs [BLV LUCAS] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1780887200-0-0-9509d33d0c485842871e15acad0eb31b",
+        "time": "2026-06-08 02:04:06"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs [BLV LUCAS] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1780887200-0-0-55f621968179bc966a5b1565623ebe39",
+        "time": "2026-06-08 02:04:06"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs [BLV LUCAS] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1780887200-0-0-8adca5ccd8f859a43548962fd388065b",
+        "time": "2026-06-08 02:04:06"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs [BLV LUCAS] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1780887200-0-0-1109145ff0ff18ab645bf3295d5d8019",
+        "time": "2026-06-08 02:04:06"
     }
 ]
