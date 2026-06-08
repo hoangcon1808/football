@@ -1,38 +1,17 @@
 [
     {
-        "group": "VÒNG CẤM TV",
-        "title": "Việt Nam W vs Indonesia W",
-        "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/IUYV_ZAMxDdabQPzSpTJtg_96x96.png",
-        "url": "https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8",
-        "time": "2026-06-08 11:59:19"
-    },
-    {
         "group": "CA LA TV",
-        "title": "12:00 | Marikina Shoemasters vs Binan Tatak Gel",
-        "logo": "https://img.colatv88xd.cc/basketball/team/0658f58acb5f49f6ac98258f6ab10bdf.png!w80",
-        "url": "https://live05.msdht.app/live/87379114.m3u8",
-        "time": "2026-06-08 12:00:00"
+        "title": "15:30 | KTP Kotka vs Haka",
+        "logo": "https://img.colatv88xd.cc/football/team/8cb20ccb4136279d11c5a40c3015a561.png!w80",
+        "url": "https://live05.msdht.app/live/14707124.m3u8",
+        "time": "2026-06-08 15:30:00"
     },
     {
         "group": "HỘI QUÁN",
-        "title": "11:00 | Uzbekistan vs Úc",
-        "logo": "https://vcdn1-dulich.vnecdn.net/2018/01/25/Uzbekistan-9909-1516848403.png?w=680&h=0&q=100&dpr=2&fit=crop&s=tdzF4zH_kBQ4H9NlhvHzUA",
-        "url": "https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8",
-        "time": "2026-06-09 11:00:00"
-    },
-    {
-        "group": "HỘI QUÁN",
-        "title": "17:00 | Việt Nam vs Indonesia",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg/250px-Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg.png",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8",
-        "time": "2026-06-08 17:00:00"
-    },
-    {
-        "group": "HỘI QUÁN",
-        "title": "20:00 | Thailand U19 vs Malaysia U19",
-        "logo": "https://media.api-sports.io/football/teams/19155.png",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8",
-        "time": "2026-06-08 20:00:00"
+        "title": "01:45 | Netherlands vs Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/1118.png",
+        "url": "https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-09 01:45:00"
     },
     {
         "group": "HỘI QUÁN",
@@ -42,227 +21,339 @@
         "time": "2026-06-08 19:00:00"
     },
     {
-        "group": "FPT SPORT",
-        "title": "18h30 ngày 08/06 Sri Lanka vs Bhutan (Lương Sơn) BLV SHIN m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587",
-        "time": "2026-06-08 11:59:20"
+        "group": "HỘI QUÁN",
+        "title": "02:00 | Niger vs Mauritania",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/6/63/Niger_FF_%28logo%29.png",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-09 02:00:00"
+    },
+    {
+        "group": "HỘI QUÁN",
+        "title": "02:10 | France vs Northern Ireland",
+        "logo": "https://media.api-sports.io/football/teams/2.png",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-09 02:10:00"
+    },
+    {
+        "group": "HỘI QUÁN",
+        "title": "21:00 | Tommy Paul vs Giovanni Mpetshi Perricard",
+        "logo": "https://www.datocms-assets.com/110926/1770148201-20-paul_full_2024.png?auto=format%2Ccompress&fit=crop&h=470&w=0&ixlib=react-9.8.1",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-08 21:00:00"
+    },
+    {
+        "group": "VÒNG CẤM TV",
+        "title": "Indonesia vs Mozambique",
+        "logo": "https://media.api-sports.io/football/teams/1571.png",
+        "url": "https://bglive.yarncdn.live/live/bgtv_blv_khomuc/playlist.m3u8",
+        "time": "2026-06-08 16:00:45"
+    },
+    {
+        "group": "VÒNG CẤM TV",
+        "title": "Ý U21 vs Albania U21",
+        "logo": "https://media.api-sports.io/football/teams/8201.png",
+        "url": "https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8",
+        "time": "2026-06-08 16:00:45"
     },
     {
         "group": "FPT SPORT",
-        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
+        "title": "22h00 ngày 08/06 Belarus U21 vs Kazakhstan U21 (Lương Sơn) BLV PHI HỔ m3u",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780922480-0-0-9582c36c3d369323b3e87eccb539d2e8",
-        "time": "2026-06-08 11:59:20"
+        "url": "https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f",
+        "time": "2026-06-08 16:00:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - Denmark vs Ukraine [Sóc mèo méo meo] (Socolive) m3u8",
+        "title": "22h00 ngày 08/06 Belarus U21 vs Kazakhstan U21 (Lương Sơn) BLV QUAN VŨ m3u",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1780923200-0-0-df892f547df7414b03ad62ec3a2b165c",
-        "time": "2026-06-08 11:59:20"
+        "url": "https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7",
+        "time": "2026-06-08 16:00:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [HUNTER] (Socolive) hdM3u8",
+        "title": "21h00 ngày 08/06 Wadi Degla SC vs ZED FC (Lương Sơn) BLV LÝ QUỲ m3u",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780922480-0-0-7db520dd3fb2b8ab7dfbcd1c47570684",
-        "time": "2026-06-08 11:59:20"
+        "url": "https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3",
+        "time": "2026-06-08 16:00:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [BLV HENRY] (Socolive) hdM3u8",
+        "title": "21h00 ngày 08/06 Wadi Degla SC vs ZED FC (Lương Sơn) BLV LÝ ỨNG m3u",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780922480-0-0-99deeaa6c05736efbc9d87daeec6515c",
-        "time": "2026-06-08 11:59:20"
+        "url": "https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d",
+        "time": "2026-06-08 16:00:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [CHAN SENA] (Socolive) hdM3u8",
+        "title": "22h30 ngày 08/06 Baghdad vs Karbalaa (Lương Sơn) BLV TRIỆU TỬ LONG m3u",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780922480-0-0-0d50893c8a63e85be999e02ab3906c43",
-        "time": "2026-06-08 11:59:20"
+        "url": "https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070",
+        "time": "2026-06-08 16:00:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [KING] (Socolive) m3u8",
+        "title": "22h30 ngày 08/06 Baghdad vs Karbalaa (Lương Sơn) BLV DƯƠNG CHÍ m3u",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1780922480-0-0-d04ab5814f70ac7cdf30178e09ccbf81",
-        "time": "2026-06-08 11:59:20"
+        "url": "https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33",
+        "time": "2026-06-08 16:00:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h30 ngày 08/06 KTP Kotka vs FC Haka (Lương Sơn) BLV TÂY MÔN KHÁNH m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da",
+        "time": "2026-06-08 16:00:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h30 ngày 08/06 KTP Kotka vs FC Haka [BLV RÔSI] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=cfba7f423a441e15ba142130b628bd84&txTime=6a273778",
+        "time": "2026-06-08 16:00:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h30 ngày 08/06 KTP Kotka vs FC Haka [BLV RÔSI] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=a80d770a63c47a8e776b6321b52f1f95&txTime=6a273778",
+        "time": "2026-06-08 16:00:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h30 ngày 08/06 KTP Kotka vs FC Haka [BLV Củ Cải] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1780937240-0-0-80c15c74e6e10ead37969993f67e1fde",
+        "time": "2026-06-08 16:00:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h30 ngày 08/06 KTP Kotka vs FC Haka [BLV HÚP] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1780937240-0-0-2444f4dc2bbce2855a5eebd5177d5e58",
+        "time": "2026-06-08 16:00:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "21h00 ngày 08/06 ZED FC vs Wadi Degla SC [BLV YONE] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1780937300-0-0-01b813219edbd63d1de4effdb291d425",
+        "time": "2026-06-08 16:00:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "21h00 ngày 08/06 ZED FC vs Wadi Degla SC [BLV KEM] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780937300-0-0-58723144beb42a0785ae79f951cb3e3f",
+        "time": "2026-06-08 16:00:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h30 ngày 08/06 KTP Kotka vs FC Haka [BLV CÁP] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1780937300-0-0-1ed9043221032ea15dd91b59e57639da",
+        "time": "2026-06-08 16:00:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "VTBUL: Unics Kazan vs CSKA Moscow [KING] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1780937300-0-0-d6bcb9743bc234e807b677f342c319fa",
+        "time": "2026-06-08 16:00:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "21h00 ngày 08/06 ZED FC vs Wadi Degla SC [BLV YONE] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1780937300-0-0-0509db11f7300d5115b8fb5403d69a0d",
+        "time": "2026-06-08 16:00:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h30 ngày 08/06 KTP Kotka vs FC Haka [BLV Củ Cải] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1780937240-0-0-cb1cf4b691aa0247c76184037df2072c",
+        "time": "2026-06-08 16:00:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "21h00 ngày 08/06 ZED FC vs Wadi Degla SC [BLV CÒ] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1780937240-0-0-50452bd410cb08dcaa82c8e930c4d006",
+        "time": "2026-06-08 16:00:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "21h00 ngày 08/06 ZED FC vs Wadi Degla SC [BLV A TÚ] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1780937300-0-0-fe05c257c591e2e42aec09e15cd17e7c",
+        "time": "2026-06-08 16:00:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "21h00 ngày 08/06 ZED FC vs Wadi Degla SC [BLV A TÚ] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1780937300-0-0-40c277ecf27004f7e880f191312756ef",
+        "time": "2026-06-08 16:00:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h30 ngày 08/06 KTP Kotka vs FC Haka [HẢI THANH] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1780937300-0-0-0c28587fb8ad1c97679af111d0d39fad",
+        "time": "2026-06-08 16:00:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h30 ngày 08/06 KTP Kotka vs FC Haka [HẢI THANH] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780937300-0-0-36af6e8121ef0ad8b423d1fb20cbb319",
+        "time": "2026-06-08 16:00:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "21h00 ngày 08/06 ZED FC vs Wadi Degla SC [BLV KEM] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1780937300-0-0-4e4515163c6128d40638403fca4d1cb3",
+        "time": "2026-06-08 16:00:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "21h00 ngày 08/06 ZED FC vs Wadi Degla SC [HÀ DUY KIÊN] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1780937300-0-0-a789204b7157416c5350600a2a5d8d2c",
+        "time": "2026-06-08 16:00:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h30 ngày 08/06 KTP Kotka vs FC Haka [DECO] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1780937240-0-0-b0e73bba30a439381479d1523bbc9cc6",
+        "time": "2026-06-08 16:00:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h30 ngày 08/06 KTP Kotka vs FC Haka [BLV CÁP] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1780937300-0-0-10adaf263063698e185037c9df2f12d6",
+        "time": "2026-06-08 16:00:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "21h00 ngày 08/06 ZED FC vs Wadi Degla SC [BLV CÒ] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1780937240-0-0-43debba5ebf9711e181e257d883daddf",
+        "time": "2026-06-08 16:00:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h30 ngày 08/06 KTP Kotka vs FC Haka [DECO] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1780937240-0-0-10c20c913ec4ad7ba8ea90ebdba5c406",
+        "time": "2026-06-08 16:00:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h30 ngày 08/06 KTP Kotka vs FC Haka [BLV HÚP] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1780937240-0-0-501eb3c5216f1821be7b08b3c3d973a2",
+        "time": "2026-06-08 16:00:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "21h00 ngày 08/06 ZED FC vs Wadi Degla SC [HÀ DUY KIÊN] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1780937300-0-0-31e7ad3fa7d0128cb66279697adf0ddc",
+        "time": "2026-06-08 16:00:46"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780922480-0-0-557b07ff94e0dba473db44a029ec311f",
-        "time": "2026-06-08 11:59:20"
+        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780937300-0-0-574804608638c17547b19e31c786b306",
+        "time": "2026-06-08 16:00:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [BLV HENRY] (Socolive) m3u8",
+        "title": "VTBUL: Unics Kazan vs CSKA Moscow [KING] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1780922480-0-0-05efa153ce1111040bfa7c42722465fd",
-        "time": "2026-06-08 11:59:20"
+        "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1780937300-0-0-6503a37d889552b64185fd6f814933da",
+        "time": "2026-06-08 16:00:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [CHAN SENA] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780922480-0-0-0119ec54853c651106cb4ead15d5a1b1",
-        "time": "2026-06-08 11:59:20"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [BRIAN] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1780922480-0-0-4990a3455e66aca403f00ef01db0291c",
-        "time": "2026-06-08 11:59:20"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [KING] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1780922480-0-0-6297f05ed9b20214a661da226ecae469",
-        "time": "2026-06-08 11:59:20"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [A CHÈ] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780922480-0-0-fa013c1727faeecc58162446d00107a8",
-        "time": "2026-06-08 11:59:20"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [BRIAN] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780922480-0-0-d2f79298eb661d531557481553504591",
-        "time": "2026-06-08 11:59:20"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [A CHÈ] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780922480-0-0-25c094b67bc1a560ba957ccd556f5a6b",
-        "time": "2026-06-08 11:59:20"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [HUNTER] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1780922480-0-0-2e6190b937ddbaa556654058c2db8ef1",
-        "time": "2026-06-08 11:59:20"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - Denmark vs Ukraine [Sóc mèo méo meo] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1780923200-0-0-12311abaed9835dd73763f429696f082",
-        "time": "2026-06-08 11:59:20"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 08/06 Việt Nam vs Indonesia (Hội Quán) FHD",
+        "title": "23h30 08/06 Venezuela U20 vs Portugal U20 (Hội Quán) FHD",
         "logo": "",
         "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8",
-        "time": "2026-06-08 11:59:20"
+        "time": "2026-06-08 16:00:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "16h00 08/06 Anyone's Legend vs Bilibili Gaming (Hội Quán) SD",
+        "title": "21h00 08/06 Tommy Paul vs Giovanni Mpetshi Perricard (Hội Quán) FHD",
         "logo": "",
-        "url": "https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-08 11:59:20"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: AFF U19 - Indonesia U19 vs Vietnam U19 [Sóc trèo cây ngô đồng] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1780923200-0-0-a95a14bda6ec0a8e59af77230f9282d9",
-        "time": "2026-06-08 11:59:20"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: AFF U19 - Indonesia U19 vs Vietnam U19 [Sóc trèo cây ngô đồng] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1780923200-0-0-1e53cac30834f3bd60252f35230aad29",
-        "time": "2026-06-08 11:59:20"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - Portugal vs Chile [Sóc nhàm nhang nhồ] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1780922840-0-0-0d75c20fe029eb155d919ffd336edd1e",
-        "time": "2026-06-08 11:59:20"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - Portugal vs Chile [Sóc nhàm nhang nhồ] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1780922840-0-0-d955b5bbb00f3983bcf5db446fa3272d",
-        "time": "2026-06-08 11:59:20"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 08/06 Việt Nam vs Indonesia (Hội Quán) SD",
-        "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-08 11:59:20"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "19h00 08/06 Gamingccc (Hội Quán) SD",
-        "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-08 11:59:20"
+        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8",
+        "time": "2026-06-08 16:00:46"
     },
     {
         "group": "FPT SPORT",
         "title": "19h00 08/06 Gamingccc (Hội Quán) FHD",
         "logo": "",
         "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8",
-        "time": "2026-06-08 11:59:20"
+        "time": "2026-06-08 16:00:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - Argentina vs Honduras [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8",
+        "title": "19h00 08/06 Gamingccc (Hội Quán) SD",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1780923200-0-0-c25887051075ebcd9f85e14f7561e0e1",
-        "time": "2026-06-08 11:59:20"
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-08 16:00:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - USA vs Germany [Sóc đau cổ vai gáy] (Socolive) m3u8",
+        "title": "TOUT: Venezuela U20 vs Portugal U20 [CƠM CHÁY] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1780922840-0-0-befa15d7071a369b02b5c865233e1f80",
-        "time": "2026-06-08 11:59:20"
+        "url": "https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1780937600-0-0-d19e9e17bcb90922e84111b298f126d6",
+        "time": "2026-06-08 16:00:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - USA vs Germany [Sóc đau cổ vai gáy] (Socolive) hdM3u8",
+        "title": "21h00 08/06 Masr vs Wadi Degla (Hội Quán) FHD",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1780922840-0-0-de99b74a08c40fa9b3687054c3c2b744",
-        "time": "2026-06-08 11:59:20"
+        "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8",
+        "time": "2026-06-08 16:00:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "16h00 08/06 Anyone's Legend vs Bilibili Gaming (Hội Quán) FHD",
+        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8",
-        "time": "2026-06-08 11:59:20"
+        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780937300-0-0-47fb63017d95cbeec2265df9e1807483",
+        "time": "2026-06-08 16:00:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: TOUT - China U19 vs Tunisia U23 [Sóc trong rừng xà nu] (Socolive) m3u8",
+        "title": "21h00 08/06 Masr vs Wadi Degla (Hội Quán) SD",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1780923200-0-0-30c0377c13503f514da4bab1f319fc2d",
-        "time": "2026-06-08 11:59:20"
+        "url": "https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-08 16:00:46"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: TOUT - China U19 vs Tunisia U23 [Sóc trong rừng xà nu] (Socolive) hdM3u8",
+        "title": "23h30 08/06 Venezuela U20 vs Portugal U20 (Hội Quán) SD",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1780923200-0-0-e7f1711144a52a5c5d8bd3969ba2f114",
-        "time": "2026-06-08 11:59:20"
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-08 16:00:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "21h00 08/06 Tommy Paul vs Giovanni Mpetshi Perricard (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-08 16:00:46"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "TOUT: Venezuela U20 vs Portugal U20 [CƠM CHÁY] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1780937600-0-0-1cefd33982b809f0b179f912ca2384eb",
+        "time": "2026-06-08 16:00:46"
     }
 ]
