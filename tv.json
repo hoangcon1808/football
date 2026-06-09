@@ -1,6 +1,13 @@
 [
     {
         "group": "HỘI QUÁN",
+        "title": "20:00 | Cape Town City vs Magesi",
+        "logo": "https://media.api-sports.io/football/teams/2697.png",
+        "url": "https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-10 20:00:00"
+    },
+    {
+        "group": "HỘI QUÁN",
         "title": "05:00 | Nautico Recife vs Fortaleza EC",
         "logo": "https://media.api-sports.io/football/teams/755.png",
         "url": "https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8",
@@ -8,10 +15,10 @@
     },
     {
         "group": "CA LA TV",
-        "title": "20:30 | Nueve de Octubre vs FC Cuniburo",
-        "logo": "https://img.colatv88xd.cc/football/team/9b047f2c9480200eb8bfef52d34852a6.png!w80",
-        "url": "https://live05.msdht.app/live/99121525.m3u8",
-        "time": "2026-06-09 20:30:00"
+        "title": "23:00 | Ả Rập Saudi vs Senegal",
+        "logo": "https://img.colatv88xd.cc/football/team/cf372cbe6eae54c6a6dfb3ebbcdc3404.png!w80",
+        "url": "https://live05.msdht.app/live/90725470.m3u8",
+        "time": "2026-06-09 23:00:00"
     },
     {
         "group": "CA LA TV",
@@ -21,101 +28,416 @@
         "time": "2026-06-09 22:00:00"
     },
     {
+        "group": "CA LA TV",
+        "title": "23:00 | Chicago Sky vs Atlanta Dream",
+        "logo": "https://img.colatv88xd.cc/basketball/team/96c0adc8a98bb466bfa539f11ce8ae04.png!w80",
+        "url": "https://live05.msdht.app/live/19919577.m3u8",
+        "time": "2026-06-09 23:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "00:00 | San Antonio vs LDU Portoviejo",
+        "logo": "https://img.colatv88xd.cc/football/team/a610baafc567c695c4be20d8a961f68e.png!w80",
+        "url": "https://live05.msdht.app/live/99121525.m3u8",
+        "time": "2026-06-10 00:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "00:00 | Minnesota Lynx vs Dallas Wings",
+        "logo": "https://img.colatv88xd.cc/basketball/team/49fd2772263eaccfe78608a04e5b6f4c.png!w80",
+        "url": "https://live05.msdht.app/live/87379114.m3u8",
+        "time": "2026-06-10 00:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "00:00 | Birmingham vs Corpus Christi FC",
+        "logo": "https://img.colatv88xd.cc/football/team/c3c17ec375bc22a7138c863ee91a3858.png!w80",
+        "url": "https://live05.msdht.app/live/87547578.m3u8",
+        "time": "2026-06-10 00:00:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h00 ngày 10/06 Ponte Preta vs Cuiaba (Lương Sơn) BLV PELE m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 10/06 Saudi Arabia vs Senegal (Lương Sơn) BLV VÕ TÒNG m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h00 ngày 10/06 Nautico (PE) vs Fortaleza (Lương Sơn) BLV SHIN m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
         "group": "FPT SPORT",
         "title": "05h00 ngày 10/06 Ponte Preta vs Cuiaba [XUÂN SON] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=4acceadd35b593db86688b9e87dd2602&txTime=6a28de48",
-        "time": "2026-06-09 22:03:02"
+        "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=6d5eb58a86355bc8ff33ea383e8e204c&txTime=6a28f360",
+        "time": "2026-06-09 23:37:23"
     },
     {
         "group": "FPT SPORT",
         "title": "05h00 ngày 10/06 Ponte Preta vs Cuiaba [XUÂN SON] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=eb2d756f354c8ea9c2400c3457bff655&txTime=6a28de48",
-        "time": "2026-06-09 22:03:02"
+        "url": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=6f4b6d8324f1e2eed4e969c24d23daef&txTime=6a28f360",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 10/06 Ecuador Women vs Argentina Women [BLV VOI] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1781050640-0-0-76438ffe0dd2f289878d0a73fde894e5",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 10/06 Chicago Sky W vs Atlanta Dream W [BRIAN] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1781050640-0-0-6a6835aed24c17035da716e15906ed52",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h00 ngày 10/06 Nautico (PE) vs Fortaleza [HÀ DUY KIÊN] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1781051000-0-0-5e127ca73bd9a314e3d70a2b18bc03ab",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h00 ngày 10/06 Ponte Preta vs Cuiaba [BLV ALEX] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1781050640-0-0-0ce2d83d4ddbe3dad98f32956005b772",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 10/06 Chicago Sky W vs Atlanta Dream W [BRIAN] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1781050640-0-0-d7c19989b4beb8b25cd9b5456108bbbb",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h00 ngày 10/06 Ponte Preta vs Cuiaba [BLV NẤM] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1781050640-0-0-85fa50f1f3bf9dc8efae38efa275d0e7",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 10/06 Saudi Arabia vs Senegal [BLV TOMIA] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1781051000-0-0-5cb473772de1393473195a361b5797c9",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 10/06 Uruguay Women vs Venezuela Women [BLV PICK] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1781050640-0-0-80f6c1750b6afed507fc6d5bfeaf5eee",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h00 ngày 10/06 Nautico (PE) vs Fortaleza [HÀ DUY KIÊN] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1781051000-0-0-d8341010245bc9bbf89d250b74c9735b",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h00 ngày 10/06 Nautico (PE) vs Fortaleza [BLV YONE] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1781051000-0-0-2083dd2a96c1ddee1a2ed698eaebeda4",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 10/06 Atletico Ottawa vs Supra Du Quebec [BLV A TÚ] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1781051000-0-0-e395b0aededbe2c3916af320c51e262b",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h00 ngày 10/06 Nautico (PE) vs Fortaleza [BLV YONE] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1781051000-0-0-4aa411f5bb84620ae72f49c87dfccf84",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 10/06 Paraguay Women vs Colombia Women [BEN 10] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1781050640-0-0-58a51780cc63a9aba54bc9d1ee71803c",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h00 ngày 10/06 Ponte Preta vs Cuiaba [BLV ALEX] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1781050640-0-0-3142ff92d04c5a0515e97de13327e0dd",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 10/06 Saudi Arabia vs Senegal [BLV TOMIA] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1781051000-0-0-c3fa4a628ae431cea4a4b774854dd88d",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 10/06 Peru Women vs Bolivia Women [TRÀ ĐÁ] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1781051000-0-0-c4bf16f557aa2a83ba9d5699c9ef91f9",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 10/06 Saudi Arabia vs Senegal [BLV CÒ] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1781051360-0-0-7ebefc4625dcab43a517be55ff9db6e0",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 10/06 Ecuador Women vs Argentina Women [BLV VOI] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1781050640-0-0-4c3b86dc8de8285784f3fb2365ca31ab",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h00 ngày 10/06 Ponte Preta vs Cuiaba [BLV NẤM] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1781050640-0-0-f2c4caee86f9e0bcffe8a3d2cbb193bd",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 10/06 Atletico Ottawa vs Supra Du Quebec [BLV A TÚ] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1781051000-0-0-b3676da3f8fbf0c28c5d50379b4bf7ca",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 10/06 Uruguay Women vs Venezuela Women [BLV PICK] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1781050640-0-0-bf8b44f447964980283adfbf643a1504",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 10/06 Uruguay Women vs Venezuela Women [TƯ MÃ Ý] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-611377_lsd.m3u8?auth_key=1781051000-0-0-f316886a8a44e87964a92a7059fb4a82",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 10/06 Atletico Ottawa vs Supra Du Quebec [QUÂN JK] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1781051360-0-0-2f7d295679512a349bda59c9934feae0",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 10/06 Atletico Ottawa vs Supra Du Quebec [BLV RÔSI] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=7b07446b99e8b46dd63585c16d2e6557&txTime=6a28f630",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 10/06 Atletico Ottawa vs Supra Du Quebec [BLV RÔSI] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=ee9553b2b8cc05b62850f5e70488275d&txTime=6a28f630",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 10/06 Uruguay Women vs Venezuela Women [TƯ MÃ Ý] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1781051000-0-0-a8e1386a489b3c70050a05afdef46b59",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 10/06 Ecuador Women vs Argentina Women [BLV GIÓ] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1781051360-0-0-31a7e88f2d6874c6e4b6e82a9ab7e417",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 10/06 Peru Women vs Bolivia Women [BLV LUCAS] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1781051000-0-0-e25f0913fef90566c8fdd3b2f84ff1f4",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 10/06 Atletico Ottawa vs Supra Du Quebec [QUÂN JK] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1781051360-0-0-772c1e85d6d0631f9d6e8bd500f37ac1",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 10/06 Peru Women vs Bolivia Women [TRÀ ĐÁ] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1781051000-0-0-a40e9577a1598fd7540cacc47a53d58f",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 10/06 Saudi Arabia vs Senegal [BLV CÒ] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1781051360-0-0-8a939d0e346dd88a60a1495d009a1124",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 10/06 Saudi Arabia vs Senegal [BLV PEWPEW] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1781051360-0-0-c12538ea76bd4d6bd18cbde72052a9c5",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 10/06 Peru Women vs Bolivia Women [BLV LUCAS] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1781051000-0-0-4da00ba91dee5adfbd3287c425c9378f",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 10/06 Saudi Arabia vs Senegal [BLV CUỘI] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1781051360-0-0-5d207b0fa9701d2d6fd416c0eb64439a",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 10/06 Saudi Arabia vs Senegal [CÔNG CHẤT] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1781051360-0-0-95a60cd26f7a16793d544ef099a773c3",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 10/06 Saudi Arabia vs Senegal [BLV PEWPEW] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1781051360-0-0-7086a3cdbc923bde08c88f06cc0e8b6f",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 10/06 Atletico Ottawa vs Supra Du Quebec [A PÁO] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1781051360-0-0-94c0e430fedd78c713550d03cb2b531e",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 10/06 Chicago Sky W vs Atlanta Dream W [A CHÈ] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1781051360-0-0-bda1425da0db4f89fa67f0086fcba7ab",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 10/06 Ecuador Women vs Argentina Women [BLV GIÓ] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1781051360-0-0-6d56f7ebc43b2c557f5d3d1853e03531",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 10/06 Saudi Arabia vs Senegal [BLV CUỘI] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1781051360-0-0-260955fa263df314620aacb32db779e4",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 10/06 Paraguay Women vs Colombia Women [BEN 10] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1781050640-0-0-44bf7471888c1765d35a15e4392c5cb6",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781051360-0-0-9e0bb4f85a3bee1e64e8d460132544a9",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 10/06 Atletico Ottawa vs Supra Du Quebec [A PÁO] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1781051360-0-0-c42bd85231a2eb34d7142c8100342765",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 10/06 Saudi Arabia vs Senegal [CÔNG CHẤT] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1781051360-0-0-44c75fa29f082bb7fe90dfab7d571dfe",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781051360-0-0-4350bc9625c2b0efac068f23900ea5a1",
+        "time": "2026-06-09 23:37:23"
     },
     {
         "group": "FPT SPORT",
         "title": "05h00 10/06 Nautico Recife vs Fortaleza EC (Hội Quán) SD",
         "logo": "",
         "url": "https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-09 22:03:02"
+        "time": "2026-06-09 23:37:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "05h00 ngày 10/06 Ponte Preta vs Cuiaba [BLV ALEX] (Socolive) hdM3u8",
+        "title": "06h00 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) FHD",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1781045240-0-0-66bf7b42d2fa9493411e62a9000d49fc",
-        "time": "2026-06-09 22:03:02"
+        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8",
+        "time": "2026-06-09 23:37:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 10/06 Chicago Sky W vs Atlanta Dream W [A CHÈ] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1781051360-0-0-6bc2c4080af39b63c169aad0a8c899e2",
+        "time": "2026-06-09 23:37:23"
     },
     {
         "group": "FPT SPORT",
         "title": "05h00 10/06 Nautico Recife vs Fortaleza EC (Hội Quán) FHD",
         "logo": "",
         "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8",
-        "time": "2026-06-09 22:03:02"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 10/06 Ponte Preta vs Cuiaba [BLV NẤM] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1781045240-0-0-6f820c4d1b066d7d500cd022ddb86d1f",
-        "time": "2026-06-09 22:03:02"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781044880-0-0-8d70b337ccf30e9176285dd0e96b4739",
-        "time": "2026-06-09 22:03:02"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 10/06 Ponte Preta vs Cuiaba [BLV NẤM] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1781045240-0-0-4fdad1ae5746370695586cdba4869a1e",
-        "time": "2026-06-09 22:03:02"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 10/06 Nautico (PE) vs Fortaleza [BLV YONE] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1781045600-0-0-196c172d3e98802d727ae9b2e2d91aa5",
-        "time": "2026-06-09 22:03:02"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 10/06 Nautico (PE) vs Fortaleza [HÀ DUY KIÊN] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1781045600-0-0-0ff9a4137026841ba9aff02f71d7f4e1",
-        "time": "2026-06-09 22:03:02"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 10/06 Nautico (PE) vs Fortaleza [HÀ DUY KIÊN] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1781045600-0-0-fe73b14b0abf5f7cd2d5c6afa74c53be",
-        "time": "2026-06-09 22:03:02"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 10/06 Ponte Preta vs Cuiaba [BLV ALEX] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1781045240-0-0-cd8e1478a3aa44dc588288c08dbe8735",
-        "time": "2026-06-09 22:03:02"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 10/06 Nautico (PE) vs Fortaleza [BLV YONE] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1781045600-0-0-0658b49e26f9ca72df0246c9c8380610",
-        "time": "2026-06-09 22:03:02"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781044880-0-0-b8ddcd673db76c2226d71f8fd71a38e2",
-        "time": "2026-06-09 22:03:02"
+        "time": "2026-06-09 23:37:23"
     }
 ]
