@@ -1,17 +1,17 @@
 [
     {
         "group": "HỘI QUÁN",
-        "title": "20:00 | Cape Town City vs Magesi",
-        "logo": "https://media.api-sports.io/football/teams/2697.png",
-        "url": "https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8",
-        "time": "2026-06-10 20:00:00"
+        "title": "23:00 | Falu BS vs Gefle IF",
+        "logo": "https://media.api-sports.io/football/teams/22932.png",
+        "url": "https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-10 23:00:00"
     },
     {
         "group": "HỘI QUÁN",
-        "title": "03:00 | Bolivia vs Algeria",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Escudo_de_Bolivia.svg",
-        "url": "https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8",
-        "time": "2026-06-11 03:00:00"
+        "title": "07:30 | San Antonio Spurs - New York Knicks",
+        "logo": "https://upload.wikimedia.org/wikipedia/vi/e/ec/San_Antonio_Spurs_logo.png",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-11 07:30:00"
     },
     {
         "group": "HỘI QUÁN",
@@ -22,156 +22,366 @@
     },
     {
         "group": "VÒNG CẤM TV",
-        "title": "Cuba vs Ba lan",
-        "logo": "https://static.flashscore.com/res/image/data/AmSqkKjl-hIzfuNSD.png",
-        "url": "https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8",
-        "time": "2026-06-10 06:05:59"
+        "title": "Trung Quốc – Slovenia",
+        "logo": "https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_chn",
+        "url": "https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8",
+        "time": "2026-06-10 10:19:35"
     },
     {
         "group": "FPT SPORT",
-        "title": "11h00 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) FHD",
+        "title": "16h30 ngày 10/06 Sydney Olympic vs SD Raiders FC (Lương Sơn) BLV PELE m3u",
         "logo": "",
-        "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8",
-        "time": "2026-06-10 06:06:00"
+        "url": "https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526",
+        "time": "2026-06-10 10:19:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "06h00 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) SD",
+        "title": "16h30 ngày 10/06 Sydney Olympic vs SD Raiders FC (Lương Sơn) BLV YẾN THANH m3u",
         "logo": "",
-        "url": "https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-10 06:06:00"
+        "url": "https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582",
+        "time": "2026-06-10 10:19:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "11h00 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) FHD",
+        "title": "16h45 ngày 10/06 Cumberland United FC vs Adelaide Cobras FC (Lương Sơn) BLV LƯU BỊ m3u",
         "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8",
-        "time": "2026-06-10 06:06:00"
+        "url": "https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1",
+        "time": "2026-06-10 10:19:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "12h00 10/06 Cuba vs Ba Lan (Hội Quán) FHD",
+        "title": "16h45 ngày 10/06 Cumberland United FC vs Adelaide Cobras FC (Lương Sơn) BLV PHI HỔ m3u",
         "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8",
-        "time": "2026-06-10 06:06:00"
+        "url": "https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f",
+        "time": "2026-06-10 10:19:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "11h00 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) SD",
+        "title": "16h30 ngày 10/06 OConnor Knights vs Cooma Tigers (Lương Sơn) BLV FERNANDO m3u",
         "logo": "",
-        "url": "https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-10 06:06:00"
+        "url": "https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb",
+        "time": "2026-06-10 10:19:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "06h00 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) FHD",
+        "title": "16h30 ngày 10/06 OConnor Knights vs Cooma Tigers (Lương Sơn) BLV LÝ ỨNG m3u",
         "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8",
-        "time": "2026-06-10 06:06:00"
+        "url": "https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d",
+        "time": "2026-06-10 10:19:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "11h00 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) SD",
+        "title": "17h00 ngày 10/06 Lake Macquarie (W) vs Charlestown Azzuri (W) (Lương Sơn) BLV LÝ QUỲ m3u",
         "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-10 06:06:00"
+        "url": "https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3",
+        "time": "2026-06-10 10:19:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - Japan W vs South Africa W [Sóc mèo méo meo] (Socolive) hdM3u8",
+        "title": "16h30 ngày 10/06 Tuggeranong United vs Monaro Panthers (Lương Sơn) BLV TÔN LẬP m3u",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1781074400-0-0-b14ba41a61255851aa2b5281fa3e4233",
-        "time": "2026-06-10 06:06:00"
+        "url": "https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df",
+        "time": "2026-06-10 10:19:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
+        "title": "17h00 ngày 10/06 Lake Macquarie (W) vs Charlestown Azzuri (W) (Lương Sơn) BLV SHIN m3u",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781074400-0-0-9f12670241e17ac2ce1477cb08d9e499",
-        "time": "2026-06-10 06:06:00"
+        "url": "https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587",
+        "time": "2026-06-10 10:19:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - Peru vs Spain [Sóc nhàm nhang nhồ] (Socolive) m3u8",
+        "title": "16h30 ngày 10/06 Canberra FC vs Queanbeyan City [BLV CÒ] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1781074400-0-0-ceed7305204a0a74d2645e6b912f8b92",
-        "time": "2026-06-10 06:06:00"
+        "url": "https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1781089160-0-0-a1cd9c5df439d2caaf7e89328cdb2068",
+        "time": "2026-06-10 10:19:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - Peru vs Spain [Sóc nhàm nhang nhồ] (Socolive) hdM3u8",
+        "title": "16h30 ngày 10/06 Canberra FC vs Queanbeyan City [BLV CÒ] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1781074400-0-0-d2526f5e3fef42edcc66cd3026374bd0",
-        "time": "2026-06-10 06:06:00"
+        "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1781089160-0-0-9f9ef80bca40b2179e336d0be858c3e1",
+        "time": "2026-06-10 10:19:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - Australia w vs Mexico w [Sóc đau cổ vai gáy] (Socolive) m3u8",
+        "title": "16h30 ngày 10/06 Sydney Olympic vs SD Raiders FC [A PÁO] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1781074400-0-0-4fb873ed036f023ee0b304ab4aa37184",
-        "time": "2026-06-10 06:06:00"
+        "url": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1781089160-0-0-6cbe65f1f37193529339feeb3597f7b0",
+        "time": "2026-06-10 10:19:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - Australia w vs Mexico w [Sóc đau cổ vai gáy] (Socolive) hdM3u8",
+        "title": "16h30 ngày 10/06 Sydney Olympic vs SD Raiders FC [A PÁO] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1781074400-0-0-b5ce366b8e8eae33104f15294ace2798",
-        "time": "2026-06-10 06:06:00"
+        "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1781089160-0-0-1aac268caa9a8309b429af64dcba773a",
+        "time": "2026-06-10 10:19:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - Hungary vs Kazakhstan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8",
+        "title": "16h30 ngày 10/06 Tuggeranong United vs Monaro Panthers [CHÍ PHÈO] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1781074400-0-0-86cf4919066029144fd15f0b80b09411",
-        "time": "2026-06-10 06:06:00"
+        "url": "https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1781089160-0-0-3dc92c94f10dd8ccb28d06a6bee0f45a",
+        "time": "2026-06-10 10:19:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - Democratic Republic of the Congo vs Chile [Sóc trèo cây ngô đồng] (Socolive) m3u8",
+        "title": "16h30 ngày 10/06 Tuggeranong United vs Monaro Panthers [CHÍ PHÈO] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1781074400-0-0-d5098d4d67631c7c2b328609a29d2906",
-        "time": "2026-06-10 06:06:00"
+        "url": "https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1781089160-0-0-ac884f1b330d71a8cdea0d937fbc6afa",
+        "time": "2026-06-10 10:19:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - Hungary vs Kazakhstan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8",
+        "title": "18h00 ngày 10/06 Fubon Braves vs Taoyuan Pauian Pilots [HUNTER] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1781074400-0-0-a20a3283b85ad185859d1ee1d8996643",
-        "time": "2026-06-10 06:06:00"
+        "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1781089160-0-0-50d2cef40ba65695a19df3deeda74218",
+        "time": "2026-06-10 10:19:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - Democratic Republic of the Congo vs Chile [Sóc trèo cây ngô đồng] (Socolive) hdM3u8",
+        "title": "18h00 ngày 10/06 Fubon Braves vs Taoyuan Pauian Pilots [HUNTER] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1781074400-0-0-f99d7a29341d39b05d36ad43ff20574e",
-        "time": "2026-06-10 06:06:00"
+        "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1781089160-0-0-f4dee300cc1e345ffb0d49555c39e94b",
+        "time": "2026-06-10 10:19:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - France vs Northern Ireland [Sóc trong rừng xà nu] (Socolive) m3u8",
+        "title": "16h30 ngày 10/06 Sydney Olympic vs SD Raiders FC [BLV FIREMAN] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1781074400-0-0-4dfd2d05affbeda9a1d47503f997fe9f",
-        "time": "2026-06-10 06:06:00"
+        "url": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1781089520-0-0-e14caeda5afa7935a9e8617f02bc969c",
+        "time": "2026-06-10 10:19:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - France vs Northern Ireland [Sóc trong rừng xà nu] (Socolive) hdM3u8",
+        "title": "16h30 ngày 10/06 OConnor Knights vs Cooma Tigers [TRÀ ĐÁ] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1781074400-0-0-f87d4aa70fd4cff3a3311c11be0adc33",
-        "time": "2026-06-10 06:06:00"
+        "url": "https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1781089880-0-0-15ee3b35d8c1db0e07cfdce9d829d91a",
+        "time": "2026-06-10 10:19:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "16h30 ngày 10/06 OConnor Knights vs Cooma Tigers [TRÀ ĐÁ] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1781089880-0-0-843ffa6a9fb71165c6b7a425922f8e4f",
+        "time": "2026-06-10 10:19:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "16h30 ngày 10/06 Belconnen United vs Canberra White Eagles [BLV VOI] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1781089520-0-0-d0d887a9c533e1a02e8fadcd896719e1",
+        "time": "2026-06-10 10:19:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 10/06 Pasay Voyagers vs Valenzuela City Darkhorse [CHAN SENA] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1781089520-0-0-39623d79daae96a05ed041f68b3d0155",
+        "time": "2026-06-10 10:19:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "16h30 ngày 10/06 Sydney Olympic vs SD Raiders FC [BLV COCA] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1781089520-0-0-e691257654bcfb7ea67be73b5d02af27",
+        "time": "2026-06-10 10:19:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "16h30 ngày 10/06 OConnor Knights vs Cooma Tigers [BLV LUCAS] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1781089520-0-0-3640876dcd4eb4420860700276cc9fb9",
+        "time": "2026-06-10 10:19:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "16h30 ngày 10/06 Sydney Olympic vs SD Raiders FC [BLV COCA] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781089520-0-0-6120e3c9bae9242342dfeea95135d80c",
+        "time": "2026-06-10 10:19:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "16h30 ngày 10/06 Sydney Olympic vs SD Raiders FC [BLV FIREMAN] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1781089520-0-0-ddc4c72096da762878eea81268e246cc",
+        "time": "2026-06-10 10:19:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "16h30 ngày 10/06 Belconnen United vs Canberra White Eagles [BLV VOI] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1781089520-0-0-db6e11f7dc1f97db660ac438a7209c87",
+        "time": "2026-06-10 10:19:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "16h30 ngày 10/06 OConnor Knights vs Cooma Tigers [BLV LUCAS] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1781089520-0-0-0a9f6423c572124b157f24cd981f8cd2",
+        "time": "2026-06-10 10:19:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 10/06 Pasay Voyagers vs Valenzuela City Darkhorse [CHAN SENA] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1781089520-0-0-ab5e4d58bd0cc1ec0dba5a881f2208d8",
+        "time": "2026-06-10 10:19:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "16h30 ngày 10/06 Canberra FC vs Queanbeyan City [BEN 10] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1781089880-0-0-697a0ff539311557ad4bd27d4c5c1ba4",
+        "time": "2026-06-10 10:19:37"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781074400-0-0-8546345e4ac03d13feb9e68b5853df2f",
-        "time": "2026-06-10 06:06:00"
+        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781089520-0-0-f1f84e1b9d0791648eb6c75c80b469bb",
+        "time": "2026-06-10 10:19:37"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - Japan W vs South Africa W [Sóc mèo méo meo] (Socolive) m3u8",
+        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1781074400-0-0-f6eaa5692f16ce92d5251497d113eb72",
-        "time": "2026-06-10 06:06:00"
+        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781089520-0-0-13d3889b79d59a94161372a817f2b2a6",
+        "time": "2026-06-10 10:19:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "16h30 ngày 10/06 Sydney Olympic vs SD Raiders FC [TẠ BIÊN GIỚI] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1781089880-0-0-0872eeb5b553a0df8e1f8c6320d7344e",
+        "time": "2026-06-10 10:19:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "16h30 ngày 10/06 Canberra FC vs Queanbeyan City [BEN 10] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1781089880-0-0-3e30d2ca134a50a48d3e3d3cfd00c349",
+        "time": "2026-06-10 10:19:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "16h30 ngày 10/06 Sydney Olympic vs SD Raiders FC [TẠ BIÊN GIỚI] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1781089880-0-0-009890b9114fb7e03e752898c8fbb914",
+        "time": "2026-06-10 10:19:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "16h30 ngày 10/06 Canberra FC vs Queanbeyan City [BLV GÔN] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1781089880-0-0-9f88ceaec0041e3ca7b679d23f680866",
+        "time": "2026-06-10 10:19:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "15h00 10/06 Trung Quốc vs Slovenia (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8",
+        "time": "2026-06-10 10:19:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "16h30 ngày 10/06 Canberra FC vs Queanbeyan City [BLV GÔN] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1781089880-0-0-72ec58bd62fc4e78a882e7cbc95cdc40",
+        "time": "2026-06-10 10:19:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "16h30 ngày 10/06 Canberra Olympic vs Canberra Juventus [TƯ MÃ Ý] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1781089880-0-0-fa5c229f835ed1d26f5d38397c7fa05b",
+        "time": "2026-06-10 10:19:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "16h30 ngày 10/06 Canberra Olympic vs Canberra Juventus [TƯ MÃ Ý] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-611377_lsd.m3u8?auth_key=1781089880-0-0-c96abaa08b275bc2bab52f4320fd83ff",
+        "time": "2026-06-10 10:19:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "16h30 ngày 10/06 Belconnen United vs Canberra White Eagles [BLV RYO] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1781089880-0-0-13f834ee04b1f675e8c7f1a014b1347c",
+        "time": "2026-06-10 10:19:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "16h30 ngày 10/06 Belconnen United vs Canberra White Eagles [BLV RYO] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1781089880-0-0-3a6b0bc7706e533e7b78a32544a27e67",
+        "time": "2026-06-10 10:19:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 10/06 Pasay Voyagers vs Valenzuela City Darkhorse [BLV HENRY] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1781089880-0-0-c265384432f308aed4a3dd82aff97fce",
+        "time": "2026-06-10 10:19:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 10/06 Pasay Voyagers vs Valenzuela City Darkhorse [BLV HENRY] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1781089880-0-0-b9cb8c0dddcb7d5ff7f72dbf85af3ef4",
+        "time": "2026-06-10 10:19:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "16h30 ngày 10/06 Belconnen United vs Canberra White Eagles [BLV A TÚ] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1781089880-0-0-f4a9c2dbb23d38da1a787a15541dfde7",
+        "time": "2026-06-10 10:19:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "15h00 10/06 Trung Quốc vs Slovenia (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-10 10:19:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "16h00 10/06 Mattia Bellucci vs Yannick Hanfmann (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-10 10:19:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "16h00 10/06 Anastasia Potapova vs Suzan Lamens (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8",
+        "time": "2026-06-10 10:19:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "16h00 10/06 Anastasia Potapova vs Suzan Lamens (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-10 10:19:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "16h00 10/06 Mattia Bellucci vs Yannick Hanfmann (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8",
+        "time": "2026-06-10 10:19:37"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "16h30 ngày 10/06 Belconnen United vs Canberra White Eagles [BLV A TÚ] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1781089880-0-0-003a3bd6f7dc5d5ef032e04b44a87a09",
+        "time": "2026-06-10 10:19:37"
     }
 ]
