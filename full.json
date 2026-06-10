@@ -15,17 +15,17 @@
     },
     {
         "group": "HỘI QUÁN",
-        "title": "02:45 | Portugal vs Nigeria",
-        "logo": "https://media.api-sports.io/football/teams/27.png",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8",
-        "time": "2026-06-11 02:45:00"
+        "title": "18:00 | Nam Dinh vs Ho Chi Minh",
+        "logo": "https://media.api-sports.io/football/teams/3674.png",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-11 18:00:00"
     },
     {
         "group": "HỘI QUÁN",
-        "title": "04:00 | England vs Costa Rica",
-        "logo": "https://media.api-sports.io/football/teams/10.png",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8",
-        "time": "2026-06-11 04:00:00"
+        "title": "18:00 | Phu Dong vs Viettel",
+        "logo": "https://upload.wikimedia.org/wikipedia/vi/3/3d/Logo_CLB_Ninh_B%C3%ACnh.png",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-11 18:00:00"
     },
     {
         "group": "HỘI QUÁN",
@@ -57,10 +57,10 @@
     },
     {
         "group": "HỘI QUÁN",
-        "title": "03:00 | Pháp vs Ý",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Ensign_of_France.svg/250px-Ensign_of_France.svg.png",
+        "title": "06:00 | Brazil vs Iran",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Brazil_%281968%E2%80%931992%29.svg/250px-Flag_of_Brazil_%281968%E2%80%931992%29.svg.png",
         "url": "https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8",
-        "time": "2026-06-11 03:00:00"
+        "time": "2026-06-11 06:00:00"
     },
     {
         "group": "HỘI QUÁN",
@@ -99,80 +99,66 @@
     },
     {
         "group": "VÒNG CẤM TV",
-        "title": "Bồ Đào Nha vs Nigeria",
-        "logo": "https://media.api-sports.io/football/teams/27.png",
-        "url": "https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8",
-        "time": "2026-06-10 21:36:16"
-    },
-    {
-        "group": "VÒNG CẤM TV",
-        "title": "Bồ Đào Nha  vs Nigeria",
-        "logo": "https://media.api-sports.io/football/teams/27.png",
-        "url": "https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8",
-        "time": "2026-06-10 21:36:16"
-    },
-    {
-        "group": "VÒNG CẤM TV",
-        "title": "Anh vs Costa Rica",
-        "logo": "https://media.api-sports.io/football/teams/10.png",
-        "url": "https://bglive.yarncdn.live/live/bgtv_blv_lenh/playlist.m3u8",
-        "time": "2026-06-10 21:36:16"
-    },
-    {
-        "group": "VÒNG CẤM TV",
-        "title": "Pháp – Ý",
-        "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/z3JEQB3coEAGLCJBEUzQ2A_96x96.png",
-        "url": "https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8",
-        "time": "2026-06-10 21:36:16"
-    },
-    {
-        "group": "VÒNG CẤM TV",
         "title": "Brazil – Iran",
         "logo": "https://static.flashscore.com/res/image/data/OM8Y9ODa-vBKZiE2j.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8",
-        "time": "2026-06-10 21:36:16"
+        "time": "2026-06-10 23:13:03"
+    },
+    {
+        "group": "VÒNG CẤM TV",
+        "title": "Nam ĐỊnh vs CA T.P HCM",
+        "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/ro2ex3Iiq_WvEShsGVkyVg_96x96.png",
+        "url": "https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8",
+        "time": "2026-06-10 23:13:03"
+    },
+    {
+        "group": "VÒNG CẤM TV",
+        "title": "Phù Đổng Ninh Bình vs Thể Công Viettel",
+        "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/ykL8C5VrRxNAEm92JYv5Tg_96x96.png",
+        "url": "https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8",
+        "time": "2026-06-10 23:13:03"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "Aktobe Jas vs Akademiya Ontustik",
         "logo": "https://media.api-sports.io/football/teams/4546.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8",
-        "time": "2026-06-10 21:36:16"
+        "time": "2026-06-10 23:13:03"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "Tampere United vs OLS",
         "logo": "https://media.api-sports.io/football/teams/9190.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8",
-        "time": "2026-06-10 21:36:16"
+        "time": "2026-06-10 23:13:03"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "Portugal U20 vs Canada U20",
         "logo": "https://media.api-sports.io/football/teams/10299.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8",
-        "time": "2026-06-10 21:36:16"
+        "time": "2026-06-10 23:13:03"
+    },
+    {
+        "group": "VÒNG CẤM TV",
+        "title": "Mexico vs South Africa",
+        "logo": "https://media.api-sports.io/football/teams/16.png",
+        "url": "https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8",
+        "time": "2026-06-10 23:13:03"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "Mexico vs South Africa",
         "logo": "https://media.api-sports.io/football/teams/16.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8",
-        "time": "2026-06-10 21:36:16"
+        "time": "2026-06-10 23:13:03"
     },
     {
-        "group": "CA LA TV",
-        "title": "21:00 | Anh vs Costa Rica",
-        "logo": "https://img.colatv88xd.cc/football/team/ba472bb6eb37e333549df040175df856.png!w80",
-        "url": "https://live05.msdht.app/live/97312754.m3u8",
-        "time": "2026-06-10 21:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "19:45 | Bồ Đào Nha vs Nigeria",
-        "logo": "https://img.colatv88xd.cc/football/team/d92d7ec47187a662aacda2d4b4c7628e.png!w80",
-        "url": "https://live05.msdht.app/live/24561735.m3u8",
-        "time": "2026-06-10 19:45:00"
+        "group": "VÒNG CẤM TV",
+        "title": "South Korea vs Czech Republic",
+        "logo": "https://media.api-sports.io/football/teams/17.png",
+        "url": "https://bglive.yarncdn.live/live/bgtv_blv_lenh/playlist.m3u8",
+        "time": "2026-06-10 23:13:03"
     },
     {
         "group": "CA LA TV",
@@ -246,6 +232,13 @@
     },
     {
         "group": "CA LA TV",
+        "title": "11:00 | Nam Định vs Thành phố Hồ Chí Minh",
+        "logo": "https://img.colatv88xd.cc/football/team/bc5db4dd418cb566a4475649876b55bb.png!w80",
+        "url": "https://live05.msdht.app/live/24561735.m3u8",
+        "time": "2026-06-11 11:00:00"
+    },
+    {
+        "group": "CA LA TV",
         "title": "11:30 | Venezuela U20 vs Nhật Bản U19",
         "logo": "https://img.colatv88xd.cc/football/team/1497b622f19bff76e70da1113805e94e.png!w80",
         "url": "https://live05.msdht.app/live/90725470.m3u8",
@@ -267,6 +260,13 @@
     },
     {
         "group": "CA LA TV",
+        "title": "19:00 | Mexico vs Nam Phi",
+        "logo": "https://img.colatv88xd.cc/football/team/3653cce234494bfbd33e077f4a028f66.png!w80",
+        "url": "https://live05.msdht.app/live/97312754.m3u8",
+        "time": "2026-06-11 19:00:00"
+    },
+    {
+        "group": "CA LA TV",
         "title": "09:30 | CLB Manly United vs Sydney Utd",
         "logo": "https://img.colatv88xd.cc/football/team/0c6ea7bc3792dac98ed3378cd2865c0a.png!w80",
         "url": "https://live05.msdht.app/live/43612277.m3u8",
@@ -274,856 +274,1066 @@
     },
     {
         "group": "FPT SPORT",
-        "title": "04h00 ngày 11/06 England vs Costa Rica (Lương Sơn) BLV QUAN VŨ m3u",
+        "title": "06h00 ngày 11/06 Goias vs Gremio Novorizontino (Lương Sơn) BLV PELE m3u",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7",
-        "time": "2026-06-10 21:36:18"
+        "url": "https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526",
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h00 ngày 11/06 England vs Costa Rica (Lương Sơn) BLV QUAN VŨ flv",
+        "title": "06h00 ngày 11/06 Goias vs Gremio Novorizontino (Lương Sơn) BLV PELE flv",
         "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7",
-        "time": "2026-06-10 21:36:18"
+        "url": "https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526",
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h00 ngày 11/06 England vs Costa Rica (Lương Sơn) BLV TRIỆU TỬ LONG m3u",
+        "title": "06h00 ngày 11/06 Ceara vs Avai FC (Lương Sơn) BLV VÕ TÒNG m3u",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070",
-        "time": "2026-06-10 21:36:18"
+        "url": "https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299",
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h00 ngày 11/06 England vs Costa Rica (Lương Sơn) BLV TRIỆU TỬ LONG flv",
+        "title": "06h00 ngày 11/06 Ceara vs Avai FC (Lương Sơn) BLV VÕ TÒNG flv",
         "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "04h00 ngày 11/06 England vs Costa Rica (Lương Sơn) BLV HEINEKEN m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "04h00 ngày 11/06 England vs Costa Rica (Lương Sơn) BLV HEINEKEN flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/HEINEKEN.flv?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h45 ngày 11/06 Portugal vs Nigeria (Lương Sơn) BLV LỮ BỐ m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h45 ngày 11/06 Portugal vs Nigeria (Lương Sơn) BLV LỮ BỐ flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h45 ngày 11/06 Portugal vs Nigeria (Lương Sơn) BLV TÂY MÔN KHÁNH m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h45 ngày 11/06 Portugal vs Nigeria (Lương Sơn) BLV TÂY MÔN KHÁNH flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da",
-        "time": "2026-06-10 21:36:18"
+        "url": "https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299",
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8",
-        "time": "2026-06-10 21:36:18"
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 UNSW FC Women vs University of Sydney Women (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/8988f3aa5ce2f85d4c50a0bc65d9d998/playlist.m3u8",
-        "time": "2026-06-10 21:36:18"
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Newcastle Olympic FC Reserves vs Charlestown Azzurri Reserves (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/6f115b2fe383bc3710a61f46cc1b22f9/playlist.m3u8",
-        "time": "2026-06-10 21:36:18"
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "07h10 ngày 23/05 Boston Legacy W vs Seattle Reign (W) (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8",
-        "time": "2026-06-10 21:36:18"
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Mexico vs Ghana (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8",
-        "time": "2026-06-10 21:36:18"
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h30 ngày 11/06 Serbia vs Argentina (Chuối Chiên) HD1",
+        "title": "06h00 ngày 11/06 Brazil vs Iran (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
-        "time": "2026-06-10 21:36:18"
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h30 ngày 11/06 Serbia vs Argentina (Chuối Chiên) HD2",
+        "title": "06h00 ngày 11/06 Brazil vs Iran (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay.flv",
-        "time": "2026-06-10 21:36:18"
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h30 ngày 11/06 Serbia vs Argentina (Chuối Chiên) FHD1",
+        "title": "06h00 ngày 11/06 Brazil vs Iran (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
-        "time": "2026-06-10 21:36:18"
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h30 ngày 11/06 Serbia vs Argentina (Chuối Chiên) FHD2",
+        "title": "06h00 ngày 11/06 Brazil vs Iran (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv",
-        "time": "2026-06-10 21:36:18"
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h45 ngày 11/06 Portugal vs Nigeria (Chuối Chiên) HD1",
+        "title": "06h30 ngày 11/06 Canada vs Germany (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8",
-        "time": "2026-06-10 21:36:18"
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h45 ngày 11/06 Portugal vs Nigeria (Chuối Chiên) HD2",
+        "title": "06h30 ngày 11/06 Canada vs Germany (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/max.flv",
-        "time": "2026-06-10 21:36:18"
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h45 ngày 11/06 Portugal vs Nigeria (Chuối Chiên) FHD1",
+        "title": "06h30 ngày 11/06 Canada vs Germany (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8",
-        "time": "2026-06-10 21:36:18"
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h45 ngày 11/06 Portugal vs Nigeria (Chuối Chiên) FHD2",
+        "title": "06h30 ngày 11/06 Canada vs Germany (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/maxhd.flv",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h45 ngày 11/06 Portugal vs Nigeria (Chuối Chiên) HD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h45 ngày 11/06 Portugal vs Nigeria (Chuối Chiên) HD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/troctru.flv",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h45 ngày 11/06 Portugal vs Nigeria (Chuối Chiên) FHD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h45 ngày 11/06 Portugal vs Nigeria (Chuối Chiên) FHD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd.flv",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "03h00 ngày 11/06 England vs Costa Rica (Chuối Chiên) HD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "03h00 ngày 11/06 England vs Costa Rica (Chuối Chiên) HD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho.flv",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "03h00 ngày 11/06 England vs Costa Rica (Chuối Chiên) FHD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "03h00 ngày 11/06 England vs Costa Rica (Chuối Chiên) FHD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "03h00 ngày 11/06 England vs Costa Rica (Chuối Chiên) HD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "03h00 ngày 11/06 England vs Costa Rica (Chuối Chiên) HD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoito.flv",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "03h00 ngày 11/06 England vs Costa Rica (Chuối Chiên) FHD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "03h00 ngày 11/06 England vs Costa Rica (Chuối Chiên) FHD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "03h00 ngày 11/06 France vs Italy (Chuối Chiên) HD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "03h00 ngày 11/06 France vs Italy (Chuối Chiên) HD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoigia.flv",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "03h00 ngày 11/06 France vs Italy (Chuối Chiên) FHD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "03h00 ngày 11/06 France vs Italy (Chuối Chiên) FHD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv",
-        "time": "2026-06-10 21:36:18"
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "08h00 ngày 11/06 Vietnam W vs Iran W (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8",
-        "time": "2026-06-10 21:36:18"
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "08h00 ngày 11/06 Vietnam W vs Iran W (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoibo.flv",
-        "time": "2026-06-10 21:36:18"
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "08h00 ngày 11/06 Vietnam W vs Iran W (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8",
-        "time": "2026-06-10 21:36:18"
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "08h00 ngày 11/06 Vietnam W vs Iran W (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv",
-        "time": "2026-06-10 21:36:18"
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "11h00 ngày 11/06 Lebanon W vs Kazakhstan W (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitim/playlist.m3u8",
-        "time": "2026-06-10 21:36:18"
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "11h00 ngày 11/06 Lebanon W vs Kazakhstan W (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitim.flv",
-        "time": "2026-06-10 21:36:18"
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "11h00 ngày 11/06 Lebanon W vs Kazakhstan W (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitimhd/playlist.m3u8",
-        "time": "2026-06-10 21:36:18"
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "11h00 ngày 11/06 Lebanon W vs Kazakhstan W (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitimhd.flv",
-        "time": "2026-06-10 21:36:18"
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "16h00 ngày 11/06 Thailand U19 vs Cambodia U19 (Chuối Chiên) HD1",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "16h00 ngày 11/06 Thailand U19 vs Cambodia U19 (Chuối Chiên) HD2",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoigia.flv",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "16h00 ngày 11/06 Thailand U19 vs Cambodia U19 (Chuối Chiên) FHD1",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "16h00 ngày 11/06 Thailand U19 vs Cambodia U19 (Chuối Chiên) FHD2",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 11/06 Nam Dinh vs TP. Hồ Chí Minh (Chuối Chiên) HD1",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 11/06 Nam Dinh vs TP. Hồ Chí Minh (Chuối Chiên) HD2",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho.flv",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 11/06 Nam Dinh vs TP. Hồ Chí Minh (Chuối Chiên) FHD1",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 11/06 Nam Dinh vs TP. Hồ Chí Minh (Chuối Chiên) FHD2",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 11/06 Nam Dinh vs TP. Hồ Chí Minh (Chuối Chiên) HD1",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 11/06 Nam Dinh vs TP. Hồ Chí Minh (Chuối Chiên) HD2",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/troctru.flv",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 11/06 Nam Dinh vs TP. Hồ Chí Minh (Chuối Chiên) FHD1",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 11/06 Nam Dinh vs TP. Hồ Chí Minh (Chuối Chiên) FHD2",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd.flv",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 11/06 Ninh Bình FC vs Viettel (Chuối Chiên) HD1",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 11/06 Ninh Bình FC vs Viettel (Chuối Chiên) HD2",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoito.flv",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 11/06 Ninh Bình FC vs Viettel (Chuối Chiên) FHD1",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 11/06 Ninh Bình FC vs Viettel (Chuối Chiên) FHD2",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv",
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "18h00 ngày 11/06 Ninh Bình FC vs Viettel (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8",
-        "time": "2026-06-10 21:36:18"
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "18h00 ngày 11/06 Ninh Bình FC vs Viettel (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoichao.flv",
-        "time": "2026-06-10 21:36:18"
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "18h00 ngày 11/06 Ninh Bình FC vs Viettel (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
-        "time": "2026-06-10 21:36:18"
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "18h00 ngày 11/06 Ninh Bình FC vs Viettel (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv",
-        "time": "2026-06-10 21:36:18"
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "20h15 ngày 11/06 Indonesia U19 vs Australia U19 (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/ngokhong/playlist.m3u8",
-        "time": "2026-06-10 21:36:18"
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "20h15 ngày 11/06 Indonesia U19 vs Australia U19 (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/ngokhong.flv",
-        "time": "2026-06-10 21:36:18"
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "20h15 ngày 11/06 Indonesia U19 vs Australia U19 (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/ngokhonghd/playlist.m3u8",
-        "time": "2026-06-10 21:36:18"
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "20h15 ngày 11/06 Indonesia U19 vs Australia U19 (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/ngokhonghd.flv",
-        "time": "2026-06-10 21:36:18"
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "00h00 ngày 12/06 Portugal U20 vs Canada U20 (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8",
-        "time": "2026-06-10 21:36:18"
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "00h00 ngày 12/06 Portugal U20 vs Canada U20 (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv",
-        "time": "2026-06-10 21:36:18"
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "00h00 ngày 12/06 Portugal U20 vs Canada U20 (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8",
-        "time": "2026-06-10 21:36:18"
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "00h00 ngày 12/06 Portugal U20 vs Canada U20 (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv",
-        "time": "2026-06-10 21:36:18"
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC (Gà Vàng) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/821d54abadb12c6c15edba538ab20ad1/playlist.m3u8",
-        "time": "2026-06-10 21:36:18"
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "07h00 ngày 23/05 Sporting Kansas CityReserves vs Austin FC II (Gà Vàng) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8",
-        "time": "2026-06-10 21:36:18"
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8",
-        "time": "2026-06-10 21:36:18"
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h45 ngày 11/06 Portugal vs Nigeria [BLV MESSI] (Socolive) flv",
+        "title": "06h00 ngày 11/06 Ceara vs Avaí FC [BLV RYO] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1781129840-0-0-dc9636db80b359ae7fb1af81b45fb28b",
-        "time": "2026-06-10 21:36:18"
+        "url": "https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1781135600-0-0-f2e2d6ed5437f175feb934ea298e8be4",
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h45 ngày 11/06 Portugal vs Nigeria [BLV MESSI] (Socolive) hdFlv",
+        "title": "06h00 ngày 11/06 Ceara vs Avaí FC [BLV RYO] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1781129840-0-0-967a15e983acdeab3d505110b43a5089",
-        "time": "2026-06-10 21:36:18"
+        "url": "https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1781135600-0-0-12774063030a468913135d70482e7dd2",
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h45 ngày 11/06 Portugal vs Nigeria [BLV MESSI] (Socolive) m3u8",
+        "title": "06h00 ngày 11/06 Ceara vs Avaí FC [BLV RYO] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1781129840-0-0-ddb6eb03a5a106142ef891cd5b8488ba",
-        "time": "2026-06-10 21:36:18"
+        "url": "https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1781135600-0-0-6c378d5896335f4e762e04928d31413b",
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h45 ngày 11/06 Portugal vs Nigeria [BLV MESSI] (Socolive) hdM3u8",
+        "title": "06h00 ngày 11/06 Ceara vs Avaí FC [BLV RYO] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781129840-0-0-f1e0030f4738666cd09fcc07d1251a52",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "03h00 ngày 11/06 England vs Costa Rica [LÃO LÂM] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1781129840-0-0-f5ad23f47ca0ddcfc57d7d62aa0e2201",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "03h00 ngày 11/06 England vs Costa Rica [LÃO LÂM] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1781129840-0-0-c7e7f25d350596aab73de0dd71f90a3b",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "03h00 ngày 11/06 England vs Costa Rica [LÃO LÂM] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1781129840-0-0-5731b804eb4adf14e8b14e4de1d2c404",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "03h00 ngày 11/06 England vs Costa Rica [LÃO LÂM] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1781129840-0-0-5a632f878c745c664066ed67a878323e",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "03h00 ngày 11/06 England vs Costa Rica [BLV LONG] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912117_lsd.flv?txSecret=1a4917460c532b4d4cfc1ecd79a71804&txTime=6a2a28c0",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "03h00 ngày 11/06 England vs Costa Rica [BLV LONG] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912117_lhd.flv?txSecret=f2380fc1684e42d5182fa9dd36f3f214&txTime=6a2a28c0",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "03h00 ngày 11/06 England vs Costa Rica [BLV LONG] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=1a4917460c532b4d4cfc1ecd79a71804&txTime=6a2a28c0",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "03h00 ngày 11/06 England vs Costa Rica [BLV LONG] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=f2380fc1684e42d5182fa9dd36f3f214&txTime=6a2a28c0",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "03h00 ngày 11/06 England vs Costa Rica [LOKA] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1781129840-0-0-255315dab086c3ac9b55a052544c3d15",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "03h00 ngày 11/06 England vs Costa Rica [LOKA] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1781129840-0-0-17fbb161ebb7190ab5e20864baf50ab3",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "03h00 ngày 11/06 England vs Costa Rica [LOKA] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1781129840-0-0-b63ead62ea1ad0eaabac7cb75dd89280",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "03h00 ngày 11/06 England vs Costa Rica [LOKA] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1781129840-0-0-95732239cece2ede1e8f797bff8dbc51",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h45 ngày 11/06 Portugal vs Nigeria [BLV ALEX] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1781129840-0-0-394b4ce034b5cd577341adf6016aa00c",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h45 ngày 11/06 Portugal vs Nigeria [BLV ALEX] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1781129840-0-0-86b924f0382b7c72ba95dd44c38e6710",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h45 ngày 11/06 Portugal vs Nigeria [BLV ALEX] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1781129840-0-0-548e0d69fc893ffc8f0b3a113265033b",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h45 ngày 11/06 Portugal vs Nigeria [BLV ALEX] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1781129840-0-0-c0a68ab058ae9343538348381670c154",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h45 ngày 11/06 Portugal vs Nigeria [HẢI THANH] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1781130200-0-0-533c4af93730c401e540a772af136732",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h45 ngày 11/06 Portugal vs Nigeria [HẢI THANH] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1781130200-0-0-dfdcb793cd56aa4b562e3464da92f435",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h45 ngày 11/06 Portugal vs Nigeria [HẢI THANH] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1781130200-0-0-3253c13623389dcb755678f1f53d697e",
-        "time": "2026-06-10 21:36:18"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h45 ngày 11/06 Portugal vs Nigeria [HẢI THANH] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1781130200-0-0-f39d75e74547c31ffe7570bce69cd56f",
-        "time": "2026-06-10 21:36:18"
+        "url": "https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1781135600-0-0-b2ef0b245f4bd3d06452480dd31df92d",
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "03h00 ngày 11/06 England vs Costa Rica [BLV COZY] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1781130200-0-0-328f54b4f263cce48721da6aef37ac42",
-        "time": "2026-06-10 21:36:18"
+        "url": "https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1781135600-0-0-d0dfd3ef01f763ac1c02d385a14d49cd",
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "03h00 ngày 11/06 England vs Costa Rica [BLV COZY] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1781130200-0-0-69386d9756ab2a32d7c32c9fdb22fefc",
-        "time": "2026-06-10 21:36:18"
+        "url": "https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1781135600-0-0-7677cbfa07c28189aedf82cdd4fc0b19",
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "03h00 ngày 11/06 England vs Costa Rica [BLV COZY] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1781130200-0-0-dacda23d3f755b648686a02eed47367d",
-        "time": "2026-06-10 21:36:18"
+        "url": "https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1781135600-0-0-fcc0a3b19ae9cf169c58030512a1ae18",
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "03h00 ngày 11/06 England vs Costa Rica [BLV COZY] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1781130200-0-0-2151f3ee4e63415d4271ae4e49c751fb",
-        "time": "2026-06-10 21:36:18"
+        "url": "https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1781135600-0-0-15b1dbd0f18b131e324b05a69f21bbc6",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 11/06 Ceara vs Avaí FC [BLV GÔN] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-445260_lsd.flv?auth_key=1781135600-0-0-246708fc216a57ca6c74b16a068cc28b",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 11/06 Ceara vs Avaí FC [BLV GÔN] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-445260_lhd.flv?auth_key=1781135600-0-0-691d014e6980bc27be56b2abb95afe95",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 11/06 Ceara vs Avaí FC [BLV GÔN] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1781135600-0-0-c41e118c3a54756e5aa13355b40707db",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 11/06 Ceara vs Avaí FC [BLV GÔN] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1781135600-0-0-b590f1851e13d093a376679d0e2d5b31",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 11/06 Ceara vs Avaí FC [BLV CUỘI] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1781135600-0-0-d985745c6c6f4c6ecfb8f11eb6cc120b",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 11/06 Ceara vs Avaí FC [BLV CUỘI] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1781135600-0-0-5e1d94e45b972ff34db99413193f918e",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 11/06 Ceara vs Avaí FC [BLV CUỘI] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1781135600-0-0-7a879ce5f8b4ae483b452e7af8561018",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 11/06 Ceara vs Avaí FC [BLV CUỘI] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1781135600-0-0-5f6e2d7ad3645ecea92c296a349d3e57",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 11/06 Goiás EC vs Gremio Novorizontino [BLV A TÚ] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1781135600-0-0-ed9c0393e10c0d7a212e4176cbbb1966",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 11/06 Goiás EC vs Gremio Novorizontino [BLV A TÚ] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1781135600-0-0-6803d9601efa027f4d978497d107587b",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 11/06 Goiás EC vs Gremio Novorizontino [BLV A TÚ] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1781135600-0-0-96910e1d06a60aeed917900eff2b05a6",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 11/06 Goiás EC vs Gremio Novorizontino [BLV A TÚ] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1781135600-0-0-5c08215d32dd84552ab077f63bcd6bba",
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "03h00 ngày 11/06 England vs Costa Rica [BLV VOI] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1781130200-0-0-cdb7a807f47c1bb279a4506007c9bbfd",
-        "time": "2026-06-10 21:36:18"
+        "url": "https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1781135600-0-0-6d3b0751e1f2ca81cbe3a9c664bb2c78",
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "03h00 ngày 11/06 England vs Costa Rica [BLV VOI] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1781130200-0-0-f3316351e87227d134695f597cec228a",
-        "time": "2026-06-10 21:36:18"
+        "url": "https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1781135600-0-0-255d51e245388f4f7f309e183978e398",
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "03h00 ngày 11/06 England vs Costa Rica [BLV VOI] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1781130200-0-0-630fe7c66591a089cc200abca007d3c8",
-        "time": "2026-06-10 21:36:18"
+        "url": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1781135600-0-0-a706a7c01621e5c0b713da134efdfd9b",
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "03h00 ngày 11/06 England vs Costa Rica [BLV VOI] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1781130200-0-0-a52931414b2332255e2abfe7b7104627",
-        "time": "2026-06-10 21:36:18"
+        "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1781135600-0-0-2d9ebbbdddd3d6e9d0957e64b0d21db2",
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h45 ngày 11/06 Portugal vs Nigeria [THẠCH TÚ] (Socolive) flv",
+        "title": "06h00 ngày 11/06 Forge FC vs HFX Wanderers FC [BLV HÚP] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912116_lsd.flv?auth_key=1781130200-0-0-574151f0acf648f3c52f465341f19e2f",
-        "time": "2026-06-10 21:36:18"
+        "url": "https://pull06.scstream.net/live/stream-611382_lsd.flv?auth_key=1781135600-0-0-763bb01e2b92b28b2bd57840d1208cb4",
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h45 ngày 11/06 Portugal vs Nigeria [THẠCH TÚ] (Socolive) hdFlv",
+        "title": "06h00 ngày 11/06 Forge FC vs HFX Wanderers FC [BLV HÚP] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1781130200-0-0-e4cf821b8ad912ea062bea1c53746df0",
-        "time": "2026-06-10 21:36:18"
+        "url": "https://pull06.scstream.net/live/stream-611382_lhd.flv?auth_key=1781135600-0-0-b6a3543a9f8caaf28cbbafc1e309c92f",
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h45 ngày 11/06 Portugal vs Nigeria [THẠCH TÚ] (Socolive) m3u8",
+        "title": "06h00 ngày 11/06 Forge FC vs HFX Wanderers FC [BLV HÚP] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1781130200-0-0-8e627b13f5a4a383cdec7a058ebfa355",
-        "time": "2026-06-10 21:36:18"
+        "url": "https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1781135600-0-0-e29fe009e6428b78d91bd3f7783ee8d5",
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h45 ngày 11/06 Portugal vs Nigeria [THẠCH TÚ] (Socolive) hdM3u8",
+        "title": "06h00 ngày 11/06 Forge FC vs HFX Wanderers FC [BLV HÚP] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1781130200-0-0-831ebc5f8d4fbbc4283349b819959a46",
-        "time": "2026-06-10 21:36:18"
+        "url": "https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1781135600-0-0-45cc4028ff767455faa9fccc0d2be0da",
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h45 ngày 11/06 Portugal vs Nigeria [LOGAN] (Socolive) flv",
+        "title": "06h00 ngày 11/06 Tampa Bay Rowdies vs Charleston Battery [BLV RÔSI] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1781130200-0-0-6c40b63f0133230ccf1f494fed7b5bdd",
-        "time": "2026-06-10 21:36:18"
+        "url": "https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=21edecc5508db3a1d119eeeda8222d40&txTime=6a2a3f40",
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h45 ngày 11/06 Portugal vs Nigeria [LOGAN] (Socolive) hdFlv",
+        "title": "06h00 ngày 11/06 Tampa Bay Rowdies vs Charleston Battery [BLV RÔSI] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1781130200-0-0-b6ee6d41e64abec5de9c9ad731c88bb9",
-        "time": "2026-06-10 21:36:18"
+        "url": "https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=01ddbc4b468241f07dc996488ce5771d&txTime=6a2a3f40",
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h45 ngày 11/06 Portugal vs Nigeria [LOGAN] (Socolive) m3u8",
+        "title": "06h00 ngày 11/06 Tampa Bay Rowdies vs Charleston Battery [BLV RÔSI] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1781130200-0-0-52b4af8d69b857da0bb567511bb545e5",
-        "time": "2026-06-10 21:36:18"
+        "url": "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=21edecc5508db3a1d119eeeda8222d40&txTime=6a2a3f40",
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h45 ngày 11/06 Portugal vs Nigeria [LOGAN] (Socolive) hdM3u8",
+        "title": "06h00 ngày 11/06 Tampa Bay Rowdies vs Charleston Battery [BLV RÔSI] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1781130200-0-0-9d58f9e8c057fe68f0b7ac8cc8c9872c",
-        "time": "2026-06-10 21:36:18"
+        "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=01ddbc4b468241f07dc996488ce5771d&txTime=6a2a3f40",
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h45 ngày 11/06 Portugal vs Nigeria [BLV COCA] (Socolive) flv",
+        "title": "06h00 ngày 11/06 Tampa Bay Rowdies vs Charleston Battery [BLV KAN] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1781130560-0-0-415bd474e965081c1c5ee6c764e0befe",
-        "time": "2026-06-10 21:36:18"
+        "url": "https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=3b9caf304e219d1bcb7106b6d3b6ae4e&txTime=6a2a3f40",
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h45 ngày 11/06 Portugal vs Nigeria [BLV COCA] (Socolive) hdFlv",
+        "title": "06h00 ngày 11/06 Tampa Bay Rowdies vs Charleston Battery [BLV KAN] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1781130560-0-0-d28c038af24597ddd45098028191a099",
-        "time": "2026-06-10 21:36:18"
+        "url": "https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=572e5e45c21e6e85fe5a83924f460eef&txTime=6a2a3f40",
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h45 ngày 11/06 Portugal vs Nigeria [BLV COCA] (Socolive) m3u8",
+        "title": "06h00 ngày 11/06 Tampa Bay Rowdies vs Charleston Battery [BLV KAN] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781130560-0-0-99a435e292ff7781af1b9f034206e916",
-        "time": "2026-06-10 21:36:18"
+        "url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=3b9caf304e219d1bcb7106b6d3b6ae4e&txTime=6a2a3f40",
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h45 ngày 11/06 Portugal vs Nigeria [BLV COCA] (Socolive) hdM3u8",
+        "title": "06h00 ngày 11/06 Tampa Bay Rowdies vs Charleston Battery [BLV KAN] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1781130560-0-0-be841c87ce4a556c21d3cb3a4b5e88c4",
-        "time": "2026-06-10 21:36:18"
+        "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=572e5e45c21e6e85fe5a83924f460eef&txTime=6a2a3f40",
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "03h00 ngày 11/06 England vs Costa Rica [BLV FIREMAN] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1781130560-0-0-82f9b96d8bfb98a6fe95c4728e5b04cf",
-        "time": "2026-06-10 21:36:18"
+        "url": "https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1781135960-0-0-26c50dd18b90250d6547cb5c2d9d161e",
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "03h00 ngày 11/06 England vs Costa Rica [BLV FIREMAN] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1781130560-0-0-de4127dcdcf5412972374d54d0a4de68",
-        "time": "2026-06-10 21:36:18"
+        "url": "https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1781135960-0-0-e310b827df4fc1fc526d699b85fa3b51",
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "03h00 ngày 11/06 England vs Costa Rica [BLV FIREMAN] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1781130560-0-0-4c1d180265738dc5f603cad6e207e29d",
-        "time": "2026-06-10 21:36:18"
+        "url": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1781135960-0-0-f895f9fb08a75da4d65d3e07d19df584",
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "03h00 ngày 11/06 England vs Costa Rica [BLV FIREMAN] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1781130560-0-0-03a3b7f40482c0cb22b1cbed31ee81a6",
-        "time": "2026-06-10 21:36:18"
+        "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1781135960-0-0-a0d136f4a9c45c6556af7701f41a4566",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 11/06 Toronto Tempo W vs Connecticut Sun W [HUNTER] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1781135960-0-0-e439adc90adf423f584a58e5e5b191b7",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 11/06 Toronto Tempo W vs Connecticut Sun W [HUNTER] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1781135960-0-0-8cdd463a09faec9b113e654e88785185",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 11/06 Toronto Tempo W vs Connecticut Sun W [HUNTER] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1781135960-0-0-6f5d679dd5973a5a99b860c29e763c22",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 11/06 Toronto Tempo W vs Connecticut Sun W [HUNTER] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1781135960-0-0-bd7399d9b36c67a8a02ea6ea935ce99c",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h30 ngày 11/06 Detroit City vs El Paso Locomotive FC [XUÂN SON] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=cb983704faed61d1b752127127f3e4c5&txTime=6a2a40a8",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h30 ngày 11/06 Detroit City vs El Paso Locomotive FC [XUÂN SON] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=93439ec569b3c35527ff878b712dde64&txTime=6a2a40a8",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h30 ngày 11/06 Detroit City vs El Paso Locomotive FC [XUÂN SON] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=cb983704faed61d1b752127127f3e4c5&txTime=6a2a40a8",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h30 ngày 11/06 Detroit City vs El Paso Locomotive FC [XUÂN SON] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=93439ec569b3c35527ff878b712dde64&txTime=6a2a40a8",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h30 ngày 11/06 Detroit City vs El Paso Locomotive FC [BLV GIÓ] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1781135960-0-0-72eceebb59a45b0028674d1275bb450d",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h30 ngày 11/06 Detroit City vs El Paso Locomotive FC [BLV GIÓ] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1781135960-0-0-4287ddb364a8d64b4e923cd276742a74",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h30 ngày 11/06 Detroit City vs El Paso Locomotive FC [BLV GIÓ] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1781135960-0-0-befd291c841df1e505d8ab494ab7de3c",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h30 ngày 11/06 Detroit City vs El Paso Locomotive FC [BLV GIÓ] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1781135960-0-0-c295a132a2d877dd1b3f985b5ac399b9",
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781130560-0-0-e276cbcdd37de59cc3280ab8b6cfeb16",
-        "time": "2026-06-10 21:36:18"
+        "url": "https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781135960-0-0-f6d63589da1842c542bacc4c1ac6d783",
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781130560-0-0-0b97c448603f2003dfacc599d9a4dcc2",
-        "time": "2026-06-10 21:36:18"
+        "url": "https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781135960-0-0-3f0afa656ce4388b3e77ca31ee505dd0",
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781130560-0-0-75fd6dfb1a0046655bb38013c059d436",
-        "time": "2026-06-10 21:36:18"
+        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781135960-0-0-db18393a265cf8697a062922b28b45b5",
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781130560-0-0-86510d93b8d1148f6617fe40901a0131",
-        "time": "2026-06-10 21:36:18"
+        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781135960-0-0-506353f754ce9221894eff387c85f90e",
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h45 11/06 Portugal vs Nigeria (Hội Quán) FHD",
+        "title": "06h00 ngày 11/06 Goiás EC vs Gremio Novorizontino [BLV NẤM] (Socolive) flv",
         "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8",
-        "time": "2026-06-10 21:36:18"
+        "url": "https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1781136320-0-0-4146bb413953bbb47aa093b2885ea6e5",
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h45 11/06 Portugal vs Nigeria (Hội Quán) SD",
+        "title": "06h00 ngày 11/06 Goiás EC vs Gremio Novorizontino [BLV NẤM] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-10 21:36:18"
+        "url": "https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1781136320-0-0-4e8f1eb62bedc71e7bff864fabe1d13d",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 11/06 Goiás EC vs Gremio Novorizontino [BLV NẤM] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1781136320-0-0-b41ee8db520dd77b16fffb6d0f581926",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 11/06 Goiás EC vs Gremio Novorizontino [BLV NẤM] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1781136320-0-0-47f195347600743d87ae5cf73e03b434",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 11/06 England vs Costa Rica [LÃO LÂM] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1781136320-0-0-2268c8f3380bb95ea99b1de0ccf64dbc",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 11/06 England vs Costa Rica [LÃO LÂM] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1781136320-0-0-d048e0b4eeb15330548a371c70f3f604",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 11/06 England vs Costa Rica [LÃO LÂM] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1781136320-0-0-923f9c0838e3ba4304c9ecfc3d596418",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 11/06 England vs Costa Rica [LÃO LÂM] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1781136320-0-0-73908809d90923817652ec162bec3d9c",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 11/06 England vs Costa Rica [BLV LONG] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-9912117_lsd.flv?txSecret=4f6623f0284fe1fe143138e61249281a&txTime=6a2a4210",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 11/06 England vs Costa Rica [BLV LONG] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-9912117_lhd.flv?txSecret=b46e13aa0f26d5fcb56a0687da787050&txTime=6a2a4210",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 11/06 England vs Costa Rica [BLV LONG] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=4f6623f0284fe1fe143138e61249281a&txTime=6a2a4210",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 11/06 England vs Costa Rica [BLV LONG] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=b46e13aa0f26d5fcb56a0687da787050&txTime=6a2a4210",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 11/06 Goiás EC vs Gremio Novorizontino [BLV TOMIA] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1781136320-0-0-c17ccdbe30bfeaf965068765a9ed88c5",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 11/06 Goiás EC vs Gremio Novorizontino [BLV TOMIA] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1781136320-0-0-8ed227bf46b8df176f88175b18e91eaf",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 11/06 Goiás EC vs Gremio Novorizontino [BLV TOMIA] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1781136320-0-0-35e9c9f0ffa16fc8dde7a9353f1d01e6",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 11/06 Goiás EC vs Gremio Novorizontino [BLV TOMIA] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1781136320-0-0-4ec840046dc2500ebd65fffdcbed4b32",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 11/06 England vs Costa Rica [LOKA] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1781136320-0-0-3a1d9731729760077e787498ed1ba794",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 11/06 England vs Costa Rica [LOKA] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1781136320-0-0-ab523dc7235ec912b8e7358082bdae0f",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 11/06 England vs Costa Rica [LOKA] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1781136320-0-0-544077c74824ec37e04894afa59cfb48",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 11/06 England vs Costa Rica [LOKA] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1781136320-0-0-ce5fad67f6ca3e64a326d1735965b0e0",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 11/06 Forge FC vs HFX Wanderers FC [BLV ROBBEN] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1781136320-0-0-e1790f08394e29073317f746a31a523d",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 11/06 Forge FC vs HFX Wanderers FC [BLV ROBBEN] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1781136320-0-0-bd2525c6720fb411f6ebb4d76221816a",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 11/06 Forge FC vs HFX Wanderers FC [BLV ROBBEN] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1781136320-0-0-aa467f6b22cba861f6df2f538a84650a",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 11/06 Forge FC vs HFX Wanderers FC [BLV ROBBEN] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1781136320-0-0-f21333eb4b8d64949a0b697df356b2d4",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h30 ngày 11/06 Inter Toronto FC vs Cavalry FC [HÀ DUY KIÊN] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-607400_lsd.flv?auth_key=1781136320-0-0-9da9aeba13bb5a80ef507dbb1cfd86b2",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h30 ngày 11/06 Inter Toronto FC vs Cavalry FC [HÀ DUY KIÊN] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1781136320-0-0-f6fd0a16f6289d2c24bb19e4cfff4150",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h30 ngày 11/06 Inter Toronto FC vs Cavalry FC [HÀ DUY KIÊN] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1781136320-0-0-d9f838fd3f358cbd16ea26229a481223",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h30 ngày 11/06 Inter Toronto FC vs Cavalry FC [HÀ DUY KIÊN] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1781136320-0-0-66405bea9a7c6af1442fef2a44ba61d0",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h30 ngày 11/06 Inter Toronto FC vs Cavalry FC [BLV RAMBO] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=1388c7470fd5177094c464ee068a1127&txTime=6a2a4210",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h30 ngày 11/06 Inter Toronto FC vs Cavalry FC [BLV RAMBO] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=ad17e3bc81cbbcf0f126374fdd037412&txTime=6a2a4210",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h30 ngày 11/06 Inter Toronto FC vs Cavalry FC [BLV RAMBO] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=1388c7470fd5177094c464ee068a1127&txTime=6a2a4210",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h30 ngày 11/06 Inter Toronto FC vs Cavalry FC [BLV RAMBO] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=ad17e3bc81cbbcf0f126374fdd037412&txTime=6a2a4210",
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "04h00 11/06 England vs Costa Rica (Hội Quán) FHD",
         "logo": "",
         "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8",
-        "time": "2026-06-10 21:36:18"
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
         "title": "04h00 11/06 England vs Costa Rica (Hội Quán) SD",
         "logo": "",
         "url": "https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-10 21:36:18"
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h30 11/06 Serbia vs Argentina (Hội Quán) FHD",
+        "title": "06h00 11/06 Goias vs Novorizontino (Hội Quán) FHD",
         "logo": "",
-        "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8",
-        "time": "2026-06-10 21:36:18"
+        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8",
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h30 11/06 Serbia vs Argentina (Hội Quán) SD",
+        "title": "06h00 11/06 Goias vs Novorizontino (Hội Quán) SD",
         "logo": "",
-        "url": "https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-10 21:36:18"
+        "url": "https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
-        "title": "03h00 11/06 Pháp vs Ý (Hội Quán) FHD",
+        "title": "06h00 11/06 Brazil vs Iran (Hội Quán) FHD",
         "logo": "",
         "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8",
-        "time": "2026-06-10 21:36:18"
+        "time": "2026-06-10 23:13:05"
     },
     {
         "group": "FPT SPORT",
-        "title": "03h00 11/06 Pháp vs Ý (Hội Quán) SD",
+        "title": "06h00 11/06 Brazil vs Iran (Hội Quán) SD",
         "logo": "",
         "url": "https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-10 21:36:18"
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h30 11/06 Canada vs Đức (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8",
+        "time": "2026-06-10 23:13:05"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h30 11/06 Canada vs Đức (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-10 23:13:05"
     }
 ]
