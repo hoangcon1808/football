@@ -1,135 +1,450 @@
 [
     {
+        "group": "VÒNG CẤM TV",
+        "title": "Nam ĐỊnh vs CA T.P HCM",
+        "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/ro2ex3Iiq_WvEShsGVkyVg_96x96.png",
+        "url": "https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8",
+        "time": "2026-06-11 11:09:49"
+    },
+    {
         "group": "HỘI QUÁN",
-        "title": "16:00 | Rinky Hijikata vs Frances Tiafoe",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_FEDFYlz0iqDsW-Whjs9-ZTVJk4o-dXyzNg&s",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8",
+        "title": "18:00 | Nam Dinh vs Ho Chi Minh",
+        "logo": "https://media.api-sports.io/football/teams/3674.png",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-11 18:00:00"
+    },
+    {
+        "group": "HỘI QUÁN",
+        "title": "18:00 | Sho Shimabukuro vs Nick Kyrgios",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz3IKAmkvIcIyX5_cPP_OEmEMtdVHUdhxLBQ&s",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-11 18:00:00"
+    },
+    {
+        "group": "HỘI QUÁN",
+        "title": "22:30 | Tampere United vs OLS",
+        "logo": "https://media.api-sports.io/football/teams/9190.png",
+        "url": "https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-11 22:30:00"
+    },
+    {
+        "group": "HỘI QUÁN",
+        "title": "18:00 | Phu Dong vs Viettel",
+        "logo": "https://upload.wikimedia.org/wikipedia/vi/3/3d/Logo_CLB_Ninh_B%C3%ACnh.png",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-11 18:00:00"
+    },
+    {
+        "group": "HỘI QUÁN",
+        "title": "16:00 | The Mongolz vs BetBoom",
+        "logo": "https://i.pinimg.com/736x/85/ba/b2/85bab22e99b269b9c032d7b8d5cc77ea.jpg",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8",
         "time": "2026-06-11 16:00:00"
     },
     {
-        "group": "FPT SPORT",
-        "title": "11h50 ngày 11/06 Anh vs Costa Rica (Lương Sơn) HEINEKEN REPLAY m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1",
-        "time": "2026-06-11 06:27:58"
+        "group": "VÒNG CẤM TV",
+        "title": "Phù Đổng Ninh Bình vs Thể Công Viettel",
+        "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/ykL8C5VrRxNAEm92JYv5Tg_96x96.png",
+        "url": "https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8",
+        "time": "2026-06-11 11:09:49"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "11:00 | Phu Dong Ninh Binh vs Thể Công - Viettel",
+        "logo": "https://img.colatv88xd.cc/football/team/5452226660be0829fdb40967dd4b0b77.png!w80",
+        "url": "https://live05.msdht.app/live/14830711.m3u8",
+        "time": "2026-06-11 11:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "11:30 | Venezuela U20 vs Nhật Bản U19",
+        "logo": "https://img.colatv88xd.cc/football/team/1497b622f19bff76e70da1113805e94e.png!w80",
+        "url": "https://live05.msdht.app/live/90725470.m3u8",
+        "time": "2026-06-11 11:30:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "11:00 | Nam Định vs Thành phố Hồ Chí Minh",
+        "logo": "https://img.colatv88xd.cc/football/team/bc5db4dd418cb566a4475649876b55bb.png!w80",
+        "url": "https://live05.msdht.app/live/24561735.m3u8",
+        "time": "2026-06-11 11:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "13:15 | Indonesia U19 vs Úc U19",
+        "logo": "https://img.colatv88xd.cc/football/team/e96eae9f2ad8460ef8a33f83f64d4466.png!w80",
+        "url": "https://live05.msdht.app/live/19919577.m3u8",
+        "time": "2026-06-11 13:15:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "23:30 | Atlanta Dream vs New York Liberty",
+        "logo": "https://img.colatv88xd.cc/basketball/team/be3ef0f7745b3b45b846fac31ca987c6.png!w80",
+        "url": "https://live05.msdht.app/live/87379114.m3u8",
+        "time": "2026-06-11 23:30:00"
     },
     {
         "group": "FPT SPORT",
-        "title": "13h00 ngày 11/06 Dalian Football School(w) vs Shanghai Shenhua W (Lương Sơn) BLV NGƯỜI THÉP m3u",
+        "title": "18h00 ngày 11/06 Nam Dinh FC vs Cong An TP Ho Chi Minh (Lương Sơn) BLV TRIỆU TỬ LONG m3u",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5",
-        "time": "2026-06-11 06:27:58"
+        "url": "https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070",
+        "time": "2026-06-11 11:09:50"
     },
     {
         "group": "FPT SPORT",
-        "title": "13h00 ngày 11/06 Dalian Football School(w) vs Shanghai Shenhua W (Lương Sơn) BLV DƯƠNG CHÍ m3u",
+        "title": "18h00 ngày 11/06 Thep Xanh Nam Dinh FC vs Cong An Ho Chi Minh City [CR Bưởi] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33",
-        "time": "2026-06-11 06:27:58"
+        "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=d3e6514a913252f81a84228e356c8b71&txTime=6a2ae698",
+        "time": "2026-06-11 11:09:50"
     },
     {
         "group": "FPT SPORT",
-        "title": "12h30 11/06 CHOU Tien Chen vs DONG Tian Yao (Hội Quán) SD",
+        "title": "18h30 ngày 11/06 Venezuela U20 vs Japan U19 [RICKHANTER] (Socolive) m3u8",
         "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-11 06:27:58"
+        "url": "https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=5f8d6ff4bd1d3c684e88a2cf6f49d1db&txTime=6a2ae698",
+        "time": "2026-06-11 11:09:50"
     },
     {
         "group": "FPT SPORT",
-        "title": "12h30 11/06 CHOU Tien Chen vs DONG Tian Yao (Hội Quán) FHD",
+        "title": "18h30 ngày 11/06 Venezuela U20 vs Japan U19 [RICKHANTER] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8",
-        "time": "2026-06-11 06:27:58"
+        "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=22f6d25eb29280f842718a817bdf6e9b&txTime=6a2ae698",
+        "time": "2026-06-11 11:09:50"
     },
     {
         "group": "FPT SPORT",
-        "title": "13h10 11/06  Akane YAMAGUCHI vs PAI Yu Po (Hội Quán) FHD",
+        "title": "18h00 ngày 11/06 Thep Xanh Nam Dinh FC vs Cong An Ho Chi Minh City [CR Bưởi] (Socolive) m3u8",
         "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8",
-        "time": "2026-06-11 06:27:58"
+        "url": "https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=b0834fbe9d2cf5afafd2987aba76c948&txTime=6a2ae698",
+        "time": "2026-06-11 11:09:50"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - Portugal vs Nigeria [Sóc mèo méo meo] (Socolive) hdM3u8",
+        "title": "18h00 ngày 11/06 Thep Xanh Nam Dinh FC vs Cong An Ho Chi Minh City [THẠCH TÚ] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1781162600-0-0-05b92bc87684e413b28f120d245c9544",
-        "time": "2026-06-11 06:27:58"
+        "url": "https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1781178440-0-0-a2b3e8ef4dc24c58eb5f002b55419a0c",
+        "time": "2026-06-11 11:09:50"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - England vs Costa Rica [Sóc trong rừng xà nu] (Socolive) hdM3u8",
+        "title": "18h00 ngày 11/06 Ninh Binh FC vs The Cong Viettel [DECO] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1781162600-0-0-a3ba8bbc4dec94d28e2573a5d47904f1",
-        "time": "2026-06-11 06:27:58"
+        "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1781178440-0-0-c6feec4e07006826510f5b0a15124a85",
+        "time": "2026-06-11 11:09:50"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 11/06 Thep Xanh Nam Dinh FC vs Cong An Ho Chi Minh City [BLV MESSI] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1781178800-0-0-098c245dcce3e595d7bbddd8a2012334",
+        "time": "2026-06-11 11:09:50"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 11/06 Ninh Binh FC vs The Cong Viettel [BLV TOMMY] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=edaee02accbfaebe7e354d4bdeb0606a&txTime=6a2ae800",
+        "time": "2026-06-11 11:09:50"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 11/06 Ninh Binh FC vs The Cong Viettel [BLV TOMMY] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=91a6bd6a0be23c38fe1187d4579368ec&txTime=6a2ae800",
+        "time": "2026-06-11 11:09:50"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 11/06 Ninh Binh FC vs The Cong Viettel [BLV ĐỐM] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1781178440-0-0-6184b0b452ba9f0d029c342350726c31",
+        "time": "2026-06-11 11:09:50"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 11/06 Thep Xanh Nam Dinh FC vs Cong An Ho Chi Minh City [BLV MESSI] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781178800-0-0-b17fd1e6032eb5018c8c84ada5ef00e8",
+        "time": "2026-06-11 11:09:50"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h30 ngày 11/06 Venezuela U20 vs Japan U19 [BLV Củ Cải] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1781178440-0-0-56efba986412483480c2d2b73ba55622",
+        "time": "2026-06-11 11:09:50"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 11/06 Thep Xanh Nam Dinh FC vs Cong An Ho Chi Minh City [BLV BÉO] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=7f865c737e92cecf3d742bbff1761768&txTime=6a2ae800",
+        "time": "2026-06-11 11:09:50"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 11/06 Thep Xanh Nam Dinh FC vs Cong An Ho Chi Minh City [BLV BÉO] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=3eee821550d8ed1d190d217b160a9afc&txTime=6a2ae800",
+        "time": "2026-06-11 11:09:50"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 11/06 Ninh Binh FC vs The Cong Viettel [DECO] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1781178440-0-0-b35755ad3a79cd3cc62523b826ca39b8",
+        "time": "2026-06-11 11:09:50"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 11/06 Ninh Binh FC vs The Cong Viettel [BLV TAP] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1781178440-0-0-54da7d0153e693d5a5381331fb5a75fa",
+        "time": "2026-06-11 11:09:50"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 11/06 Ninh Binh FC vs The Cong Viettel [BLV ĐỐM] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1781178440-0-0-7c223924cdbdbf05d80102da30161afc",
+        "time": "2026-06-11 11:09:50"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 11/06 Thep Xanh Nam Dinh FC vs Cong An Ho Chi Minh City [THẠCH TÚ] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1781178440-0-0-9c7a46cff0e0a01134f04b175bb52158",
+        "time": "2026-06-11 11:09:50"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 11/06 Ninh Binh FC vs The Cong Viettel [BLV TAP] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1781178440-0-0-711f851535dbbf6c65a79ac0f724d4cb",
+        "time": "2026-06-11 11:09:50"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 11/06 Ninh Binh FC vs The Cong Viettel [TẠ BIÊN GIỚI] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1781179160-0-0-17e36d339c90654db506b645c7b69c02",
+        "time": "2026-06-11 11:09:50"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h30 ngày 11/06 Venezuela U20 vs Japan U19 [NGƯỜI CÁ] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1781178440-0-0-30e177c66f91004ac0c8d6efe7af2c69",
+        "time": "2026-06-11 11:09:50"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 11/06 Thep Xanh Nam Dinh FC vs Cong An Ho Chi Minh City [A BỆU] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1781178800-0-0-42cded3bc6a55938336551b833888c4f",
+        "time": "2026-06-11 11:09:50"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h30 ngày 11/06 Venezuela U20 vs Japan U19 [BLV Củ Cải] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1781178440-0-0-8c073c6b687884c2c13dff4a058588a3",
+        "time": "2026-06-11 11:09:50"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 11/06 Thep Xanh Nam Dinh FC vs Cong An Ho Chi Minh City [BLV CÒ] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1781178800-0-0-1f10fcfb2597189d631debb94cd8ed51",
+        "time": "2026-06-11 11:09:50"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h30 ngày 11/06 Venezuela U20 vs Japan U19 [LÃO LÂM] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1781178800-0-0-7bdec13c795f8892ec07e5322d8fecfa",
+        "time": "2026-06-11 11:09:50"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 11/06 Bataan Risers vs Bacolod Masskara [KING] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1781178800-0-0-2179df4aea2a9362f16ba876607801a5",
+        "time": "2026-06-11 11:09:50"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 11/06 Bataan Risers vs Bacolod Masskara [KING] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1781178800-0-0-8f56ea470d6b91be5f115e9dd0c084ee",
+        "time": "2026-06-11 11:09:50"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 11/06 Thep Xanh Nam Dinh FC vs Cong An Ho Chi Minh City [A BỆU] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1781178800-0-0-5be663b0200c94fb155562678c971c75",
+        "time": "2026-06-11 11:09:50"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 11/06 Thep Xanh Nam Dinh FC vs Cong An Ho Chi Minh City [BLV CÒ] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1781178800-0-0-24df1e977c610c2c4d6caa4b47445265",
+        "time": "2026-06-11 11:09:50"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 11/06 Bataan Risers vs Bacolod Masskara [BRIAN] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1781178800-0-0-4b8414fbf3011eb0a1b02d24574f1075",
+        "time": "2026-06-11 11:09:50"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 11/06 Bataan Risers vs Bacolod Masskara [BRIAN] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1781178800-0-0-9576a810f5ddb9fd908798251b3c272e",
+        "time": "2026-06-11 11:09:50"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 11/06 Ninh Binh FC vs The Cong Viettel [TẠ BIÊN GIỚI] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1781179160-0-0-417438844212becf7a947278d86a38a8",
+        "time": "2026-06-11 11:09:50"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 11/06 Ninh Binh FC vs The Cong Viettel [BLV KEM] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1781179160-0-0-dd40e55210c76995d780cfe5b4caa9c5",
+        "time": "2026-06-11 11:09:50"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 11/06 Ninh Binh FC vs The Cong Viettel [BLV KEM] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1781179160-0-0-6787e6bde86c3ea681a6dc69b962b558",
+        "time": "2026-06-11 11:09:50"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 11/06 Nam Dinh vs Ho Chi Minh (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-11 11:09:50"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 11/06 Hàn Quốc vs Úc (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8",
+        "time": "2026-06-11 11:09:50"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 11/06 Sho Shimabukuro vs Nick Kyrgios (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8",
+        "time": "2026-06-11 11:09:50"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 11/06 Phu Dong vs Viettel (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-11 11:09:50"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 11/06 Sho Shimabukuro vs Nick Kyrgios (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-11 11:09:50"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h30 ngày 11/06 Venezuela U20 vs Japan U19 [BLV ENZO] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1781179160-0-0-ffc9d3839eac51e8d9151eada61dc167",
+        "time": "2026-06-11 11:09:50"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "16h00 11/06 The Mongolz vs BetBoom (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-11 11:09:50"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 11/06 Phu Dong vs Viettel (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8",
+        "time": "2026-06-11 11:09:50"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h30 ngày 11/06 Venezuela U20 vs Japan U19 [LÃO LÂM] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1781178800-0-0-3255fba8fbf7fba1072009ac3a64a48c",
+        "time": "2026-06-11 11:09:50"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 11/06 Hàn Quốc vs Úc (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-11 11:09:50"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "16h00 11/06 The Mongolz vs BetBoom (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8",
+        "time": "2026-06-11 11:09:50"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781178440-0-0-20651131bc9b33202bac8bafeb198ca5",
+        "time": "2026-06-11 11:09:50"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781161880-0-0-434e5923806d5ac89bf9148e24915706",
-        "time": "2026-06-11 06:27:58"
+        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781178440-0-0-2f05493579f08235ffaf2448e2f9f919",
+        "time": "2026-06-11 11:09:50"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - France vs Northern Ireland [Sóc đau cổ vai gáy] (Socolive) hdM3u8",
+        "title": "18h30 ngày 11/06 Venezuela U20 vs Japan U19 [NGƯỜI CÁ] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1781162600-0-0-c220f48392da11cb9cdb0f9b312491fb",
-        "time": "2026-06-11 06:27:58"
+        "url": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1781178440-0-0-dcdbe82aad7e30356fe0cc8c5beeb078",
+        "time": "2026-06-11 11:09:50"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - Netherlands vs Uzbekistan [Sóc nhàm nhang nhồ] (Socolive) m3u8",
+        "title": "18h30 ngày 11/06 Venezuela U20 vs Japan U19 [LOGAN] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1781162600-0-0-40c124b94136f692086ee4672db3920e",
-        "time": "2026-06-11 06:27:58"
+        "url": "https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1781179160-0-0-9894b5cf1ed66e8fe24dae257ce9095b",
+        "time": "2026-06-11 11:09:50"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - Netherlands vs Uzbekistan [Sóc nhàm nhang nhồ] (Socolive) hdM3u8",
+        "title": "18h30 ngày 11/06 Venezuela U20 vs Japan U19 [LOGAN] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1781162600-0-0-63ed4e4b69cc1a36cfa7a143dbcd2da7",
-        "time": "2026-06-11 06:27:58"
+        "url": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1781179160-0-0-9a2827d9c6cfae15799433e4787fc0ca",
+        "time": "2026-06-11 11:09:50"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - Portugal vs Nigeria [Sóc mèo méo meo] (Socolive) m3u8",
+        "title": "18h00 11/06 Nam Dinh vs Ho Chi Minh (Hội Quán) FHD",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1781162600-0-0-c98796477d9e2a20422aca33210b672c",
-        "time": "2026-06-11 06:27:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - Argentina vs Iceland [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1781162600-0-0-f4c4969791f1f85e05654b792cdadd2b",
-        "time": "2026-06-11 06:27:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - Argentina vs Iceland [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1781162600-0-0-6928f6f6a06d7fb82a138813e5957c3d",
-        "time": "2026-06-11 06:27:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - Saudi Arabia vs Senegal [Sóc trèo cây ngô đồng] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1781162600-0-0-af859957e1fb8bf157e5510de9802ad9",
-        "time": "2026-06-11 06:27:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - Saudi Arabia vs Senegal [Sóc trèo cây ngô đồng] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1781162600-0-0-4da9b3aab0ef63edc75f4ff5cf224bef",
-        "time": "2026-06-11 06:27:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: INTERF - England vs Costa Rica [Sóc trong rừng xà nu] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1781162600-0-0-e8587680491b8cd1aa046515c46718d9",
-        "time": "2026-06-11 06:27:58"
+        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8",
+        "time": "2026-06-11 11:09:50"
     }
 ]
