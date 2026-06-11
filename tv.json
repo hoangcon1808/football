@@ -1,10 +1,45 @@
 [
     {
+        "group": "VÒNG CẤM TV",
+        "title": "Mexico vs South Africa",
+        "logo": "https://media.api-sports.io/football/teams/16.png",
+        "url": "https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8",
+        "time": "2026-06-11 20:33:30"
+    },
+    {
+        "group": "VÒNG CẤM TV",
+        "title": "Mexico vs South Africa",
+        "logo": "https://media.api-sports.io/football/teams/16.png",
+        "url": "https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8",
+        "time": "2026-06-11 20:33:30"
+    },
+    {
         "group": "HỘI QUÁN",
-        "title": "23:30 | Ben Shelton vs Marcos Giron",
-        "logo": "https://www.thesecondserve.com/wp-content/uploads/2025/08/ben-shelton-toronto-cincinnati-open2-1.jpg",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8",
-        "time": "2026-06-11 23:30:00"
+        "title": "02:00 | Mexico vs South Africa",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-12 02:00:00"
+    },
+    {
+        "group": "HỘI QUÁN",
+        "title": "02:00 | Mexico vs South Africa",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
+        "url": "https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-12 02:00:00"
+    },
+    {
+        "group": "HỘI QUÁN",
+        "title": "02:00 | Mexico vs South Africa",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-12 02:00:00"
+    },
+    {
+        "group": "HỘI QUÁN",
+        "title": "23:00 | Belshina vs Bate Borisov",
+        "logo": "https://media.api-sports.io/football/teams/3384.png",
+        "url": "https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-12 23:00:00"
     },
     {
         "group": "HỘI QUÁN",
@@ -14,46 +49,11 @@
         "time": "2026-06-12 02:00:00"
     },
     {
-        "group": "VÒNG CẤM TV",
-        "title": "Portugal U20 vs Canada U20",
-        "logo": "https://media.api-sports.io/football/teams/10299.png",
-        "url": "https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8",
-        "time": "2026-06-11 18:08:51"
-    },
-    {
-        "group": "VÒNG CẤM TV",
-        "title": "Lễ Khai Mạc World Cup 2026",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
-        "url": "https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8",
-        "time": "2026-06-11 18:08:51"
-    },
-    {
-        "group": "HỘI QUÁN",
-        "title": "17:15 | Eastern United vs Adelaide Olympic",
-        "logo": "https://media.api-sports.io/football/teams/16766.png",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8",
-        "time": "2026-06-12 17:15:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "17:00 | CLB Helsingborg vs Landskrona BoIS",
-        "logo": "https://img.colatv88xd.cc/football/team/a26176c395984600e2f00a3bf67f0784.png!w80",
-        "url": "https://live05.msdht.app/live/82054853.m3u8",
-        "time": "2026-06-11 17:00:00"
-    },
-    {
         "group": "CA LA TV",
         "title": "19:00 | Mexico vs Nam Phi",
         "logo": "https://img.colatv88xd.cc/football/team/3653cce234494bfbd33e077f4a028f66.png!w80",
         "url": "https://live05.msdht.app/live/97312754.m3u8",
         "time": "2026-06-11 19:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "17:00 | Bồ Đào Nha U20 vs Canada U20",
-        "logo": "https://img.colatv88xd.cc/football/team/7421513831e839a215c3bea5f9333d0a.png!w80",
-        "url": "https://live05.msdht.app/live/87547578.m3u8",
-        "time": "2026-06-11 17:00:00"
     },
     {
         "group": "CA LA TV",
@@ -71,408 +71,289 @@
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 12/06 Portugal U20 vs Canada U20 (Lương Sơn) BLV PHI HỔ m3u",
+        "title": "02h00 ngày 12/06 Mexico vs South Africa (Lương Sơn) BLV KAKA m3u",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f",
-        "time": "2026-06-11 18:08:52"
+        "url": "https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6",
+        "time": "2026-06-11 20:33:31"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 12/06 Helsingborg vs Landskrona BoIS (Lương Sơn) BLV HÀN TÍN m3u",
+        "title": "02h00 ngày 12/06 Mexico vs South Africa (Lương Sơn) BLV LỮ BỐ m3u",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df",
-        "time": "2026-06-11 18:08:52"
+        "url": "https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1",
+        "time": "2026-06-11 20:33:31"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 12/06 Helsingborg vs Landskrona BoIS (Lương Sơn) BLV VƯƠNG LUÂN m3u",
+        "title": "02h00 ngày 12/06 Mexico vs South Africa (Lương Sơn) BLV LƯU BỊ m3u",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645",
-        "time": "2026-06-11 18:08:52"
+        "url": "https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1",
+        "time": "2026-06-11 20:33:31"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 12/06 Portugal U20 vs Canada U20 (Lương Sơn) BLV DƯƠNG CHÍ m3u",
+        "title": "02h00 ngày 12/06 Mexico vs South Africa (Lương Sơn) BLV KEVILL m3u",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33",
-        "time": "2026-06-11 18:08:52"
+        "url": "https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799",
+        "time": "2026-06-11 20:33:31"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 12/06 Portugal U20 vs Canada U20 (Lương Sơn) BLV MAYBACH m3u",
+        "title": "02h00 ngày 12/06 Mexico vs South Africa (Lương Sơn) BLV YẾN THANH m3u",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b",
-        "time": "2026-06-11 18:08:52"
+        "url": "https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582",
+        "time": "2026-06-11 20:33:31"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h45 ngày 12/06 Al-Shabab(KUW) vs Al-Jahra (Lương Sơn) BLV FERNANDO m3u",
+        "title": "02h00 ngày 12/06 Mexico vs South Africa (Lương Sơn) BLV LEO m3u",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb",
-        "time": "2026-06-11 18:08:52"
+        "url": "https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6",
+        "time": "2026-06-11 20:33:31"
     },
     {
         "group": "FPT SPORT",
         "title": "02h00 ngày 12/06 Mexico vs South Africa [BLV TOMMY] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=4ef57b10ce0875796bd4531c07fc969d&txTime=6a2b4908",
-        "time": "2026-06-11 18:08:52"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 12/06 Mexico vs South Africa [RICKHANTER] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=da69a01dc086df14ad9dea6c94f143b3&txTime=6a2b4908",
-        "time": "2026-06-11 18:08:52"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 12/06 Mexico vs South Africa [RICKHANTER] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=1d7d34285a2a46e7c7191726f4f7ffaf&txTime=6a2b4908",
-        "time": "2026-06-11 18:08:52"
+        "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=4e18fdf6c2deed25bd7fc7353c56b179&txTime=6a2b6ac8",
+        "time": "2026-06-11 20:33:31"
     },
     {
         "group": "FPT SPORT",
         "title": "02h00 ngày 12/06 Mexico vs South Africa [BLV TOMMY] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=f5a3484d6df4d93d9ebe1d4f1fd0aaa8&txTime=6a2b4908",
-        "time": "2026-06-11 18:08:52"
+        "url": "https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=7d1f3a15bfb6ea858f98a7715c54232f&txTime=6a2b6ac8",
+        "time": "2026-06-11 20:33:31"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 12/06 Portugal U20 vs Canada U20 [BLV BÉO] (Socolive) hdM3u8",
+        "title": "02h00 ngày 12/06 Mexico vs South Africa [RICKHANTER] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=2f31eee6b7b9172c2c0f08f32bfcf29f&txTime=6a2b4a70",
-        "time": "2026-06-11 18:08:52"
+        "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=45499c2b004fb874f8d09d5cae8b5f51&txTime=6a2b6ac8",
+        "time": "2026-06-11 20:33:31"
     },
     {
         "group": "FPT SPORT",
-        "title": "02h00 ngày 12/06 Mexico vs South Africa [BLV TAP] (Socolive) m3u8",
+        "title": "02h00 ngày 12/06 Mexico vs South Africa [RICKHANTER] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=5b24a38f1c7125f7e86061c3afab8a21&txTime=6a2b4a70",
-        "time": "2026-06-11 18:08:52"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 12/06 Mexico vs South Africa [BLV TAP] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=c97c3a1b3503cf48641b0617fb3b1788&txTime=6a2b4a70",
-        "time": "2026-06-11 18:08:52"
+        "url": "https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=8574dbc5a959823cc0f5481423a42214&txTime=6a2b6ac8",
+        "time": "2026-06-11 20:33:31"
     },
     {
         "group": "FPT SPORT",
         "title": "02h00 ngày 12/06 Mexico vs South Africa [TẠ BIÊN GIỚI] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=1dcefc5241adea6aca5decd7fd4b8843&txTime=6a2b4a70",
-        "time": "2026-06-11 18:08:52"
+        "url": "https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=f2c4ab77ba5b649a590ceff7d3b9b6dc&txTime=6a2b6c30",
+        "time": "2026-06-11 20:33:31"
     },
     {
         "group": "FPT SPORT",
         "title": "02h00 ngày 12/06 Mexico vs South Africa [TẠ BIÊN GIỚI] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=aff0d55caf38d8efe6e8edbdb83d9e0e&txTime=6a2b4a70",
-        "time": "2026-06-11 18:08:52"
+        "url": "https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=07f4414feeb958eb4c6dc1a054d2aa95&txTime=6a2b6c30",
+        "time": "2026-06-11 20:33:31"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 12/06 Portugal U20 vs Canada U20 [BLV BÉO] (Socolive) m3u8",
+        "title": "02h00 ngày 12/06 Mexico vs South Africa [BLV TAP] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=6dac8f77ff666c79c2d5ea117a81ecfa&txTime=6a2b4a70",
-        "time": "2026-06-11 18:08:52"
+        "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=c4675f7f9d01c019715d39869307dd87&txTime=6a2b6d98",
+        "time": "2026-06-11 20:33:31"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 12/06 Portugal U20 vs Canada U20 [BLV ALEX] (Socolive) m3u8",
+        "title": "02h00 ngày 12/06 Mexico vs South Africa [BLV TAP] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1781204000-0-0-f830d695cc2934826439d734cbc54d07",
-        "time": "2026-06-11 18:08:52"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 12/06 Portugal U20 vs Canada U20 (Lương Sơn) BLV TRIỆU TỬ LONG m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070",
-        "time": "2026-06-11 18:08:52"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 12/06 Mexico vs South Africa [BLV MESSI] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1781203640-0-0-aa1bb4e12d0c7b75cb8f290179f36363",
-        "time": "2026-06-11 18:08:52"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 12/06 Mexico vs South Africa [BLV MESSI] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781203640-0-0-2fc0cc6a09f6436d36c6e376147dee01",
-        "time": "2026-06-11 18:08:52"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 12/06 Mexico vs South Africa [CR Bưởi] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1781203640-0-0-ef2d734d86845e7ac86997f53195901c",
-        "time": "2026-06-11 18:08:52"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781203640-0-0-9f0c3c64e108c71223cb7bec3b1520f3",
-        "time": "2026-06-11 18:08:52"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 12/06 Mexico vs South Africa [BLV 7UP] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781204000-0-0-f81285ffa68ff016f2f575876310b8b1",
-        "time": "2026-06-11 18:08:52"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 12/06 Mexico vs South Africa [BLV ĐỐM] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1781204000-0-0-64254ad562f5e34158a0b768a52e4684",
-        "time": "2026-06-11 18:08:52"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 12/06 Portugal U20 vs Canada U20 [BLV FIREMAN] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1781204000-0-0-163353ebeb899c1863307654dc4dad0d",
-        "time": "2026-06-11 18:08:52"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 12/06 Mexico vs South Africa [BLV COCA] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1781203640-0-0-05bab85e65b3cb5e79dbf16b9080459b",
-        "time": "2026-06-11 18:08:52"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 12/06 Mexico vs South Africa [CR Bưởi] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1781203640-0-0-380b92350b5e5c5f9cdf3859b16dc616",
-        "time": "2026-06-11 18:08:52"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 12/06 Mexico vs South Africa [BLV COCA] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781203640-0-0-e32cd6220fff1953e413cac02262789c",
-        "time": "2026-06-11 18:08:52"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 12/06 Helsingborg vs Landskrona BoIS [BLV LONG] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=3f6462b0127e7a74230c7a77c15b8a20&txTime=6a2b4a70",
-        "time": "2026-06-11 18:08:52"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 12/06 Portugal U20 vs Canada U20 [BLV FIREMAN] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1781204000-0-0-80a90e3d5bc1ded6ad221eee5de9ec3d",
-        "time": "2026-06-11 18:08:52"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 12/06 Helsingborg vs Landskrona BoIS [BLV LONG] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=07f01c37c6d6f37f6c85c66bf26693ea&txTime=6a2b4a70",
-        "time": "2026-06-11 18:08:52"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 12/06 Mexico vs South Africa [THẠCH TÚ] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1781204000-0-0-8fc28404743b62f7316abd01024ac1fd",
-        "time": "2026-06-11 18:08:52"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 12/06 Helsingborg vs Landskrona BoIS [BLV VIP] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=97a676d8bd1afa8ad40bcaf7a96c6d1d&txTime=6a2b4a70",
-        "time": "2026-06-11 18:08:52"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 12/06 Portugal U20 vs Canada U20 [HẢI THANH] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1781204000-0-0-b5840125e0b93c54314b74cb8673a4fd",
-        "time": "2026-06-11 18:08:52"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 12/06 Helsingborg vs Landskrona BoIS [BLV VIP] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=a2be12d44838364ab48ee63e6fcdc17b&txTime=6a2b4a70",
-        "time": "2026-06-11 18:08:52"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 12/06 Portugal U20 vs Canada U20 [HẢI THANH] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1781204000-0-0-72f97e11cb4a6f40021ca61a5a040182",
-        "time": "2026-06-11 18:08:52"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 12/06 Mexico vs South Africa [BLV 7UP] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781204000-0-0-8eb0a781b5f9b99abb554f6abbaeb481",
-        "time": "2026-06-11 18:08:52"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 12/06 Portugal U20 vs Canada U20 [BLV ALEX] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1781204000-0-0-0b37b50b5df9d55fdf5e6eeb16fb4ff0",
-        "time": "2026-06-11 18:08:52"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 12/06 Mexico vs South Africa [BLV Củ Cải] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1781204000-0-0-b329061c1b5b391929729b12693f73e5",
-        "time": "2026-06-11 18:08:52"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 12/06 Helsingborg vs Landskrona BoIS [BLV CÁP] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1781204000-0-0-7d963be0c07e24ab773a507989942d13",
-        "time": "2026-06-11 18:08:52"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 12/06 Mexico vs South Africa [BLV Củ Cải] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1781204000-0-0-a4cf0b006a10fd3c32c9b2209e4649c0",
-        "time": "2026-06-11 18:08:52"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 12/06 Portugal U20 vs Canada U20 [LOKA] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1781204000-0-0-cc61b8ee6019b2e9fdbd61a52356eb2a",
-        "time": "2026-06-11 18:08:52"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "02h00 ngày 12/06 Mexico vs South Africa [THẠCH TÚ] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1781204000-0-0-b7e808f1cf2f6d9e409465aea8342ff6",
-        "time": "2026-06-11 18:08:52"
+        "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=dc2d88df27687b65b4f2716be7f3f948&txTime=6a2b6d98",
+        "time": "2026-06-11 20:33:31"
     },
     {
         "group": "FPT SPORT",
         "title": "02h00 ngày 12/06 Mexico vs South Africa [BLV ĐỐM] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1781204000-0-0-880cc57af753a49a2301131763dd1619",
-        "time": "2026-06-11 18:08:52"
+        "url": "https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1781212640-0-0-d25076133d3b6434bd159b7586790824",
+        "time": "2026-06-11 20:33:31"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 12/06 Helsingborg vs Landskrona BoIS [BLV CÁP] (Socolive) m3u8",
+        "title": "02h00 ngày 12/06 Mexico vs South Africa [THẠCH TÚ] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1781204000-0-0-a695b8d76636b2af1d3512fdffe8fde9",
-        "time": "2026-06-11 18:08:52"
+        "url": "https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1781212640-0-0-9de0e611feee5ac47fb2fe20234556a5",
+        "time": "2026-06-11 20:33:31"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 12/06 Helsingborg vs Landskrona BoIS [BLV CÁO] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1781204000-0-0-f3abad088ad6a47aef4a015923b50a5b",
-        "time": "2026-06-11 18:08:52"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 12/06 Portugal U20 vs Canada U20 [LOKA] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1781204000-0-0-32f03b31581c45e21211afe04f44270a",
-        "time": "2026-06-11 18:08:52"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 12/06 Khai Mạc WC (Hội Quán) SD",
+        "title": "02h00 12/06 Mexico vs South Africa (Hội Quán) SD",
         "logo": "",
         "url": "https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-11 18:08:52"
+        "time": "2026-06-11 20:33:31"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 12/06 Khai Mạc WC (Hội Quán) FHD",
+        "title": "02h00 ngày 12/06 Mexico vs South Africa [CR Bưởi] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1781212640-0-0-cc583a5e15dd26283617d85bb718952a",
+        "time": "2026-06-11 20:33:31"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 12/06 Mexico vs South Africa [DECO] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1781213000-0-0-d306028e55ed47972e7d0b8a1227dfc2",
+        "time": "2026-06-11 20:33:31"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 12/06 Mexico vs South Africa [BLV COCA] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781212280-0-0-aafeebd48e8f008cae73acf598a9025e",
+        "time": "2026-06-11 20:33:31"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 12/06 Mexico vs South Africa (Hội Quán) FHD",
         "logo": "",
         "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8",
-        "time": "2026-06-11 18:08:52"
+        "time": "2026-06-11 20:33:31"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 12/06 Helsingborg vs Landskrona BoIS [BLV CÁO] (Socolive) m3u8",
+        "title": "02h00 ngày 12/06 Mexico vs South Africa [BLV MESSI] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1781204000-0-0-a76e756cbe062b2dee5d8b1a8bcb42af",
-        "time": "2026-06-11 18:08:52"
+        "url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1781212280-0-0-518e885e454f81cc85415848b9fdc1fc",
+        "time": "2026-06-11 20:33:31"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 12/06 Helsingborg vs Landskrona BoIS [BLV WUKONG] (Socolive) m3u8",
+        "title": "02h00 ngày 12/06 Mexico vs South Africa [CR Bưởi] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1781204000-0-0-c109314e5a8efaff28362018aa4a3a0b",
-        "time": "2026-06-11 18:08:52"
+        "url": "https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1781212640-0-0-67b7331052e09cdd53a9160575badfd0",
+        "time": "2026-06-11 20:33:31"
     },
     {
         "group": "FPT SPORT",
-        "title": "16h00 11/06 The Mongolz vs BetBoom (Hội Quán) FHD",
+        "title": "02h00 ngày 12/06 Mexico vs South Africa [BLV MESSI] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8",
-        "time": "2026-06-11 18:08:52"
+        "url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781212280-0-0-21aed08d1e9e838466108c7aceca3818",
+        "time": "2026-06-11 20:33:31"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 12/06 Portugal U20 vs Canada U20 (Hội Quán) FHD",
+        "title": "02h00 ngày 12/06 Mexico vs South Africa [BLV COCA] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8",
-        "time": "2026-06-11 18:08:52"
+        "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1781212280-0-0-b32227d829d42f416f7593c583ecee33",
+        "time": "2026-06-11 20:33:31"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 12/06 Portugal U20 vs Canada U20 (Hội Quán) SD",
+        "title": "02h00 12/06 Mexico vs South Africa (Hội Quán) SD",
         "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-11 18:08:52"
+        "url": "https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-11 20:33:31"
     },
     {
         "group": "FPT SPORT",
-        "title": "23h30 11/06 Ben Shelton vs Marcos Giron (Hội Quán) SD",
+        "title": "02h00 12/06 Mexico vs South Africa (Hội Quán) FHD",
         "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-11 18:08:52"
+        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8",
+        "time": "2026-06-11 20:33:31"
     },
     {
         "group": "FPT SPORT",
-        "title": "23h30 11/06 Ben Shelton vs Marcos Giron (Hội Quán) FHD",
+        "title": "02h00 ngày 12/06 Mexico vs South Africa [BLV ĐỐM] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8",
-        "time": "2026-06-11 18:08:52"
+        "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1781212640-0-0-b7d8cb969a2944804b58f0ce35aa39f2",
+        "time": "2026-06-11 20:33:31"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 12/06 Helsingborg vs Landskrona BoIS [BLV WUKONG] (Socolive) hdM3u8",
+        "title": "02h00 12/06 Mexico vs South Africa (Hội Quán) SD",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1781204000-0-0-5ddc8b57d5097997f9522a596c6b0f23",
-        "time": "2026-06-11 18:08:52"
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-11 20:33:31"
     },
     {
         "group": "FPT SPORT",
-        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8",
+        "title": "03h00 12/06 Đức vs Ý (Hội Quán) FHD",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781203640-0-0-aeb09217d6ef2548e5e4538f9f087339",
-        "time": "2026-06-11 18:08:52"
+        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8",
+        "time": "2026-06-11 20:33:31"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h30 12/06 Bulgaria vs Iran (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-11 20:33:31"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 12/06 Mexico vs South Africa (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-11 20:33:31"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 12/06 Mexico vs South Africa [BLV Củ Cải] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1781212640-0-0-b3e651b9104b451dc3c8615c7a8fb065",
+        "time": "2026-06-11 20:33:31"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 12/06 Mexico vs South Africa [BLV 7UP] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781212640-0-0-37cf0a8181792f805b52b000514a17dc",
+        "time": "2026-06-11 20:33:31"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 12/06 Mexico vs South Africa [BLV Củ Cải] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1781212640-0-0-1298421107020511adf1207a8a72b3a2",
+        "time": "2026-06-11 20:33:31"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 12/06 Mexico vs South Africa (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8",
+        "time": "2026-06-11 20:33:31"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 12/06 Mexico vs South Africa [DECO] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1781213000-0-0-31107c56d4055f3a1f4c915cb10e74ec",
+        "time": "2026-06-11 20:33:31"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 12/06 Mexico vs South Africa [BLV 7UP] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781212640-0-0-090cb1bd76c52c630f794f566d6c339f",
+        "time": "2026-06-11 20:33:31"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 12/06 Mexico vs South Africa [THẠCH TÚ] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1781212640-0-0-5e4149ab52255fa51ac15d41bcce4595",
+        "time": "2026-06-11 20:33:31"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 12/06 Mexico vs South Africa (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8",
+        "time": "2026-06-11 20:33:31"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h30 12/06 Bulgaria vs Iran (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8",
+        "time": "2026-06-11 20:33:31"
     }
 ]
