@@ -1,9 +1,23 @@
 [
     {
+        "group": "VÒNG CẤM TV",
+        "title": "Brazil vs Morocco",
+        "logo": "https://media.api-sports.io/football/teams/6.png",
+        "url": "https://bglive.yarncdn.live/live/bgtv_blv_lenh/playlist.m3u8",
+        "time": "2026-06-13 23:05:09"
+    },
+    {
+        "group": "VÒNG CẤM TV",
+        "title": "Brazil vs Morocco",
+        "logo": "https://media.api-sports.io/football/teams/6.png",
+        "url": "https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8",
+        "time": "2026-06-13 23:05:09"
+    },
+    {
         "group": "HỘI QUÁN",
         "title": "05:00 | Brazil vs Morocco",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v2a1/mono.m3u8",
         "time": "2026-06-14 05:00:00"
     },
     {
@@ -24,22 +38,8 @@
         "group": "HỘI QUÁN",
         "title": "05:00 | Brazil vs Morocco",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v2a1/mono.m3u8",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8",
         "time": "2026-06-14 05:00:00"
-    },
-    {
-        "group": "VÒNG CẤM TV",
-        "title": "Brazil vs Morocco",
-        "logo": "https://media.api-sports.io/football/teams/6.png",
-        "url": "https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8",
-        "time": "2026-06-13 21:57:56"
-    },
-    {
-        "group": "VÒNG CẤM TV",
-        "title": "Brazil vs Morocco",
-        "logo": "https://media.api-sports.io/football/teams/6.png",
-        "url": "https://bglive.yarncdn.live/live/bgtv_blv_lenh/playlist.m3u8",
-        "time": "2026-06-13 21:57:56"
     },
     {
         "group": "CA LA TV",
@@ -52,329 +52,406 @@
         "group": "CA LA TV",
         "title": "22:00 | Brazil vs Ma Rốc",
         "logo": "https://img.colatv88xd.cc/football/team/99bf3d153d4bf67d640051a1af322505.png!w80",
-        "url": "https://live05.msdht.app/live/24561735.m3u8",
+        "url": "https://live05.msdht.app/live/02456966.m3u8",
         "time": "2026-06-13 22:00:00"
     },
     {
-        "group": "CA LA TV",
-        "title": "12:00 | BFF Academy U19 vs FC Paro",
-        "logo": "https://img.colatv88xd.cc/football/team/9d4caac656f50e75750c905733ce6114.png!w80",
-        "url": "https://live05.msdht.app/live/08552895.m3u8",
-        "time": "2026-06-15 12:00:00"
+        "group": "VÒNG CẤM TV",
+        "title": "Thổ Nhĩ Kỳ -  Ý ",
+        "logo": "https://static.flashscore.com/res/image/data/byFAJXzS-vBKZiE2j.png",
+        "url": "https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8",
+        "time": "2026-06-13 23:05:09"
     },
     {
         "group": "CA LA TV",
-        "title": "13:00 | Ljungskile vs Ostersunds",
-        "logo": "https://img.colatv88xd.cc/football/team/bf424cb7b0dea050a42b9739eb261a3a.jpg!w80",
-        "url": "https://live05.msdht.app/live/02456966.m3u8",
-        "time": "2026-06-14 13:00:00"
+        "title": "23:00 | Atlanta United FC II vs Chattanooga",
+        "logo": "https://img.colatv88xd.cc/football/team/edb062572326167a76fc8a5542c8a71a.png!w80",
+        "url": "https://live05.msdht.app/live/14707124.m3u8",
+        "time": "2026-06-13 23:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "04:00 | Úc vs Thổ nhĩ kỳ",
+        "logo": "https://img.colatv88xd.cc/football/team/2d8fe42de2f833581faa077f788329fa.png!w80",
+        "url": "https://live05.msdht.app/live/08552895.m3u8",
+        "time": "2026-06-14 04:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "17:00 | Đức vs Curacao",
+        "logo": "https://img.colatv88xd.cc/football/team/5856c2f4a854359864b18f9aed3f8874.png!w80",
+        "url": "https://live05.msdht.app/live/24561735.m3u8",
+        "time": "2026-06-14 17:00:00"
     },
     {
         "group": "FPT SPORT",
         "title": "05h00 ngày 14/06 Brazil vs Morocco (Lương Sơn) BLV YẾN THANH m3u",
         "logo": "",
         "url": "https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582",
-        "time": "2026-06-13 21:57:58"
+        "time": "2026-06-13 23:05:10"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h00 ngày 14/06 Brazil vs Morocco (Lương Sơn) BLV LƯU BỊ m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1",
+        "time": "2026-06-13 23:05:10"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h00 ngày 14/06 Brazil vs Morocco (Lương Sơn) BLV DƯƠNG CHÍ m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33",
+        "time": "2026-06-13 23:05:10"
     },
     {
         "group": "FPT SPORT",
         "title": "04h13 ngày 14/06 Mexico vs Nam Phi (Lương Sơn) BLV KEVILL REPLAY m3u",
         "logo": "",
         "url": "https://hls.cdnfaster-a.live/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1",
-        "time": "2026-06-13 21:57:58"
+        "time": "2026-06-13 23:05:10"
     },
     {
         "group": "FPT SPORT",
-        "title": "05h00 ngày 14/06 Brazil vs Morocco [TẠ BIÊN GIỚI] (Socolive) hdM3u8",
+        "title": "05h00 ngày 14/06 Brazil vs Morocco (Lương Sơn) BLV LỮ BỐ m3u",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=b4b599bdf2243be30ec73ad7da5de7d6&txTime=6a2e2448",
-        "time": "2026-06-13 21:57:58"
+        "url": "https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1",
+        "time": "2026-06-13 23:05:10"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h00 ngày 14/06 Brazil vs Morocco (Lương Sơn) BLV KAKA m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6",
+        "time": "2026-06-13 23:05:10"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h00 ngày 14/06 Brazil vs Morocco (Lương Sơn) BLV TRIỆU TỬ LONG m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070",
+        "time": "2026-06-13 23:05:10"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h05 ngày 14/06 Loudoun United vs Rhode Island (Lương Sơn) BLV MÃ SIÊU m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b",
+        "time": "2026-06-13 23:05:10"
     },
     {
         "group": "FPT SPORT",
         "title": "05h00 ngày 14/06 Brazil vs Morocco [RICKHANTER] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=5defd8608828db6e249481e3ce12a50b&txTime=6a2e22e0",
-        "time": "2026-06-13 21:57:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 14/06 Brazil vs Morocco [SAO LA] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=8eb9ed4c359cb62e747d6b5b4137e288&txTime=6a2e2448",
-        "time": "2026-06-13 21:57:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "04h30 ngày 14/06 Colo Colo vs Cobresal [XUÂN SON] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=545a04768a555009d4ecffceb32df7a6&txTime=6a2e22e0",
-        "time": "2026-06-13 21:57:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "04h30 ngày 14/06 Colo Colo vs Cobresal [XUÂN SON] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=d3489c54342b4fd0ed84f42a1a5938c8&txTime=6a2e22e0",
-        "time": "2026-06-13 21:57:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 14/06 Brazil vs Morocco [TẠ BIÊN GIỚI] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=e5eb8efd2bce39ad1da29412967c5aec&txTime=6a2e2448",
-        "time": "2026-06-13 21:57:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 14/06 Brazil vs Morocco [SAO LA] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=54dd00e1ab3846aa04ddcffaa174d53c&txTime=6a2e2448",
-        "time": "2026-06-13 21:57:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 14/06 Brazil vs Morocco [BLV TOMMY] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=7eae58f938ee5abdab69d44a7aa7c1aa&txTime=6a2e2448",
-        "time": "2026-06-13 21:57:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 14/06 Brazil vs Morocco [BLV TOMMY] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=ff584d69ae69de06674fe7c192df983d&txTime=6a2e2448",
-        "time": "2026-06-13 21:57:58"
+        "url": "https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=bddae9c64ebcbd6da3956d0942b1bea4&txTime=6a2e33c0",
+        "time": "2026-06-13 23:05:10"
     },
     {
         "group": "FPT SPORT",
         "title": "05h00 ngày 14/06 Brazil vs Morocco [RICKHANTER] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=e3db0f37fd3fa5eef5b95a2708adb480&txTime=6a2e22e0",
-        "time": "2026-06-13 21:57:58"
+        "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=c418915046a8bf93980dafb47c13edce&txTime=6a2e33c0",
+        "time": "2026-06-13 23:05:10"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "04h30 ngày 14/06 Colo Colo vs Cobresal [XUÂN SON] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=310c7ef59eb1ebc8423c213ab3f5884c&txTime=6a2e33c1",
+        "time": "2026-06-13 23:05:10"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "04h30 ngày 14/06 Colo Colo vs Cobresal [XUÂN SON] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=ea99754878d188d4ac26d3a0994a0578&txTime=6a2e33c1",
+        "time": "2026-06-13 23:05:10"
     },
     {
         "group": "FPT SPORT",
         "title": "05h00 ngày 14/06 Brazil vs Morocco [DECO] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1781391200-0-0-ac89553437453b679b12639801eaad96",
-        "time": "2026-06-13 21:57:58"
+        "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1781394440-0-0-2d4777445f4c450d58c816a69960d2e8",
+        "time": "2026-06-13 23:05:10"
     },
     {
         "group": "FPT SPORT",
         "title": "05h00 ngày 14/06 Brazil vs Morocco [DECO] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1781391200-0-0-5e848df93854effa11599d7e3f0337f8",
-        "time": "2026-06-13 21:57:58"
+        "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1781394440-0-0-ac5dbb4cb4899e81a6900648da255ed1",
+        "time": "2026-06-13 23:05:10"
     },
     {
         "group": "FPT SPORT",
-        "title": "05h00 ngày 14/06 Brazil vs Morocco [BLV TAP] (Socolive) hdM3u8",
+        "title": "05h00 ngày 14/06 Brazil vs Morocco [SAO LA] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1781391200-0-0-9e1c50570f81dd99949fc449dc63edaa",
-        "time": "2026-06-13 21:57:58"
+        "url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=342fb0274d9bb6aeaf273afdb065cf38&txTime=6a2e3528",
+        "time": "2026-06-13 23:05:10"
     },
     {
         "group": "FPT SPORT",
-        "title": "03h00 ngày 14/06 Quilmes vs Gimnasia y Tiro [ĐỖ TÚ TÀI] (Socolive) m3u8",
+        "title": "05h00 ngày 14/06 Brazil vs Morocco [SAO LA] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1781391200-0-0-96d66fe346e85aa7e838423bf0354891",
-        "time": "2026-06-13 21:57:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 14/06 Brazil vs Morocco [BLV MESSI] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781390840-0-0-ed5f9208b1fb5ee603a5daab73b328f7",
-        "time": "2026-06-13 21:57:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 14/06 Brazil vs Morocco [BLV COCA] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781390840-0-0-0f337903f8f63931cbecfc307adc1a85",
-        "time": "2026-06-13 21:57:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "03h00 ngày 14/06 Quilmes vs Gimnasia y Tiro [BLV WUKONG] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1781391200-0-0-efae1418cc249e89adac7dbe26e9e0e8",
-        "time": "2026-06-13 21:57:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "KAZ PR: FC Zhetysu Taldykorgan vs Okzhetpes [BLV PICK] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1781391200-0-0-74902af594aa3e7bb05effd14586c0d9",
-        "time": "2026-06-13 21:57:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 14/06 Brazil vs Morocco (Hội Quán) SD",
-        "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-13 21:57:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 14/06 Brazil vs Morocco [BLV Củ Cải] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1781391200-0-0-fcf2b5b2ef70a6ec579e5a228e81a4f8",
-        "time": "2026-06-13 21:57:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 14/06 Brazil vs Morocco [THẠCH TÚ] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1781390840-0-0-e6331e0464d303e6e017ce3a92f1e1cd",
-        "time": "2026-06-13 21:57:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 14/06 Brazil vs Morocco [A BỆU] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1781390480-0-0-4f556211105b1893d7c718a5b611f218",
-        "time": "2026-06-13 21:57:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 14/06 Brazil vs Morocco [BLV TAP] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1781391200-0-0-132c4f502891b0f3558f20c39a3c31d3",
-        "time": "2026-06-13 21:57:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 14/06 Brazil vs Morocco [BLV MESSI] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1781390840-0-0-1d4b699d868f93806f071db8901e4c60",
-        "time": "2026-06-13 21:57:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781390480-0-0-d36c44a2acff0d1b3c72f0f0c0631a21",
-        "time": "2026-06-13 21:57:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "03h00 ngày 14/06 Quilmes vs Gimnasia y Tiro [BLV WUKONG] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1781391200-0-0-969b6d71b221be3dc2e067294bcf5e73",
-        "time": "2026-06-13 21:57:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 14/06 Brazil vs Morocco [BLV 7UP] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781390840-0-0-cacca38d1709e5e29801632958363467",
-        "time": "2026-06-13 21:57:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 14/06 Brazil vs Morocco [BLV Củ Cải] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1781391200-0-0-b90d7767a41d762d2d4953a8a6d7e97a",
-        "time": "2026-06-13 21:57:58"
+        "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=cb825dd125edec59e40b163dd6f915c9&txTime=6a2e3528",
+        "time": "2026-06-13 23:05:10"
     },
     {
         "group": "FPT SPORT",
         "title": "05h00 ngày 14/06 Brazil vs Morocco [BLV COCA] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1781390840-0-0-f9104b2582ac6dba1c7c1d8e36b31ba8",
-        "time": "2026-06-13 21:57:58"
+        "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1781395160-0-0-642e89b0031e5293656a45712430e7ce",
+        "time": "2026-06-13 23:05:10"
     },
     {
         "group": "FPT SPORT",
-        "title": "05h00 ngày 14/06 Brazil vs Morocco [BLV 7UP] (Socolive) hdM3u8",
+        "title": "06h00 ngày 14/06 Lexington vs San Antonio [BLV YONE] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781390840-0-0-a19c2218d9e70117a431cc855d289c30",
-        "time": "2026-06-13 21:57:58"
+        "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1781394800-0-0-bc178fdfc5e894c2026d10e1eb7ee7d9",
+        "time": "2026-06-13 23:05:10"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h00 ngày 14/06 Brazil vs Morocco [A BỆU] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1781394800-0-0-de74e155a22f5bce58507488af8cccf1",
+        "time": "2026-06-13 23:05:10"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 14/06 Gimnasia Jujuy vs San Martin San Juan [BLV A TÚ] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1781394441-0-0-bd97e5cc451e6c176ebcdd7c7ab61709",
+        "time": "2026-06-13 23:05:10"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h00 ngày 14/06 Brazil vs Morocco [BLV TAP] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1781394440-0-0-402588dd64aad222829ed5690af94f06",
+        "time": "2026-06-13 23:05:10"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 14/06 Pittsburgh Riverhounds vs Indy Eleven [QUÂN JK] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1781394801-0-0-5a35608878bee8993c3d2690a6154697",
+        "time": "2026-06-13 23:05:10"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 14/06 Sporting Jax vs Detroit City [BLV THÓC] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1781394801-0-0-1d712a8fb305e8cb6836973a85fdf0ad",
+        "time": "2026-06-13 23:05:10"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 14/06 Pittsburgh Riverhounds vs Indy Eleven [QUÂN JK] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1781394801-0-0-59c3c514897bcccdf2cc07e040674dae",
+        "time": "2026-06-13 23:05:10"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "04h30 ngày 14/06 Colo Colo vs Cobresal [BLV PICK] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1781394441-0-0-21dcda1796e9a17f218d65f97eec4d87",
+        "time": "2026-06-13 23:05:10"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 14/06 Gimnasia Jujuy vs San Martin San Juan [BLV A TÚ] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1781394441-0-0-1fa8f39fd388d93fc2250312f3a71d96",
+        "time": "2026-06-13 23:05:10"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h00 ngày 14/06 Brazil vs Morocco [BLV Củ Cải] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1781394440-0-0-dbf464e6e29080f020797176279c9cc6",
+        "time": "2026-06-13 23:05:10"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h00 ngày 14/06 Brazil vs Morocco [A BỆU] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1781394800-0-0-c3cd7a935080348a4f116f75e6ef63c8",
+        "time": "2026-06-13 23:05:10"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h00 ngày 14/06 Brazil vs Morocco [BLV TOMMY] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=31da4a7ad22061c45aabb25a1aac7f4c&txTime=6a2e3528",
+        "time": "2026-06-13 23:05:10"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h00 ngày 14/06 Brazil vs Morocco [BLV TOMMY] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=794f8b7ec4b75fe1ad7aa20723f7527b&txTime=6a2e3528",
+        "time": "2026-06-13 23:05:10"
     },
     {
         "group": "FPT SPORT",
         "title": "05h00 ngày 14/06 Brazil vs Morocco [THẠCH TÚ] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1781390840-0-0-ddc97a67a4168edd64c6e574765f500f",
-        "time": "2026-06-13 21:57:58"
+        "url": "https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1781395160-0-0-b92940e8b3504a7a963725b9cb9f931b",
+        "time": "2026-06-13 23:05:10"
     },
     {
         "group": "FPT SPORT",
-        "title": "KAZ PR: FC Zhetysu Taldykorgan vs Okzhetpes [BLV PICK] (Socolive) hdM3u8",
+        "title": "05h00 ngày 14/06 Brazil vs Morocco [THẠCH TÚ] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1781391200-0-0-dd3d87259182cffa05d9a2e102967212",
-        "time": "2026-06-13 21:57:58"
+        "url": "https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1781395160-0-0-2f0ef56eaf65095b7ceeac132dfa26e5",
+        "time": "2026-06-13 23:05:10"
     },
     {
         "group": "FPT SPORT",
-        "title": "03h00 ngày 14/06 Quilmes vs Gimnasia y Tiro [ĐỖ TÚ TÀI] (Socolive) hdM3u8",
+        "title": "05h00 ngày 14/06 Brazil vs Morocco [TẠ BIÊN GIỚI] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1781391200-0-0-2d35bfd0b8df5750d23bc614c9be9850",
-        "time": "2026-06-13 21:57:58"
+        "url": "https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=e0e80e6161051c51e244768fc2ad2e12&txTime=6a2e3528",
+        "time": "2026-06-13 23:05:10"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h00 ngày 14/06 Brazil vs Morocco [BLV MESSI] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781395160-0-0-8df9c5ff2cf0696af443505aebc5b224",
+        "time": "2026-06-13 23:05:10"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h00 ngày 14/06 Brazil vs Morocco [TẠ BIÊN GIỚI] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=1867b6b2ab0fcd9d6b31ea0248c559db&txTime=6a2e3528",
+        "time": "2026-06-13 23:05:10"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "04h30 ngày 14/06 Colo Colo vs Cobresal [BLV PICK] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1781394441-0-0-b432a6789916a905dbd939e243847bcf",
+        "time": "2026-06-13 23:05:10"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 14/06 Lexington vs San Antonio [BLV YONE] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1781394800-0-0-1023dd03392363b1ad3d913d9daa4e5d",
+        "time": "2026-06-13 23:05:10"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h00 ngày 14/06 Brazil vs Morocco [BLV COCA] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781395160-0-0-a9f6e0097d8d65411cdf2db3bed28437",
+        "time": "2026-06-13 23:05:10"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 14/06 Sporting Jax vs Detroit City [BLV THÓC] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1781394801-0-0-c56e2342a38f69f6c713fe2a48031ca9",
+        "time": "2026-06-13 23:05:10"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781394800-0-0-f79cb121d4b6ded0d159b612a454d9d9",
+        "time": "2026-06-13 23:05:10"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h00 ngày 14/06 Brazil vs Morocco [BLV Củ Cải] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1781394440-0-0-3331e843f03d92582f4bede307b7a6ab",
+        "time": "2026-06-13 23:05:10"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h00 ngày 14/06 Brazil vs Morocco [BLV TAP] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1781394440-0-0-e3031270073e59f406250a4220e7aa63",
+        "time": "2026-06-13 23:05:10"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h00 ngày 14/06 Brazil vs Morocco [BLV 7UP] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781395161-0-0-a815ec0f327dd98eb2e3222580201cdc",
+        "time": "2026-06-13 23:05:10"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h00 ngày 14/06 Brazil vs Morocco [BLV 7UP] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781395161-0-0-b8d6e5901a53393389262148a79904fd",
+        "time": "2026-06-13 23:05:10"
     },
     {
         "group": "FPT SPORT",
         "title": "05h00 14/06 Brazil vs Morocco (Hội Quán) SD",
         "logo": "",
         "url": "https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-13 21:57:58"
+        "time": "2026-06-13 23:05:10"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h00 14/06 Brazil vs Morocco (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-13 23:05:10"
     },
     {
         "group": "FPT SPORT",
         "title": "04h30 14/06 Colo Colo vs Cobresal (Hội Quán) SD",
         "logo": "",
         "url": "https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-13 21:57:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 ngày 14/06 Brazil vs Morocco [A BỆU] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1781390480-0-0-6779703ab96d40b05b1d551793af04da",
-        "time": "2026-06-13 21:57:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 14/06 Brazil vs Morocco (Hội Quán) SD",
-        "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-13 21:57:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781390480-0-0-9105a6968c0653c9a4b042f46f47102e",
-        "time": "2026-06-13 21:57:58"
+        "time": "2026-06-13 23:05:10"
     },
     {
         "group": "FPT SPORT",
         "title": "05h00 14/06 Brazil vs Morocco (Hội Quán) FHD",
         "logo": "",
         "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8",
-        "time": "2026-06-13 21:57:58"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h00 14/06 Brazil vs Morocco (Hội Quán) FHD",
-        "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8",
-        "time": "2026-06-13 21:57:58"
+        "time": "2026-06-13 23:05:10"
     },
     {
         "group": "FPT SPORT",
         "title": "05h00 14/06 Brazil vs Morocco (Hội Quán) FHD",
         "logo": "",
         "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8",
-        "time": "2026-06-13 21:57:58"
+        "time": "2026-06-13 23:05:10"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h00 14/06 Brazil vs Morocco (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-13 23:05:10"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h00 14/06 Brazil vs Morocco (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8",
+        "time": "2026-06-13 23:05:10"
     },
     {
         "group": "FPT SPORT",
         "title": "04h30 14/06 Colo Colo vs Cobresal (Hội Quán) FHD",
         "logo": "",
         "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8",
-        "time": "2026-06-13 21:57:58"
+        "time": "2026-06-13 23:05:10"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h00 ngày 14/06 Brazil vs Morocco [BLV MESSI] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1781395160-0-0-f92aac0ce85efaf070cc012dc1e1c528",
+        "time": "2026-06-13 23:05:10"
     }
 ]
