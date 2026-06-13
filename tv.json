@@ -1,26 +1,5 @@
 [
     {
-        "group": "VÒNG CẤM TV",
-        "title": "Brazil vs Serbia",
-        "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/zKLzoJVYz0bb6oAnPUdwWQ_96x96.png",
-        "url": "https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8",
-        "time": "2026-06-13 15:06:21"
-    },
-    {
-        "group": "HỘI QUÁN",
-        "title": "05:30 | Thổ Nhĩ Kỳ vs Ý",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8",
-        "time": "2026-06-14 05:30:00"
-    },
-    {
-        "group": "HỘI QUÁN",
-        "title": "21:00 | Brazil vs Serbia",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Brazil_%281968%E2%80%931992%29.svg/250px-Flag_of_Brazil_%281968%E2%80%931992%29.svg.png",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8",
-        "time": "2026-06-13 21:00:00"
-    },
-    {
         "group": "HỘI QUÁN",
         "title": "05:00 | Brazil vs Morocco",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
@@ -28,32 +7,18 @@
         "time": "2026-06-14 05:00:00"
     },
     {
+        "group": "HỘI QUÁN",
+        "title": "22:00 | Đức vs Pháp",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/250px-Flag_of_Germany.svg.png",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-14 22:00:00"
+    },
+    {
         "group": "VÒNG CẤM TV",
-        "title": "VPS vs KuPS",
-        "logo": "https://media.api-sports.io/football/teams/650.png",
+        "title": "Lahti vs SJK",
+        "logo": "https://media.api-sports.io/football/teams/1166.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8",
-        "time": "2026-06-13 15:06:21"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "14:00 | Vaasa VPS vs KuPs",
-        "logo": "https://img.colatv88xd.cc/football/team/5df3cf66c96a43a08e06da83aeb2f7a8.png!w80",
-        "url": "https://live05.msdht.app/live/87547578.m3u8",
-        "time": "2026-06-13 14:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "14:00 | Jaro vs HJK",
-        "logo": "https://img.colatv88xd.cc/football/team/3cb5e2d3b6f734ff2f10e4b47e50d380.png!w80",
-        "url": "https://live05.msdht.app/live/99121525.m3u8",
-        "time": "2026-06-13 14:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "13:15 | Thái Lan U19 vs Úc U19",
-        "logo": "https://img.colatv88xd.cc/football/team/43b2dd1c93748297cfbbea4d31247641.png!w80",
-        "url": "https://live05.msdht.app/live/82054853.m3u8",
-        "time": "2026-06-13 13:15:00"
+        "time": "2026-06-13 16:41:38"
     },
     {
         "group": "CA LA TV",
@@ -63,619 +28,633 @@
         "time": "2026-06-13 15:00:00"
     },
     {
-        "group": "FPT SPORT",
-        "title": "21h00 ngày 13/06 ML Vitebsk vs FK Vitebsk (Lương Sơn) BLV LÝ ỨNG m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d",
-        "time": "2026-06-13 15:06:22"
+        "group": "CA LA TV",
+        "title": "16:00 | Lahti vs SJK",
+        "logo": "https://img.colatv88xd.cc/football/team/0ab1b8407086bab060a396f244a28cd6.png!w80",
+        "url": "https://live05.msdht.app/live/08552895.m3u8",
+        "time": "2026-06-13 16:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "16:00 | IFK Mariehamn vs CLB Gnistan Helsinki",
+        "logo": "https://img.colatv88xd.cc/football/team/41140c6f793b378e8cad7087ebce5066.png!w80",
+        "url": "https://live05.msdht.app/live/78905744.m3u8",
+        "time": "2026-06-13 16:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "17:00 | Samgurali vs Torpedo Kutaisi",
+        "logo": "https://img.colatv88xd.cc/football/team/a9bea85988465e9accfae7984ac850eb.png!w80",
+        "url": "https://live05.msdht.app/live/99121525.m3u8",
+        "time": "2026-06-13 17:00:00"
     },
     {
         "group": "FPT SPORT",
-        "title": "20h15 ngày 13/06 Thailand U19 vs Australia U19 (Lương Sơn) BLV TÔN LẬP m3u",
+        "title": "23h00 ngày 13/06 Lahti vs SJK Seinajoen (Lương Sơn) BLV LƯU BỊ m3u",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df",
-        "time": "2026-06-13 15:06:22"
+        "url": "https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1",
+        "time": "2026-06-13 16:41:40"
     },
     {
         "group": "FPT SPORT",
-        "title": "20h15 ngày 13/06 Thailand U19 vs Australia U19 (Lương Sơn) BLV YẾN THANH m3u",
+        "title": "22h00 ngày 13/06 FK Auda Riga vs Jelgava (Lương Sơn) BLV TÀO THÁO m3u",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582",
-        "time": "2026-06-13 15:06:22"
+        "url": "https://hls.cdnfaster-a.live/live/TAOTHAO/index.m3u8?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9",
+        "time": "2026-06-13 16:41:40"
     },
     {
         "group": "FPT SPORT",
-        "title": "21h00 ngày 13/06 Jaro vs HJK Helsinki (Lương Sơn) BLV LIO m3u",
+        "title": "22h00 ngày 13/06 FC Metalurgi Rustavi vs Fc Meshakhte Tkibuli (Lương Sơn) BLV DƯƠNG CHÍ m3u",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a",
-        "time": "2026-06-13 15:06:22"
+        "url": "https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33",
+        "time": "2026-06-13 16:41:40"
     },
     {
         "group": "FPT SPORT",
-        "title": "20h15 ngày 13/06 Thailand U19 vs Australia U19 (Lương Sơn) BLV KAKA m3u",
+        "title": "23h00 ngày 13/06 IFK Mariehamn vs Gnistan Helsinki (Lương Sơn) BLV LỮ BỐ m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "23h00 ngày 13/06 IFK Mariehamn vs Gnistan Helsinki (Lương Sơn) BLV KEVILL m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "23h30 ngày 13/06 Coquimbo Unido vs O.Higgins (Lương Sơn) BLV QUAN VŨ m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "23h00 ngày 13/06 Lahti vs SJK Seinajoen (Lương Sơn) BLV KAKA m3u",
         "logo": "",
         "url": "https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6",
-        "time": "2026-06-13 15:06:22"
+        "time": "2026-06-13 16:41:40"
     },
     {
         "group": "FPT SPORT",
-        "title": "21h00 ngày 13/06 Jaro vs HJK Helsinki (Lương Sơn) BLV HÀN TÍN m3u",
+        "title": "22h00 ngày 13/06 FC Metalurgi Rustavi vs Fc Meshakhte Tkibuli (Lương Sơn) BLV TÂY MÔN KHÁNH m3u",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df",
-        "time": "2026-06-13 15:06:22"
+        "url": "https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da",
+        "time": "2026-06-13 16:41:40"
     },
     {
         "group": "FPT SPORT",
-        "title": "21h00 ngày 13/06 Tartu JK Maag Tammeka vs Parnu JK Vaprus (Lương Sơn) BLV LÃO HẠC m3u",
+        "title": "23h30 ngày 13/06 Uni X-Labs Minsk vs Slutsksakhar Slutsk (Lương Sơn) BLV MAYBACH m3u",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491",
-        "time": "2026-06-13 15:06:22"
+        "url": "https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b",
+        "time": "2026-06-13 16:41:40"
     },
     {
         "group": "FPT SPORT",
-        "title": "21h00 ngày 13/06 Vaasa VPS vs KuPs (Lương Sơn) BLV TRIỆU TỬ LONG m3u",
+        "title": "23h00 ngày 13/06 IFK Mariehamn vs Gnistan Helsinki (Lương Sơn) BLV LEO m3u",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070",
-        "time": "2026-06-13 15:06:22"
+        "url": "https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6",
+        "time": "2026-06-13 16:41:40"
     },
     {
         "group": "FPT SPORT",
-        "title": "21h00 ngày 13/06 ML Vitebsk vs FK Vitebsk (Lương Sơn) BLV LÝ QUỲ m3u",
+        "title": "23h30 ngày 13/06 Uni X-Labs Minsk vs Slutsksakhar Slutsk (Lương Sơn) BLV VƯƠNG LUÂN m3u",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3",
-        "time": "2026-06-13 15:06:22"
+        "url": "https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645",
+        "time": "2026-06-13 16:41:40"
     },
     {
         "group": "FPT SPORT",
-        "title": "21h00 ngày 13/06 Vaasa VPS vs KuPs (Lương Sơn) BLV HEINEKEN m3u",
+        "title": "23h30 ngày 13/06 Coquimbo Unido vs O.Higgins (Lương Sơn) BLV TÔN LẬP m3u",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "21h00 ngày 13/06 Maxline Vitebsk vs FK Vitebsk [BLV CHIVAS] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=c6af6a0717e09e93cedee962fe22b031&txTime=6a2dc1d9",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "21h00 ngày 13/06 Maxline Vitebsk vs FK Vitebsk [BLV CHIVAS] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=93001e02f9194b84b6226c8db3873c0b&txTime=6a2dc1d9",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "20h15 ngày 13/06 Thailand U19 vs Australia U19 [BLV ĐỐM] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912110_lhd.m3u8?txSecret=2438916da95ce6a47603fb63437b2282&txTime=6a2dc341",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "20h15 ngày 13/06 Thailand U19 vs Australia U19 [BLV ĐỐM] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912110_lsd.m3u8?txSecret=4b5bb75ad06faddf1dea9a4a78eb5e3e&txTime=6a2dc341",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "21h00 ngày 13/06 Vaasa VPS vs KuPs [CÔNG CHẤT] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1781365641-0-0-24f35193fb9c84b36fa1d8d382afcfbc",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "20h15 ngày 13/06 Thailand U19 vs Australia U19 [BLV Củ Cải] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1781365641-0-0-3ef12d8ced7ed1ca2cb706f0cd9cc96a",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781365640-0-0-294fb527429ae75073b9fa8a7460d9c5",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "21h00 ngày 13/06 Jaro vs HJK Helsinki [BLV COZY] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1781366001-0-0-14da9836271924e251abafbd28666d4c",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "20h15 ngày 13/06 Thailand U19 vs Australia U19 [BLV KAN] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=5bb2fa86f45a388f64116aa9b34c2b09&txTime=6a2dc341",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "21h00 ngày 13/06 Tartu JK Maag Tammeka vs Parnu JK Vaprus [CƠM CHÁY] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1781365641-0-0-ff15f79c571c99d9bdf76ae391d0e1d7",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "21h00 ngày 13/06 Jaro vs HJK Helsinki [LOKA] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1781365641-0-0-11835374298067a7690117871c06b0db",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "20h15 ngày 13/06 Thailand U19 vs Australia U19 [BLV KAN] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=ed4d0e80bac258af00e3c3c6989e5012&txTime=6a2dc341",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "20h15 ngày 13/06 Thailand U19 vs Australia U19 [BLV ROBBEN] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1781366001-0-0-da2cfdde9cf337c0fec3e0cc03e3844c",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "22h00 ngày 13/06 FC Metalurgi Rustavi vs Fc Meshakhte Tkibuli [BLV AB] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-612980_lsd.m3u8?auth_key=1781365641-0-0-81706ea32aba08c7b2ca7e742b4f50bf",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "21h00 ngày 13/06 Jaro vs HJK Helsinki [LOKA] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1781365641-0-0-7a75c923bfdcc1416ad893c392877623",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "20h15 ngày 13/06 Thailand U19 vs Australia U19 [NGƯỜI CÁ] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1781365641-0-0-33221290f793c7aad57403fb8b3bdefc",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "21h00 ngày 13/06 Vaasa VPS vs KuPs [BLV RÔSI] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=f8704a8120bb92f842e12f2c703f8859&txTime=6a2dc37c",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "20h15 ngày 13/06 Thailand U19 vs Australia U19 [BLV Củ Cải] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1781365641-0-0-ee01480092b1c06542f21dd1ee95080e",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "21h00 ngày 13/06 Vaasa VPS vs KuPs [BLV RÔSI] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=b528c196178541607f5f8a245b580ce0&txTime=6a2dc37c",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "21h00 ngày 13/06 Jaro vs HJK Helsinki [BLV TOMIA] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1781365640-0-0-5a0780ba5a4537da603fdeaabb6ccf95",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "21h00 ngày 13/06 Maxline Vitebsk vs FK Vitebsk [BLV A TINH] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=d576fda4cfc4ea785365646f565742af&txTime=6a2dc37d",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "21h00 ngày 13/06 Jaro vs HJK Helsinki [BLV TOMIA] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1781365640-0-0-e3d3b313e7435650c72b614daa6c87b8",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "21h00 ngày 13/06 Maxline Vitebsk vs FK Vitebsk [BLV A TINH] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=1a5884dc85c0dff4e79ff7d59daae671&txTime=6a2dc37d",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "20h15 ngày 13/06 Thailand U19 vs Australia U19 [BLV ROBBEN] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1781366001-0-0-520432660bfb2e2381faa795ef264d6d",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "21h00 ngày 13/06 Vaasa VPS vs KuPs [CÔNG CHẤT] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1781365641-0-0-8deb4626e56976b9adc5692a8c82ca0d",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "20h15 ngày 13/06 Thailand U19 vs Australia U19 [NGƯỜI CÁ] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1781365641-0-0-cd7d8f3f92bd8a6a14d8b5ba581d6e78",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "21h00 ngày 13/06 Tartu JK Maag Tammeka vs Parnu JK Vaprus [CƠM CHÁY] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1781365641-0-0-92b8637ba3bbec4e5d0776557f75e1bf",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "22h00 ngày 13/06 FC Metalurgi Rustavi vs Fc Meshakhte Tkibuli [BLV AB] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-612980_lhd.m3u8?auth_key=1781365641-0-0-3b62fe58dd33359c4f99031ffd855812",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "21h00 ngày 13/06 Jaro vs HJK Helsinki [BLV COZY] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1781366001-0-0-0723302e161031d44e431894772eaf6d",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "22h00 ngày 13/06 FK Auda Riga vs Jelgava [BLV LONG] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=1a17eb8007b8ee6a864d5c71be62cd68&txTime=6a2dc37c",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "22h00 ngày 13/06 FK Auda Riga vs Jelgava [BLV LONG] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=b8f81fce00dfcfdaf37e0afb697007cb&txTime=6a2dc37c",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "21h00 ngày 13/06 Jaro vs HJK Helsinki [LÃO LÂM] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1781366061-0-0-0f8e2080fcc2f465dca1fa3ff7e6ce55",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781365640-0-0-4ceec47cbbc49a8ecc9edb24c609fddc",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "22h00 ngày 13/06 FK Auda Riga vs Jelgava [PINKMAN] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=124fc3dd63a2b3f2a97f98821597fef7&txTime=6a2dc37d",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "22h00 ngày 13/06 FK Auda Riga vs Jelgava [PINKMAN] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=0b35ca248a420c1b570fcc244b4a110d&txTime=6a2dc37d",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "21h00 ngày 13/06 Jaro vs HJK Helsinki [LÃO LÂM] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1781366061-0-0-6f4940b1caf91b599f6c1f2f4dc081ed",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "22h00 ngày 13/06 FK Auda Riga vs Jelgava [BLV CÁO] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1781366061-0-0-2b663cfe26fd63e599b63bbffdad00f8",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "22h00 ngày 13/06 FC Metalurgi Rustavi vs Fc Meshakhte Tkibuli [BLV THÓC] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1781366061-0-0-1ad12f763bc8b55b4942d5b986730f59",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - Canada vs Bosnia and Herzegovina [Sóc mèo méo meo] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1781366061-0-0-caacfcf54243b1896c6450cae337cc04",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "21h00 ngày 13/06 Jaro vs HJK Helsinki [VƯƠNG ANH] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=1c9a28998503ce4c8f785203028c28d2&txTime=6a2dc4a9",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "22h00 ngày 13/06 FC Metalurgi Rustavi vs Fc Meshakhte Tkibuli [BLV THÓC] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1781366061-0-0-48a1c358cfb45850a4c6bf63348f71f3",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "22h00 ngày 13/06 FK Auda Riga vs Jelgava [BLV CÁO] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1781366061-0-0-d242f95bb3f3e8ff40481a8503aaa113",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - South Korea vs Czechia [Sóc đau cổ vai gáy] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1781366060-0-0-d43a0afdee41c6ce111669b4ab1978a4",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "21h00 ngày 13/06 Jaro vs HJK Helsinki [VƯƠNG ANH] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=ccb84ce64dd80f27e068f51c76a16b56&txTime=6a2dc4a9",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "21h00 ngày 13/06 Vaasa VPS vs KuPs [LOGAN] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-552832_lsd.m3u8?txSecret=85be4db2c2af6002fa550942a647cb3b&txTime=6a2dc4a9",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - USA vs Paraguay [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1781366060-0-0-944e9fe9887f3f3ddc85083fe3bc6193",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "22h00 ngày 13/06 FK Auda Riga vs Jelgava [BLV A WIN] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1781366061-0-0-bfec1da00740d3d5e483f17aff8a4cd8",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "21h00 ngày 13/06 Vaasa VPS vs KuPs [LOGAN] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=8081ab535ee435978750f491acde2c88&txTime=6a2dc4a9",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc nhàm nhang nhồ] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1781366060-0-0-18bb220183d5f5fbee6e387e17718736",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "21h00 ngày 13/06 Vaasa VPS vs KuPs [BLV CÒ] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1781366361-0-0-f816b5e5250d7bab0637b01e5337570c",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc nhàm nhang nhồ] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1781366060-0-0-fce9c1c12aabbc847a02894f2a75359c",
-        "time": "2026-06-13 15:06:22"
+        "url": "https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df",
+        "time": "2026-06-13 16:41:40"
     },
     {
         "group": "FPT SPORT",
         "title": "22h00 ngày 13/06 FK Auda Riga vs Jelgava [BLV A WIN] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1781366061-0-0-5449c11eaf9a609b4effa71aa643043a",
-        "time": "2026-06-13 15:06:22"
+        "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1781371401-0-0-7f775ad01c5c0646681775e58c8340c5",
+        "time": "2026-06-13 16:41:40"
     },
     {
         "group": "FPT SPORT",
-        "title": "21h00 ngày 13/06 Vaasa VPS vs KuPs [BLV CÒ] (Socolive) m3u8",
+        "title": "22h00 ngày 13/06 FK Auda Riga vs Jelgava [BLV LONG] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1781366361-0-0-abd8eb94e77c55fbebf831b9cabdd00a",
-        "time": "2026-06-13 15:06:22"
+        "url": "https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=b10786994ac3eb3baddc73210ec6d730&txTime=6a2dd858",
+        "time": "2026-06-13 16:41:40"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - Canada vs Bosnia and Herzegovina [Sóc trèo cây ngô đồng] (Socolive) hdM3u8",
+        "title": "22h00 ngày 13/06 FK Auda Riga vs Jelgava [BLV LONG] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1781366060-0-0-519e8a6d69ca8a3996b78013fba10d4d",
-        "time": "2026-06-13 15:06:22"
+        "url": "https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=833670b4563bb3e38b19e41707d94783&txTime=6a2dd858",
+        "time": "2026-06-13 16:41:40"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - USA vs Paraguay [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8",
+        "title": "22h00 ngày 13/06 FK Auda Riga vs Jelgava [PINKMAN] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1781366060-0-0-a3d0e4b5f78c8f62f6a4a350925503db",
-        "time": "2026-06-13 15:06:22"
+        "url": "https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=0e2d7e1ffa69fe7bfbc74a1d083324bf&txTime=6a2dd859",
+        "time": "2026-06-13 16:41:40"
     },
     {
         "group": "FPT SPORT",
-        "title": "21h00 ngày 13/06 Vaasa VPS vs KuPs [BLV KEM] (Socolive) hdM3u8",
+        "title": "22h00 ngày 13/06 FK Auda Riga vs Jelgava [PINKMAN] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1781366361-0-0-67aaa5e999f9ab838e60a3225a5fbfda",
-        "time": "2026-06-13 15:06:22"
+        "url": "https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=4eaa96b4bf651035b1ef29ed9312ab28&txTime=6a2dd859",
+        "time": "2026-06-13 16:41:40"
     },
     {
         "group": "FPT SPORT",
-        "title": "20h15 ngày 13/06 Thailand U19 vs Australia U19 [BLV NẤM] (Socolive) m3u8",
+        "title": "EST D1: FC Flora Tallinn vs Levadia Tallinn [BLV XO] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1781366361-0-0-496eee9106bcdd20071f64da4548c995",
-        "time": "2026-06-13 15:06:22"
+        "url": "https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1781371400-0-0-a5b6805f0fa9abe3c14a7763f1d80a5c",
+        "time": "2026-06-13 16:41:40"
     },
     {
         "group": "FPT SPORT",
-        "title": "21h00 ngày 13/06 Jaro vs HJK Helsinki [BLV CUỘI] (Socolive) hdM3u8",
+        "title": "CHI D1: Coquimbo Unido vs O.Higgins [BLV WUKONG] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1781366360-0-0-b8258690776138879dbee5f9852e3bc1",
-        "time": "2026-06-13 15:06:22"
+        "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1781371401-0-0-78d9433380bf0ec857ec961176645b68",
+        "time": "2026-06-13 16:41:40"
     },
     {
         "group": "FPT SPORT",
-        "title": "20h15 13/06 Thailand U19 vs Australia U19 (Hội Quán) FHD",
+        "title": "FIN D1: Lahti vs SJK Seinajoen [BLV ENZO] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8",
-        "time": "2026-06-13 15:06:22"
+        "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1781371400-0-0-c20b66dea07b691aaff17a9635810902",
+        "time": "2026-06-13 16:41:40"
     },
     {
         "group": "FPT SPORT",
-        "title": "21h00 ngày 13/06 Vaasa VPS vs KuPs [BLV ALEX] (Socolive) hdM3u8",
+        "title": "22h00 ngày 13/06 FK Auda Riga vs Jelgava [BLV CÁO] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1781366361-0-0-4a5c15a88bae5cdf5b50196e2762a69f",
-        "time": "2026-06-13 15:06:22"
+        "url": "https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1781371401-0-0-3853db82e926ab69660f2e6fbe202390",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "FIN D1: Lahti vs SJK Seinajoen [BLV ENZO] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1781371400-0-0-313db4f86ad61ffca18549eccaa3e8d0",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h00 ngày 13/06 FK Auda Riga vs Jelgava [BLV A WIN] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1781371401-0-0-45f83466dce35b380643b04026c51e59",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h00 ngày 13/06 FK Auda Riga vs Jelgava [BLV CÁO] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1781371401-0-0-dfd8f1810161528acda2cd16c15fc7a4",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "FIN D1: Lahti vs SJK Seinajoen [BLV FIREMAN] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1781371400-0-0-808a84d742588801a51bc44027bf75b8",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "FIN D1: IFK Mariehamn vs Gnistan Helsinki [BLV PEWPEW] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1781371400-0-0-7151d6a3ff7c4bcd6a94ca757e92187e",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "FIN D1: Lahti vs SJK Seinajoen [BLV FIREMAN] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1781371400-0-0-7092d98d4c8fae90a8a1d439ea159a27",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "FIN D1: IFK Mariehamn vs Gnistan Helsinki [BLV PEWPEW] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1781371400-0-0-1d0d4de710f5d7384062dbe87b6063b8",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h00 ngày 13/06 FC Metalurgi Rustavi vs Fc Meshakhte Tkibuli [BLV THÓC] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1781371401-0-0-e7486e831cd788c7a4163112bb15bbd2",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "FIN D1: Lahti vs SJK Seinajoen [CR Bưởi] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1781371400-0-0-e5e4a61c594099610cc35665b5675494",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "FIN D1: Lahti vs SJK Seinajoen [CR Bưởi] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1781371400-0-0-af6e33200df92f72086288a81d97d8d3",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "EST D1: FC Flora Tallinn vs Levadia Tallinn [BLV XO] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1781371400-0-0-fa1b190cbbdcf46990b364f4ee0c51e5",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "EST D1: FC Flora Tallinn vs Levadia Tallinn [BLV 24H] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-612928_lsd.m3u8?auth_key=1781371401-0-0-13fe8312d4543034dbcb337d72940e28",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "FIN D1: IFK Mariehamn vs Gnistan Helsinki [BLV BÉO] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=bffab20389b645a9990425824ad3fe96&txTime=6a2dd9c0",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - Canada vs Bosnia and Herzegovina [Sóc mèo méo meo] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1781371400-0-0-ed81bd0da701d85bcd210ad920d1caf1",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h00 ngày 13/06 FC Metalurgi Rustavi vs Fc Meshakhte Tkibuli [BLV THÓC] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1781371401-0-0-8c1e37789441a836366d1e7119e586df",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "FIN D1: IFK Mariehamn vs Gnistan Helsinki [BLV BÉO] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=427a476a83c4b4e98ea51eb4dab503ea&txTime=6a2dd9c0",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "CHI D1: Coquimbo Unido vs O.Higgins [TRÀ ĐÁ] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1781371401-0-0-2737b84cfd7d18a7852bbec3a68802e4",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "CHI D1: Coquimbo Unido vs O.Higgins [TRÀ ĐÁ] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1781371401-0-0-cac0937bbafb958fc9b8b94a91d950ec",
+        "time": "2026-06-13 16:41:40"
     },
     {
         "group": "FPT SPORT",
         "title": "Tường thuật: WORLD CUP - South Korea vs Czechia [Sóc đau cổ vai gáy] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1781366060-0-0-f980932531ddb7574b61d2c10bf5b052",
-        "time": "2026-06-13 15:06:22"
+        "url": "https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1781371400-0-0-c556f54a699162991d93173d91d29428",
+        "time": "2026-06-13 16:41:40"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - USA vs Paraguay [Sóc trong rừng xà nu] (Socolive) hdM3u8",
+        "title": "Tường thuật: WORLD CUP - USA vs Paraguay [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1781366360-0-0-a1be48ab866005bcaf2a0dfb9e26c05b",
-        "time": "2026-06-13 15:06:22"
+        "url": "https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1781371400-0-0-be40d7a870df1e2bb79daa1b2d7b6d79",
+        "time": "2026-06-13 16:41:40"
     },
     {
         "group": "FPT SPORT",
-        "title": "21h00 ngày 13/06 Jaro vs HJK Helsinki [BLV CUỘI] (Socolive) m3u8",
+        "title": "FIN D1: IFK Mariehamn vs Gnistan Helsinki [BLV RAMBO] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1781366360-0-0-9f70dfcd451e3dc354dd07e78960c527",
-        "time": "2026-06-13 15:06:22"
+        "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=443e65598752d822866f138273ec4564&txTime=6a2dd9c1",
+        "time": "2026-06-13 16:41:40"
     },
     {
         "group": "FPT SPORT",
-        "title": "21h00 ngày 13/06 Tartu JK Maag Tammeka vs Parnu JK Vaprus [CHÍ PHÈO] (Socolive) m3u8",
+        "title": "CHI D1: Coquimbo Unido vs O.Higgins [KÉP] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1781366360-0-0-f41bbfbcfa683692fa11435c87f53291",
-        "time": "2026-06-13 15:06:22"
+        "url": "https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1781371401-0-0-8e6d850ac018d0969a987345b8a87e15",
+        "time": "2026-06-13 16:41:40"
     },
     {
         "group": "FPT SPORT",
-        "title": "21h00 ngày 13/06 Vaasa VPS vs KuPs [BLV KEM] (Socolive) m3u8",
+        "title": "FIN D1: IFK Mariehamn vs Gnistan Helsinki [BLV RAMBO] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1781366361-0-0-6834ea2d80f05c71b91b1238e0809219",
-        "time": "2026-06-13 15:06:22"
+        "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=a2295f148a1eeb986325dfd0b5bb3276&txTime=6a2dd9c1",
+        "time": "2026-06-13 16:41:40"
     },
     {
         "group": "FPT SPORT",
-        "title": "21h00 ngày 13/06 Tartu JK Maag Tammeka vs Parnu JK Vaprus [CHÍ PHÈO] (Socolive) hdM3u8",
+        "title": "FIN D1: IFK Mariehamn vs Gnistan Helsinki [A PÁO] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1781366360-0-0-374b7e571144f168a75fb6041404746a",
-        "time": "2026-06-13 15:06:22"
+        "url": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1781371760-0-0-77e96818f7483d2d40688c75bc99a96e",
+        "time": "2026-06-13 16:41:40"
     },
     {
         "group": "FPT SPORT",
-        "title": "21h00 ngày 13/06 Vaasa VPS vs KuPs [BLV ALEX] (Socolive) m3u8",
+        "title": "FIN D1: IFK Mariehamn vs Gnistan Helsinki [BLV COZY] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1781366361-0-0-965b60a913ff021f8e7001df6d2828ee",
-        "time": "2026-06-13 15:06:22"
+        "url": "https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1781371761-0-0-b6354e787786650432d24d733d22e6b9",
+        "time": "2026-06-13 16:41:40"
     },
     {
         "group": "FPT SPORT",
-        "title": "21h00 13/06 Brazil vs Serbia (Hội Quán) SD",
+        "title": "FIN D1: Lahti vs SJK Seinajoen [BLV HÚP] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-13 15:06:22"
+        "url": "https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1781371761-0-0-2f4335fdfe47469e685ef5e714813cf8",
+        "time": "2026-06-13 16:41:40"
     },
     {
         "group": "FPT SPORT",
-        "title": "20h15 ngày 13/06 Thailand U19 vs Australia U19 [BLV NẤM] (Socolive) hdM3u8",
+        "title": "CHI D1: Coquimbo Unido vs O.Higgins [KÉP] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1781366361-0-0-6b0f03b45d8b83666fcff5ca2f19036e",
-        "time": "2026-06-13 15:06:22"
+        "url": "https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1781371401-0-0-c7c2fae4cd0bbd04e4f5bc6009b0c3a8",
+        "time": "2026-06-13 16:41:40"
     },
     {
         "group": "FPT SPORT",
-        "title": "20h15 13/06 Thailand U19 vs Australia U19 (Hội Quán) SD",
+        "title": "Tường thuật: WORLD CUP - Canada vs Bosnia and Herzegovina [Sóc mèo méo meo] (Socolive) m3u8",
         "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-13 15:06:22"
+        "url": "https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1781371400-0-0-4794022f6534aff98f60144a6109cbd0",
+        "time": "2026-06-13 16:41:40"
     },
     {
         "group": "FPT SPORT",
-        "title": "21h00 13/06 Brazil vs Serbia (Hội Quán) FHD",
+        "title": "FIN D1: IFK Mariehamn vs Gnistan Helsinki [A PÁO] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8",
-        "time": "2026-06-13 15:06:22"
+        "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1781371760-0-0-ec6d64fa0867a8c890c40aa15041a9e5",
+        "time": "2026-06-13 16:41:40"
     },
     {
         "group": "FPT SPORT",
-        "title": "21h00 13/06 VPS vs KuPS (Hội Quán) FHD",
+        "title": "BLR PL: Dinamo Minsk vs FC Gomel [BLV VIP] (Socolive) m3u8",
         "logo": "",
-        "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8",
-        "time": "2026-06-13 15:06:22"
+        "url": "https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=d996a5013ea6829aba39cb8da2f3ccc9&txTime=6a2dd9c1",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "BLR PL: Dinamo Minsk vs FC Gomel [BLV VIP] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=d1da255bd0205bc7d6eef2a31530859c&txTime=6a2dd9c1",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc nhàm nhang nhồ] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1781371400-0-0-81f4e702c3693e3fc933c32130c6b38a",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "TOUT: Portugal U20 vs Tunisia U23 [BLV ALEX] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1781371761-0-0-9329280eb3e61887c9a28348cc6429c6",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc nhàm nhang nhồ] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1781371400-0-0-8b1f806307267cdfd42fe00e222cbc67",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "FIN D1: IFK Mariehamn vs Gnistan Helsinki [BLV COZY] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1781371761-0-0-7c993d4bf76d7b0d2a1c810a45f00169",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "FIN D1: Lahti vs SJK Seinajoen [BLV HÚP] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1781371761-0-0-dba8b4b1b079fa17e4efe87657bf7488",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - South Korea vs Czechia [Sóc đau cổ vai gáy] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1781371400-0-0-b9c97c5f2757f787c441ce3870a1a135",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "TOUT: Portugal U20 vs Tunisia U23 [XUÂN TÓC ĐỎ] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=cdd1691b8bdef246348c2f2101dd84de&txTime=6a2dd9c1",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "TOUT: Portugal U20 vs Tunisia U23 [BLV ALEX] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1781371761-0-0-2b2f59677d1118d3891b474db6563fc4",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "FIN D1: Lahti vs SJK Seinajoen [BLV ROBBEN] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1781371761-0-0-36a3e6815592c7246cfc526793ac1f29",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "TOUT: Portugal U20 vs Tunisia U23 [LOKA] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1781372121-0-0-35bf85c24f96a81788b18d23fb7af82e",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - USA vs Paraguay [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1781371400-0-0-6a1b07ebee3c022edf71aed8d57dffb8",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "FIN D1: IFK Mariehamn vs Gnistan Helsinki [BLV CÒ] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1781372121-0-0-7d0881f9020ee2e27e723729bbaf7d8d",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "CHI D1: Coquimbo Unido vs O.Higgins [BLV WUKONG] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1781371401-0-0-fbe0d1da9565388b45723b7e75a86f8f",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "CHI D1: Coquimbo Unido vs O.Higgins [ĐỖ TÚ TÀI] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1781371761-0-0-a06f210c24ae8c9716678ac22afe687e",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "CHI D1: Coquimbo Unido vs O.Higgins [ĐỖ TÚ TÀI] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1781371761-0-0-ee0d2f29cfaad2f17c148656f164fe4f",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "FIN D1: Lahti vs SJK Seinajoen [BLV ROBBEN] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1781371761-0-0-da5dde2f66a1f304acfa43adadd5614a",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "FIN D1: IFK Mariehamn vs Gnistan Helsinki [BLV CÒ] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1781372121-0-0-24a4c14b2162e17db3f17d386c99cbfb",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "TOUT: Portugal U20 vs Tunisia U23 [CÔNG CHẤT] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1781372120-0-0-35495d51c5c0ce09b87860b203bace99",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "TOUT: Portugal U20 vs Tunisia U23 [LOKA] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1781372121-0-0-8a065943553bb663ad12a7adcdff3c5e",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "FIN D1: Lahti vs SJK Seinajoen [BLV VOI] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1781372121-0-0-fe5c37e8d5194bb1a831a98922570076",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "EST D1: FC Flora Tallinn vs Levadia Tallinn [BLV 24H] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1781371401-0-0-6f27184cd1fd8adaa12c0c8600aee88f",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "FIN D1: Lahti vs SJK Seinajoen [BLV VOI] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1781372121-0-0-9f1f2597cb4225e791b48ebabf9c9133",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h00 ngày 13/06 FC Metalurgi Rustavi vs Fc Meshakhte Tkibuli [BLV AB] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-612980_lsd.m3u8?auth_key=1781372121-0-0-4f1b0de6b9eeab7dc75938809bc4726a",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "22h00 ngày 13/06 FC Metalurgi Rustavi vs Fc Meshakhte Tkibuli [BLV AB] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-612980_lhd.m3u8?auth_key=1781372121-0-0-179341d7855a22f66d346bafdc86ab2c",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "TOUT: Portugal U20 vs Tunisia U23 [CÔNG CHẤT] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1781372120-0-0-7537836143a8e211b5fabe4f650e7ea0",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "BLR PL: Dinamo Minsk vs FC Gomel [BLV RYO] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1781372121-0-0-7eb1e1f17b33b8e61ad632371cec6de7",
+        "time": "2026-06-13 16:41:40"
     },
     {
         "group": "FPT SPORT",
         "title": "Tường thuật: WORLD CUP - Canada vs Bosnia and Herzegovina [Sóc trèo cây ngô đồng] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1781366060-0-0-b3d9d3406f7fe65b92652c8449454807",
-        "time": "2026-06-13 15:06:22"
+        "url": "https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1781371400-0-0-afd291dcc6711b3713cd2b28ffe4490d",
+        "time": "2026-06-13 16:41:40"
     },
     {
         "group": "FPT SPORT",
-        "title": "20h00 13/06 Ben Shelton/Sho Shimabukuro vs Jiri Lehecka (Hội Quán) SD",
+        "title": "Tường thuật: WORLD CUP - Canada vs Bosnia and Herzegovina [Sóc trèo cây ngô đồng] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-13 15:06:22"
+        "url": "https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1781371400-0-0-50bce667cd02abe4a47858ea1b5dd3b8",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "BLR PL: Dinamo Minsk vs FC Gomel [BLV RYO] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1781372121-0-0-d6964f9595511fdeaa26724600438c00",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "23h00 13/06 WTT Contender Zagreb 2026 (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "23h00 13/06 Dinamo Minsk vs FC Gomel (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8",
+        "time": "2026-06-13 16:41:40"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "23h00 13/06 WTT Contender Zagreb 2026 (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8",
+        "time": "2026-06-13 16:41:40"
     },
     {
         "group": "FPT SPORT",
         "title": "21h00 13/06 Vitality vs MOUZ (Hội Quán) FHD",
         "logo": "",
         "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8",
-        "time": "2026-06-13 15:06:22"
+        "time": "2026-06-13 16:41:40"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - USA vs Paraguay [Sóc trong rừng xà nu] (Socolive) m3u8",
+        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1781366360-0-0-a528cd2fab76e47b72b3222a282c7dbf",
-        "time": "2026-06-13 15:06:22"
+        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781372120-0-0-d418bc269a0b2454d9cbe9597ddc1934",
+        "time": "2026-06-13 16:41:40"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - Canada vs Bosnia and Herzegovina [Sóc mèo méo meo] (Socolive) m3u8",
+        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1781366061-0-0-947dcb48b5c8d8ef1970bddbbdf9b9dc",
-        "time": "2026-06-13 15:06:22"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "20h00 13/06 Ben Shelton/Sho Shimabukuro vs Jiri Lehecka (Hội Quán) FHD",
-        "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8",
-        "time": "2026-06-13 15:06:22"
+        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781372120-0-0-8c2f63b23327ebf1f7b6ff6268c5caa2",
+        "time": "2026-06-13 16:41:40"
     }
 ]
