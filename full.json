@@ -1,24 +1,17 @@
 [
     {
         "group": "HỘI QUÁN",
-        "title": "23:30 | Ayacucho FC vs Club Deportivo Los Chankas",
-        "logo": "https://media.api-sports.io/football/teams/2542.png",
-        "url": "https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8",
-        "time": "2026-06-14 23:30:00"
+        "title": "03:00 | Netherlands vs Japan",
+        "logo": "https://media.api-sports.io/football/teams/1118.png",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-15 03:00:00"
     },
     {
         "group": "HỘI QUÁN",
-        "title": "00:00 | Germany vs Curaçao",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png",
+        "title": "03:00 | Netherlands vs Japan",
+        "logo": "https://media.api-sports.io/football/teams/1118.png",
         "url": "https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8",
-        "time": "2026-06-15 00:00:00"
-    },
-    {
-        "group": "HỘI QUÁN",
-        "title": "00:00 | Germany vs Curaçao",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v2a1/mono.m3u8",
-        "time": "2026-06-15 00:00:00"
+        "time": "2026-06-15 03:00:00"
     },
     {
         "group": "HỘI QUÁN",
@@ -43,10 +36,17 @@
     },
     {
         "group": "HỘI QUÁN",
-        "title": "00:30 | Bulgaria vs Serbia",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/250px-Flag_of_Bulgaria.svg.png",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8",
-        "time": "2026-06-15 00:30:00"
+        "title": "09:00 | Sweden vs Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/5.png",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-15 09:00:00"
+    },
+    {
+        "group": "HỘI QUÁN",
+        "title": "09:00 | Sweden vs Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/5.png",
+        "url": "https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-15 09:00:00"
     },
     {
         "group": "HỘI QUÁN",
@@ -64,17 +64,17 @@
     },
     {
         "group": "HỘI QUÁN",
-        "title": "02:00 | Belgium vs Egypt",
-        "logo": "https://media.api-sports.io/football/teams/1.png",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8",
-        "time": "2026-06-16 02:00:00"
-    },
-    {
-        "group": "HỘI QUÁN",
         "title": "11:00 | Cộng hòa Dominicana vs Mỹ",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
         "url": "https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8",
         "time": "2026-06-17 11:00:00"
+    },
+    {
+        "group": "HỘI QUÁN",
+        "title": "15:00 | Séc vs Ý",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-17 15:00:00"
     },
     {
         "group": "THIÊN ĐÌNH",
@@ -92,66 +92,66 @@
     },
     {
         "group": "VÒNG CẤM TV",
-        "title": "Aktobe vs Altay",
-        "logo": "https://media.api-sports.io/football/teams/4563.png",
-        "url": "https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8",
-        "time": "2026-06-14 18:03:40"
-    },
-    {
-        "group": "VÒNG CẤM TV",
-        "title": "Germany vs Curaçao",
-        "logo": "https://media.api-sports.io/football/teams/25.png",
-        "url": "https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8",
-        "time": "2026-06-14 18:03:40"
-    },
-    {
-        "group": "VÒNG CẤM TV",
-        "title": "Germany vs Curaçao",
-        "logo": "https://media.api-sports.io/football/teams/25.png",
-        "url": "https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8",
-        "time": "2026-06-14 18:03:40"
+        "title": "Hà Lan vs Nhật Bản",
+        "logo": "https://media.api-sports.io/football/teams/1118.png",
+        "url": "https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8",
+        "time": "2026-06-14 19:53:22"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "Hà Lan vs Nhật Bản",
         "logo": "https://media.api-sports.io/football/teams/1118.png",
-        "url": "https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8",
-        "time": "2026-06-14 18:03:40"
+        "url": "https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8",
+        "time": "2026-06-14 19:53:22"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "USA - Italy",
         "logo": "https://static.flashscore.com/res/image/data/zoIpbvHG-W6UqXKEA.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8",
-        "time": "2026-06-14 18:03:40"
+        "time": "2026-06-14 19:53:22"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "Ivory Coast vs Ecuador",
         "logo": "https://media.api-sports.io/football/teams/1501.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_lenh/playlist.m3u8",
-        "time": "2026-06-14 18:03:40"
+        "time": "2026-06-14 19:53:22"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "Thụy Điển vs Tunisia",
         "logo": "https://media.api-sports.io/football/teams/5.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8",
-        "time": "2026-06-14 18:03:40"
+        "time": "2026-06-14 19:53:22"
+    },
+    {
+        "group": "VÒNG CẤM TV",
+        "title": "Negelle Arsi vs Awassa Kenema",
+        "logo": "https://media.api-sports.io/football/teams/26881.png",
+        "url": "https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8",
+        "time": "2026-06-14 19:53:22"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "Arba Minch Kenema vs Suhul Shire",
         "logo": "https://media.api-sports.io/football/teams/4126.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8",
-        "time": "2026-06-14 18:03:40"
+        "time": "2026-06-14 19:53:22"
+    },
+    {
+        "group": "VÒNG CẤM TV",
+        "title": "Tây Ban Nha vs Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/9.png",
+        "url": "https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8",
+        "time": "2026-06-14 19:53:22"
     },
     {
         "group": "CA LA TV",
-        "title": "17:00 | Đức vs Curacao",
-        "logo": "https://img.colatv88xd.cc/football/team/5856c2f4a854359864b18f9aed3f8874.png!w80",
-        "url": "https://live05.msdht.app/live/24561735.m3u8",
-        "time": "2026-06-14 17:00:00"
+        "title": "20:00 | Hà Lan vs Nhật Bản",
+        "logo": "https://img.colatv88xd.cc/football/team/fb9d433088a21464e7d634c4e190b31a.png!w80",
+        "url": "https://live05.msdht.app/live/08552895.m3u8",
+        "time": "2026-06-14 20:00:00"
     },
     {
         "group": "CA LA TV",
@@ -162,31 +162,17 @@
     },
     {
         "group": "CA LA TV",
-        "title": "15:30 | Mikkelin vs Klubi 04",
-        "logo": "https://img.colatv88xd.cc/football/team/08b6972bad44440ed3171b4bf63451ce.png!w80",
-        "url": "https://live05.msdht.app/live/08552895.m3u8",
-        "time": "2026-06-14 15:30:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "16:00 | Gagra vs Dinamo Tbilisi",
-        "logo": "https://img.colatv88xd.cc/football/team/e450729cae3ba8210e9a08134b9258a1.png!w80",
-        "url": "https://live05.msdht.app/live/82054853.m3u8",
-        "time": "2026-06-14 16:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "16:30 | Deportes Concepcion vs Deportes Limache",
-        "logo": "https://img.colatv88xd.cc/football/team/a14751ea68523dd03173b441cf5da14d.png!w80",
+        "title": "19:00 | Union La Calera vs U. De Chile",
+        "logo": "https://img.colatv88xd.cc/football/team/f9b2e922f6ca83c14def96049ccbfe42.png!w80",
         "url": "https://live05.msdht.app/live/78905744.m3u8",
-        "time": "2026-06-14 16:30:00"
+        "time": "2026-06-14 19:00:00"
     },
     {
         "group": "CA LA TV",
-        "title": "18:00 | Deportivo Madryn vs San Miguel",
-        "logo": "https://img.colatv88xd.cc/football/team/e360a21ac8b1197a7108e1c8129d707b.png!w80",
-        "url": "https://live05.msdht.app/live/43612277.m3u8",
-        "time": "2026-06-14 18:00:00"
+        "title": "19:00 | New York Liberty vs Washington Mystics",
+        "logo": "https://img.colatv88xd.cc/basketball/team/67cf5b4cfacab3792d2fde73e0af4ac0.png!w80",
+        "url": "https://live05.msdht.app/live/82054853.m3u8",
+        "time": "2026-06-14 19:00:00"
     },
     {
         "group": "CA LA TV",
@@ -201,13 +187,6 @@
         "logo": "https://img.colatv88xd.cc/football/team/9c7c68ee0cad47be69a9d57e43261484.png!w80",
         "url": "https://live05.msdht.app/live/87547578.m3u8",
         "time": "2026-06-14 19:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "20:00 | Hà Lan vs Nhật Bản",
-        "logo": "https://img.colatv88xd.cc/football/team/fb9d433088a21464e7d634c4e190b31a.png!w80",
-        "url": "https://live05.msdht.app/live/90725470.m3u8",
-        "time": "2026-06-14 20:00:00"
     },
     {
         "group": "CA LA TV",
@@ -239,1143 +218,1073 @@
     },
     {
         "group": "CA LA TV",
+        "title": "22:00 | Ả Rập Saudi vs Uruguay",
+        "logo": "https://img.colatv88xd.cc/football/team/cf372cbe6eae54c6a6dfb3ebbcdc3404.png!w80",
+        "url": "https://live05.msdht.app/live/90725470.m3u8",
+        "time": "2026-06-15 22:00:00"
+    },
+    {
+        "group": "CA LA TV",
         "title": "00:00 | Dallas Wings vs Las Vegas Aces",
         "logo": "https://img.colatv88xd.cc/basketball/team/58709b9e7964e03c28ebe777ef823eca.png!w80",
         "url": "https://live05.msdht.app/live/87379114.m3u8",
         "time": "2026-06-16 00:00:00"
     },
     {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao (Lương Sơn) BLV TÀO THÁO m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/TAOTHAO/index.m3u8?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9",
-        "time": "2026-06-14 18:03:41"
+        "group": "CA LA TV",
+        "title": "00:00 | Criciuma vs CLB Ceara",
+        "logo": "https://img.colatv88xd.cc/football/team/1105c0c62d761d64b6f4c3e34f460278.png!w80",
+        "url": "https://live05.msdht.app/live/43612277.m3u8",
+        "time": "2026-06-16 00:00:00"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao (Lương Sơn) BLV TÀO THÁO flv",
+        "title": "02h00 ngày 15/06 Union La Calera vs Universidad de Chile (Lương Sơn) BLV VƯƠNG LUÂN m3u",
         "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/TAOTHAO.flv?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao (Lương Sơn) BLV PELE m3u",
+        "title": "02h00 ngày 15/06 Union La Calera vs Universidad de Chile (Lương Sơn) BLV VƯƠNG LUÂN flv",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao (Lương Sơn) BLV PELE flv",
+        "title": "02h00 ngày 15/06 Malaga vs Almeria (Lương Sơn) BLV QUAN VŨ m3u",
         "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao (Lương Sơn) BLV KEVILL m3u",
+        "title": "02h00 ngày 15/06 Malaga vs Almeria (Lương Sơn) BLV QUAN VŨ flv",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://flv.cdnfaster-a.live/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao (Lương Sơn) BLV KEVILL flv",
+        "title": "02h00 ngày 15/06 Athletic Club MG vs Goias (Lương Sơn) BLV LÝ ỨNG m3u",
         "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao (Lương Sơn) BLV LÃO HẠC m3u",
+        "title": "02h00 ngày 15/06 Athletic Club MG vs Goias (Lương Sơn) BLV LÝ ỨNG flv",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao (Lương Sơn) BLV LÃO HẠC flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao (Lương Sơn) BLV VÕ TÒNG m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao (Lương Sơn) BLV VÕ TÒNG flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao (Lương Sơn) BLV NGƯỜI THÉP m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao (Lương Sơn) BLV NGƯỜI THÉP flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h30 ngày 14/06 D. Concepcion vs Deportes Limache (Lương Sơn) BLV PHI HỔ m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h30 ngày 14/06 D. Concepcion vs Deportes Limache (Lương Sơn) BLV PHI HỔ flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h30 ngày 14/06 D. Concepcion vs Deportes Limache (Lương Sơn) BLV GẤU KA m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h30 ngày 14/06 D. Concepcion vs Deportes Limache (Lương Sơn) BLV GẤU KA flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/GAUKA.flv?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h30 ngày 14/06 D. Concepcion vs Deportes Limache (Lương Sơn) BLV LỮ BỐ m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h30 ngày 14/06 D. Concepcion vs Deportes Limache (Lương Sơn) BLV LỮ BỐ flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h30 ngày 15/06 Almirante Brown vs Godoy Cruz Antonio Tomba (Lương Sơn) BLV LEO m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h30 ngày 15/06 Almirante Brown vs Godoy Cruz Antonio Tomba (Lương Sơn) BLV LEO flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h30 ngày 14/06 Thor Akureyri vs IBV Vestmannaeyjar (Lương Sơn) BLV DƯƠNG CHÍ m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h30 ngày 14/06 Thor Akureyri vs IBV Vestmannaeyjar (Lương Sơn) BLV DƯƠNG CHÍ flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h00 ngày 14/06 Gagra Tbilisi vs Dinamo Tbilisi (Lương Sơn) BLV FERNANDO m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h00 ngày 14/06 Gagra Tbilisi vs Dinamo Tbilisi (Lương Sơn) BLV FERNANDO flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h00 ngày 14/06 Gagra Tbilisi vs Dinamo Tbilisi (Lương Sơn) BLV HÀN TÍN m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h00 ngày 14/06 Gagra Tbilisi vs Dinamo Tbilisi (Lương Sơn) BLV HÀN TÍN flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
         "title": "07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8",
-        "time": "2026-06-14 18:03:41"
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 UNSW FC Women vs University of Sydney Women (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/8988f3aa5ce2f85d4c50a0bc65d9d998/playlist.m3u8",
-        "time": "2026-06-14 18:03:41"
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Newcastle Olympic FC Reserves vs Charlestown Azzurri Reserves (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/6f115b2fe383bc3710a61f46cc1b22f9/playlist.m3u8",
-        "time": "2026-06-14 18:03:41"
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
         "title": "07h10 ngày 23/05 Boston Legacy W vs Seattle Reign (W) (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8",
-        "time": "2026-06-14 18:03:41"
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Mexico vs Ghana (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curaçao (Chuối Chiên) HD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curaçao (Chuối Chiên) HD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho.flv",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curaçao (Chuối Chiên) FHD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curaçao (Chuối Chiên) FHD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curaçao (Chuối Chiên) HD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curaçao (Chuối Chiên) HD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/angao.flv",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curaçao (Chuối Chiên) FHD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curaçao (Chuối Chiên) FHD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/angaohd.flv",
-        "time": "2026-06-14 18:03:41"
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
         "title": "00h30 ngày 15/06 Bulgaria vs Serbia (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8",
-        "time": "2026-06-14 18:03:41"
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
         "title": "00h30 ngày 15/06 Bulgaria vs Serbia (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoigia.flv",
-        "time": "2026-06-14 18:03:41"
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
         "title": "00h30 ngày 15/06 Bulgaria vs Serbia (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8",
-        "time": "2026-06-14 18:03:41"
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
         "title": "00h30 ngày 15/06 Bulgaria vs Serbia (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv",
-        "time": "2026-06-14 18:03:41"
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
         "title": "01h30 ngày 15/06 Canada vs Turkey (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
-        "time": "2026-06-14 18:03:41"
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
         "title": "01h30 ngày 15/06 Canada vs Turkey (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay.flv",
-        "time": "2026-06-14 18:03:41"
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
         "title": "01h30 ngày 15/06 Canada vs Turkey (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
-        "time": "2026-06-14 18:03:41"
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
         "title": "01h30 ngày 15/06 Canada vs Turkey (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv",
-        "time": "2026-06-14 18:03:41"
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
         "title": "03h00 ngày 15/06 Netherlands vs Japan (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8",
-        "time": "2026-06-14 18:03:41"
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
         "title": "03h00 ngày 15/06 Netherlands vs Japan (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoichao.flv",
-        "time": "2026-06-14 18:03:41"
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
         "title": "03h00 ngày 15/06 Netherlands vs Japan (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
-        "time": "2026-06-14 18:03:41"
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
         "title": "03h00 ngày 15/06 Netherlands vs Japan (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv",
-        "time": "2026-06-14 18:03:41"
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
         "title": "03h00 ngày 15/06 Netherlands vs Japan (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8",
-        "time": "2026-06-14 18:03:41"
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
         "title": "03h00 ngày 15/06 Netherlands vs Japan (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoito.flv",
-        "time": "2026-06-14 18:03:41"
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
         "title": "03h00 ngày 15/06 Netherlands vs Japan (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8",
-        "time": "2026-06-14 18:03:41"
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
         "title": "03h00 ngày 15/06 Netherlands vs Japan (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv",
-        "time": "2026-06-14 18:03:41"
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
         "title": "04h00 ngày 15/06 Brazil vs Argentina (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8",
-        "time": "2026-06-14 18:03:41"
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
         "title": "04h00 ngày 15/06 Brazil vs Argentina (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoibo.flv",
-        "time": "2026-06-14 18:03:41"
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
         "title": "04h00 ngày 15/06 Brazil vs Argentina (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8",
-        "time": "2026-06-14 18:03:41"
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
         "title": "04h00 ngày 15/06 Brazil vs Argentina (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv",
-        "time": "2026-06-14 18:03:41"
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 15/06 Ivory Coast vs Ecuador (Chuối Chiên) HD1",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 15/06 Ivory Coast vs Ecuador (Chuối Chiên) HD2",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/angao.flv",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 15/06 Ivory Coast vs Ecuador (Chuối Chiên) FHD1",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 15/06 Ivory Coast vs Ecuador (Chuối Chiên) FHD2",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/angaohd.flv",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 15/06 Sweden vs Tunisia (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8",
-        "time": "2026-06-14 18:03:41"
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 15/06 Sweden vs Tunisia (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/max.flv",
-        "time": "2026-06-14 18:03:41"
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 15/06 Sweden vs Tunisia (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8",
-        "time": "2026-06-14 18:03:41"
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 15/06 Sweden vs Tunisia (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/maxhd.flv",
-        "time": "2026-06-14 18:03:41"
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC (Gà Vàng) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/821d54abadb12c6c15edba538ab20ad1/playlist.m3u8",
-        "time": "2026-06-14 18:03:41"
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
         "title": "07h00 ngày 23/05 Sporting Kansas CityReserves vs Austin FC II (Gà Vàng) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8",
-        "time": "2026-06-14 18:03:41"
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8",
-        "time": "2026-06-14 18:03:41"
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Keflavik vs Hafnarfjordur [BLV CÁO] (Socolive) flv",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [BLV TOMMY] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-597929_lsd.flv?auth_key=1781462481-0-0-5a253c4259aaa52a867cc711e0fa0232",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=4c3918ac0bb79a8b67afbe81d406f18d&txTime=6a2f56d9",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Keflavik vs Hafnarfjordur [BLV CÁO] (Socolive) hdFlv",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [BLV TOMMY] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-597929_lhd.flv?auth_key=1781462481-0-0-921d26aa258a8a9fd9a418aa3245d586",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=201f8574f1b98b71b1a3aba0c9de7127&txTime=6a2f56d9",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Keflavik vs Hafnarfjordur [BLV CÁO] (Socolive) m3u8",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [BLV TOMMY] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1781462481-0-0-47af4e8171f3442e3a3573a899597fcf",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=4c3918ac0bb79a8b67afbe81d406f18d&txTime=6a2f56d9",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Keflavik vs Hafnarfjordur [BLV CÁO] (Socolive) hdM3u8",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [BLV TOMMY] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1781462481-0-0-f2216daa5f33da0f7c65428812522baa",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=201f8574f1b98b71b1a3aba0c9de7127&txTime=6a2f56d9",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [BLV ĐỐM] (Socolive) flv",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [THẠCH TÚ] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1781463201-0-0-a95d6f0bcaa2d5a78057560196a5c566",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=8bd4c0d93fc18d9b2e79b19816247d61&txTime=6a2f56d9",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [BLV ĐỐM] (Socolive) hdFlv",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [THẠCH TÚ] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1781463201-0-0-4af511e22899bb80ccfab01e82319d8e",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull.niur.live/live/stream-9912116_lhd.flv?txSecret=7c1298553b762abee35d6bce25635457&txTime=6a2f56d9",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [BLV ĐỐM] (Socolive) m3u8",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [THẠCH TÚ] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1781463201-0-0-21bcdbe6cadf2718cfb693aeda885c4b",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=8bd4c0d93fc18d9b2e79b19816247d61&txTime=6a2f56d9",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [BLV ĐỐM] (Socolive) hdM3u8",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [THẠCH TÚ] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1781463201-0-0-5b3aaf178f6f8dffeacad29987ecc858",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=7c1298553b762abee35d6bce25635457&txTime=6a2f56d9",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [THẠCH TÚ] (Socolive) flv",
+        "title": "02h00 ngày 15/06 Malaga vs Almeria [BLV ALEX] (Socolive) flv",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=22de67603b03a36cb39f6d45bfce4ee8&txTime=6a2f3ef1",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1781469321-0-0-5709c1399e517b51c6b45df29b68aa6e",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [THẠCH TÚ] (Socolive) hdFlv",
+        "title": "02h00 ngày 15/06 Malaga vs Almeria [BLV ALEX] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912116_lhd.flv?txSecret=ef3102e9c8c4a7f8572bd41507026d7a&txTime=6a2f3ef1",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1781469321-0-0-eda7cd50126a806dcab6041de166a9fb",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [THẠCH TÚ] (Socolive) m3u8",
+        "title": "02h00 ngày 15/06 Malaga vs Almeria [BLV ALEX] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=22de67603b03a36cb39f6d45bfce4ee8&txTime=6a2f3ef1",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1781469321-0-0-5da82a816f42b3694549ca24409b2d05",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [THẠCH TÚ] (Socolive) hdM3u8",
+        "title": "02h00 ngày 15/06 Malaga vs Almeria [BLV ALEX] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=ef3102e9c8c4a7f8572bd41507026d7a&txTime=6a2f3ef1",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1781469321-0-0-6d15a12217a7f051b4f918a8338d67d5",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [TẠ BIÊN GIỚI] (Socolive) flv",
+        "title": "02h00 ngày 15/06 Malaga vs Almeria [BLV KEM] (Socolive) flv",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912108_lsd.flv?txSecret=107e4ca9cb4dc589dc3d4c6b73970f86&txTime=6a2f3ef1",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1781469321-0-0-9fd983c18fa6093d6d9ebe105285583c",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [TẠ BIÊN GIỚI] (Socolive) hdFlv",
+        "title": "02h00 ngày 15/06 Malaga vs Almeria [BLV KEM] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912108_lhd.flv?txSecret=949392d1ce8cba4049154396a5a142cc&txTime=6a2f3ef1",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1781469321-0-0-1a065ab7ef053fdfbab564eac1e93e34",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [TẠ BIÊN GIỚI] (Socolive) m3u8",
+        "title": "02h00 ngày 15/06 Malaga vs Almeria [BLV KEM] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=107e4ca9cb4dc589dc3d4c6b73970f86&txTime=6a2f3ef1",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1781469321-0-0-6688fcd312af569d089c3fa98eb0035d",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [TẠ BIÊN GIỚI] (Socolive) hdM3u8",
+        "title": "02h00 ngày 15/06 Malaga vs Almeria [BLV KEM] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=949392d1ce8cba4049154396a5a142cc&txTime=6a2f3ef1",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1781469321-0-0-282a78259f74dc01fba01d19ee47ba2f",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [BLV TOMMY] (Socolive) flv",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [TẠ BIÊN GIỚI] (Socolive) flv",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=16224322fbe3ab7d9ab0b65d769bd779&txTime=6a2f3ef1",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull.niur.live/live/stream-9912108_lsd.flv?txSecret=f3624704382af2c9aa0ab33efbb26c27&txTime=6a2f5841",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [BLV TOMMY] (Socolive) hdFlv",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [TẠ BIÊN GIỚI] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=311088dadad6782ea26aad4bdad7fb2e&txTime=6a2f3ef1",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull.niur.live/live/stream-9912108_lhd.flv?txSecret=a62373c49b4b167eb336c9e2c09d4e53&txTime=6a2f5841",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [BLV TOMMY] (Socolive) m3u8",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [TẠ BIÊN GIỚI] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=16224322fbe3ab7d9ab0b65d769bd779&txTime=6a2f3ef1",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=f3624704382af2c9aa0ab33efbb26c27&txTime=6a2f5841",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [BLV TOMMY] (Socolive) hdM3u8",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [TẠ BIÊN GIỚI] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=311088dadad6782ea26aad4bdad7fb2e&txTime=6a2f3ef1",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=a62373c49b4b167eb336c9e2c09d4e53&txTime=6a2f5841",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [CR Bưởi] (Socolive) flv",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [RICKHANTER] (Socolive) flv",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=28fa4ae53c5317962a90e2168d0721f9&txTime=6a2f3ef1",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull06.scstream.net/live/stream-9912122_lsd.flv?auth_key=1781469681-0-0-adfcb100630902e5762cfb5af661ff95",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [CR Bưởi] (Socolive) hdFlv",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [RICKHANTER] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=d629072dc64ab3c3d61b80271ceb3523&txTime=6a2f3ef1",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull06.scstream.net/live/stream-9912122_lhd.flv?auth_key=1781469681-0-0-5a0568e6b235af4e854fbdd396f409af",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [CR Bưởi] (Socolive) m3u8",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [RICKHANTER] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=28fa4ae53c5317962a90e2168d0721f9&txTime=6a2f3ef1",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1781469681-0-0-aaf96a8b8bdccb18e0c3fe7aac7e1dcf",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [CR Bưởi] (Socolive) hdM3u8",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [RICKHANTER] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=d629072dc64ab3c3d61b80271ceb3523&txTime=6a2f3ef1",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [DECO] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1781463201-0-0-0b27c94aa9dd94aef7cf8f5e53ec8a93",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [DECO] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1781463201-0-0-75e7c187344b268206752ed2b80afce1",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [DECO] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1781463201-0-0-285b56df7696dcb05259c0d87746fcbb",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [DECO] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1781463201-0-0-79e609e44be8664392eebaee9d87c18d",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [BLV COCA] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1781463201-0-0-8eefe7a56de14a08b98de1dd571ac586",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [BLV COCA] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1781463201-0-0-bf9a556b0d255b70207b29be34d08a30",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [BLV COCA] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781463201-0-0-b3151ae8d9fa5bd3f83d7b4eb433e0e1",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [BLV COCA] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1781463201-0-0-3f0c05bdfb8fe7e012ef662137f20c77",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [BLV 7UP] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1781463201-0-0-39b0fdefa4b03ecaad770c19fbced61a",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [BLV 7UP] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1781463201-0-0-8d4f1d7ad035f3df434bee55e56f3304",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [BLV 7UP] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781463201-0-0-d70a30f9a98062b1c73b9a792fac95e6",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [BLV 7UP] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781463201-0-0-95f019e8013bc93b60b17091a5689a81",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1781469681-0-0-e4175e4698ec723eb0938507ac512836",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
         "title": "00h00 ngày 15/06 Germany vs Curacao [BLV Củ Cải] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1781463201-0-0-f8a4787c8dd734eb4f50ddca1b9168f2",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1781469681-0-0-5cd26a28054aca2d477d7e3b3792e48b",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
         "title": "00h00 ngày 15/06 Germany vs Curacao [BLV Củ Cải] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1781463201-0-0-532a8b9137fd6912d7d1266c981e27f0",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1781469681-0-0-b7c34e846972ca77ed0c08884a983c2d",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
         "title": "00h00 ngày 15/06 Germany vs Curacao [BLV Củ Cải] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1781463201-0-0-b2e158acbfb1cb70e0365bce3f4978b5",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1781469681-0-0-b3b3405ae5034917d0ae2ba8f12de848",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
         "title": "00h00 ngày 15/06 Germany vs Curacao [BLV Củ Cải] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1781463201-0-0-6b5dddb640552c66abfe9e3ab15f6f13",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1781469681-0-0-80bf37c062ba6ced5cf9cd2fe063e8bb",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [BLV MESSI] (Socolive) flv",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [BLV MESSI] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1781463201-0-0-0c9778e97bccd479cacb4c71cc9b9285",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1781469681-0-0-bc588989e279eca33656527c98c37666",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [BLV MESSI] (Socolive) hdFlv",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [BLV MESSI] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1781463201-0-0-1ad5974cf495c8c216ff33854ba6b556",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1781469681-0-0-b5ee380837f66c3e19fdea402024da34",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [BLV MESSI] (Socolive) m3u8",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [BLV MESSI] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1781463201-0-0-a60a08471790211e98ae1355ab563bae",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1781469681-0-0-d4b91dabf1f4f93fabc13c4be64ac8df",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [BLV MESSI] (Socolive) hdM3u8",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [BLV MESSI] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781463201-0-0-f21facc2a5567d06497f85df47f09666",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781469681-0-0-5975d3020ec604872ad614d98c455dc2",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [RICKHANTER] (Socolive) flv",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [CR Bưởi] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912122_lsd.flv?auth_key=1781463201-0-0-1aaf72dcc1746a85adef7277f309ea26",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=3e43e84955480cd6da1c19fe67ddee73&txTime=6a2f5841",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [RICKHANTER] (Socolive) hdFlv",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [CR Bưởi] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912122_lhd.flv?auth_key=1781463201-0-0-b6001b1f74dd66a4785f22841c10c13d",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=cb6be2909d7b0239969310cb104352e8&txTime=6a2f5841",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [RICKHANTER] (Socolive) m3u8",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [CR Bưởi] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1781463201-0-0-51a80fd4f7bb63a83675efd29b7e10a2",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=3e43e84955480cd6da1c19fe67ddee73&txTime=6a2f5841",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [RICKHANTER] (Socolive) hdM3u8",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [CR Bưởi] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1781463201-0-0-2e6c792c9f0dd86cb56e1da95259538b",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=cb6be2909d7b0239969310cb104352e8&txTime=6a2f5841",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [BLV TAP] (Socolive) flv",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [SAO LA] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1781463201-0-0-8a5d114590fc4cc8ff475a5d27ea10a6",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=45fa7b4c47b2f89396bc4ad9db274d4b&txTime=6a2f5841",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [BLV TAP] (Socolive) hdFlv",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [SAO LA] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1781463201-0-0-44d4d9e8dcb28d69f29f174e3207c716",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=95dd461139a8f666c5c10845a3f999ea&txTime=6a2f5841",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [BLV TAP] (Socolive) m3u8",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [SAO LA] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1781463201-0-0-658419d843c6f2110fecabc9820a87e5",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=45fa7b4c47b2f89396bc4ad9db274d4b&txTime=6a2f5841",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Germany vs Curacao [BLV TAP] (Socolive) hdM3u8",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [SAO LA] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1781463201-0-0-53c7c4c5f7c8ea47bf1b2aed483696a5",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=95dd461139a8f666c5c10845a3f999ea&txTime=6a2f5841",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Keflavik vs Hafnarfjordur [BLV CÒ] (Socolive) flv",
+        "title": "02h00 ngày 15/06 Athletic Club vs Goiás EC [BLV WUKONG] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1781463201-0-0-19c12913c39ed5210ef40c2dd6022db0",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1781469681-0-0-d321d2d799efea95a172548034d9476a",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Keflavik vs Hafnarfjordur [BLV CÒ] (Socolive) hdFlv",
+        "title": "02h00 ngày 15/06 Athletic Club vs Goiás EC [BLV WUKONG] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1781463201-0-0-3ffa80e482381bf70da4070f1d78b017",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1781469681-0-0-b252021176c5c82c2f3d72a8147ab575",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Keflavik vs Hafnarfjordur [BLV CÒ] (Socolive) m3u8",
+        "title": "02h00 ngày 15/06 Athletic Club vs Goiás EC [BLV WUKONG] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1781463201-0-0-c730af24f12145cdf61c746d7bda4905",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1781469681-0-0-159dc9091a83d0caeb8b60a1475eb4d1",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 Keflavik vs Hafnarfjordur [BLV CÒ] (Socolive) hdM3u8",
+        "title": "02h00 ngày 15/06 Athletic Club vs Goiás EC [BLV WUKONG] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1781463201-0-0-3425185db6862f691f6cdc1f41bbaa6d",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1781469681-0-0-c258df8fbeb6aef7d8398db3c2a43136",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "23h30 ngày 14/06 D. Concepcion vs Deportes Limache [KÉP] (Socolive) flv",
+        "title": "02h00 ngày 15/06 Athletic Club vs Goiás EC [BLV RYO] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1781463201-0-0-bc1c79cfefa7d2618d0914d3a06f0b54",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1781469681-0-0-d6bbd225a00a9dbffffe662dfd788391",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "23h30 ngày 14/06 D. Concepcion vs Deportes Limache [KÉP] (Socolive) hdFlv",
+        "title": "02h00 ngày 15/06 Athletic Club vs Goiás EC [BLV RYO] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1781463201-0-0-8ff527890d7f8e57832c60654035e2b1",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1781469681-0-0-8daf3e9e3c65e5e4df614c2d033ee72b",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "23h30 ngày 14/06 D. Concepcion vs Deportes Limache [KÉP] (Socolive) m3u8",
+        "title": "02h00 ngày 15/06 Athletic Club vs Goiás EC [BLV RYO] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1781463201-0-0-9abfd368da3bd57f004b8cf538d87322",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1781469681-0-0-d8e444cac13629d27edc2bef36a1ff79",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "23h30 ngày 14/06 D. Concepcion vs Deportes Limache [KÉP] (Socolive) hdM3u8",
+        "title": "02h00 ngày 15/06 Athletic Club vs Goiás EC [BLV RYO] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1781463201-0-0-c169b85c0a362ed4c701519b5231167b",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h30 ngày 14/06 Thor Akureyri vs IBV Vestmannaeyjar [PINKMAN] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=585e92890e6a46004526c5c462f75bef&txTime=6a2f3ef1",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h30 ngày 14/06 Thor Akureyri vs IBV Vestmannaeyjar [PINKMAN] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=4561db38c1a77ead69bc0e2191e59c0e&txTime=6a2f3ef1",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h30 ngày 14/06 Thor Akureyri vs IBV Vestmannaeyjar [PINKMAN] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=585e92890e6a46004526c5c462f75bef&txTime=6a2f3ef1",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h30 ngày 14/06 Thor Akureyri vs IBV Vestmannaeyjar [PINKMAN] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=4561db38c1a77ead69bc0e2191e59c0e&txTime=6a2f3ef1",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h00 ngày 14/06 Gagra FC vs Dinamo Tbilisi [BLV CÁP] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-610677_lsd.flv?auth_key=1781463201-0-0-9ee4763c38f5edc024bbc9930bcafd34",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h00 ngày 14/06 Gagra FC vs Dinamo Tbilisi [BLV CÁP] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-610677_lhd.flv?auth_key=1781463201-0-0-f478eea98be7751f924be51351fa2bc2",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h00 ngày 14/06 Gagra FC vs Dinamo Tbilisi [BLV CÁP] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1781463201-0-0-0202d1607acb6627550b5ba4b12b6ebb",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h00 ngày 14/06 Gagra FC vs Dinamo Tbilisi [BLV CÁP] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1781463201-0-0-afa27ccc8cabc6a145753b5b4d95ac6a",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h00 ngày 14/06 Gagra FC vs Dinamo Tbilisi [BLV RAMBO] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=c9d8ed47975fa6f0a04dfee9fa76b0c1&txTime=6a2f3ef1",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h00 ngày 14/06 Gagra FC vs Dinamo Tbilisi [BLV RAMBO] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=7db59ef32ab374a30969de988bcf7d99&txTime=6a2f3ef1",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h00 ngày 14/06 Gagra FC vs Dinamo Tbilisi [BLV RAMBO] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=c9d8ed47975fa6f0a04dfee9fa76b0c1&txTime=6a2f3ef1",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h00 ngày 14/06 Gagra FC vs Dinamo Tbilisi [BLV RAMBO] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=7db59ef32ab374a30969de988bcf7d99&txTime=6a2f3ef1",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h30 ngày 14/06 Thor Akureyri vs IBV Vestmannaeyjar [TRÀ ĐÁ] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-603914_lsd.flv?auth_key=1781463201-0-0-71b8311531012784d3c0af5751d2778c",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h30 ngày 14/06 Thor Akureyri vs IBV Vestmannaeyjar [TRÀ ĐÁ] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1781463201-0-0-630a8674e727abaa5366635f2e197ba0",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h30 ngày 14/06 Thor Akureyri vs IBV Vestmannaeyjar [TRÀ ĐÁ] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1781463201-0-0-09cc6113e34c32212fd800b8e41242b0",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "23h30 ngày 14/06 Thor Akureyri vs IBV Vestmannaeyjar [TRÀ ĐÁ] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1781463201-0-0-9db8b0e9009e1b891421c2da8c567cd9",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 FC Torpedo Zhodino vs Slavia Mozyr [XUÂN TÓC ĐỎ] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-610518_lsd.flv?txSecret=9b8c31c4c002fbc53352d078e23819b0&txTime=6a2f3ef1",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 FC Torpedo Zhodino vs Slavia Mozyr [XUÂN TÓC ĐỎ] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-610518_lhd.flv?txSecret=28348e7397040a15cf381056dae15d2a&txTime=6a2f3ef1",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 FC Torpedo Zhodino vs Slavia Mozyr [XUÂN TÓC ĐỎ] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=9b8c31c4c002fbc53352d078e23819b0&txTime=6a2f3ef1",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 FC Torpedo Zhodino vs Slavia Mozyr [XUÂN TÓC ĐỎ] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=28348e7397040a15cf381056dae15d2a&txTime=6a2f3ef1",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 FC Torpedo Zhodino vs Slavia Mozyr [QUÂN JK] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-611178_lsd.flv?auth_key=1781463201-0-0-97e176afd7f2fff950219ab3eec05698",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 FC Torpedo Zhodino vs Slavia Mozyr [QUÂN JK] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-611178_lhd.flv?auth_key=1781463201-0-0-0d5ec4e150d31d41e6022986df7161cf",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 FC Torpedo Zhodino vs Slavia Mozyr [QUÂN JK] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1781463201-0-0-602749e43bee50d75b7bdd5c765c1170",
-        "time": "2026-06-14 18:03:41"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "00h00 ngày 15/06 FC Torpedo Zhodino vs Slavia Mozyr [QUÂN JK] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1781463201-0-0-66075132be4de218a04f1626771128a2",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1781469681-0-0-b91d807dbe90a3290a461e5ed064f6db",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781463201-0-0-d985c12fcb9901688c5ebff1a18b19cb",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781469681-0-0-0f2a7d3b0311756a34cf53c380f5903b",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781463201-0-0-717c3931e56589c82a3faafa5cbcdc69",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781469681-0-0-df76c1a17bf5f68c3a51b8cf7e347bc0",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781463201-0-0-140dd5852b2f851ab225997d8913516c",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781469681-0-0-86ae3b9788857c97d0cb6a0c398ecd2c",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781463201-0-0-993d9e60ee86dfc72c5749327dbf5403",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781469681-0-0-420a902bb3aadf78ca2404c583b30c28",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "23h30 14/06 Ayacucho FC vs Club Deportivo Los Chankas (Hội Quán) FHD",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [BLV COCA] (Socolive) flv",
         "logo": "",
-        "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1781470041-0-0-90d1a545ca05b847a7b6f8c4f8b147d9",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "23h30 14/06 Ayacucho FC vs Club Deportivo Los Chankas (Hội Quán) SD",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [BLV COCA] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1781470041-0-0-49f896e88db89e17de3d0310d3f7c02d",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 15/06 Germany vs Curaçao (Hội Quán) FHD",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [BLV COCA] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781470041-0-0-3e8b8e89e32acb2af318fc7303370a19",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [BLV COCA] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1781470041-0-0-691905ac7eb3222058b7cbf58c4b0b6c",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [DECO] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1781470041-0-0-0bcc6ff44fb726be05a31c79ca21e59b",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [DECO] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1781470041-0-0-b730f6a3f1edda8df23286721de5058a",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [DECO] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1781470041-0-0-dde8cfc467b6dc539e35230f9cccebdc",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [DECO] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1781470041-0-0-2b63d020a3807ce087e3b98d191f9143",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [HẢI THANH] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1781470041-0-0-b870fad6b6324d9f30b125e8fc9c1b35",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [HẢI THANH] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1781470041-0-0-365f7af8d2b21feaf43fe6912a783758",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [HẢI THANH] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1781470041-0-0-1aeb4673cdeed9c70604dead7d6c560e",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [HẢI THANH] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1781470041-0-0-78adff4bbcb1a15ad9dc51f3b13a010a",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [BLV ĐỐM] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1781470041-0-0-6bc4b5e20a8eee239e9be6353263609e",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [BLV ĐỐM] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1781470041-0-0-274e9f7a431b9ed9d0dec0aa38086493",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [BLV ĐỐM] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1781470041-0-0-dfc50b7b3fecf78eff2408fbde8afce0",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 ngày 15/06 Netherlands vs Japan [BLV ĐỐM] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1781470041-0-0-38436ab3e22526b237ceb2e9ef6e5706",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 15/06 Malaga vs Almeria [BLV ROBBEN] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1781470041-0-0-91a2845cb651511d0c587cd90e589988",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 15/06 Malaga vs Almeria [BLV ROBBEN] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1781470041-0-0-fc68e6020a3541b283aed27dfb4fcc59",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 15/06 Malaga vs Almeria [BLV ROBBEN] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1781470041-0-0-6c4f9b923ebe70ad600cdf56b0b2b120",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 15/06 Malaga vs Almeria [BLV ROBBEN] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1781470041-0-0-2fd2299a809fb5780112a63c72273618",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 15/06 Malaga vs Almeria [LOKA] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1781470041-0-0-8b3e5aa9bcc4b077345a7b2153451a0d",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 15/06 Malaga vs Almeria [LOKA] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1781470041-0-0-2ca5698d64debed0f5b9b893a02b8b55",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 15/06 Malaga vs Almeria [LOKA] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1781470041-0-0-d83137b865643d2fa60292223b0ef5e0",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 15/06 Malaga vs Almeria [LOKA] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1781470041-0-0-fca9220b0a5b64ece5aa191663f55571",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 15/06 Malaga vs Almeria [BLV LONG] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-9912117_lsd.flv?txSecret=afb86f9f1e5c5350afca8b10d3a7e856&txTime=6a2f59a9",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 15/06 Malaga vs Almeria [BLV LONG] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-9912117_lhd.flv?txSecret=662cb93c3bee4b930867e06d36b47a5d&txTime=6a2f59a9",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 15/06 Malaga vs Almeria [BLV LONG] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=afb86f9f1e5c5350afca8b10d3a7e856&txTime=6a2f59a9",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 15/06 Malaga vs Almeria [BLV LONG] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=662cb93c3bee4b930867e06d36b47a5d&txTime=6a2f59a9",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 15/06 Malaga vs Almeria [BLV RAMBO] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=2d4fbe5b1e5b30674481c11dae24e03c&txTime=6a2f59a9",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 15/06 Malaga vs Almeria [BLV RAMBO] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=e44a66676a5c36d6ebd111bf162d2389&txTime=6a2f59a9",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 15/06 Malaga vs Almeria [BLV RAMBO] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=2d4fbe5b1e5b30674481c11dae24e03c&txTime=6a2f59a9",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 15/06 Malaga vs Almeria [BLV RAMBO] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=e44a66676a5c36d6ebd111bf162d2389&txTime=6a2f59a9",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 15/06 Union La Calera vs Universidad de Chile [BLV VITAMIN] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1781470041-0-0-d6bf3864aa4dc87c54c5fcb87ebdcd54",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 15/06 Union La Calera vs Universidad de Chile [BLV VITAMIN] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1781470041-0-0-da5e579ac2ca7c016f603c0d1be5f775",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 15/06 Union La Calera vs Universidad de Chile [BLV VITAMIN] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1781470041-0-0-e40df4d6475cff58697f9c54e3615c5b",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 15/06 Union La Calera vs Universidad de Chile [BLV VITAMIN] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1781470041-0-0-6db0fc6c981cb0dea22fff989600e7f7",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 15/06 Union La Calera vs Universidad de Chile [BLV XO] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1781470041-0-0-6a6c43924f6e431c7f795ee06764b6f0",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 15/06 Union La Calera vs Universidad de Chile [BLV XO] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1781470041-0-0-e2c2994d5c6eebbe2c50128aad0be3db",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 15/06 Union La Calera vs Universidad de Chile [BLV XO] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1781470041-0-0-b29a4423f2845230ef8e58bd79297a3e",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 15/06 Union La Calera vs Universidad de Chile [BLV XO] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1781470041-0-0-e5f9936b90962ed46f893ce56229160f",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 15/06 Athletic Club vs Goiás EC [BLV CÁP] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-610677_lsd.flv?auth_key=1781470041-0-0-d7058b775454db96ff11460ee35d91a6",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 15/06 Athletic Club vs Goiás EC [BLV CÁP] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-610677_lhd.flv?auth_key=1781470041-0-0-63149b9c4f6b7efcd28fd97e736711c1",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 15/06 Athletic Club vs Goiás EC [BLV CÁP] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1781470041-0-0-b12a7db3f1b0ac5507f35d0aae6549cd",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 15/06 Athletic Club vs Goiás EC [BLV CÁP] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1781470041-0-0-154faba87d0937a1bd1dfe6c744e4350",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 15/06 Union La Calera vs Universidad de Chile [KÉP] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1781470041-0-0-8b6880738decc12d021a8b9395034804",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 15/06 Union La Calera vs Universidad de Chile [KÉP] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1781470041-0-0-18726a329918016b67a111b814f7b38c",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 15/06 Union La Calera vs Universidad de Chile [KÉP] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1781470041-0-0-f40b9a65d7422681882e99f95ca542cf",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "02h00 ngày 15/06 Union La Calera vs Universidad de Chile [KÉP] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1781470041-0-0-6c50aceb273d3d63311608bd14992a18",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 15/06 Netherlands vs Japan (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 15/06 Netherlands vs Japan (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-14 19:53:23"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "03h00 15/06 Netherlands vs Japan (Hội Quán) FHD",
         "logo": "",
         "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8",
-        "time": "2026-06-14 18:03:41"
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 15/06 Germany vs Curaçao (Hội Quán) SD",
+        "title": "03h00 15/06 Netherlands vs Japan (Hội Quán) SD",
         "logo": "",
         "url": "https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-14 18:03:41"
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 15/06 Germany vs Curaçao (Hội Quán) FHD",
+        "title": "01h30 15/06 Canada vs Thổ Nhĩ Kỳ (Hội Quán) FHD",
         "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h00 15/06 Germany vs Curaçao (Hội Quán) SD",
+        "title": "01h30 15/06 Canada vs Thổ Nhĩ Kỳ (Hội Quán) SD",
         "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h30 15/06 Bulgaria vs Serbia (Hội Quán) FHD",
+        "title": "03h00 15/06 Netherlands vs Japan (Hội Quán) FHD",
         "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8",
+        "time": "2026-06-14 19:53:23"
     },
     {
         "group": "FPT SPORT",
-        "title": "00h30 15/06 Bulgaria vs Serbia (Hội Quán) SD",
+        "title": "03h00 15/06 Netherlands vs Japan (Hội Quán) SD",
         "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-14 18:03:41"
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-14 19:53:23"
     }
 ]
