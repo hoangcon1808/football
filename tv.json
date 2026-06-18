@@ -1,10 +1,10 @@
 [
     {
-        "group": "HỘI QUÁN",
-        "title": "14:30 | Shanghai Second vs SHANGHAI SIPG",
-        "logo": "https://media.api-sports.io/football/teams/27619.png",
-        "url": "https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8",
-        "time": "2026-06-19 14:30:00"
+        "group": "VÒNG CẤM TV",
+        "title": "Serbia W - Italy W",
+        "logo": "https://static.flashscore.com/res/image/data/2NUY9fYA-h6SRz2xL.png",
+        "url": "https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8",
+        "time": "2026-06-18 12:36:10"
     },
     {
         "group": "HỘI QUÁN",
@@ -15,240 +15,450 @@
     },
     {
         "group": "HỘI QUÁN",
-        "title": "16:00 | WTT Star Contender Ljubljana 2026",
-        "logo": "https://png.pngtree.com/png-clipart/20190904/original/pngtree-red-table-tennis-racket-illustration-png-image_4502882.jpg",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8",
-        "time": "2026-06-18 16:00:00"
+        "title": "20:00 | Bỉ vs Brazil",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/250px-Flag_of_Belgium.svg.png",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-18 20:00:00"
+    },
+    {
+        "group": "HỘI QUÁN",
+        "title": "20:00 | Arys vs Kaspij Aktau 2",
+        "logo": "https://media.api-sports.io/football/teams/10414.png",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-18 20:00:00"
+    },
+    {
+        "group": "HỘI QUÁN",
+        "title": "20:30 | Thái Lan vs Bulgaria",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-18 20:30:00"
+    },
+    {
+        "group": "HỘI QUÁN",
+        "title": "19:00 | Serbia vs Ý",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/250px-Flag_of_Serbia.svg.png",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-18 19:00:00"
     },
     {
         "group": "CA LA TV",
-        "title": "09:59 | CLB AC Oulu vs IFK Mariehamn",
-        "logo": "https://img.boostopia.io/football/team/348fa7d49029584354427690fe88f874.png!w80",
-        "url": "https://live05.msdht.app/live/14707124.m3u8",
-        "time": "2026-06-18 09:59:00"
+        "title": "11:00 | Astana B vs Kairat Almaty II",
+        "logo": "https://img.boostopia.io/football/team/eea48912dacd0411ebfd9749ac55cba9.png!w80",
+        "url": "https://live05.msdht.app/live/43612277.m3u8",
+        "time": "2026-06-18 11:00:00"
     },
     {
-        "group": "Spartacus (Season 3)",
-        "title": "Tập 9",
-        "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-3-thumb.jpg&w=1920&q=75",
-        "url": "https://vip.opstream16.com/20230414/33881_9e539926/index.m3u8",
-        "time": "2026-06-18 09:23:28"
+        "group": "CA LA TV",
+        "title": "12:00 | Akademiya Ontustik vs FK Yelimay Semey B",
+        "logo": "https://img.boostopia.io/football/team/9fd252984e0e48f24d736e43fec2cd2d.png!w80",
+        "url": "https://live05.msdht.app/live/78905744.m3u8",
+        "time": "2026-06-18 12:00:00"
     },
     {
-        "group": "Spartacus (Season 3)",
-        "title": "Tập 5",
-        "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-3-thumb.jpg&w=1920&q=75",
-        "url": "https://vip.opstream16.com/20230414/33883_53c3ecc8/index.m3u8",
-        "time": "2026-06-18 09:23:28"
+        "group": "CA LA TV",
+        "title": "13:00 | FK Arys vs FK Kaspiy Aktau B",
+        "logo": "https://img.boostopia.io/football/team/dff243319f536af2557bca3e82143a73.png!w80",
+        "url": "https://live05.msdht.app/live/87547578.m3u8",
+        "time": "2026-06-18 13:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "12:30 | Hochiminh City Wings vs Nha Trang Dolphins",
+        "logo": "https://img.boostopia.io/basketball/team/a431de8af67ea988c837ff726cdb30ca.png!w80",
+        "url": "https://live05.msdht.app/live/19919577.m3u8",
+        "time": "2026-06-18 12:30:00"
     },
     {
         "group": "Spartacus (Season 3)",
         "title": "Tập 10",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-3-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream16.com/20230414/33882_44deb9a8/index.m3u8",
-        "time": "2026-06-18 09:23:28"
+        "time": "2026-06-18 12:36:11"
     },
     {
         "group": "Spartacus (Season 3)",
         "title": "Tập 7",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-3-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream16.com/20230414/33880_160821c1/index.m3u8",
-        "time": "2026-06-18 09:23:28"
+        "time": "2026-06-18 12:36:11"
     },
     {
-        "group": "Phim hay",
-        "title": "Cuốc Xe Âm Phủ - Tập Cuối",
-        "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
-        "url": "https://v7.kkphimplayer7.com/20260505/6REaXK8f/3500kb/hls/index.m3u8",
-        "time": "2026-06-18 09:23:28"
+        "group": "Spartacus (Season 3)",
+        "title": "Tập 9",
+        "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-3-thumb.jpg&w=1920&q=75",
+        "url": "https://vip.opstream16.com/20230414/33881_9e539926/index.m3u8",
+        "time": "2026-06-18 12:36:11"
     },
     {
-        "group": "Phim hay",
-        "title": "Cuốc Xe Âm Phủ - Tập 3",
-        "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
-        "url": "https://v7.kkphimplayer7.com/20260504/9JB48ezG/3500kb/hls/index.m3u8",
-        "time": "2026-06-18 09:23:28"
+        "group": "Spartacus (Season 3)",
+        "title": "Tập 5",
+        "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-3-thumb.jpg&w=1920&q=75",
+        "url": "https://vip.opstream16.com/20230414/33883_53c3ecc8/index.m3u8",
+        "time": "2026-06-18 12:36:11"
     },
     {
         "group": "Phim hay",
         "title": "Thỏ Ơi",
         "logo": "https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/Th%E1%BB%8F%20%C6%A0i.jpg",
         "url": "https://v7.kkphimplayer7.com/20260531/mazEQT6f/3500kb/hls/index.m3u8",
-        "time": "2026-06-18 09:23:28"
-    },
-    {
-        "group": "Phim hay",
-        "title": "Cuốc Xe Âm Phủ - Tập 1",
-        "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
-        "url": "https://v7.kkphimplayer7.com/20260502/89qXv3Fa/3500kb/hls/index.m3u8",
-        "time": "2026-06-18 09:23:28"
-    },
-    {
-        "group": "Phim hay",
-        "title": "Cuốc Xe Âm Phủ - Tập 4",
-        "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
-        "url": "https://v7.kkphimplayer7.com/20260504/xNE4czZl/3500kb/hls/index.m3u8",
-        "time": "2026-06-18 09:23:28"
+        "time": "2026-06-18 12:36:11"
     },
     {
         "group": "Phim hay",
         "title": "Cuốc Xe Âm Phủ - Tập 2",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
         "url": "https://v7.kkphimplayer7.com/20260503/Lp2p18eb/3500kb/hls/index.m3u8",
-        "time": "2026-06-18 09:23:28"
+        "time": "2026-06-18 12:36:11"
+    },
+    {
+        "group": "Phim hay",
+        "title": "Cuốc Xe Âm Phủ - Tập 4",
+        "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
+        "url": "https://v7.kkphimplayer7.com/20260504/xNE4czZl/3500kb/hls/index.m3u8",
+        "time": "2026-06-18 12:36:11"
+    },
+    {
+        "group": "Phim hay",
+        "title": "Cuốc Xe Âm Phủ - Tập Cuối",
+        "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
+        "url": "https://v7.kkphimplayer7.com/20260505/6REaXK8f/3500kb/hls/index.m3u8",
+        "time": "2026-06-18 12:36:11"
+    },
+    {
+        "group": "Phim hay",
+        "title": "Cuốc Xe Âm Phủ - Tập 1",
+        "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
+        "url": "https://v7.kkphimplayer7.com/20260502/89qXv3Fa/3500kb/hls/index.m3u8",
+        "time": "2026-06-18 12:36:11"
+    },
+    {
+        "group": "Phim hay",
+        "title": "Cuốc Xe Âm Phủ - Tập 3",
+        "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
+        "url": "https://v7.kkphimplayer7.com/20260504/9JB48ezG/3500kb/hls/index.m3u8",
+        "time": "2026-06-18 12:36:11"
     },
     {
         "group": "Phim hay",
         "title": "Nhà Hai Chủ",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/29/nha-hai-chu-fpt-play-1777448554178_Landscape.jpg",
         "url": "https://v7.kkphimplayer7.com/20260505/YnFXHB6A/3500kb/hls/index.m3u8",
-        "time": "2026-06-18 09:23:28"
+        "time": "2026-06-18 12:36:11"
     },
     {
         "group": "FPT SPORT",
-        "title": "11h00 ngày 18/06 Argentina vs Algérie (Lương Sơn) BLV YẾN THANH REPLAY m3u",
+        "title": "18h00 ngày 18/06 Astana B vs Kairat Almaty II (Lương Sơn) BLV TÂY MÔN KHÁNH m3u",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/TEST/index.m3u8?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c",
-        "time": "2026-06-18 09:23:29"
+        "url": "https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da",
+        "time": "2026-06-18 12:36:11"
     },
     {
         "group": "FPT SPORT",
-        "title": "16h55 ngày 18/06 AC Oulu vs IFK Mariehamn [LOGAN] (Socolive) hdM3u8",
+        "title": "19h00 ngày 18/06 Akademiya Ontustik vs FK Yelimay Semey B (Lương Sơn) BLV MÃ SIÊU m3u",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1781777841-0-0-f1f15b2332b3f35d15cc72a6807736f8",
-        "time": "2026-06-18 09:23:29"
+        "url": "https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b",
+        "time": "2026-06-18 12:36:11"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - Portugal vs Democratic Republic of the Congo [Sóc trong rừng xà nu] (Socolive) hdM3u8",
+        "title": "19h00 ngày 18/06 Akademiya Ontustik vs FK Yelimay Semey B (Lương Sơn) BLV YẾN THANH m3u",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1781777481-0-0-99c6c7e058f55eed72f0a4e2c1311b8e",
-        "time": "2026-06-18 09:23:29"
+        "url": "https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582",
+        "time": "2026-06-18 12:36:11"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - Portugal vs Democratic Republic of the Congo [Sóc trong rừng xà nu] (Socolive) m3u8",
+        "title": "19h00 ngày 18/06 Akademiya Ontustik vs FK Yelimay Semey B (Lương Sơn) BLV TÀO THÁO m3u",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1781777481-0-0-755d3de59f1afbd046418119222cf602",
-        "time": "2026-06-18 09:23:29"
+        "url": "https://hls.cdnfaster-a.live/live/TAOTHAO/index.m3u8?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9",
+        "time": "2026-06-18 12:36:11"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - Ghana vs Panama [Sóc mèo méo meo] (Socolive) hdM3u8",
+        "title": "18h00 ngày 18/06 Astana B vs Kairat Almaty II (Lương Sơn) BLV PHI HỔ m3u",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1781777481-0-0-1aceceef950f8ea7135a543f2af677ea",
-        "time": "2026-06-18 09:23:29"
+        "url": "https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f",
+        "time": "2026-06-18 12:36:11"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - Austria vs Jordan [Sóc nhàm nhang nhồ] (Socolive) hdM3u8",
+        "title": "19h00 ngày 18/06 Akademiya Ontustik vs FK Yelimay Semey B [BLV BÉO] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1781777481-0-0-77bc82d1c0db584f5fe9fd1670e5cedd",
-        "time": "2026-06-18 09:23:29"
+        "url": "https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=279979d90873efdc47a2cba03e169ceb&txTime=6a343799",
+        "time": "2026-06-18 12:36:11"
     },
     {
         "group": "FPT SPORT",
-        "title": "16h55 ngày 18/06 AC Oulu vs IFK Mariehamn [LOGAN] (Socolive) m3u8",
+        "title": "19h00 ngày 18/06 Akademiya Ontustik vs FK Yelimay Semey B [SAO LA] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1781777841-0-0-16070a9ae805d5392163074416fd2ea3",
-        "time": "2026-06-18 09:23:29"
+        "url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=060ffd6e7500c28728878cfaf31f4a81&txTime=6a343799",
+        "time": "2026-06-18 12:36:11"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 18/06 Akademiya Ontustik vs FK Yelimay Semey B [SAO LA] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=d63fee85639e6e545ed9a2a5191a1d6e&txTime=6a343799",
+        "time": "2026-06-18 12:36:11"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 18/06 Astana B vs Kairat Almaty II [VƯƠNG ANH] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=e79a9ae1b0b8ab8a0b4eb9e7738421a6&txTime=6a343631",
+        "time": "2026-06-18 12:36:11"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 18/06 Akademiya Ontustik vs FK Yelimay Semey B [BLV BÉO] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=818908d1d158069ae2007f96fa53e8ce&txTime=6a343799",
+        "time": "2026-06-18 12:36:11"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 18/06 Astana B vs Kairat Almaty II [VƯƠNG ANH] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=f6b7506afc42e88c7d1c9e11e99b732d&txTime=6a343631",
+        "time": "2026-06-18 12:36:11"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 18/06 FK Arys vs FK Kaspiy Aktau B [XUÂN TÓC ĐỎ] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=719ab14ef65875d5391334f1024bcdc6&txTime=6a343912",
+        "time": "2026-06-18 12:36:11"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 18/06 FK Arys vs FK Kaspiy Aktau B [XUÂN TÓC ĐỎ] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=491e88dc3fb1d6e99c35231d295c6f0b&txTime=6a343912",
+        "time": "2026-06-18 12:36:11"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 18/06 Akademiya Ontustik vs FK Yelimay Semey B [BLV LONG] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912117_lsd.m3u8?auth_key=1781789001-0-0-5d39840bf9eab766b286bacfb441d959",
+        "time": "2026-06-18 12:36:11"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 18/06 Akademiya Ontustik vs FK Yelimay Semey B [NGƯỜI CÁ] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1781789001-0-0-2d68d71dfb33678b33e9204cb272d0c3",
+        "time": "2026-06-18 12:36:11"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 18/06 Akademiya Ontustik vs FK Yelimay Semey B [BLV LONG] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912117_lhd.m3u8?auth_key=1781789001-0-0-dc9bd18a066b20c6c84b56280cbbdae1",
+        "time": "2026-06-18 12:36:11"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 18/06 Astana B vs Kairat Almaty II [BLV VOI] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1781789001-0-0-5aa4491ff82661d56d73e07b19b9f4fc",
+        "time": "2026-06-18 12:36:11"
     },
     {
         "group": "FPT SPORT",
         "title": "Tường thuật: WORLD CUP - England vs Croatia [Sóc đau cổ vai gáy] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1781777481-0-0-87a5413aa79287f777de97b10277c3af",
-        "time": "2026-06-18 09:23:29"
+        "url": "https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1781789361-0-0-3fb5a336629c23f459cb97c975e746c6",
+        "time": "2026-06-18 12:36:11"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - Uzbekistan vs Colombia [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8",
+        "title": "18h00 ngày 18/06 Astana B vs Kairat Almaty II [BLV ALEX] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1781777121-0-0-d94c5b9d07eafd03774600e214814619",
-        "time": "2026-06-18 09:23:29"
+        "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1781789361-0-0-e2d0e93fd87b97224e3b17750e6dc29a",
+        "time": "2026-06-18 12:36:11"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - Uzbekistan vs Colombia [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8",
+        "title": "18h00 ngày 18/06 Astana B vs Kairat Almaty II [BLV ALEX] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1781777121-0-0-ed2a296cb8ce21f6249f65bd257b1e55",
-        "time": "2026-06-18 09:23:29"
+        "url": "https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1781789361-0-0-b1c00a30576b6e3798c4a73390d49335",
+        "time": "2026-06-18 12:36:11"
     },
     {
         "group": "FPT SPORT",
-        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8",
+        "title": "18h00 ngày 18/06 Astana B vs Kairat Almaty II [A PÁO] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781777841-0-0-8366f32134e69c3835b5204c8b3ec98a",
-        "time": "2026-06-18 09:23:29"
+        "url": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1781788641-0-0-cd20474fe75573cc2a4782468e02dec4",
+        "time": "2026-06-18 12:36:11"
     },
     {
         "group": "FPT SPORT",
-        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
+        "title": "18h00 ngày 18/06 Astana B vs Kairat Almaty II [BLV VOI] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781777841-0-0-d8946315453ea3397722d365a496c0a9",
-        "time": "2026-06-18 09:23:29"
+        "url": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1781789001-0-0-1aa965707733e6e0f7171e7c427d368e",
+        "time": "2026-06-18 12:36:11"
     },
     {
         "group": "FPT SPORT",
-        "title": "16h30 18/06 Fabian Marozsan vs Taylor Fritz (Hội Quán) SD",
+        "title": "19h00 ngày 18/06 Akademiya Ontustik vs FK Yelimay Semey B [NGƯỜI CÁ] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-18 09:23:29"
+        "url": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1781789001-0-0-99ed546ce31eb1909dd537948cb472a6",
+        "time": "2026-06-18 12:36:11"
     },
     {
         "group": "FPT SPORT",
-        "title": "16h00 18/06 WTT Star Contender Ljubljana 2026 (Hội Quán) SD",
+        "title": "18h00 ngày 18/06 Astana B vs Kairat Almaty II [A PÁO] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-18 09:23:29"
+        "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1781788641-0-0-760e24851e4c4f9f9cbd6f5d91029a6b",
+        "time": "2026-06-18 12:36:11"
     },
     {
         "group": "FPT SPORT",
-        "title": "16h00 18/06 WTT Star Contender Ljubljana 2026 (Hội Quán) FHD",
+        "title": "19h00 18/06 Serbia vs Ý (Hội Quán) FHD",
         "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8",
-        "time": "2026-06-18 09:23:29"
+        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8",
+        "time": "2026-06-18 12:36:11"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - Portugal vs Democratic Republic of the Congo [Sóc trong rừng xà nu] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1781789361-0-0-e9432a1bc171e6e039db73e488eb96f5",
+        "time": "2026-06-18 12:36:11"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 18/06 Bỉ vs Brazil (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8",
+        "time": "2026-06-18 12:36:11"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h30 18/06 Ben Shelton vs Ethan Quinn (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8",
+        "time": "2026-06-18 12:36:11"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 18/06 FK Arys vs FK Kaspiy Aktau B [BLV XO] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1781789361-0-0-f4f857818a74e6a9eed10d1791a6bf9e",
+        "time": "2026-06-18 12:36:11"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 18/06 Akademiya Ontustik vs Yelimay Semey 2 (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-18 12:36:11"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - Austria vs Jordan [Sóc nhàm nhang nhồ] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1781789361-0-0-a046c10330407317082bbcdec033cec7",
+        "time": "2026-06-18 12:36:11"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 18/06 FK Arys vs FK Kaspiy Aktau B [BLV XO] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1781789361-0-0-4ea500fddbbf133c5d25654538db5218",
+        "time": "2026-06-18 12:36:11"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 18/06 Serbia vs Ý (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-18 12:36:11"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 18/06 Bỉ vs Brazil (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-18 12:36:11"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 18/06 Akademiya Ontustik vs Yelimay Semey 2 (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8",
+        "time": "2026-06-18 12:36:11"
     },
     {
         "group": "FPT SPORT",
         "title": "Tường thuật: WORLD CUP - Ghana vs Panama [Sóc mèo méo meo] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1781777481-0-0-9c77634d0e443b9316fe7a235837d78e",
-        "time": "2026-06-18 09:23:29"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - Argentina vs Algeria [Sóc trèo cây ngô đồng] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1781777481-0-0-87d85d888c33c39d8200517fe54be1d3",
-        "time": "2026-06-18 09:23:29"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - Argentina vs Algeria [Sóc trèo cây ngô đồng] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1781777481-0-0-b4bdad4686cf3662ec72a466e5818d15",
-        "time": "2026-06-18 09:23:29"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - Austria vs Jordan [Sóc nhàm nhang nhồ] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1781777481-0-0-1be594a42da912718e7d817e0a6aefa1",
-        "time": "2026-06-18 09:23:29"
+        "url": "https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1781789361-0-0-07644f01559f1f279976b7908d1bd3fd",
+        "time": "2026-06-18 12:36:11"
     },
     {
         "group": "FPT SPORT",
         "title": "Tường thuật: WORLD CUP - England vs Croatia [Sóc đau cổ vai gáy] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1781777481-0-0-d8764bda80868c9a97d39ef70aabf9f4",
-        "time": "2026-06-18 09:23:29"
+        "url": "https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1781789361-0-0-cf843f73377527634effb93c5281c6fa",
+        "time": "2026-06-18 12:36:11"
     },
     {
         "group": "FPT SPORT",
-        "title": "16h30 18/06 Fabian Marozsan vs Taylor Fritz (Hội Quán) FHD",
+        "title": "18h30 18/06 Ben Shelton vs Ethan Quinn (Hội Quán) SD",
         "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8",
-        "time": "2026-06-18 09:23:29"
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-18 12:36:11"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781788641-0-0-06abf97cd0a687ffd5f7735b1846fec7",
+        "time": "2026-06-18 12:36:11"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - Austria vs Jordan [Sóc nhàm nhang nhồ] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1781789361-0-0-701521ae54ce0b98d4652f91a6da8cbd",
+        "time": "2026-06-18 12:36:11"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781788641-0-0-a50d618c1b2b09d5260fadc73d607726",
+        "time": "2026-06-18 12:36:11"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - Argentina vs Algeria [Sóc trèo cây ngô đồng] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1781789361-0-0-47ba222e0b1c5df595a4d15a17e7e036",
+        "time": "2026-06-18 12:36:11"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - Argentina vs Algeria [Sóc trèo cây ngô đồng] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1781789361-0-0-3dc78427cbada542ec48e591bdf46393",
+        "time": "2026-06-18 12:36:11"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - Ghana vs Panama [Sóc mèo méo meo] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1781789361-0-0-d71272adfa46cad46074cc25490c81fd",
+        "time": "2026-06-18 12:36:11"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - Uzbekistan vs Colombia [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1781789361-0-0-062ce314bb766cba40bb0ccb1b955d34",
+        "time": "2026-06-18 12:36:11"
     }
 ]
