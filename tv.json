@@ -1,17 +1,17 @@
 [
     {
-        "group": "VÒNG CẤM TV",
-        "title": "France vs Iraq",
-        "logo": "https://media.api-sports.io/football/teams/2.png",
-        "url": "https://bglive.yarncdn.live/live/bgtv_blv_lenh/playlist.m3u8",
-        "time": "2026-06-22 23:04:58"
+        "group": "HỘI QUÁN",
+        "title": "07:00 | Norway vs Senegal",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png",
+        "url": "https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-23 07:00:00"
     },
     {
-        "group": "VÒNG CẤM TV",
-        "title": "France vs Iraq",
+        "group": "HỘI QUÁN",
+        "title": "04:00 | France vs Iraq",
         "logo": "https://media.api-sports.io/football/teams/2.png",
-        "url": "https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8",
-        "time": "2026-06-22 23:04:58"
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-23 04:00:00"
     },
     {
         "group": "HỘI QUÁN",
@@ -22,13 +22,6 @@
     },
     {
         "group": "HỘI QUÁN",
-        "title": "06:00 | Ponte Preta vs Novorizontino",
-        "logo": "https://media.api-sports.io/football/teams/139.png",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8",
-        "time": "2026-06-23 06:00:00"
-    },
-    {
-        "group": "HỘI QUÁN",
         "title": "04:00 | France vs Iraq",
         "logo": "https://media.api-sports.io/football/teams/2.png",
         "url": "https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8",
@@ -36,10 +29,38 @@
     },
     {
         "group": "HỘI QUÁN",
-        "title": "04:00 | France vs Iraq",
+        "title": "06:00 | Ponte Preta vs Novorizontino",
+        "logo": "https://media.api-sports.io/football/teams/139.png",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-23 06:00:00"
+    },
+    {
+        "group": "VÒNG CẤM TV",
+        "title": "France vs Iraq",
         "logo": "https://media.api-sports.io/football/teams/2.png",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8",
-        "time": "2026-06-23 04:00:00"
+        "url": "https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8",
+        "time": "2026-06-23 00:17:14"
+    },
+    {
+        "group": "VÒNG CẤM TV",
+        "title": "Norway vs Senegal",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "url": "https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8",
+        "time": "2026-06-23 00:17:14"
+    },
+    {
+        "group": "VÒNG CẤM TV",
+        "title": "Norway vs Senegal",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "url": "https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8",
+        "time": "2026-06-23 00:17:14"
+    },
+    {
+        "group": "VÒNG CẤM TV",
+        "title": "France vs Iraq",
+        "logo": "https://media.api-sports.io/football/teams/2.png",
+        "url": "https://bglive.yarncdn.live/live/bgtv_blv_lenh/playlist.m3u8",
+        "time": "2026-06-23 00:17:14"
     },
     {
         "group": "CA LA TV",
@@ -50,10 +71,17 @@
     },
     {
         "group": "CA LA TV",
-        "title": "23:00 | Connecticut Sun vs Chicago Sky",
-        "logo": "https://img.gvapi.cc/basketball/team/616c37f8e35a1c33a4766dbc86c0ca3a.png!w80",
-        "url": "https://live05.apusport.com/live/82054853.m3u8",
-        "time": "2026-06-22 23:00:00"
+        "title": "00:00 | Na Uy vs Senegal",
+        "logo": "https://img.gvapi.cc/football/team/51934729f32d36841a17e43e9390483a.png!w80",
+        "url": "https://live05.apusport.com/live/78905744.m3u8",
+        "time": "2026-06-23 00:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "10:30 | Logan Lightning vs Holland Park Hawks",
+        "logo": "https://img.gvapi.cc/football/team/fe2e6a095e8db9a20e494635a93f579e.png!w80",
+        "url": "https://live05.apusport.com/live/90865415.m3u8",
+        "time": "2026-06-23 10:30:00"
     },
     {
         "group": "CA LA TV",
@@ -64,6 +92,13 @@
     },
     {
         "group": "CA LA TV",
+        "title": "02:00 | Seattle Storm vs Dallas Wings",
+        "logo": "https://img.gvapi.cc/basketball/team/21275a59516956d98aedc00b97faadc4.png!w80",
+        "url": "https://live05.apusport.com/live/87379114.m3u8",
+        "time": "2026-06-23 02:00:00"
+    },
+    {
+        "group": "CA LA TV",
         "title": "23:30 | Atlanta Dream vs Toronto Tempo",
         "logo": "https://img.gvapi.cc/basketball/team/be3ef0f7745b3b45b846fac31ca987c6.png!w80",
         "url": "https://live05.apusport.com/live/19919577.m3u8",
@@ -71,457 +106,681 @@
     },
     {
         "group": "CA LA TV",
-        "title": "10:30 | Logan Lightning vs Holland Park Hawks",
-        "logo": "https://img.gvapi.cc/football/team/fe2e6a095e8db9a20e494635a93f579e.png!w80",
-        "url": "https://live05.apusport.com/live/90865415.m3u8",
-        "time": "2026-06-23 10:30:00"
+        "title": "08:00 | Xiamen Feilu vs Hubei Istar",
+        "logo": "https://img.gvapi.cc/football/team/781ec70f5330d740f23ff6ba778ae7e4.png!w80",
+        "url": "https://live05.apusport.com/live/90725470.m3u8",
+        "time": "2026-06-23 08:00:00"
     },
     {
-        "group": "Spartacus (Season 3)",
-        "title": "Tập 5",
-        "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-3-thumb.jpg&w=1920&q=75",
-        "url": "https://vip.opstream16.com/20230414/33883_53c3ecc8/index.m3u8",
-        "time": "2026-06-22 23:04:59"
-    },
-    {
-        "group": "Spartacus (Season 3)",
-        "title": "Tập 7",
-        "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-3-thumb.jpg&w=1920&q=75",
-        "url": "https://vip.opstream16.com/20230414/33880_160821c1/index.m3u8",
-        "time": "2026-06-22 23:04:59"
-    },
-    {
-        "group": "Spartacus (Season 3)",
-        "title": "Tập 9",
-        "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-3-thumb.jpg&w=1920&q=75",
-        "url": "https://vip.opstream16.com/20230414/33881_9e539926/index.m3u8",
-        "time": "2026-06-22 23:04:59"
-    },
-    {
-        "group": "Spartacus (Season 3)",
-        "title": "Tập 10",
-        "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-3-thumb.jpg&w=1920&q=75",
-        "url": "https://vip.opstream16.com/20230414/33882_44deb9a8/index.m3u8",
-        "time": "2026-06-22 23:04:59"
-    },
-    {
-        "group": "Phim hay",
-        "title": "Cuốc Xe Âm Phủ - Tập Cuối",
-        "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
-        "url": "https://v7.kkphimplayer7.com/20260505/6REaXK8f/3500kb/hls/index.m3u8",
-        "time": "2026-06-22 23:04:59"
-    },
-    {
-        "group": "Phim hay",
-        "title": "Cuốc Xe Âm Phủ - Tập 2",
-        "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
-        "url": "https://v7.kkphimplayer7.com/20260503/Lp2p18eb/3500kb/hls/index.m3u8",
-        "time": "2026-06-22 23:04:59"
-    },
-    {
-        "group": "Phim hay",
-        "title": "Nhà Hai Chủ",
-        "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/29/nha-hai-chu-fpt-play-1777448554178_Landscape.jpg",
-        "url": "https://v7.kkphimplayer7.com/20260505/YnFXHB6A/3500kb/hls/index.m3u8",
-        "time": "2026-06-22 23:04:59"
-    },
-    {
-        "group": "Phim hay",
-        "title": "Thỏ Ơi",
-        "logo": "https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/Th%E1%BB%8F%20%C6%A0i.jpg",
-        "url": "https://v7.kkphimplayer7.com/20260531/mazEQT6f/3500kb/hls/index.m3u8",
-        "time": "2026-06-22 23:04:59"
-    },
-    {
-        "group": "Phim hay",
-        "title": "Cuốc Xe Âm Phủ - Tập 3",
-        "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
-        "url": "https://v7.kkphimplayer7.com/20260504/9JB48ezG/3500kb/hls/index.m3u8",
-        "time": "2026-06-22 23:04:59"
+        "group": "CA LA TV",
+        "title": "23:00 | Connecticut Sun vs Chicago Sky",
+        "logo": "https://img.gvapi.cc/basketball/team/616c37f8e35a1c33a4766dbc86c0ca3a.png!w80",
+        "url": "https://live05.apusport.com/live/82054853.m3u8",
+        "time": "2026-06-22 23:00:00"
     },
     {
         "group": "Phim hay",
         "title": "Cuốc Xe Âm Phủ - Tập 1",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
         "url": "https://v7.kkphimplayer7.com/20260502/89qXv3Fa/3500kb/hls/index.m3u8",
-        "time": "2026-06-22 23:04:59"
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "Phim hay",
+        "title": "Thỏ Ơi",
+        "logo": "https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/Th%E1%BB%8F%20%C6%A0i.jpg",
+        "url": "https://v7.kkphimplayer7.com/20260531/mazEQT6f/3500kb/hls/index.m3u8",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "Phim hay",
         "title": "Cuốc Xe Âm Phủ - Tập 4",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
         "url": "https://v7.kkphimplayer7.com/20260504/xNE4czZl/3500kb/hls/index.m3u8",
-        "time": "2026-06-22 23:04:59"
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "Phim hay",
+        "title": "Cuốc Xe Âm Phủ - Tập 3",
+        "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
+        "url": "https://v7.kkphimplayer7.com/20260504/9JB48ezG/3500kb/hls/index.m3u8",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "Phim hay",
+        "title": "Nhà Hai Chủ",
+        "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/29/nha-hai-chu-fpt-play-1777448554178_Landscape.jpg",
+        "url": "https://v7.kkphimplayer7.com/20260505/YnFXHB6A/3500kb/hls/index.m3u8",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "Phim hay",
+        "title": "Cuốc Xe Âm Phủ - Tập Cuối",
+        "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
+        "url": "https://v7.kkphimplayer7.com/20260505/6REaXK8f/3500kb/hls/index.m3u8",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "Phim hay",
+        "title": "Cuốc Xe Âm Phủ - Tập 2",
+        "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
+        "url": "https://v7.kkphimplayer7.com/20260503/Lp2p18eb/3500kb/hls/index.m3u8",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 23/06 Norway vs Senegal (Lương Sơn) BLV TÔN LẬP m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 23/06 Norway vs Senegal (Lương Sơn) BLV TÂY MÔN KHÁNH m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
         "title": "04h00 ngày 23/06 France vs Iraq (Lương Sơn) BLV LỮ BỐ m3u",
         "logo": "",
         "url": "https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1",
-        "time": "2026-06-22 23:04:59"
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h00 ngày 23/06 France vs Iraq (Lương Sơn) BLV LƯU BỊ m3u",
+        "title": "07h00 ngày 23/06 Norway vs Senegal (Lương Sơn) BLV FERNANDO m3u",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1",
-        "time": "2026-06-22 23:04:59"
+        "url": "https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h00 ngày 23/06 France vs Iraq (Lương Sơn) BLV MÃ SIÊU m3u",
+        "title": "06h00 ngày 23/06 Ponte Preta vs Gremio Novorizontino (Lương Sơn) BLV VƯƠNG LUÂN m3u",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b",
-        "time": "2026-06-22 23:04:59"
+        "url": "https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
-        "title": "05h00 ngày 23/06 CA Talleres de Cordoba (W) vs Huracan (W) (Lương Sơn) BLV DƯƠNG CHÍ m3u",
+        "title": "07h00 ngày 23/06 Norway vs Senegal (Lương Sơn) BLV TRIỆU TỬ LONG m3u",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33",
-        "time": "2026-06-22 23:04:59"
+        "url": "https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
         "title": "04h00 ngày 23/06 France vs Iraq (Lương Sơn) BLV KEVILL m3u",
         "logo": "",
         "url": "https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799",
-        "time": "2026-06-22 23:04:59"
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "04h00 ngày 23/06 France vs Iraq (Lương Sơn) BLV MÃ SIÊU m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
         "title": "04h00 ngày 23/06 France vs Iraq (Lương Sơn) BLV KAKA m3u",
         "logo": "",
         "url": "https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6",
-        "time": "2026-06-22 23:04:59"
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h00 ngày 23/06 France vs Iraq (Lương Sơn) BLV TRIỆU TỬ LONG m3u",
+        "title": "04h00 ngày 23/06 France vs Iraq (Lương Sơn) BLV LƯU BỊ m3u",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070",
-        "time": "2026-06-22 23:04:59"
+        "url": "https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
-        "title": "06h00 ngày 23/06 Ponte Preta vs Gremio Novorizontino [BLV GÔN] (Socolive) hdM3u8",
+        "title": "07h00 ngày 23/06 Norway vs Senegal (Lương Sơn) BLV YẾN THANH m3u",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=55c9699576aea4f06794f83f6dfe32b6&txTime=6a3a0fda",
-        "time": "2026-06-22 23:04:59"
+        "url": "https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 23/06 Ponte Preta vs Gremio Novorizontino (Lương Sơn) BLV SHIN m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 23/06 Norway vs Senegal (Lương Sơn) BLV VÕ TÒNG m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
         "title": "04h00 ngày 23/06 France vs Iraq [DECO] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=32ca4f8c4176927c3f8542457ed35021&txTime=6a3a0fda",
-        "time": "2026-06-22 23:04:59"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "06h00 ngày 23/06 Ponte Preta vs Gremio Novorizontino [BLV GÔN] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=179a869e9cdc72254ae248ecc3223557&txTime=6a3a0fda",
-        "time": "2026-06-22 23:04:59"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "04h00 ngày 23/06 France vs Iraq [SAO LA] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=f9cf2673fcc29a47418a4e818fca2564&txTime=6a3a0fda",
-        "time": "2026-06-22 23:04:59"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "04h00 ngày 23/06 France vs Iraq [BLV Củ Cải] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=dccfb9d6666643441fd488c266cddf01&txTime=6a3a0fda",
-        "time": "2026-06-22 23:04:59"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "04h00 ngày 23/06 France vs Iraq [SAO LA] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=501604ffbd5d6a7c47c635deda8f3290&txTime=6a3a0fda",
-        "time": "2026-06-22 23:04:59"
+        "url": "https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=360448fd91e7bc199f1d63e5e79cf380&txTime=6a3a20ba",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
         "title": "04h00 ngày 23/06 France vs Iraq [DECO] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=5adfc84b0b3bf7d864c878de037d83e2&txTime=6a3a0fda",
-        "time": "2026-06-22 23:04:59"
+        "url": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=d9e9a37195c9de76bd901c32fcc78c07&txTime=6a3a20ba",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
         "title": "04h00 ngày 23/06 France vs Iraq [BLV Củ Cải] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=11055cd4d26557ed3bcc9dd50d6fa05f&txTime=6a3a0fda",
-        "time": "2026-06-22 23:04:59"
+        "url": "https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=b71a3097312f62bb7b1da9c7fd78cd00&txTime=6a3a20ba",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h00 ngày 23/06 France vs Iraq [CR Bưởi] (Socolive) m3u8",
+        "title": "04h00 ngày 23/06 France vs Iraq [BLV Củ Cải] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=f969cd646b2f9d0c026a8fe929df8589&txTime=6a3a1142",
-        "time": "2026-06-22 23:04:59"
+        "url": "https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=99b7966cbbae46434158a9b464ce3dd1&txTime=6a3a20ba",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h00 ngày 23/06 France vs Iraq [CR Bưởi] (Socolive) hdM3u8",
+        "title": "04h00 ngày 23/06 France vs Iraq [SAO LA] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=7cf1fa9c5f2921a8f5aa306cf4e38134&txTime=6a3a1142",
-        "time": "2026-06-22 23:04:59"
+        "url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=100cb5ab48e21afa2c2d0cd8beeb837e&txTime=6a3a20ba",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h00 ngày 23/06 France vs Iraq [BLV TOMMY] (Socolive) m3u8",
+        "title": "07h00 ngày 23/06 Norway vs Senegal [BLV BÉO] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=83dda435a3e4600573f1388dbe4a690a&txTime=6a3a1142",
-        "time": "2026-06-22 23:04:59"
+        "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=bda0ee07e25711d931338f5c50f595a4&txTime=6a3a20ba",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h00 ngày 23/06 France vs Iraq [BLV TOMMY] (Socolive) hdM3u8",
+        "title": "07h00 ngày 23/06 Norway vs Senegal [BLV BÉO] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=f92a78b84b3642479feaf72ec490f3a1&txTime=6a3a1142",
-        "time": "2026-06-22 23:04:59"
+        "url": "https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=5f0c50ff3c00c9fb6be48c8fd30d8c3a&txTime=6a3a20ba",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h00 ngày 23/06 France vs Iraq [VƯƠNG ANH] (Socolive) m3u8",
+        "title": "06h00 ngày 23/06 Ponte Preta vs Gremio Novorizontino [BLV GÔN] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=9cd58eb2fc87e5afb3107540dea7849e&txTime=6a3a1142",
-        "time": "2026-06-22 23:04:59"
+        "url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=f00598cfcc28e83227887573130bd308&txTime=6a3a20ba",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h00 ngày 23/06 France vs Iraq [VƯƠNG ANH] (Socolive) hdM3u8",
+        "title": "04h00 ngày 23/06 France vs Iraq [SAO LA] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=4c4800ad9fa20c9b4396ca9adfbe5639&txTime=6a3a1142",
-        "time": "2026-06-22 23:04:59"
+        "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=a0535b8e39e30bdda568d907036a96ca&txTime=6a3a20ba",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 23/06 Ponte Preta vs Gremio Novorizontino [BLV GÔN] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=f5609b96fa5a3d7fd64d0b14cef96c76&txTime=6a3a20ba",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
         "title": "04h00 ngày 23/06 France vs Iraq [A BỆU] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1782172042-0-0-8faf2154b2e3c1dc545789ac063b8792",
-        "time": "2026-06-22 23:04:59"
+        "url": "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1782176362-0-0-689d4c53db1e72a1b2495ac15801f2f9",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h00 ngày 23/06 France vs Iraq [TẠ BIÊN GIỚI] (Socolive) hdM3u8",
+        "title": "04h00 ngày 23/06 France vs Iraq [CR Bưởi] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782172402-0-0-c39f9d006cc683734b44d61c95be09f5",
-        "time": "2026-06-22 23:04:59"
+        "url": "https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=38ec47eb3dbd9a255712e3b6607c878a&txTime=6a3a2222",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h00 ngày 23/06 France vs Iraq [A BỆU] (Socolive) m3u8",
+        "title": "04h00 ngày 23/06 France vs Iraq [TẠ BIÊN GIỚI] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1782172042-0-0-9cbb84551de8b6f28a5bf2a2421221e4",
-        "time": "2026-06-22 23:04:59"
+        "url": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1782176722-0-0-d10c9e1dc94b8a646c841e2368258f95",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h00 ngày 23/06 France vs Iraq [BLV COCA] (Socolive) hdM3u8",
+        "title": "07h00 ngày 23/06 Norway vs Senegal [BLV FIREMAN] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1782172402-0-0-810c459f161267a919d551970e3f48b5",
-        "time": "2026-06-22 23:04:59"
+        "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1782176362-0-0-836845323f72442eb6b566b2ed07566f",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h00 ngày 23/06 France vs Iraq [THẠCH TÚ] (Socolive) m3u8",
+        "title": "06h30 ngày 23/06 Atlanta Dream W vs Toronto Tempo W [BRIAN] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1782172402-0-0-3f422b350c21d9545af220f7013a86bc",
-        "time": "2026-06-22 23:04:59"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "04h00 ngày 23/06 France vs Iraq [BLV COZY] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1782171682-0-0-0905aab0c855dc225879e36cf8c2de04",
-        "time": "2026-06-22 23:04:59"
+        "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1782176362-0-0-6a252e8511df84b65683f5b9671937ed",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
         "title": "06h00 ngày 23/06 Ponte Preta vs Gremio Novorizontino [BEN 10] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1782172042-0-0-c2d31288452299ba030068b88ccf0b21",
-        "time": "2026-06-22 23:04:59"
+        "url": "https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1782176362-0-0-18577902bcfd42b83538b48d7be938a8",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h00 ngày 23/06 France vs Iraq [BLV MESSI] (Socolive) hdM3u8",
+        "title": "04h00 ngày 23/06 France vs Iraq [CR Bưởi] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1782172402-0-0-d804d0f9034e3503bdd10c07699db039",
-        "time": "2026-06-22 23:04:59"
+        "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=8969b74522e109918fd121f03d99ce91&txTime=6a3a2222",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
-        "title": "05h30 ngày 23/06 AD Confiança vs Guarani SP [BLV CÁO] (Socolive) hdM3u8",
+        "title": "07h00 ngày 23/06 Norway vs Senegal [BLV TAP] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1782172402-0-0-569357123b7696a1630851968c95d0e0",
-        "time": "2026-06-22 23:04:59"
+        "url": "https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1782176722-0-0-e20141e3e59102a2e5143ea6c8abf0aa",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
-        "title": "06h00 ngày 23/06 Ponte Preta vs Gremio Novorizontino [BLV RYO] (Socolive) hdM3u8",
+        "title": "04h00 ngày 23/06 France vs Iraq [BLV TOMMY] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1782172402-0-0-d6911f2160061c0614f78efe9575ee36",
-        "time": "2026-06-22 23:04:59"
+        "url": "https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=3a8539b1c64ccdd2f276ce8287c5f2b8&txTime=6a3a2222",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h00 ngày 23/06 France vs Iraq [BLV COCA] (Socolive) m3u8",
+        "title": "06h30 ngày 23/06 Atlanta Dream W vs Toronto Tempo W [BRIAN] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1782172402-0-0-89869238b28a7115a9d51296d0d36eb8",
-        "time": "2026-06-22 23:04:59"
+        "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1782176362-0-0-5551010555606930f2c9e84f9476ef86",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h00 ngày 23/06 France vs Iraq [THẠCH TÚ] (Socolive) hdM3u8",
+        "title": "04h00 ngày 23/06 France vs Iraq [BLV TOMMY] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1782172402-0-0-81932af4b564ba0772ac3aad891171ee",
-        "time": "2026-06-22 23:04:59"
+        "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=bda9fa04db63ba132c3e4bbe985995b1&txTime=6a3a2222",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
-        "title": "05h30 ngày 23/06 AD Confiança vs Guarani SP [BLV CÁO] (Socolive) m3u8",
+        "title": "04h00 ngày 23/06 France vs Iraq [A BỆU] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1782172402-0-0-fcdbdc85af7e839c88dd74b53508e9ed",
-        "time": "2026-06-22 23:04:59"
+        "url": "https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1782176362-0-0-3f998104c77d7290e8cc73648ebf5f10",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 23/06 Norway vs Senegal [BLV ĐỐM] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1782176722-0-0-5b208345138460eff33c6c9fdbf8b55b",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
         "title": "05h30 ngày 23/06 AD Confiança vs Guarani SP [BLV NẤM] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1782172042-0-0-7d041f4e9f1828b2e4c007c848bc8612",
-        "time": "2026-06-22 23:04:59"
+        "url": "https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1782176362-0-0-765d368da7a146c1f5d6c2034499a9f0",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
-        "title": "06h00 ngày 23/06 Ponte Preta vs Gremio Novorizontino [BLV A TÚ] (Socolive) hdM3u8",
+        "title": "04h00 ngày 23/06 France vs Iraq [TẠ BIÊN GIỚI] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1782171682-0-0-17c494e7872b6480d67a52015cf3bfdf",
-        "time": "2026-06-22 23:04:59"
+        "url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782176722-0-0-1809b2de4365f9ff1a50f7b8e9518fd2",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h00 23/06 France vs Iraq (Hội Quán) SD",
+        "title": "04h00 ngày 23/06 France vs Iraq [THẠCH TÚ] (Socolive) m3u8",
         "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-22 23:04:59"
+        "url": "https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1782176722-0-0-32e5885b749849e923b5256b9f62d852",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
-        "title": "06h00 ngày 23/06 Ponte Preta vs Gremio Novorizontino [BLV A TÚ] (Socolive) m3u8",
+        "title": "04h00 ngày 23/06 France vs Iraq [VƯƠNG ANH] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1782171682-0-0-c3eb6d710ca0e782d1d015457c906c3e",
-        "time": "2026-06-22 23:04:59"
+        "url": "https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=650bc798b28260d7149abbfc5cc0ec09&txTime=6a3a2222",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
-        "title": "06h00 ngày 23/06 Ponte Preta vs Gremio Novorizontino [BLV RYO] (Socolive) m3u8",
+        "title": "04h00 ngày 23/06 France vs Iraq [BLV MESSI] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1782172402-0-0-36840d3f31a4b57995ca1c8bfcaf1986",
-        "time": "2026-06-22 23:04:59"
+        "url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1782176722-0-0-11d306709dc7442497ff2fef1b6e11ad",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h00 23/06 France vs Iraq (Hội Quán) FHD",
+        "title": "04h00 ngày 23/06 France vs Iraq [VƯƠNG ANH] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8",
-        "time": "2026-06-22 23:04:59"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "05h30 ngày 23/06 AD Confiança vs Guarani SP [BLV NẤM] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1782172042-0-0-b2db27ea79f842262d5d4acb676f1896",
-        "time": "2026-06-22 23:04:59"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "04h00 23/06 France vs Iraq (Hội Quán) FHD",
-        "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8",
-        "time": "2026-06-22 23:04:59"
+        "url": "https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=bf6438f0ebdf3a68856b3cff819ef0dc&txTime=6a3a2222",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
         "title": "06h00 ngày 23/06 Ponte Preta vs Gremio Novorizontino [BEN 10] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1782172042-0-0-d8ea4452746ff4d79f6474675e3a042a",
-        "time": "2026-06-22 23:04:59"
+        "url": "https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1782176362-0-0-ab6ff7048166aed2fe39c9027f88dab8",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h00 23/06 France vs Iraq (Hội Quán) FHD",
+        "title": "04h00 ngày 23/06 France vs Iraq [BLV COCA] (Socolive) m3u8",
         "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8",
-        "time": "2026-06-22 23:04:59"
+        "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1782176722-0-0-05248f5d75cda1b3f51e4bd8fb0cb0f8",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 23/06 Norway vs Senegal [RICKHANTER] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1782176362-0-0-5b72271a3a35e153b495bb824d29c1cc",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 23/06 Norway vs Senegal [BLV LONG] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=121f7fc57f24f9f99cfaf6e6f8e5e841&txTime=6a3a2222",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 23/06 Norway vs Senegal [BLV LONG] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=27fb7eadefb706ee7bf7aa8a207bcd0e&txTime=6a3a2222",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 23/06 Norway vs Senegal [BLV TAP] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1782176722-0-0-5b66d6cb01a9d7ebc87c42aa1fb71e07",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h30 ngày 23/06 AD Confiança vs Guarani SP [BLV CÁO] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1782176722-0-0-a2f891143e6a35d4d9633b9cca072397",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "05h30 ngày 23/06 AD Confiança vs Guarani SP [BLV NẤM] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1782176362-0-0-a7a9fe27021a651bb849d95f1a410802",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 23/06 Norway vs Senegal [CÔNG CHẤT] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-291277_lsd.m3u8?txSecret=cf1fc5bf843f6bf4c41e750715701202&txTime=6a3a238a",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 23/06 Norway vs Senegal [CÔNG CHẤT] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=18d2f84dc7da59289b115d120f1cc05f&txTime=6a3a238a",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 23/06 Norway vs Senegal [BLV FIREMAN] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1782176362-0-0-9bb828ce61ae2d579f0315f80dcd1e7f",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 23/06 Norway vs Senegal [XUÂN SON] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=fde29de26f8f43f375cf9a2dd783614a&txTime=6a3a238a",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 23/06 Norway vs Senegal [BLV 7UP] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1782176722-0-0-d948ae84ae4a86fdf56ae4c6fa92b439",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 23/06 Norway vs Senegal [XUÂN SON] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=dd898b5c43e5a52289ae5c4c0f42fd88&txTime=6a3a238a",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 23/06 Norway vs Senegal [BLV CUỘI] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-256080_lsd.m3u8?txSecret=79fd3668add05ab2c689eac87f9a6fae&txTime=6a3a238a",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 23/06 Norway vs Senegal [BLV CUỘI] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-256080_lhd.m3u8?txSecret=2bc3208e48620dd5fe33a9c904551f72&txTime=6a3a238a",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "04h00 ngày 23/06 France vs Iraq [BLV COZY] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1782177082-0-0-b90f81d37aa185e2bbe995f0507645c2",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782176362-0-0-47bc802d816547ca47b1c91e5f0bbf53",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 23/06 Norway vs Senegal [RICKHANTER] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1782176362-0-0-8e436655a7595a4f260025977976945d",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782176362-0-0-03cdd7a6fd43a744fbd15d915feda730",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "04h00 ngày 23/06 France vs Iraq [BLV COCA] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1782176722-0-0-4d02c55a9804574fc15e12bdff28047e",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 23/06 Norway vs Senegal [LOGAN] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1782177082-0-0-cde47f86fd80df91595e8ce2407ad1d8",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 23/06 Norway vs Senegal [BLV 7UP] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1782176722-0-0-8f6d67aecd1536235832630c8be78fe2",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "04h00 ngày 23/06 France vs Iraq [BLV COZY] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1782177082-0-0-81a63409d02c84cc6e34bfa353db5605",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 23/06 Indiana Fever W vs Phoenix Mercury W [CHAN SENA] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1782177082-0-0-d709b91834e80801c0d9bc50cbf820d7",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
         "title": "04h00 23/06 France vs Iraq (Hội Quán) SD",
         "logo": "",
         "url": "https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-22 23:04:59"
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
-        "title": "06h00 23/06 Ponte Preta vs Novorizontino (Hội Quán) SD",
+        "title": "07h00 ngày 23/06 Norway vs Senegal [BLV ĐỐM] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-22 23:04:59"
+        "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1782176722-0-0-7781f5c48051e37b6c6147f18689c316",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 23/06 Norway vs Senegal [BLV A WIN] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1782177082-0-0-41a68f6324b4143099cca33166a5bbb8",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 23/06 Indiana Fever W vs Phoenix Mercury W [A CHÈ] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1782177082-0-0-a1a8d732b4191cbe85d67c00254fa39f",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "04h00 23/06 France vs Iraq (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 23/06 Ponte Preta vs Gremio Novorizontino [BLV A TÚ] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1782177082-0-0-c5ed9f75f5279cc58ae8781621c8446b",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 23/06 Indiana Fever W vs Phoenix Mercury W [CHAN SENA] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1782177082-0-0-c6aa8914423f2bf1c94e02db0b8a9334",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "04h00 23/06 France vs Iraq (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
         "title": "04h00 23/06 France vs Iraq (Hội Quán) SD",
         "logo": "",
         "url": "https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-22 23:04:59"
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
-        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8",
+        "title": "05h30 ngày 23/06 AD Confiança vs Guarani SP [BLV CÁO] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782172042-0-0-f10e899bc6a196b89f96a8a15cc8f9c7",
-        "time": "2026-06-22 23:04:59"
+        "url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1782176722-0-0-034645e9ab4d32d01e4ea0e86523cab9",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
-        "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
+        "title": "07h00 23/06 Norway vs Senegal (Hội Quán) SD",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782172042-0-0-a2a133e638dbe7f18e65b64bd42fd3b2",
-        "time": "2026-06-22 23:04:59"
+        "url": "https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 ngày 23/06 Ponte Preta vs Gremio Novorizontino [BLV RYO] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1782176722-0-0-bae66da2b102f8f10c845722134bab14",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "04h00 23/06 France vs Iraq (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "04h00 23/06 France vs Iraq (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 23/06 Indiana Fever W vs Phoenix Mercury W [A CHÈ] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1782177082-0-0-8a303eb3fef97b0042a8c03851b2b960",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "07h00 ngày 23/06 Norway vs Senegal [LOGAN] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1782177082-0-0-66734c09b346f45b9246f94eade47b99",
+        "time": "2026-06-23 00:17:15"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "06h00 23/06 Ponte Preta vs Novorizontino (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
         "title": "06h00 23/06 Ponte Preta vs Novorizontino (Hội Quán) FHD",
         "logo": "",
         "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8",
-        "time": "2026-06-22 23:04:59"
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h00 ngày 23/06 France vs Iraq [BLV MESSI] (Socolive) m3u8",
+        "title": "06h00 ngày 23/06 Ponte Preta vs Gremio Novorizontino [BLV RYO] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1782172402-0-0-77d0e22b1a9c388314acd5307adfe973",
-        "time": "2026-06-22 23:04:59"
+        "url": "https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1782176722-0-0-bef047551c73760f01e91b77d3a2cdde",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h00 ngày 23/06 France vs Iraq [TẠ BIÊN GIỚI] (Socolive) m3u8",
+        "title": "07h00 23/06 Norway vs Senegal (Hội Quán) FHD",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1782172402-0-0-adefc20e5d4eea72e1648c8674182385",
-        "time": "2026-06-22 23:04:59"
+        "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8",
+        "time": "2026-06-23 00:17:15"
     },
     {
         "group": "FPT SPORT",
-        "title": "04h00 ngày 23/06 France vs Iraq [BLV COZY] (Socolive) hdM3u8",
+        "title": "06h00 ngày 23/06 Ponte Preta vs Gremio Novorizontino [BLV A TÚ] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1782171682-0-0-ff1625c34de7a16223f6ee1dd83982ac",
-        "time": "2026-06-22 23:04:59"
+        "url": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1782177082-0-0-e15cefacf3c773a865233f087be6cbac",
+        "time": "2026-06-23 00:17:15"
     }
 ]
