@@ -1,737 +1,555 @@
 [
     {
-        "group": "VÒNG CẤM TV",
-        "title": "New Zealand vs Bỉ",
-        "logo": "https://media.api-sports.io/football/teams/4673.png",
-        "url": "https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8",
-        "time": "2026-06-27 03:37:16"
-    },
-    {
-        "group": "VÒNG CẤM TV",
-        "title": "New Zealand vs Bỉ",
-        "logo": "https://media.api-sports.io/football/teams/4673.png",
-        "url": "https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8",
-        "time": "2026-06-27 03:37:16"
-    },
-    {
-        "group": "VÒNG CẤM TV",
-        "title": "Ai Cập vs Iran",
-        "logo": "https://media.api-sports.io/football/teams/32.png",
-        "url": "https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8",
-        "time": "2026-06-27 03:37:16"
-    },
-    {
         "group": "HỘI QUÁN",
-        "title": "11:00 | Charlestown City Blues vs Belmont Swansea",
-        "logo": "https://media.api-sports.io/football/teams/10203.png",
+        "title": "13:30 | Valentine vs Lambton Jaffas",
+        "logo": "https://media.api-sports.io/football/teams/10209.png",
         "url": "https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8",
-        "time": "2026-06-27 11:00:00"
-    },
-    {
-        "group": "HỘI QUÁN",
-        "title": "10:00 | New Zealand vs Belgium",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8",
-        "time": "2026-06-27 10:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "07:30 | Franklin Bulls vs Tauranga Whai",
-        "logo": "https://img.gvapi.cc/basketball/team/5906bdeda0213116507e89a4897cc904.png!w80",
-        "url": "https://live05.meung.app/live/87379114.m3u8",
-        "time": "2026-06-27 07:30:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "03:00 | Ai Cập vs Iran",
-        "logo": "https://img.gvapi.cc/football/team/65a579da11fa712149bca347ecfcb208.png!w80",
-        "url": "https://live05.meung.app/live/78905744.m3u8",
-        "time": "2026-06-27 03:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "03:00 | New Zealand vs Bỉ",
-        "logo": "https://img.gvapi.cc/football/team/f827b5406c7aa5b4fe10062ae06a137b.png!w80",
-        "url": "https://live05.meung.app/live/75748097.m3u8",
-        "time": "2026-06-27 03:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "14:00 | HJK vs KuPs",
-        "logo": "https://img.gvapi.cc/football/team/fd1a9c51505300dec9c26e5847114851.png!w80",
-        "url": "https://live05.meung.app/live/14707124.m3u8",
-        "time": "2026-06-27 14:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "14:00 | Operario vs America MG",
-        "logo": "https://img.gvapi.cc/football/team/d10de41c21595dcf71ffbf4c3c105660.png!w80",
-        "url": "https://live05.meung.app/live/87547578.m3u8",
-        "time": "2026-06-27 14:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "13:30 | BC Maxline vs Naftan Novopolock",
-        "logo": "https://img.gvapi.cc/football/team/8888bb52a971c98b7518618bf61e7ad2.png!w80",
-        "url": "https://live05.meung.app/live/82054853.m3u8",
         "time": "2026-06-27 13:30:00"
     },
     {
-        "group": "Mortal Kombat",
-        "title": "Cuộc Chiến Sinh Tử 2",
-        "logo": "https://phim.nguonc.com/public/images/Film/f9tWGssOpViDbh6dV6gtLFiCc7i.jpg",
-        "url": "https://vip.opstream90.com/20260608/34303_1bc949fb/index.m3u8",
-        "time": "2026-06-27 03:37:17"
+        "group": "CA LA TV",
+        "title": "06:00 | Peninsula Power vs Brisbane U21",
+        "logo": "https://img.gvapi.cc/football/team/1fb0f48eaeeab5946deb0073f4163eac.png!w80",
+        "url": "https://live05.meung.app/live/02456966.m3u8",
+        "time": "2026-06-27 06:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "07:00 | Dandenong Thunder vs Hume City",
+        "logo": "https://img.gvapi.cc/football/team/21b95f24eea9500e1147ed57a68a3ff8.png!w80",
+        "url": "https://live05.meung.app/live/99121525.m3u8",
+        "time": "2026-06-27 07:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "07:00 | Siheung City vs Jeonbuk Hyundai Motors II",
+        "logo": "https://img.gvapi.cc/football/team/b0cba801d31e0086325dc1bd81639be8.png!w80",
+        "url": "https://live05.meung.app/live/19919577.m3u8",
+        "time": "2026-06-27 07:00:00"
     },
     {
         "group": "Phim hay",
         "title": "Mưa Đỏ",
         "logo": "https://baokhanhhoa.vn/file/e7837c02857c8ca30185a8c39b582c03/112025/1_20251116070652.jpg",
         "url": "https://vip.opstream90.com/20251118/17952_7bf57028/3000k/hls/mixed.m3u8",
-        "time": "2026-06-27 03:37:17"
+        "time": "2026-06-27 06:43:12"
     },
     {
-        "group": "Phim hay",
-        "title": "Mang Mẹ Đi Bỏ",
-        "logo": "https://hnm.1cdn.vn/thumbs/600x315/2025/05/08/mmdb_poster_first-look_2000x2500px.jpg",
-        "url": "https://vip.opstream90.com/20251129/18758_e33bdf72/3000k/hls/mixed.m3u8",
-        "time": "2026-06-27 03:37:17"
+        "group": "Mortal Kombat",
+        "title": "Cuộc Chiến Sinh Tử 2",
+        "logo": "https://phim.nguonc.com/public/images/Film/f9tWGssOpViDbh6dV6gtLFiCc7i.jpg",
+        "url": "https://vip.opstream90.com/20260608/34303_1bc949fb/index.m3u8",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "Phim hay",
         "title": "Làm Giàu Với Ma Phần 2: Cuộc Chiến Hột Xoàn",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2025/12/30/lam-giau-voi-ma-cuoc-chien-hot-xoan-fpt-play-1767066672824_Landscape.jpg",
         "url": "https://vip.opstream90.com/20260102/21537_fe1af53e/3000k/hls/mixed.m3u8",
-        "time": "2026-06-27 03:37:17"
+        "time": "2026-06-27 06:43:12"
+    },
+    {
+        "group": "Phim hay",
+        "title": "Mang Mẹ Đi Bỏ",
+        "logo": "https://hnm.1cdn.vn/thumbs/600x315/2025/05/08/mmdb_poster_first-look_2000x2500px.jpg",
+        "url": "https://vip.opstream90.com/20251129/18758_e33bdf72/3000k/hls/mixed.m3u8",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "Phim hay",
         "title": "Tay Anh Giữ Một Vì Sao",
         "logo": "https://thegioidienanh.vn/stores/news_dataimages/2025/092025/14/13/in_social/tay-anh-giu-mot-vi-sao-payoff-poster-social-khoi-chieu-0310202520250914134014.jpg",
         "url": "https://vip.opstream90.com/20260102/21538_3a9ba451/3000k/hls/mixed.m3u8",
-        "time": "2026-06-27 03:37:17"
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "Phim hay",
         "title": "Út Lan: Oán Linh Giữ Của",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/03/13/ut-lan-oan-linh-giu-cua-fpt-play-1773395168032_Background_origin.jpg",
         "url": "https://vip.opstream90.com/20260213/24963_b4f6926d/3000k/hls/mixed.m3u8",
-        "time": "2026-06-27 03:37:17"
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "Phim hay",
         "title": "Nhà Mình Đi Thôi",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/29/nha-minh-di-thoi-fpt-play-1777439633547_Landscape.jpg",
         "url": "https://vip.opstream90.com/20260502/30774_da58e2e4/3000k/hls/mixed.m3u8",
-        "time": "2026-06-27 03:37:17"
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "Phim hay",
         "title": "Oshi No Ko Phần 3 - Tập 6",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg",
         "url": "https://vip.opstream90.com/20260219/25424_5534491f/3000k/hls/mixed.m3u8",
-        "time": "2026-06-27 03:37:17"
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "Phim hay",
         "title": "Oshi No Ko Phần 3 - Tập 8",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg",
         "url": "https://vip.opstream90.com/20260305/26504_404d52bf/3000k/hls/mixed.m3u8",
-        "time": "2026-06-27 03:37:17"
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "Phim hay",
         "title": "Oshi No Ko Phần 3 - Tập 9",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg",
         "url": "https://vip.opstream90.com/20260312/26990_72417e4a/3000k/hls/mixed.m3u8",
-        "time": "2026-06-27 03:37:17"
-    },
-    {
-        "group": "Phim hay",
-        "title": "Nhà Hai Chủ",
-        "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/29/nha-hai-chu-fpt-play-1777448554178_Landscape.jpg",
-        "url": "https://v7.kkphimplayer7.com/20260505/YnFXHB6A/3500kb/hls/index.m3u8",
-        "time": "2026-06-27 03:37:17"
-    },
-    {
-        "group": "Phim hay",
-        "title": "Cuốc Xe Âm Phủ - Tập 1",
-        "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
-        "url": "https://v7.kkphimplayer7.com/20260502/89qXv3Fa/3500kb/hls/index.m3u8",
-        "time": "2026-06-27 03:37:17"
-    },
-    {
-        "group": "Phim hay",
-        "title": "Cuốc Xe Âm Phủ - Tập Cuối",
-        "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
-        "url": "https://v7.kkphimplayer7.com/20260505/6REaXK8f/3500kb/hls/index.m3u8",
-        "time": "2026-06-27 03:37:17"
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "Phim hay",
         "title": "Cuốc Xe Âm Phủ - Tập 3",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
         "url": "https://v7.kkphimplayer7.com/20260504/9JB48ezG/3500kb/hls/index.m3u8",
-        "time": "2026-06-27 03:37:17"
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "Phim hay",
-        "title": "Cuốc Xe Âm Phủ - Tập 4",
+        "title": "Cuốc Xe Âm Phủ - Tập Cuối",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
-        "url": "https://v7.kkphimplayer7.com/20260504/xNE4czZl/3500kb/hls/index.m3u8",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://v7.kkphimplayer7.com/20260505/6REaXK8f/3500kb/hls/index.m3u8",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "Phim hay",
-        "title": "Cuốc Xe Âm Phủ - Tập 2",
-        "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
-        "url": "https://v7.kkphimplayer7.com/20260503/Lp2p18eb/3500kb/hls/index.m3u8",
-        "time": "2026-06-27 03:37:17"
+        "title": "Nhà Hai Chủ",
+        "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/29/nha-hai-chu-fpt-play-1777448554178_Landscape.jpg",
+        "url": "https://v7.kkphimplayer7.com/20260505/YnFXHB6A/3500kb/hls/index.m3u8",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "Phim hay",
         "title": "Thỏ Ơi",
         "logo": "https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/Th%E1%BB%8F%20%C6%A0i.jpg",
         "url": "https://v7.kkphimplayer7.com/20260531/mazEQT6f/3500kb/hls/index.m3u8",
-        "time": "2026-06-27 03:37:17"
+        "time": "2026-06-27 06:43:12"
+    },
+    {
+        "group": "Phim hay",
+        "title": "Cuốc Xe Âm Phủ - Tập 1",
+        "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
+        "url": "https://v7.kkphimplayer7.com/20260502/89qXv3Fa/3500kb/hls/index.m3u8",
+        "time": "2026-06-27 06:43:12"
+    },
+    {
+        "group": "Phim hay",
+        "title": "Cuốc Xe Âm Phủ - Tập 2",
+        "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
+        "url": "https://v7.kkphimplayer7.com/20260503/Lp2p18eb/3500kb/hls/index.m3u8",
+        "time": "2026-06-27 06:43:12"
+    },
+    {
+        "group": "Phim hay",
+        "title": "Cuốc Xe Âm Phủ - Tập 4",
+        "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
+        "url": "https://v7.kkphimplayer7.com/20260504/xNE4czZl/3500kb/hls/index.m3u8",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 Egypt vs Iran (Lương Sơn) BLV LÃO HẠC m3u",
+        "title": "12h30 ngày 27/06 Modbury Jets vs Adelaide Olympic (Lương Sơn) BLV TÔN LẬP m3u",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 Egypt vs Iran (Lương Sơn) BLV TÂY MÔN KHÁNH m3u",
+        "title": "12h30 ngày 27/06 Playford City Patriots vs White City Woodville (Lương Sơn) BLV DƯƠNG CHÍ m3u",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 Egypt vs Iran (Lương Sơn) BLV MÃ SIÊU m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b",
-        "time": "2026-06-27 03:37:17"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 New Zealand vs Belgium (Lương Sơn) BLV KAKA m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6",
-        "time": "2026-06-27 03:37:17"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 Egypt vs Iran (Lương Sơn) BLV NGƯỜI THÉP m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5",
-        "time": "2026-06-27 03:37:17"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 Egypt vs Iran (Lương Sơn) BLV TRIỆU TỬ LONG m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070",
-        "time": "2026-06-27 03:37:17"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 New Zealand vs Belgium (Lương Sơn) BLV LƯU BỊ m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1",
-        "time": "2026-06-27 03:37:17"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 New Zealand vs Belgium (Lương Sơn) BLV YẾN THANH m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582",
-        "time": "2026-06-27 03:37:17"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 New Zealand vs Belgium (Lương Sơn) BLV LỮ BỐ m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1",
-        "time": "2026-06-27 03:37:17"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 Egypt vs Iran (Lương Sơn) BLV VÕ TÒNG m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299",
-        "time": "2026-06-27 03:37:17"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 New Zealand vs Belgium (Lương Sơn) BLV LEO m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6",
-        "time": "2026-06-27 03:37:17"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 New Zealand vs Belgium (Lương Sơn) BLV FERNANDO m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb",
-        "time": "2026-06-27 03:37:17"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "09h10 ngày 27/06 FC Tucson vs City SC Carlsbad (Lương Sơn) BLV PELE m3u",
+        "title": "12h30 ngày 27/06 Para Hills Knlghts SC vs Metrostars SC (Lương Sơn) BLV PELE m3u",
         "logo": "",
         "url": "https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526",
-        "time": "2026-06-27 03:37:17"
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 New Zealand vs Belgium [BLV MESSI] (Socolive) hdM3u8",
+        "title": "12h30 ngày 27/06 South Melbourne (W) vs Box Hill (W) (Lương Sơn) BLV LÝ ỨNG m3u",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-494201_lhd.m3u8?txSecret=373a28a78722b5c3fec967615a48753b&txTime=6a3f9522",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 New Zealand vs Belgium [BLV MESSI] (Socolive) m3u8",
+        "title": "11h30 ngày 27/06 Valentine vs Lambton Jarvis [BLV A TINH] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-494201_lsd.m3u8?txSecret=c0b30d7e957f8479d8dbd6e24e27a6af&txTime=6a3f9522",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=68e10df77e78d22271626e528964ee09&txTime=6a3fc0ba",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 Egypt vs IR Iran [BLV CÒ] (Socolive) m3u8",
+        "title": "11h30 ngày 27/06 Valentine vs Lambton Jarvis [BLV A TINH] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-582342_lsd.m3u8?txSecret=e356ab3687d76dcd0bab5fc9e52f24bc&txTime=6a3f9522",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=6a5f6c0a2c02eea37e6a0a7b09fe5f1d&txTime=6a3fc0ba",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 Egypt vs IR Iran [BLV COZY] (Socolive) m3u8",
+        "title": "12h30 ngày 27/06 Para Hills Knlghts SC vs Metrostars SC [BLV A TÚ] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-531989_lsd.m3u8?txSecret=e9c3696b6c6f6f2bf81440f66eb2e6c9&txTime=6a3f9522",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1782545002-0-0-51b0b88669a30d9bd577cbb36efb2ad9",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 Egypt vs IR Iran [BLV COZY] (Socolive) hdM3u8",
+        "title": "12h30 ngày 27/06 Playford City vs White City Woodville [BLV CÁO] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=a3f753fb39b41d9385d474c6614209ba&txTime=6a3f9522",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1782545002-0-0-32ddbb2cf6a23fe6b480bf3de9b703e4",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 New Zealand vs Belgium [LOGAN] (Socolive) hdM3u8",
+        "title": "12h30 ngày 27/06 Para Hills Knlghts SC vs Metrostars SC [LÃO LÂM] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=3729f215aef990b914fa41425b814d58&txTime=6a3f9522",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1782545002-0-0-5b7911835c419a7f02c47d2451b2192b",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 New Zealand vs Belgium [BLV COCA] (Socolive) m3u8",
+        "title": "13h00 ngày 27/06 Peninsula Power vs Brisbane Roar Youth [BLV CUỘI] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-327159_lsd.m3u8?txSecret=90d5ff94d1d16c76f881a0215f97c359&txTime=6a3f968a",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1782545002-0-0-99c7f796d758eae91ef1cecc1499e9fa",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 New Zealand vs Belgium [BLV COCA] (Socolive) hdM3u8",
+        "title": "13h00 ngày 27/06 Peninsula Power vs Brisbane Roar Youth [BLV CUỘI] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-327159_lhd.m3u8?txSecret=d7d8f24e55daa78a2a4192d4d7749bb3&txTime=6a3f968a",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1782545002-0-0-c84866218233c9eef1b320c2da013cd6",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 New Zealand vs Belgium [LOGAN] (Socolive) m3u8",
+        "title": "11h30 ngày 27/06 Valentine vs Lambton Jarvis [BLV XO] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-552832_lsd.m3u8?txSecret=cb5307f1cdefbf663b2d7a6d7a223385&txTime=6a3f9522",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1782545002-0-0-15b2fbc392771fda1107e46d0ee2086d",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 Egypt vs IR Iran [BLV CÒ] (Socolive) hdM3u8",
+        "title": "13h00 ngày 27/06 Peninsula Power vs Brisbane Roar Youth [LOKA] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-582342_lhd.m3u8?txSecret=c074a57945df449c3c0830e5d76a9d72&txTime=6a3f9522",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1782545002-0-0-5d4405718f5c906ce2e4b92ead06c5f6",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 New Zealand vs Belgium [THẠCH TÚ] (Socolive) m3u8",
+        "title": "12h00 ngày 27/06 Western Sydney Wanderers Youth vs Manly United [BLV RYO] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=19f9b986f149b13c2624a440a6eb47ea&txTime=6a3f968a",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1782545002-0-0-ddc9724114187ceea9c75055a1b15e5d",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 New Zealand vs Belgium [THẠCH TÚ] (Socolive) hdM3u8",
+        "title": "11h30 ngày 27/06 Magic United TFA vs Brisbane City [BLV RÔSI] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=b617f28fe9e0774e3324fcd9a7b55bbd&txTime=6a3f968a",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=29e574ab4a5086c9ec90b4ab4f34d04c&txTime=6a3fc222",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 Egypt vs IR Iran [SAO LA] (Socolive) m3u8",
+        "title": "11h30 ngày 27/06 Magic United TFA vs Brisbane City [BLV RÔSI] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=d27588846446f18847740b33cb62661a&txTime=6a3f968a",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=dfc6dee7d40b283456576fcfb9a8797f&txTime=6a3fc222",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 Egypt vs IR Iran [SAO LA] (Socolive) hdM3u8",
+        "title": "12h30 ngày 27/06 Para Hills Knlghts SC vs Metrostars SC [LÃO LÂM] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=8d5dea06fc90209457431c985f63ee5e&txTime=6a3f968a",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1782545002-0-0-fd0354731bf86df13e629d57b5e6e0b4",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 New Zealand vs Belgium [TẠ BIÊN GIỚI] (Socolive) hdM3u8",
+        "title": "12h00 ngày 27/06 Western Sydney Wanderers Youth vs Manly United [BLV RYO] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782533842-0-0-4eb7c2c423a97f63e6203be2219d448d",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1782545002-0-0-4dd0a808da277e2ffd192351cb76636a",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 New Zealand vs Belgium [TẠ BIÊN GIỚI] (Socolive) m3u8",
+        "title": "13h00 ngày 27/06 Peninsula Power vs Brisbane Roar Youth [LOKA] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1782533842-0-0-22eb7afbff15a6decf6a74e820f1f9fb",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1782545002-0-0-c7a1c5ade78c2afde970f3292472c42f",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 New Zealand vs Belgium [BLV ĐỐM] (Socolive) m3u8",
+        "title": "11h30 ngày 27/06 Valentine vs Lambton Jarvis [BLV XO] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1782533842-0-0-c3c311d43be3a646d32c22ae5b9ed6f9",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1782545002-0-0-b7e50ba39e7d71d61566db5912bade1b",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 Egypt vs IR Iran [BLV KEM] (Socolive) hdM3u8",
+        "title": "12h30 ngày 27/06 Playford City vs White City Woodville [BLV CÁO] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-513394_lhd.m3u8?txSecret=e724f038e9c71082371c8078263c666e&txTime=6a3f968a",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1782545002-0-0-17892662fde26a63466476c5ad903be7",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 Egypt vs IR Iran [BLV KEM] (Socolive) m3u8",
+        "title": "12h30 ngày 27/06 Para Hills Knlghts SC vs Metrostars SC [BLV A TÚ] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-513394_lsd.m3u8?txSecret=2825e498654c9ef84037a9292918af4a&txTime=6a3f968a",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1782545002-0-0-950d20625b4b2e8cef218b073adf4c11",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 New Zealand vs Belgium [BLV TOMMY] (Socolive) m3u8",
+        "title": "12h00 ngày 27/06 University NSW vs Sutherland Sharks [BLV NẤM] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1782533842-0-0-4ae3c107c74449e243d86b6a3b54cf2a",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1782545362-0-0-f9c504a2f4301dffa39a7e0451cdda84",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 Egypt vs IR Iran [CR Bưởi] (Socolive) m3u8",
+        "title": "14h00 ngày 27/06 SD Raiders FC vs St George City FA [PINKMAN] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=56c63b17e14a49e15fed3da5e1068e2d&txTime=6a3f97f2",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=e5ae6dc5dff895a82b1d18bdb21cecc9&txTime=6a3fc222",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 New Zealand vs Belgium [BLV TOMMY] (Socolive) hdM3u8",
+        "title": "14h00 ngày 27/06 SD Raiders FC vs St George City FA [PINKMAN] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1782533842-0-0-1745a36d0643451344e48b62d0af60de",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=fe76425df1db4a9c1ba9fcb15f3cfa63&txTime=6a3fc222",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 Egypt vs IR Iran [CR Bưởi] (Socolive) hdM3u8",
+        "title": "12h00 ngày 27/06 University NSW vs Sutherland Sharks [BLV NẤM] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=b2212826c38f526f34579eed308373bc&txTime=6a3f97f2",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1782545362-0-0-40d655375b5686f6946b1a36de7a26ea",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 New Zealand vs Belgium [BLV Củ Cải] (Socolive) hdM3u8",
+        "title": "12h30 ngày 27/06 Campbelltown City SC vs West Adelaide SC [XUÂN TÓC ĐỎ] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1782534202-0-0-c12c1eb015f6b1496195cb0aca105d42",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=60bfd3e865be1ae1b0bf6f83b8d77daa&txTime=6a3fc38a",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 Egypt vs IR Iran [LÃO LÂM] (Socolive) hdM3u8",
+        "title": "12h30 ngày 27/06 Playford City vs White City Woodville [BLV PICK] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1782533842-0-0-ec5966db6c94f955e7345141092b869b",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1782545362-0-0-a7221a422526536d765a069d790b947b",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 Egypt vs IR Iran [BLV TOMIA] (Socolive) m3u8",
+        "title": "14h30 ngày 27/06 Changchun Yatai vs Guangxi Hengchen [LOGAN] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1782534202-0-0-29dfb260c611a9cd1d4bca0e80b581cf",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niur.live/live/stream-552832_lsd.m3u8?txSecret=bf5427ca1fac93b00585d55af77d9a9d&txTime=6a3fc38a",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "09h15 ngày 27/06 Golden State Valkyries W vs Atlanta Dream W [HUNTER] (Socolive) m3u8",
+        "title": "14h30 ngày 27/06 Changchun Yatai vs Guangxi Hengchen [LOGAN] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1782534202-0-0-9df7fc9e0044edfa974b6e543a7e3af4",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=0a109958a257921dc8802e2a4628b3f0&txTime=6a3fc38a",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 Egypt vs IR Iran [BLV TOMIA] (Socolive) hdM3u8",
+        "title": "12h30 ngày 27/06 Campbelltown City SC vs West Adelaide SC [XUÂN TÓC ĐỎ] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1782534202-0-0-6b5969532f6f2ba6d884c02c9f2767ed",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=1e76e308383e0fbfeec3fbf8de502bcc&txTime=6a3fc38a",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 Egypt vs IR Iran [BLV ENZO] (Socolive) hdM3u8",
+        "title": "12h00 ngày 27/06 Western Sydney Wanderers Youth vs Manly United [KÉP] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1782534202-0-0-d9b656a4b1b2265fefd7198ffaac68b5",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1782545722-0-0-a442c2ec9e11ee03c8e5e8cdd0182c3f",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 Egypt vs IR Iran [BLV CUỘI] (Socolive) hdM3u8",
+        "title": "12h00 ngày 27/06 University NSW vs Sutherland Sharks [BLV VOI] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1782534202-0-0-c08c123e0bd237c0b252346ba6750733",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1782545362-0-0-c59244c8dd69b111a50c44e65780ba3c",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 New Zealand vs Belgium [BLV TAP] (Socolive) m3u8",
+        "title": "12h00 ngày 27/06 University NSW vs Sutherland Sharks [BLV VOI] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=10deeaae26e504af5127e71de0613c3a&txTime=6a3f97f2",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1782545362-0-0-bdb3232b308228d0d94c31f6bdc08c0b",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 Egypt vs IR Iran [LÃO LÂM] (Socolive) m3u8",
+        "title": "12h30 ngày 27/06 Campbelltown City SC vs West Adelaide SC [BLV CÁP] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1782533842-0-0-ec0772a72831a14b71fc3443331605b8",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1782545722-0-0-fcdd4310c715684a4490dd1c0928ed5d",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 New Zealand vs Belgium [DECO] (Socolive) m3u8",
+        "title": "12h30 ngày 27/06 Playford City vs White City Woodville [BLV PICK] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1782534562-0-0-cf409d25f59d6914ce2db8cfbd8fc9dc",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1782545362-0-0-93f3506a789ec8f960dedc04d9ceb0fd",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 New Zealand vs Belgium [BLV TAP] (Socolive) hdM3u8",
+        "title": "Tường thuật: WORLD CUP - Egypt vs IR Iran [Sóc mèo méo meo] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=a29de18e7c8371aae7fb9526def1c0ed&txTime=6a3f97f2",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782545002-0-0-51de2c53460380881abb615e73c0d75b",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 New Zealand vs Belgium [A BỆU] (Socolive) hdM3u8",
+        "title": "14h00 ngày 27/06 Dandenong Thunder vs Hume City [QUÂN JK] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-484845_lhd.m3u8?txSecret=de1709719a7f1517951685ed95956c2c&txTime=6a3f97f2",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1782545722-0-0-11bffec664b9ea5613b5126bdaeb2473",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 New Zealand vs Belgium [A BỆU] (Socolive) m3u8",
+        "title": "Tường thuật: WORLD CUP - Egypt vs IR Iran [Sóc mèo méo meo] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-484845_lsd.m3u8?txSecret=7befe24d658a088b58212f0f60dd53a0&txTime=6a3f97f2",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1782545002-0-0-0d166c1fb1bd79c3d21e02e8776d7fb8",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 New Zealand vs Belgium [DECO] (Socolive) hdM3u8",
+        "title": "12h30 ngày 27/06 Campbelltown City SC vs West Adelaide SC [BLV CÁP] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1782534562-0-0-9eae6e477fc9dde74ea541ba4a0494ad",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1782545722-0-0-b0c591f405418ea7ed1d9509241d36b0",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "11h00 ngày 27/06 Charlestown Azzurri vs Belmont Swansea United SC [BLV LION] (Socolive) m3u8",
+        "title": "12h00 ngày 27/06 Western Sydney Wanderers Youth vs Manly United [KÉP] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1782534202-0-0-f44df1e1640026085f63e8df20ab8969",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1782545722-0-0-4e0ba4d340d63edb9fe76b1c7a7b0c9b",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 Egypt vs IR Iran [RICKHANTER] (Socolive) hdM3u8",
+        "title": "14h00 ngày 27/06 Dandenong Thunder vs Hume City [BEN 10] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1782534562-0-0-fee0806badd9854f4f01241ec27cb496",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1782545722-0-0-92d287bdc7420205d23d6ecf5d25baf3",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 Egypt vs IR Iran [BLV ENZO] (Socolive) m3u8",
+        "title": "13h30 27/06 Valentine vs Lambton Jaffas (Hội Quán) SD",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1782534202-0-0-dfb169c518562df4c92e26548cd7c198",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 Egypt vs IR Iran [BLV ROBBEN] (Socolive) m3u8",
+        "title": "Tường thuật: WORLD CUP - Norway vs France [Sóc nhàm nhang nhồ] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-527383_lsd.m3u8?txSecret=ea61f58f0d9fa2bd2eed191d97400427&txTime=6a3f97f2",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1782545722-0-0-20557cc8905071752890f8dd6bf7aade",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 Egypt vs IR Iran [BLV FIREMAN] (Socolive) m3u8",
+        "title": "14h00 ngày 27/06 Dandenong Thunder vs Hume City [BEN 10] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-991140_lsd.m3u8?txSecret=694511eae7d1b98df3e7c648a6c6f38e&txTime=6a3f97f2",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1782545722-0-0-6f19f2079f82fd56e6225b454fe78563",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 Egypt vs IR Iran [BLV CUỘI] (Socolive) m3u8",
+        "title": "14h00 ngày 27/06 SD Raiders FC vs St George City FA [TRÀ ĐÁ] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1782534202-0-0-773954085fce323c92e9ce2ad611c973",
-        "time": "2026-06-27 03:37:17"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "11h00 ngày 27/06 Charlestown Azzurri vs Belmont Swansea United SC [BLV LION] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1782534202-0-0-6e64a7a69cdb792610e2b38a15306ef8",
-        "time": "2026-06-27 03:37:17"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 Egypt vs IR Iran [BLV FIREMAN] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-991140_lhd.m3u8?txSecret=2fb5348857c4f6333a96201d2d729ff2&txTime=6a3f97f2",
-        "time": "2026-06-27 03:37:17"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 Egypt vs IR Iran [BLV ROBBEN] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-527383_lhd.m3u8?txSecret=ab75b7d90c46abc09ec263705b31aff3&txTime=6a3f97f2",
-        "time": "2026-06-27 03:37:17"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 New Zealand vs Belgium [BLV 7UP] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1782534562-0-0-04dc1bdef9b70795359cb5a6c45f95c4",
-        "time": "2026-06-27 03:37:17"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 New Zealand vs Belgium [BLV ĐỐM] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1782533842-0-0-7b7b8734291a3aaaa959b1afaf8defdf",
-        "time": "2026-06-27 03:37:17"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "11h00 ngày 27/06 Newcastle Olympic vs Cooks Hill United [XUÂN SON] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=89d9f101f4f050b29c8c3388de496f63&txTime=6a3f97f2",
-        "time": "2026-06-27 03:37:17"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "11h00 ngày 27/06 Newcastle Olympic vs Cooks Hill United [XUÂN SON] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=9c03c7a8f8049a6c5eb4b109ba40cf71&txTime=6a3f97f2",
-        "time": "2026-06-27 03:37:17"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 New Zealand vs Belgium [BLV 7UP] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1782534562-0-0-2eb026f6d446da64dd9a4df40996b896",
-        "time": "2026-06-27 03:37:17"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "11h00 ngày 27/06 South Hobart vs Glenorchy Knights FC [BLV GÔN] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=bdce32142fde7d8f7b3177b383f8ee87&txTime=6a3f97f2",
-        "time": "2026-06-27 03:37:17"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "11h00 ngày 27/06 South Hobart vs Glenorchy Knights FC [BLV GÔN] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=08f71cf9bd43882b54293c8146f9871f&txTime=6a3f97f2",
-        "time": "2026-06-27 03:37:17"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "09h15 ngày 27/06 Golden State Valkyries W vs Atlanta Dream W [HUNTER] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1782534202-0-0-99747e0604ad588699b1483ac0243c3f",
-        "time": "2026-06-27 03:37:17"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "09h15 ngày 27/06 Golden State Valkyries W vs Atlanta Dream W [CHAN SENA] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1782534562-0-0-53c8d2e2627f163dae9bca7b84c65965",
-        "time": "2026-06-27 03:37:17"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 Egypt vs IR Iran [RICKHANTER] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1782534562-0-0-66c970dfa3083128ce18d91e759fc895",
-        "time": "2026-06-27 03:37:17"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "09h15 ngày 27/06 Golden State Valkyries W vs Atlanta Dream W [CHAN SENA] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1782534562-0-0-a5782837b06bbf1a34f4766f7cf81524",
-        "time": "2026-06-27 03:37:17"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "10h00 27/06 New Zealand vs Belgium (Hội Quán) SD",
-        "logo": "",
-        "url": "https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1782545722-0-0-e2984e44737b8998e69441e15ce42c48",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782533842-0-0-e6835d1104c72559c0846ac65eedcca7",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782545722-0-0-c979525bd1a7145e450e68deeae05108",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 27/06 New Zealand vs Belgium (Hội Quán) FHD",
+        "title": "13h30 27/06 Valentine vs Lambton Jaffas (Hội Quán) FHD",
         "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 27/06 New Zealand vs Belgium (Hội Quán) FHD",
+        "title": "Tường thuật: WORLD CUP - Norway vs France [Sóc nhàm nhang nhồ] (Socolive) m3u8",
         "logo": "",
-        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782545722-0-0-2f7c196883ad3c394311875ef2ec6d6f",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 27/06 Egypt vs Iran (Hội Quán) FHD",
+        "title": "Tường thuật: WORLD CUP - New Zealand vs Belgium [Sóc trong rừng xà nu] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1782545722-0-0-a757aa26e4490de616d6cde6eb7137f7",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
-        "title": "10h00 ngày 27/06 New Zealand vs Belgium [BLV Củ Cải] (Socolive) m3u8",
+        "title": "Tường thuật: WORLD CUP - Uruguay vs Spain [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1782534202-0-0-bfd2279cb3b7cf81ba74ad02f4805f50",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782545722-0-0-d777a505363c790246a3097e2c60eab0",
+        "time": "2026-06-27 06:43:12"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - Uruguay vs Spain [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1782545722-0-0-503fdfe91ea50ff9e57ed132812c124b",
+        "time": "2026-06-27 06:43:12"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "14h00 ngày 27/06 Dandenong Thunder vs Hume City [QUÂN JK] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1782545722-0-0-eb7b505c1c775a96688094def0915e69",
+        "time": "2026-06-27 06:43:12"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "14h00 ngày 27/06 SD Raiders FC vs St George City FA [TRÀ ĐÁ] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1782545722-0-0-54fac60ee0120e06ba95fb0fdf57d0e5",
+        "time": "2026-06-27 06:43:12"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - New Zealand vs Belgium [Sóc trong rừng xà nu] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782545722-0-0-18379da8d746612318d6a444f5dd79cd",
+        "time": "2026-06-27 06:43:12"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782533842-0-0-467bc346e49a379a2ad1ab1d26328253",
-        "time": "2026-06-27 03:37:17"
+        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782545722-0-0-7e54392e098d7e6e86ab1693643298dd",
+        "time": "2026-06-27 06:43:12"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - Cabo Verde vs Saudi Arabia [Sóc trèo cây ngô đồng] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782545722-0-0-2c746838e25d1009aa9dc156cc257c06",
+        "time": "2026-06-27 06:43:12"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - Senegal vs Iraq [Sóc đau cổ vai gáy] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1782545722-0-0-250c8793d21ded711dbc0859ab3b9130",
+        "time": "2026-06-27 06:43:12"
     }
 ]
