@@ -22,13 +22,6 @@
     },
     {
         "group": "HỘI QUÁN",
-        "title": "17:00 | Qingdao Youth Island vs Hangzhou Greentown",
-        "logo": "https://media.api-sports.io/football/teams/17265.png",
-        "url": "https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8",
-        "time": "2026-06-28 17:00:00"
-    },
-    {
-        "group": "HỘI QUÁN",
         "title": "18:00 | Dalian Zhixing vs Shanghai Shenhua",
         "logo": "https://media.api-sports.io/football/teams/21263.png",
         "url": "https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8",
@@ -40,6 +33,13 @@
         "logo": "https://media.api-sports.io/football/teams/2259.png",
         "url": "https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8",
         "time": "2026-06-28 20:00:00"
+    },
+    {
+        "group": "HỘI QUÁN",
+        "title": "22:00 | FC Dnepr Mogilev vs Neman",
+        "logo": "https://media.api-sports.io/football/teams/384.png",
+        "url": "https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8",
+        "time": "2026-06-28 22:00:00"
     },
     {
         "group": "HỘI QUÁN",
@@ -88,56 +88,49 @@
         "title": "Trung Quốc vs Đức",
         "logo": "https://static.flashscore.com/res/image/data/UFsHESEa-dUwawdyp.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8",
-        "time": "2026-06-28 11:17:26"
+        "time": "2026-06-28 12:45:33"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "U19 Thụy Sĩ vs U19 Tây Ban Nha",
         "logo": "https://media.api-sports.io/football/teams/27196.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8",
-        "time": "2026-06-28 11:17:26"
+        "time": "2026-06-28 12:45:33"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "U18 Việt Nam vs U18 Thái Lan",
         "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/IUYV_ZAMxDdabQPzSpTJtg_96x96.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8",
-        "time": "2026-06-28 11:17:26"
+        "time": "2026-06-28 12:45:33"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "Zhenys vs FC Astana",
         "logo": "https://media.api-sports.io/football/teams/16611.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8",
-        "time": "2026-06-28 11:17:26"
+        "time": "2026-06-28 12:45:33"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "Wales U19 vs Spain U19",
         "logo": "https://media.api-sports.io/football/teams/10353.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8",
-        "time": "2026-06-28 11:17:26"
+        "time": "2026-06-28 12:45:33"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "South Africa vs Canada",
         "logo": "https://media.api-sports.io/football/teams/1531.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8",
-        "time": "2026-06-28 11:17:26"
+        "time": "2026-06-28 12:45:33"
     },
     {
         "group": "VÒNG CẤM TV",
         "title": "Germany U19 vs Denmark U19",
         "logo": "https://media.api-sports.io/football/teams/10336.png",
         "url": "https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8",
-        "time": "2026-06-28 11:17:26"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "10:00 | Qingdao West Coast vs Zhejiang Professional",
-        "logo": "https://img.gvapi.cc/football/team/383d42e0d0843463b538bc3367d0c4c9.png!w80",
-        "url": "https://live05.meung.app/live/90865415.m3u8",
-        "time": "2026-06-28 10:00:00"
+        "time": "2026-06-28 12:45:33"
     },
     {
         "group": "CA LA TV",
@@ -159,6 +152,13 @@
         "logo": "https://img.gvapi.cc/football/team/86533cc9d630918f58b7166d3ba9ea88.png!w80",
         "url": "https://live05.meung.app/live/16226575.m3u8",
         "time": "2026-06-28 13:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "14:00 | Zhenis vs FC Astana",
+        "logo": "https://img.gvapi.cc/football/team/16ccfd6042d1f791302c69eec646e081.png!w80",
+        "url": "https://live05.meung.app/live/90865415.m3u8",
+        "time": "2026-06-28 14:00:00"
     },
     {
         "group": "CA LA TV",
@@ -199,7 +199,7 @@
         "group": "CA LA TV",
         "title": "19:00 | Nam Phi vs Canada",
         "logo": "https://img.gvapi.cc/football/team/a30bc83d95b629973ef10dbe8221ca63.png!w80",
-        "url": "https://live05.meung.app/live/08552895.m3u8",
+        "url": "https://live05.meung.app/live/78905744.m3u8",
         "time": "2026-06-28 19:00:00"
     },
     {
@@ -218,13 +218,6 @@
     },
     {
         "group": "CA LA TV",
-        "title": "20:30 | Đức vs Paraguay",
-        "logo": "https://img.gvapi.cc/football/team/5856c2f4a854359864b18f9aed3f8874.png!w80",
-        "url": "https://live05.meung.app/live/78905744.m3u8",
-        "time": "2026-06-29 20:30:00"
-    },
-    {
-        "group": "CA LA TV",
         "title": "01:00 | Netherlands vs Morocco",
         "logo": "https://img.gvapi.cc/football/team/490f78c68dc2744b4d16b399702301a8.png!w80",
         "url": "https://live05.meung.app/live/02456966.m3u8",
@@ -235,2407 +228,2883 @@
         "title": "Tập 1",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-dac-biet-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream15.com/20230414/37767_4a795191/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus (Season 1)",
         "title": "Tập 2",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-dac-biet-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream15.com/20230414/37768_1a9dccca/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus (Season 1)",
         "title": "Tập 3",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-dac-biet-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream15.com/20230414/37769_8f3fe94b/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus (Season 1)",
         "title": "Tập 4",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-dac-biet-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream15.com/20230414/37770_65afd148/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus (Season 1)",
         "title": "Tập 5",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-dac-biet-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream15.com/20230414/37771_c8a06316/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus (Season 1)",
         "title": "Tập 6",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-dac-biet-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream15.com/20230414/37772_a863a1b6/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus (Season 1)",
         "title": "Tập 7",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-dac-biet-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream15.com/20230414/37773_6ee4a635/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus (Season 1)",
         "title": "Tập 8",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-dac-biet-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream15.com/20230414/37774_6a2a1ea9/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus (Season 1)",
         "title": "Tập 9",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-dac-biet-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream15.com/20230414/37775_a0c70b7b/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus (Season 1)",
         "title": "Tập 10",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-dac-biet-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream15.com/20230414/37776_45ad73fa/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus (Season 1)",
         "title": "Tập 11",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-dac-biet-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream15.com/20230414/37777_6c8374fc/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus (Season 1)",
         "title": "Tập 12",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-dac-biet-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream15.com/20230414/37778_cf2114ab/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus (Season 1)",
         "title": "Tập 13",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-dac-biet-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream15.com/20230414/37779_7b276e1b/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus (Season 2)",
         "title": "Tập 1",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-2-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream15.com/20230414/37786_09f300df/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus (Season 2)",
         "title": "Tập 2",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-2-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream15.com/20230414/37787_fc42a62a/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus (Season 2)",
         "title": "Tập 3",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-2-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream15.com/20230414/37788_8ea9355a/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus (Season 2)",
         "title": "Tập 4",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-2-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream15.com/20230414/37789_1ec3d645/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus (Season 2)",
         "title": "Tập 5",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-2-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream15.com/20230414/37790_1303ee54/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus (Season 2)",
         "title": "Tập 6",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-2-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream15.com/20230414/37791_1b1a523d/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus (Season 2)",
         "title": "Tập 7",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-2-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream15.com/20230414/37792_aa67453f/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus (Season 2)",
         "title": "Tập 8",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-2-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream15.com/20230414/37793_37c1d2c0/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus (Season 2)",
         "title": "Tập 9",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-2-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream15.com/20230414/37794_40bd5929/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus (Season 2)",
         "title": "Tập 10",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-2-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream15.com/20230414/37795_5dc24ad6/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus (Specials)",
         "title": "Tập 1",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-dac-biet-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream15.com/20230414/37780_175f42b1/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus (Specials)",
         "title": "Tập 2",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-dac-biet-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream15.com/20230414/37781_d34ac6f5/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus (Specials)",
         "title": "Tập 3",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-dac-biet-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream15.com/20230414/37782_59530bd8/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus (Specials)",
         "title": "Tập 4",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-dac-biet-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream15.com/20230414/37783_24fe3680/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus (Specials)",
         "title": "Tập 5",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-dac-biet-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream15.com/20230414/37784_62ccf0a7/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus (Specials)",
         "title": "Tập 6",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-dac-biet-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream15.com/20230414/37785_09582f4d/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus (Season 3)",
         "title": "Tập 1",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-3-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream15.com/20230414/37796_5154c3c7/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus (Season 3)",
         "title": "Tập 2",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-3-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream15.com/20230414/37797_e2e79a74/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus (Season 3)",
         "title": "Tập 3",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-3-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream15.com/20230414/37798_60fe9cb7/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus (Season 3)",
         "title": "Tập 4",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-3-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream15.com/20230414/37799_6a71ead9/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus (Season 3)",
         "title": "Tập 5",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-3-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream16.com/20230414/33883_53c3ecc8/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus (Season 3)",
         "title": "Tập 6",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-3-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream15.com/20230414/37800_b8e7df79/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus (Season 3)",
         "title": "Tập 7",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-3-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream16.com/20230414/33880_160821c1/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus (Season 3)",
         "title": "Tập 8",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-3-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream15.com/20230414/37801_d3ba53a0/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus (Season 3)",
         "title": "Tập 9",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-3-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream16.com/20230414/33881_9e539926/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus (Season 3)",
         "title": "Tập 10",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-3-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream16.com/20230414/33882_44deb9a8/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus: Gia Tộc Ashur",
         "title": "Tập 1",
         "logo": "https://phim.nguonc.com/public/images/Post/10/spartacus-gia-toc-ashur.jpg",
         "url": "https://s6.kkphimplayer6.com/20251206/Uu0SL67F/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus: Gia Tộc Ashur",
         "title": "Tập 2",
         "logo": "https://phim.nguonc.com/public/images/Post/10/spartacus-gia-toc-ashur.jpg",
         "url": "https://s6.kkphimplayer6.com/20251207/kcjiZLyx/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus: Gia Tộc Ashur",
         "title": "Tập 3",
         "logo": "https://phim.nguonc.com/public/images/Post/10/spartacus-gia-toc-ashur.jpg",
         "url": "https://s6.kkphimplayer6.com/20251213/tBRejSyv/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus: Gia Tộc Ashur",
         "title": "Tập 4",
         "logo": "https://phim.nguonc.com/public/images/Post/10/spartacus-gia-toc-ashur.jpg",
         "url": "https://s6.kkphimplayer6.com/20251220/RucoPd4L/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus: Gia Tộc Ashur",
         "title": "Tập 5",
         "logo": "https://phim.nguonc.com/public/images/Post/10/spartacus-gia-toc-ashur.jpg",
         "url": "https://s6.kkphimplayer6.com/20251227/585DfArM/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus: Gia Tộc Ashur",
         "title": "Tập 6",
         "logo": "https://phim.nguonc.com/public/images/Post/10/spartacus-gia-toc-ashur.jpg",
         "url": "https://s6.kkphimplayer6.com/20260103/YihGe9hZ/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus: Gia Tộc Ashur",
         "title": "Tập 7",
         "logo": "https://phim.nguonc.com/public/images/Post/10/spartacus-gia-toc-ashur.jpg",
         "url": "https://s6.kkphimplayer6.com/20260110/MTcPoYMd/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus: Gia Tộc Ashur",
         "title": "Tập 8",
         "logo": "https://phim.nguonc.com/public/images/Post/10/spartacus-gia-toc-ashur.jpg",
         "url": "https://s6.kkphimplayer6.com/20260124/RDitIcx6/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus: Gia Tộc Ashur",
         "title": "Tập 9",
         "logo": "https://phim.nguonc.com/public/images/Post/10/spartacus-gia-toc-ashur.jpg",
         "url": "https://s6.kkphimplayer6.com/20260131/5b0JH7vC/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Spartacus: Gia Tộc Ashur",
         "title": "Tập 10",
         "logo": "https://phim.nguonc.com/public/images/Post/10/spartacus-gia-toc-ashur.jpg",
         "url": "https://s6.kkphimplayer6.com/20260207/5IY1hIhL/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 1)",
         "title": "Tập 1",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-1-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream11.com/20220311/1595_17b50368/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 1)",
         "title": "Tập 2",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-1-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream11.com/20220311/1596_91aa804c/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 1)",
         "title": "Tập 3",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-1-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream11.com/20220311/1597_3156813e/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 1)",
         "title": "Tập 4",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-1-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream11.com/20220311/1598_63eacb05/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 1)",
         "title": "Tập 5",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-1-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream11.com/20220311/1599_ae38a64d/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 1)",
         "title": "Tập 6",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-1-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream11.com/20220311/1600_f226bed8/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 1)",
         "title": "Tập 7",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-1-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream11.com/20220311/1601_420703b3/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 1)",
         "title": "Tập 8",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-1-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream11.com/20220311/1602_c95936f8/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 1)",
         "title": "Tập 9",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-1-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream11.com/20220311/1603_2d78144c/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 1)",
         "title": "Tập 10",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-1-thumb.jpg&w=1920&q=75",
         "url": "https://vip.opstream11.com/20220311/1604_9b380833/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 2)",
         "title": "Tập 1",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-2-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream14.com/20220412/7389_4ae970fb/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 2)",
         "title": "Tập 2",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-2-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream14.com/20220412/7391_22ebeb11/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 2)",
         "title": "Tập 3",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-2-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream14.com/20220412/7394_754c5a55/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 2)",
         "title": "Tập 4",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2%2Ftro-choi-vuong-quyen-2-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream14.com/20220412/7396_99a16e4f/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 2)",
         "title": "Tập 5",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-2-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream14.com/20220412/7398_6054d1f6/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 2)",
         "title": "Tập 6",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-2-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream14.com/20220412/7400_9a512cb5/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 2)",
         "title": "Tập 7",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-2-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream14.com/20220412/7403_f0f2cd72/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 2)",
         "title": "Tập 8",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-2-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream14.com/20220412/7405_6e46243d/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 2)",
         "title": "Tập 9",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-2-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream14.com/20220412/7408_b2d8c78e/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 2)",
         "title": "Tập 10",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-2-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream14.com/20220412/7410_da0af013/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 3)",
         "title": "Tập 1",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-3-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream14.com/20220412/7413_413ac272/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 3)",
         "title": "Tập 2",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-3-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream14.com/20220412/7415_a5c1450f/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 3)",
         "title": "Tập 3",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-3-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream14.com/20220412/7418_ab84209c/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 3)",
         "title": "Tập 4",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-3-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream14.com/20220412/7420_11800775/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 3)",
         "title": "Tập 5",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-3-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream14.com/20220412/7422_53385ab6/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 3)",
         "title": "Tập 6",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-3-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream14.com/20220412/7425_8bfccd9c/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 3)",
         "title": "Tập 7",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-3-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream14.com/20220412/7427_4eb57e9d/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 3)",
         "title": "Tập 8",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-3-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream14.com/20220412/7429_885eca39/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 3)",
         "title": "Tập 9",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-3-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream14.com/20220412/7431_a4b26bf7/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 3)",
         "title": "Tập 10",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-3-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream14.com/20220412/7434_a05dabd2/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 4)",
         "title": "Tập 1",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-4-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream11.com/20220311/1624_d7f19f3a/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 4)",
         "title": "Tập 2",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-4-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream11.com/20220311/1625_03f57148/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 4)",
         "title": "Tập 3",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-4-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream11.com/20220311/1626_62d337cf/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 4)",
         "title": "Tập 4",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-4-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream11.com/20220311/1627_6c2c7c33/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 4)",
         "title": "Tập 5",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-4-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream11.com/20220311/1628_fe7c0286/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 4)",
         "title": "Tập 6",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-4-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream11.com/20220311/1629_2e8257bb/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 4)",
         "title": "Tập 7",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-4-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream11.com/20220311/1630_2566ddfc/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 4)",
         "title": "Tập 8",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-4-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream11.com/20220311/1631_ff388be5/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 4)",
         "title": "Tập 9",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-4-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream11.com/20220311/1632_e60b069e/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 4)",
         "title": "Tập 10",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-4-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream11.com/20220311/1633_3a015185/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 5)",
         "title": "Tập 1",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-5-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream11.com/20220311/1634_968c1e3b/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 5)",
         "title": "Tập 2",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-5-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream11.com/20220311/1635_b8745b66/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 5)",
         "title": "Tập 3",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-5-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream11.com/20220311/1636_fc423e4f/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 5)",
         "title": "Tập 4",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-5-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream11.com/20220311/1637_43e09549/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 5)",
         "title": "Tập 5",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-5-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream11.com/20220311/1638_404e1066/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 5)",
         "title": "Tập 6",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-5-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream11.com/20220311/1639_29b90ea6/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 5)",
         "title": "Tập 7",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-5-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream11.com/20220311/1640_e3a8ce41/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 5)",
         "title": "Tập 8",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-5-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream11.com/20220311/1641_420c82c3/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 5)",
         "title": "Tập 9",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-5-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream11.com/20220311/1642_d892f7e8/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 5)",
         "title": "Tập 10",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-5-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream11.com/20220311/1643_f09a62d3/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 6)",
         "title": "Tập 1",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-6-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream11.com/share/89f03f7d02720160f1b04cf5b27f5ccb",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 6)",
         "title": "Tập 2",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-6-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream11.com/share/c1fea270c48e8079d8ddf7d06d26ab52",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 6)",
         "title": "Tập 3",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-6-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream11.com/share/e4873aa9a05cc5ed839561d121516766",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 6)",
         "title": "Tập 4",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-6-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream11.com/share/8d420fa35754d1f1c19969c88780314d",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 6)",
         "title": "Tập 5",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-6-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream11.com/share/7437d136770f5b35194cb46c1653efaa",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 6)",
         "title": "Tập 6",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-6-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream11.com/share/96de2547f44254c97f5f4f1f402711c1",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 6)",
         "title": "Tập 7",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-6-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream11.com/share/973a5f0ccbc4ee3524ccf035d35b284b",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 6)",
         "title": "Tập 8",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-6-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream11.com/share/be3e9d3f7d70537357c67bb3f4086846",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 6)",
         "title": "Tập 9",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-6-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream11.com/share/207f88018f72237565570f8a9e5ca240",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 6)",
         "title": "Tập 10",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-6-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream11.com/share/b147a61c1d07c1c999560f62add6dbc7",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 7)",
         "title": "Tập 1",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-7-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream11.com/share/9d2682367c3935defcb1f9e247a97c0d",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 7)",
         "title": "Tập 2",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-7-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream11.com/share/cc42acc8ce334185e0193753adb6cb77",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 7)",
         "title": "Tập 3",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-7-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream11.com/share/712a3c9878efeae8ff06d57432016ceb",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 7)",
         "title": "Tập 4",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-7-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream11.com/share/a40511cad8383e5ae8ddd8b855d135da",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 7)",
         "title": "Tập 5",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-7-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream11.com/share/c0560792e4a3c79e62f76cbf9fb277dd",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 7)",
         "title": "Tập 6",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-7-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream11.com/share/e1696007be4eefb81b1a1d39ce48681b",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Game Of Thrones (Season 7)",
         "title": "Tập 7",
         "logo": "https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Ftro-choi-vuong-quyen-7-thumb.jpg&w=640&q=75",
         "url": "https://vip.opstream11.com/share/9a4400501febb2a95e79248486a5f6d3",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Mortal Kombat",
         "title": "Cuộc Chiến Sinh Tử 1",
         "logo": "https://phim.nguonc.com/public/images/Film/5iHZ6KUSnLEnStXJ6BfFA5Uk2PT.jpg",
         "url": "https://vip.opstream11.com/20220314/1906_dd98af94/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Mortal Kombat",
         "title": "Cuộc Chiến Sinh Tử 2",
         "logo": "https://phim.nguonc.com/public/images/Film/f9tWGssOpViDbh6dV6gtLFiCc7i.jpg",
         "url": "https://vip.opstream90.com/20260608/34303_1bc949fb/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Đèn Âm Hồn: Người Con Gái Nam Xương",
         "logo": "https://daknong.1cdn.vn/2025/02/06/den-am-hon-review-phim-va-lich-chieu-tai-viet-nam.jpg",
         "url": "https://s6.kkphimplayer6.com/20250811/miyJKDrj/3500kb/hls/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Làm Giàu Với Ma (Betting With Ghost)",
         "logo": "https://haniff.vn/wp-content/uploads/2024/10/Lam-giau-voi-ma-2.jpg",
         "url": "https://s4.phim1280.tv/20250323/KmdatGKe/3000kb/hls/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Doraemon Movie 44: Nobita và cuộc phiêu lưu vào thế giới trong tranh (bản lồng tiếng)",
         "logo": "https://kenh14cdn.com/203336854389633024/2025/5/24/ngangcc690d7e-1620-4524-aafa-a7496c81f6f6-174807929920015425666-1748084313655-17480843144601375971451.jpg",
         "url": "https://s6.kkphimplayer6.com/20250827/JfkCJsGc/3500kb/hls/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Ngày Xưa Có Một Chuyện Tình",
         "logo": "https://assets.glxplay.io/images/w700/title/ngay-xua-co-mot-chuyen-tinh_web_backdrop_8b7a5b8cbb5fe245d3a6f7aea524c796.jpg",
         "url": "https://s6.kkphimplayer6.com/20250901/w8LN0LND/3500kb/hls/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Bộ Tứ Báo Thủ",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2025/08/28/bo-tu-bao-thu-fpt-play-1756374565016_Landscape.jpg",
         "url": "https://s6.kkphimplayer6.com/20250901/2RZvePPZ/3500kb/hls/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Mưa Trên Cánh Bướm",
         "logo": "https://i.imgur.com/q05fNtW.png",
         "url": "https://s6.kkphimplayer6.com/20250918/48nrktLm/3500kb/hls/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Thám Tử Kiên: Kỳ Án Không Đầu",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2025/09/29/tham-tu-kien-ky-an-khong-dau-fpt-play-1759139646462_Landscape.jpg",
         "url": "https://s6.kkphimplayer6.com/20251010/86AEDncn/3500kb/hls/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Mưa Đỏ",
         "logo": "https://baokhanhhoa.vn/file/e7837c02857c8ca30185a8c39b582c03/112025/1_20251116070652.jpg",
         "url": "https://vip.opstream90.com/20251118/17952_7bf57028/3000k/hls/mixed.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Conan Movie 28 - Dư Ảnh Của Độc Nhãn",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2025/12/26/tham-tu-lung-danh-conan-du-anh-cua-doc-nhan-fpt-play-1766741539032_Landscape.jpg",
         "url": "https://vodcdn.fptplay.net/POVOD/encoded/2025/12/28/thamtulungdanhconanduanhcuadocnhan-detectiveconanoneeyedflashback-2025-dolby-mav-bb8d776e6f35fe41/H264/stream.mpd?st=8PSyksBMiL_tvRpq4B3-eg&expires=1767859023",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Mang Mẹ Đi Bỏ",
         "logo": "https://hnm.1cdn.vn/thumbs/600x315/2025/05/08/mmdb_poster_first-look_2000x2500px.jpg",
         "url": "https://vip.opstream90.com/20251129/18758_e33bdf72/3000k/hls/mixed.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Trái Tim Què Quặt",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2025/12/26/trai-tim-que-quat-fpt-play-1766744170691_Landscape.jpg",
         "url": "https://s6.kkphimplayer6.com/20251228/0HQf0tP2/3500kb/hls/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Làm Giàu Với Ma Phần 2: Cuộc Chiến Hột Xoàn",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2025/12/30/lam-giau-voi-ma-cuoc-chien-hot-xoan-fpt-play-1767066672824_Landscape.jpg",
         "url": "https://vip.opstream90.com/20260102/21537_fe1af53e/3000k/hls/mixed.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Quỷ Nhập Tràng",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/01/27/quy-nhap-trang-fpt-play-1769508575571_Landscape.jpg",
         "url": "https://s6.kkphimplayer6.com/20260129/HDz8Fu0F/3500kb/hls/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Tử Chiến Trên Không",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/01/23/tu-chien-tren-khong-fpt-play-1769164011330_Landscape.jpg",
         "url": "https://rumble.com/hls-vod/72x1ns/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Hùng Long Phong Bá Phần 4 - Tập 1",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/02/11/hung-long-phong-ba-4-fpt-play-1770804850859_Landscape.jpg",
         "url": "https://rumble.com/hls-vod/73gr0i/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Hùng Long Phong Bá Phần 4 - Tập 2",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/02/11/hung-long-phong-ba-4-fpt-play-1770804850859_Landscape.jpg",
         "url": "https://rumble.com/hls-vod/73k35o/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Hùng Long Phong Bá Phần 4 - Tập 3",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/02/11/hung-long-phong-ba-4-fpt-play-1770804850859_Landscape.jpg",
         "url": "https://rumble.com/hls-vod/73os1q/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Hùng Long Phong Bá Phần 4 - Tập 4",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/02/11/hung-long-phong-ba-4-fpt-play-1770804850859_Landscape.jpg",
         "url": "https://rumble.com/hls-vod/73s4u6/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Hùng Long Phong Bá Phần 4 - Tập 5",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/02/11/hung-long-phong-ba-4-fpt-play-1770804850859_Landscape.jpg",
         "url": "https://rumble.com/hls-vod/73txdq/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Hùng Long Phong Bá Phần 4 - Tập Cuối",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/02/11/hung-long-phong-ba-4-fpt-play-1770804850859_Landscape.jpg",
         "url": "https://rumble.com/hls-vod/73vrdu/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Thế Hệ Kỳ Tích",
         "logo": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/Th%E1%BA%BF%20H%E1%BB%87%20K%E1%BB%B3%20T%C3%ADch.jpg",
         "url": "https://rumble.com/hls-vod/745t9a/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Tay Anh Giữ Một Vì Sao",
         "logo": "https://thegioidienanh.vn/stores/news_dataimages/2025/092025/14/13/in_social/tay-anh-giu-mot-vi-sao-payoff-poster-social-khoi-chieu-0310202520250914134014.jpg",
         "url": "https://vip.opstream90.com/20260102/21538_3a9ba451/3000k/hls/mixed.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Truy Tìm Long Diên Hương",
         "logo": "https://cdn-images.vtv.vn/zoom/554_346/66349b6076cb4dee98746cf1/2025/09/19/truy-tim-long-dien-huong-67756442926310209483416-92025497027105625698228.jpg",
         "url": "https://rumble.com/hls-vod/74h9mw/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Út Lan: Oán Linh Giữ Của",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/03/13/ut-lan-oan-linh-giu-cua-fpt-play-1773395168032_Background_origin.jpg",
         "url": "https://vip.opstream90.com/20260213/24963_b4f6926d/3000k/hls/mixed.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Khế Ước Bán Dâu",
         "logo": "https://tintuc-divineshop.cdn.vccloud.vn/wp-content/uploads/2025/08/164142635_khe-uoc-ban-dau.webp",
         "url": "https://s6.kkphimplayer6.com/20260118/tdyKqxYZ/3500kb/hls/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Thiên Đường Máu",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/03/13/thien-duong-mau-fpt-play-1773396128871_Landscape.jpg",
         "url": "https://s6.kkphimplayer6.com/20260320/02bq9QLy/3500kb/hls/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Cục Vàng Của Ngoại",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/03/27/cuc-vang-cua-ngoai-fpt-play-1774595783778_Landscape.jpg",
         "url": "https://s6.kkphimplayer6.com/20260403/6UwV8LAv/3500kb/hls/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Nhà Mình Đi Thôi",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/29/nha-minh-di-thoi-fpt-play-1777439633547_Landscape.jpg",
         "url": "https://vip.opstream90.com/20260502/30774_da58e2e4/3000k/hls/mixed.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Cuốc Xe Âm Phủ - Tập 1",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
         "url": "https://v7.kkphimplayer7.com/20260502/89qXv3Fa/3500kb/hls/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Cuốc Xe Âm Phủ - Tập 2",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
         "url": "https://v7.kkphimplayer7.com/20260503/Lp2p18eb/3500kb/hls/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Cuốc Xe Âm Phủ - Tập 3",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
         "url": "https://v7.kkphimplayer7.com/20260504/9JB48ezG/3500kb/hls/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Cuốc Xe Âm Phủ - Tập 4",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
         "url": "https://v7.kkphimplayer7.com/20260504/xNE4czZl/3500kb/hls/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Cuốc Xe Âm Phủ - Tập Cuối",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
         "url": "https://v7.kkphimplayer7.com/20260505/6REaXK8f/3500kb/hls/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Nhà Hai Chủ",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/29/nha-hai-chu-fpt-play-1777448554178_Landscape.jpg",
         "url": "https://v7.kkphimplayer7.com/20260505/YnFXHB6A/3500kb/hls/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Thỏ Ơi",
         "logo": "https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/Th%E1%BB%8F%20%C6%A0i.jpg",
         "url": "https://v7.kkphimplayer7.com/20260531/mazEQT6f/3500kb/hls/index.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Oshi No Ko Phần 3 - Tập 1",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg",
         "url": "https://rumble.com/hls-vod/72av32/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Oshi No Ko Phần 3 - Tập 2",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg",
         "url": "https://rumble.com/hls-vod/72nhy6/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Oshi No Ko Phần 3 - Tập 3",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg",
         "url": "https://rumble.com/hls-vod/73bg84/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Oshi No Ko Phần 3 - Tập 4",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg",
         "url": "https://rumble.com/hls-vod/73gpe4/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Oshi No Ko Phần 3 - Tập 5",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg",
         "url": "https://rumble.com/hls-vod/73uq6q/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Oshi No Ko Phần 3 - Tập 6",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg",
         "url": "https://vip.opstream90.com/20260219/25424_5534491f/3000k/hls/mixed.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Oshi No Ko Phần 3 - Tập 7",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg",
         "url": "https://rumble.com/hls-vod/74da00/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Oshi No Ko Phần 3 - Tập 8",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg",
         "url": "https://vip.opstream90.com/20260305/26504_404d52bf/3000k/hls/mixed.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Oshi No Ko Phần 3 - Tập 9",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg",
         "url": "https://vip.opstream90.com/20260312/26990_72417e4a/3000k/hls/mixed.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Oshi No Ko Phần 3 - Tập 10",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg",
         "url": "https://rumble.com/hls-vod/757w6u/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "Oshi No Ko Phần 3 - Tập 11",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg",
         "url": "https://rumble.com/hls-vod/75uhgc/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "streamxx",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg",
         "url": "https://embed.streamxx.net/player/68wOmYSlAW",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "sv2",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg",
         "url": "https://sv2.streamvsphim.top/video/6822faed-b321-4e29-840a-65c143eee0d4",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "Phim hay",
         "title": "nguonc",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg",
         "url": "https://embed14.streamc.xyz/embed.php?hash=192cadd3908097385b8e27597e17da36",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "VTVcab",
         "title": "ON Vie Giải Trí",
         "logo": "https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/ongiai.png",
         "url": "https://livevlisctcdnw.seenow.vn/livesnv2/GIAITRI_TV_HD/manifest.mpd",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "VTVcab",
         "title": "ON Phim Việt",
         "logo": "https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/phimviet.png",
         "url": "https://livevlisctcdnw.seenow.vn/livesnv2/PHIM_VIET/manifest.mpd",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "VTVcab",
         "title": "On Movies",
         "logo": "https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/onmovi.png",
         "url": "https://livevlisctcdnw.seenow.vn/livesnv2/VAN_HOA/manifest.mpd",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "VTVcab",
         "title": "ON E- Channel",
         "logo": "https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/one.png",
         "url": "https://livevlisctcdnw.seenow.vn/livesnv2/E_CHANNEL/manifest.mpd",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "VTVcab",
         "title": "On O2TV",
         "logo": "https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/o2.png",
         "url": "https://livevlisctcdnw.seenow.vn/livesnv2/O2_TV/manifest.mpd",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "VTVcab",
         "title": "On BiBi",
         "logo": "https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/bibi.png",
         "url": "https://livevlisctcdnw.seenow.vn/livesnv2/BIBI/manifest.mpd",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "VTVcab",
         "title": "ON Info TV",
         "logo": "https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/info.png",
         "url": "https://livevlisctcdnw.seenow.vn/livesnv2/INFO_TV/manifest.mpd",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "VTVcab",
         "title": "ON Cine",
         "logo": "https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/oncine.png",
         "url": "https://livevlisctcdnw.seenow.vn/mean/FILM_TV/manifest.mpd",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "VTVcab",
         "title": "ON Style TV",
         "logo": "https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/style.png",
         "url": "https://livevlisctcdnw.seenow.vn/livesnv2/STYLE_TV_HD/manifest.mpd",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "VTVcab",
         "title": "On Music",
         "logo": "https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/music.png",
         "url": "https://livevlisctcdnw.seenow.vn/livesnv2/M_CHANNEL/manifest.mpd",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "VTVcab",
         "title": "ON TRENDING TV",
         "logo": "https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/trend.png",
         "url": "https://livevlisctcdnw.seenow.vn/livesnv2/YEAH1_TV/manifest.mpd",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "VTVcab",
         "title": "ON Vie Dramas",
         "logo": "https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/drama.png",
         "url": "https://livevlisctcdnw.seenow.vn/livesnv2/D_DRAMAS_HD/manifest.mpd",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "VTVcab",
         "title": "ON V Family",
         "logo": "https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/vfam.png",
         "url": "https://livevlisctcdnw.seenow.vn/livesnv2/VFAMILY/manifest.mpd",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "VTVcab",
         "title": "On Kids",
         "logo": "https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/kisd.png",
         "url": "https://livevlisctcdnw.seenow.vn/livesnv2/BIBI_PLUS_clear/manifest.mpd",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "VTVcab",
         "title": "On Life",
         "logo": "https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/life.png",
         "url": "https://livevlisctcdnw.seenow.vn/livesnv2/LIFE_TV/manifest.mpd",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Irtysh Pavlodar vs Kaisar Kyzylorda (Lương Sơn) BLV LƯU BỊ m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Irtysh Pavlodar vs Kaisar Kyzylorda (Lương Sơn) BLV LƯU BỊ flv",
+        "logo": "",
+        "url": "https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Dingnan Ganlian vs Wuxi Wugou (Lương Sơn) BLV MAYBACH m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Dingnan Ganlian vs Wuxi Wugou (Lương Sơn) BLV MAYBACH flv",
+        "logo": "",
+        "url": "https://flv.cdnfaster-a.live/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b",
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "18h00 ngày 28/06 Dalian Zhixing vs Shanghai Shenhua (Lương Sơn) BLV TÔN LẬP m3u",
         "logo": "",
         "url": "https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "18h00 ngày 28/06 Dalian Zhixing vs Shanghai Shenhua (Lương Sơn) BLV TÔN LẬP flv",
         "logo": "",
         "url": "https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Qingdao West Coast vs Zhejiang Professional FC (Lương Sơn) BLV LÝ ỨNG m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Qingdao West Coast vs Zhejiang Professional FC (Lương Sơn) BLV LÝ ỨNG flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Busan Transportation Corporation vs Daejeon Korail (Lương Sơn) BLV TÀO THÁO m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/TAOTHAO/index.m3u8?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Busan Transportation Corporation vs Daejeon Korail (Lương Sơn) BLV TÀO THÁO flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/TAOTHAO.flv?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "18h00 ngày 28/06 Suzhou Dongwu vs Ningbo Professional Football Club (Lương Sơn) BLV VƯƠNG LUÂN m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "18h00 ngày 28/06 Suzhou Dongwu vs Ningbo Professional Football Club (Lương Sơn) BLV VƯƠNG LUÂN flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "18h00 ngày 28/06 Suzhou Dongwu vs Ningbo Professional Football Club (Lương Sơn) BLV HÀN TÍN m3u",
-        "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "18h00 ngày 28/06 Suzhou Dongwu vs Ningbo Professional Football Club (Lương Sơn) BLV HÀN TÍN flv",
-        "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "18h00 ngày 28/06 Dalian Zhixing vs Shanghai Shenhua (Lương Sơn) BLV MÃ SIÊU m3u",
         "logo": "",
         "url": "https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "18h00 ngày 28/06 Dalian Zhixing vs Shanghai Shenhua (Lương Sơn) BLV MÃ SIÊU flv",
         "logo": "",
         "url": "https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Qingdao West Coast vs Zhejiang Professional FC (Lương Sơn) BLV LÝ QUỲ m3u",
+        "title": "18h00 ngày 28/06 Suzhou Dongwu vs Ningbo Professional Football Club (Lương Sơn) BLV VƯƠNG LUÂN m3u",
         "logo": "",
-        "url": "https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3",
-        "time": "2026-06-28 11:17:27"
+        "url": "https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645",
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Qingdao West Coast vs Zhejiang Professional FC (Lương Sơn) BLV LÝ QUỲ flv",
+        "title": "18h00 ngày 28/06 Suzhou Dongwu vs Ningbo Professional Football Club (Lương Sơn) BLV VƯƠNG LUÂN flv",
         "logo": "",
-        "url": "https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3",
-        "time": "2026-06-28 11:17:27"
+        "url": "https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 28/06 Suzhou Dongwu vs Ningbo Professional Football Club (Lương Sơn) BLV HÀN TÍN m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 28/06 Suzhou Dongwu vs Ningbo Professional Football Club (Lương Sơn) BLV HÀN TÍN flv",
+        "logo": "",
+        "url": "https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df",
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 UNSW FC Women vs University of Sydney Women (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/8988f3aa5ce2f85d4c50a0bc65d9d998/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Newcastle Olympic FC Reserves vs Charlestown Azzurri Reserves (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/6f115b2fe383bc3710a61f46cc1b22f9/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "07h10 ngày 23/05 Boston Legacy W vs Seattle Reign (W) (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Mexico vs Ghana (Khán Đài A) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Qingdao Youth Island vs Hangzhou Greentown (Chuối Chiên) HD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Qingdao Youth Island vs Hangzhou Greentown (Chuối Chiên) HD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoichao.flv",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Qingdao Youth Island vs Hangzhou Greentown (Chuối Chiên) FHD1",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Qingdao Youth Island vs Hangzhou Greentown (Chuối Chiên) FHD2",
-        "logo": "",
-        "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "17h00 ngày 28/06 Bahrain vs India (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/m3x6/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "17h00 ngày 28/06 Bahrain vs India (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/m3x6.flv",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "18h00 ngày 28/06 Bulgaria vs Ukraine (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "18h00 ngày 28/06 Bulgaria vs Ukraine (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay.flv",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "18h00 ngày 28/06 Bulgaria vs Ukraine (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "18h00 ngày 28/06 Bulgaria vs Ukraine (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "18h00 ngày 28/06 China vs Germany (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "18h00 ngày 28/06 China vs Germany (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoigia.flv",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "18h00 ngày 28/06 China vs Germany (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "18h00 ngày 28/06 China vs Germany (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "18h00 ngày 28/06 Dalian Zhixing vs Shanghai Shenhua (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "18h00 ngày 28/06 Dalian Zhixing vs Shanghai Shenhua (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho.flv",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "18h00 ngày 28/06 Dalian Zhixing vs Shanghai Shenhua (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "18h00 ngày 28/06 Dalian Zhixing vs Shanghai Shenhua (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "18h30 ngày 28/06 Iran vs Cuba (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "18h30 ngày 28/06 Iran vs Cuba (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoito.flv",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "18h30 ngày 28/06 Iran vs Cuba (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "18h30 ngày 28/06 Iran vs Cuba (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "19h00 ngày 28/06 Vietnam W vs Thailand W (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "19h00 ngày 28/06 Vietnam W vs Thailand W (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoibo.flv",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "19h00 ngày 28/06 Vietnam W vs Thailand W (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "19h00 ngày 28/06 Vietnam W vs Thailand W (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "21h00 ngày 28/06 Zhenys vs FC Astana (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "21h00 ngày 28/06 Zhenys vs FC Astana (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/troctru.flv",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "21h00 ngày 28/06 Zhenys vs FC Astana (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "21h00 ngày 28/06 Zhenys vs FC Astana (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd.flv",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "23h00 ngày 28/06 FC Levadia Tallinn vs Flora Tallinn (Chuối Chiên) HD1",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "23h00 ngày 28/06 FC Levadia Tallinn vs Flora Tallinn (Chuối Chiên) HD2",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoichao.flv",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "23h00 ngày 28/06 FC Levadia Tallinn vs Flora Tallinn (Chuối Chiên) FHD1",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "23h00 ngày 28/06 FC Levadia Tallinn vs Flora Tallinn (Chuối Chiên) FHD2",
+        "logo": "",
+        "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv",
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "02h00 ngày 29/06 South Africa vs Canada (Chuối Chiên) HD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "02h00 ngày 29/06 South Africa vs Canada (Chuối Chiên) HD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/angao.flv",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "02h00 ngày 29/06 South Africa vs Canada (Chuối Chiên) FHD1",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "02h00 ngày 29/06 South Africa vs Canada (Chuối Chiên) FHD2",
         "logo": "",
         "url": "https://gckc0525.edgemaxcdn.org/live/angaohd.flv",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC (Gà Vàng) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/821d54abadb12c6c15edba538ab20ad1/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "07h00 ngày 23/05 Sporting Kansas CityReserves vs Austin FC II (Gà Vàng) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source",
         "logo": "",
         "url": "https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Qingdao West Coast vs Zhejiang Professional FC [BLV CUỘI] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1782648022-0-0-422fc0a7ef7f1e246286c2479c31ddf6",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Qingdao West Coast vs Zhejiang Professional FC [BLV CUỘI] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1782648022-0-0-4f589dfee5bb4420dfb560c0f724006f",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Qingdao West Coast vs Zhejiang Professional FC [BLV CUỘI] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1782648022-0-0-96acd4f3a480e80f452b7ec86f743c5d",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Qingdao West Coast vs Zhejiang Professional FC [BLV CUỘI] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1782648022-0-0-f0b92a9f9d2305bc435adc54e87b50bf",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Qingdao West Coast vs Zhejiang Professional FC [BLV 7UP] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1782648022-0-0-d69e62154b3cb180917d44a0dea18f8e",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Qingdao West Coast vs Zhejiang Professional FC [BLV 7UP] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1782648022-0-0-4d6ecfdfaf32cdc37ba39cd571f301ae",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Qingdao West Coast vs Zhejiang Professional FC [BLV 7UP] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1782648022-0-0-a5b0998af7774e637ceb9dcec83b5f8e",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Qingdao West Coast vs Zhejiang Professional FC [BLV 7UP] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1782648022-0-0-01df2ef1fab88f16317d7df6685a807e",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Qingdao West Coast vs Zhejiang Professional FC [RICKHANTER] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912122_lsd.flv?auth_key=1782648022-0-0-9e1a8653a2a88420b2570a9e11964f88",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Qingdao West Coast vs Zhejiang Professional FC [RICKHANTER] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912122_lhd.flv?auth_key=1782648022-0-0-f4ccd269a647b25319e76f55d5221dfd",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Qingdao West Coast vs Zhejiang Professional FC [RICKHANTER] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1782648022-0-0-75a1fd95a9584f6bebe7fac81cbe71b0",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Qingdao West Coast vs Zhejiang Professional FC [RICKHANTER] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1782648022-0-0-db49d80f63482bd9106432a6d48ad392",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Qingdao West Coast vs Zhejiang Professional FC [BLV Củ Cải] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1782648022-0-0-a4b9afcef7a2f0f0b3e0a30e8daf79b0",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Qingdao West Coast vs Zhejiang Professional FC [BLV Củ Cải] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1782648022-0-0-64fb6eb47f9e420e629ea091f57179b2",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Qingdao West Coast vs Zhejiang Professional FC [BLV Củ Cải] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1782648022-0-0-2413464d8db3f615a5056b6e208f40cb",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Qingdao West Coast vs Zhejiang Professional FC [BLV Củ Cải] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1782648022-0-0-d84b08640e61b2699e7def921dbd7dda",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [DECO] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1782648022-0-0-be55a8efce0d9db5b1bf5befcbf8e864",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [DECO] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1782648022-0-0-89e4cebeee8c5461bf2efe6856411c98",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [DECO] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1782648022-0-0-25412a3652c2178c76a7fdcfd8cce902",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [DECO] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1782648022-0-0-05263aef3e074212dae680b2059cc664",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [BLV COCA] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1782648022-0-0-aeb50dc5aa9ef505ccb4865970f314b7",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [BLV COCA] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1782648022-0-0-181a4ab96aeffd176ebb939def7b06e0",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [BLV COCA] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1782648022-0-0-ca8b9a6c73e5b4ca6eb3ee925c747ea4",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [BLV COCA] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1782648022-0-0-8f5d51e30a1333367f6f07250c3f1ab2",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [BLV TAP] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=f883ab6fc06379e1db6e04441395fcde&txTime=6a415326",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [BLV TAP] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=9effb43ab240d6aaf4ed0b0988697e08&txTime=6a415326",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [BLV TAP] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=f883ab6fc06379e1db6e04441395fcde&txTime=6a415326",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [BLV TAP] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=9effb43ab240d6aaf4ed0b0988697e08&txTime=6a415326",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Qingdao West Coast vs Zhejiang Professional FC [LOGAN] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1782648022-0-0-e033fc73f36b8551a0b2d1c06db9cb80",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Qingdao West Coast vs Zhejiang Professional FC [LOGAN] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1782648022-0-0-f6d7adbacf90dfb40c1993cdd7f0df10",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Qingdao West Coast vs Zhejiang Professional FC [LOGAN] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1782648022-0-0-fcee1192e8d5632b9242eff2dadaf0ba",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Qingdao West Coast vs Zhejiang Professional FC [LOGAN] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1782648022-0-0-0a341886f844e105d4326ca96f7c99f7",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - Colombia vs Portugal [Sóc trèo cây ngô đồng] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1782648022-0-0-76887ec58dba059267b113afffe49b1b",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - Colombia vs Portugal [Sóc trèo cây ngô đồng] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1782648022-0-0-051de1e5db57a2a23941d8fb4a3eae00",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - Colombia vs Portugal [Sóc trèo cây ngô đồng] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782648022-0-0-f569c8a64d279ad86d2903316b089e6c",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - Colombia vs Portugal [Sóc trèo cây ngô đồng] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1782648022-0-0-6aa66a9e0b147d160555910a61b73ee4",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - Democratic Republic of the Congo vs Uzbekistan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1782648022-0-0-aa5de5cecb2b842c46f6a30beeb13b23",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - Democratic Republic of the Congo vs Uzbekistan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1782648022-0-0-d1b34f5378a108b8a41c5fa94bac6d83",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - Democratic Republic of the Congo vs Uzbekistan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782648022-0-0-30f42baab293b2b27e510a0cc818e6c4",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - Democratic Republic of the Congo vs Uzbekistan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1782648022-0-0-30cdafa365103a86a833647cf65fc4e8",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - Croatia vs Ghana [Sóc nhàm nhang nhồ] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1782648022-0-0-82f49dca9ff513211ffe0f84eeb28a6f",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - Croatia vs Ghana [Sóc nhàm nhang nhồ] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1782648022-0-0-02e59856ad372b109a27c373f4172ffc",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - Croatia vs Ghana [Sóc nhàm nhang nhồ] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782648022-0-0-ad77785603abdaf53a6ade3fa7df7b27",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - Croatia vs Ghana [Sóc nhàm nhang nhồ] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1782648022-0-0-e8c3ef3f3485582a6ac595e481ba7615",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - Panama vs England [Sóc đau cổ vai gáy] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1782648022-0-0-c9ef0e7a0f16c6f39540b97d94b494f1",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - Panama vs England [Sóc đau cổ vai gáy] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1782648022-0-0-ca5d980002b3f1c3b024ba5867521a23",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - Panama vs England [Sóc đau cổ vai gáy] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782648022-0-0-5665cf0f69c28f40d6eeea5918e5e104",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - Panama vs England [Sóc đau cổ vai gáy] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1782648022-0-0-690fb32f3348bb444a460085e67b39c4",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [VƯƠNG ANH] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=fd0dfd3a51e04f39821ceda1527aa12b&txTime=6a415452",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [VƯƠNG ANH] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=6cb44e09f5a1f60e13085a645b19c6c4&txTime=6a415452",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [VƯƠNG ANH] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=fd0dfd3a51e04f39821ceda1527aa12b&txTime=6a415452",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [VƯƠNG ANH] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=6cb44e09f5a1f60e13085a645b19c6c4&txTime=6a415452",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [BLV ĐỐM] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1782648322-0-0-f6768bb146f0723a1a3d65d8a2b459f7",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [BLV ĐỐM] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1782648322-0-0-f1200b1f4943bb24bc50c0fa440b63fc",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [BLV ĐỐM] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1782648322-0-0-1acbcd596f2887888c6d94ad69015797",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [BLV ĐỐM] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1782648322-0-0-f4d68438505f056fb0a4679f3064cd8e",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Qingdao West Coast vs Zhejiang Professional FC [CÔNG CHẤT] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1782648322-0-0-8cb6757d39d38e667763d4aa1ca882a0",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Qingdao West Coast vs Zhejiang Professional FC [CÔNG CHẤT] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1782648322-0-0-3ba2d82c9e5cbb25a3f659107a6e850b",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Qingdao West Coast vs Zhejiang Professional FC [CÔNG CHẤT] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1782648322-0-0-3311272e816fe9ce32d810ae32179503",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Qingdao West Coast vs Zhejiang Professional FC [CÔNG CHẤT] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1782648322-0-0-9baa84deba7ca306ee0fddbc153fde0d",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Busan Transpor Tation vs Daejeon Korail [CHÍ PHÈO] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-273736_lsd.flv?auth_key=1782648322-0-0-a693ceda10a76cc3b1e64fb8df396840",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Busan Transpor Tation vs Daejeon Korail [CHÍ PHÈO] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-273736_lhd.flv?auth_key=1782648322-0-0-881598a09c4ba2ebf50fe577b053d32a",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Busan Transpor Tation vs Daejeon Korail [CHÍ PHÈO] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1782648322-0-0-ba53ff9fc84f1e624576314375905044",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Busan Transpor Tation vs Daejeon Korail [CHÍ PHÈO] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1782648322-0-0-7ccc783b85548fdf735de4e2aac5b386",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Busan Transpor Tation vs Daejeon Korail [BLV KAN] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=c68b3204c651fcc6a32a2bf8cba371b0&txTime=6a415452",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Busan Transpor Tation vs Daejeon Korail [BLV KAN] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=20677dafee880ba4c4f71a2a859ffb36&txTime=6a415452",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Busan Transpor Tation vs Daejeon Korail [BLV KAN] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=c68b3204c651fcc6a32a2bf8cba371b0&txTime=6a415452",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 ngày 28/06 Busan Transpor Tation vs Daejeon Korail [BLV KAN] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=20677dafee880ba4c4f71a2a859ffb36&txTime=6a415452",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "18h00 ngày 28/06 Suzhou Dongwu vs Ningbo Professional [BLV CHIVAS] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=3d41c3c82597144182aed8ff8633e3ef&txTime=6a415452",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "18h00 ngày 28/06 Suzhou Dongwu vs Ningbo Professional [BLV CHIVAS] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=7c91cdb6f74a4bde21290b286358ed4a&txTime=6a415452",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "18h00 ngày 28/06 Suzhou Dongwu vs Ningbo Professional [BLV CHIVAS] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=3d41c3c82597144182aed8ff8633e3ef&txTime=6a415452",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "18h00 ngày 28/06 Suzhou Dongwu vs Ningbo Professional [BLV CHIVAS] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=7c91cdb6f74a4bde21290b286358ed4a&txTime=6a415452",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "18h00 ngày 28/06 Suzhou Dongwu vs Ningbo Professional [BLV ANH TÀI] (Socolive) flv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1782648322-0-0-6112b3333b4b793d3eb59a98f5b4b826",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "18h00 ngày 28/06 Suzhou Dongwu vs Ningbo Professional [BLV ANH TÀI] (Socolive) hdFlv",
-        "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1782648322-0-0-23a65fe29f2cbc0b1d5da2868055df07",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "18h00 ngày 28/06 Suzhou Dongwu vs Ningbo Professional [BLV ANH TÀI] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1782648322-0-0-b60268c76835e36d848ad332bd867bcd",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "18h00 ngày 28/06 Suzhou Dongwu vs Ningbo Professional [BLV ANH TÀI] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1782648322-0-0-8d0eca11366e5907bea9a450c0e97fd7",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [BLV RÔSI] (Socolive) flv",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=da76ef2ac1c0c4ff16d88f67355f5b60&txTime=6a4155f6",
-        "time": "2026-06-28 11:17:27"
+        "url": "https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=61bb8a687044a0da319819d9c50542f9&txTime=6a41669a",
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [BLV RÔSI] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=05620ccf6e15c9b879b6130a1b2f234c&txTime=6a4155f6",
-        "time": "2026-06-28 11:17:27"
+        "url": "https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=6b01b0dd89dd37dc64252cbe98c3dfa3&txTime=6a41669a",
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [BLV RÔSI] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=da76ef2ac1c0c4ff16d88f67355f5b60&txTime=6a4155f6",
-        "time": "2026-06-28 11:17:27"
+        "url": "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=61bb8a687044a0da319819d9c50542f9&txTime=6a41669a",
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [BLV RÔSI] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=05620ccf6e15c9b879b6130a1b2f234c&txTime=6a4155f6",
-        "time": "2026-06-28 11:17:27"
+        "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=6b01b0dd89dd37dc64252cbe98c3dfa3&txTime=6a41669a",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Dingnan United vs Wuxi Wugo [BLV RAMBO] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=66da5002bb0486a125d964c64db5f038&txTime=6a41669a",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Dingnan United vs Wuxi Wugo [BLV RAMBO] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=57f9c31df7d28d0a45b71c87212ca9c9&txTime=6a41669a",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Dingnan United vs Wuxi Wugo [BLV RAMBO] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=66da5002bb0486a125d964c64db5f038&txTime=6a41669a",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Dingnan United vs Wuxi Wugo [BLV RAMBO] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=57f9c31df7d28d0a45b71c87212ca9c9&txTime=6a41669a",
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "19h00 ngày 28/06 Switzerland Women U19 vs Spain Women U19 [TRÀ ĐÁ] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-603914_lsd.flv?auth_key=1782648742-0-0-312d612e83d31fb2339421022c6dbf12",
-        "time": "2026-06-28 11:17:27"
+        "url": "https://pull06.scstream.net/live/stream-603914_lsd.flv?auth_key=1782653002-0-0-1c30666c2e8950e195fc5613cdb40493",
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "19h00 ngày 28/06 Switzerland Women U19 vs Spain Women U19 [TRÀ ĐÁ] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1782648742-0-0-c09cd6ef83444ad3e800549142ee0510",
-        "time": "2026-06-28 11:17:27"
+        "url": "https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1782653002-0-0-42fc8cdada14810b5a8c658626369eca",
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "19h00 ngày 28/06 Switzerland Women U19 vs Spain Women U19 [TRÀ ĐÁ] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1782648742-0-0-fd608c778df279be446f443fbda751b2",
-        "time": "2026-06-28 11:17:27"
+        "url": "https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1782653002-0-0-6435dcb751f34000a6ff02f88febd413",
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "19h00 ngày 28/06 Switzerland Women U19 vs Spain Women U19 [TRÀ ĐÁ] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1782648742-0-0-2439cccda02712131699d52e2df9c6da",
-        "time": "2026-06-28 11:17:27"
+        "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1782653002-0-0-ae41a3fc1de321deb8fc17fb8e78d3c6",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 IFK Norrkoping FK vs Norrby IF [BLV XO] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1782653002-0-0-3e3b39612c4eb6c6d393a89183ce4a6e",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 IFK Norrkoping FK vs Norrby IF [BLV XO] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1782653002-0-0-ace343d78cc320ffa84c31afc5b5fa29",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 IFK Norrkoping FK vs Norrby IF [BLV XO] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1782653002-0-0-8814dc08171bd6d7ce0d1efce690dc6f",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 IFK Norrkoping FK vs Norrby IF [BLV XO] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1782653002-0-0-3a67244f777be41475562a9c19806b05",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 Käpylän Pallo vs JaPS [QUÂN JK] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-611178_lsd.flv?auth_key=1782653002-0-0-232dac394b31471382b982e8cf8e0179",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 Käpylän Pallo vs JaPS [QUÂN JK] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-611178_lhd.flv?auth_key=1782653002-0-0-83f7312e4cf1e87f6aee007408a0574e",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 Käpylän Pallo vs JaPS [QUÂN JK] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1782653002-0-0-8bc4eae388d39fb9bf0e90ae2ca5a378",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 Käpylän Pallo vs JaPS [QUÂN JK] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1782653002-0-0-5b03c13441d938dcbd72c538d084af94",
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782648742-0-0-674aca08f3f9e5f54612ba7eda1aa3e1",
-        "time": "2026-06-28 11:17:27"
+        "url": "https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782653002-0-0-2e9d60ffdecff9e8943f25a1ebe0c5a0",
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782648742-0-0-d76cb33bd30d85f29f70c3a08b33ced6",
-        "time": "2026-06-28 11:17:27"
+        "url": "https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782653002-0-0-55be4bebd07fe9b3e6844a234651d114",
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782648742-0-0-3cee8636efe583437ffbe72a14496bc4",
-        "time": "2026-06-28 11:17:27"
+        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782653002-0-0-a394155222485f4fe57417d7480e5e18",
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782648742-0-0-e658c90d4d1c4e965c9921f0f3d80831",
-        "time": "2026-06-28 11:17:27"
+        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782653002-0-0-9d6f35ca6bfb08f9d9ea2ec2d1560d94",
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "Tường thuật: WORLD CUP - Jordan vs Argentina [Sóc trong rừng xà nu] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1782648742-0-0-d78cb8b455b9ffd096fc359abb93bea5",
-        "time": "2026-06-28 11:17:27"
+        "url": "https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1782653002-0-0-3db8d14ef93bd0e311f82036a4592445",
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "Tường thuật: WORLD CUP - Jordan vs Argentina [Sóc trong rừng xà nu] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1782648742-0-0-85b3029851ffd0e396b3f246e8925a44",
-        "time": "2026-06-28 11:17:27"
+        "url": "https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1782653002-0-0-010d0bc99e4e55f42f33e932ca5ac0a7",
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "Tường thuật: WORLD CUP - Jordan vs Argentina [Sóc trong rừng xà nu] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782648742-0-0-de7facee614f470ed17d21f8ef0e1a84",
-        "time": "2026-06-28 11:17:27"
+        "url": "https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782653002-0-0-3bcbd0c8620132003dd51c71cc214a4d",
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "Tường thuật: WORLD CUP - Jordan vs Argentina [Sóc trong rừng xà nu] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1782648742-0-0-faa8b98bc137d7951116d2e4c24a40f1",
-        "time": "2026-06-28 11:17:27"
+        "url": "https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1782653002-0-0-0431ed42287787414b0c7daa3f12c518",
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "Tường thuật: WORLD CUP - Algeria vs Austria [Sóc mèo méo meo] (Socolive) flv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1782648742-0-0-eb226d29ebdafcb3cc5d7087df21b4ae",
-        "time": "2026-06-28 11:17:27"
+        "url": "https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1782653002-0-0-ad18b53d67cc2f369181739516180965",
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "Tường thuật: WORLD CUP - Algeria vs Austria [Sóc mèo méo meo] (Socolive) hdFlv",
         "logo": "",
-        "url": "https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1782648742-0-0-d57abfb0fd4e0368d2560ac70b54bbdc",
-        "time": "2026-06-28 11:17:27"
+        "url": "https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1782653002-0-0-f9a1e669c5d38cc89209cd0e74f3e67f",
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "Tường thuật: WORLD CUP - Algeria vs Austria [Sóc mèo méo meo] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782648742-0-0-90dd42189a5ad34f77f0fca9c16ef5d7",
-        "time": "2026-06-28 11:17:27"
+        "url": "https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782653002-0-0-fd5b89f28e3347c1efdf2030a4fd9e39",
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "Tường thuật: WORLD CUP - Algeria vs Austria [Sóc mèo méo meo] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1782648742-0-0-9c0aa5fae4a8a87ec60ed738ee4a8ca7",
-        "time": "2026-06-28 11:17:27"
+        "url": "https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1782653002-0-0-b8df08db714716a83817403ff4377939",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 Käpylän Pallo vs JaPS [BLV ROBBEN] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1782653422-0-0-6eb501ee8baae910450c85e5d02e2149",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 Käpylän Pallo vs JaPS [BLV ROBBEN] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1782653422-0-0-16dd39cd90629d9e146ee9ff4dfd246c",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 Käpylän Pallo vs JaPS [BLV ROBBEN] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1782653422-0-0-04f7d9463ab2724c69150398e3023f30",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 Käpylän Pallo vs JaPS [BLV ROBBEN] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1782653422-0-0-d9c38a20cd6382af46faf79a96a6238a",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [BLV TAP] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=ccca2a1b93cd64b029b6c73b23b4be11&txTime=6a41683e",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [BLV TAP] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=f5ec99a2133a33a70743a7712846399e&txTime=6a41683e",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [BLV TAP] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=ccca2a1b93cd64b029b6c73b23b4be11&txTime=6a41683e",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [BLV TAP] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=f5ec99a2133a33a70743a7712846399e&txTime=6a41683e",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [BLV COCA] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1782653422-0-0-b3df017b1b32242bc5fac78cd0d5cd55",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [BLV COCA] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1782653422-0-0-b82258c7045cdbb42d969b86ac86fd9c",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [BLV COCA] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1782653422-0-0-284914b0e87dbd6909cc58a5b5cd2015",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [BLV COCA] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1782653422-0-0-877c2c60b0b1c852896685daf21611e6",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Irtysh Pavlodar vs Kaisar Kyzylorda [XUÂN SON] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=0542ed25a886b0450d876941004aceb3&txTime=6a41683e",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Irtysh Pavlodar vs Kaisar Kyzylorda [XUÂN SON] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=0bbd9e14e2491f198643195fefc04fcb&txTime=6a41683e",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Irtysh Pavlodar vs Kaisar Kyzylorda [XUÂN SON] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=0542ed25a886b0450d876941004aceb3&txTime=6a41683e",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Irtysh Pavlodar vs Kaisar Kyzylorda [XUÂN SON] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=0bbd9e14e2491f198643195fefc04fcb&txTime=6a41683e",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Dingnan United vs Wuxi Wugo [BLV CÒ] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1782653422-0-0-916ea3147ed31a0e0df1d33539e3bc61",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Dingnan United vs Wuxi Wugo [BLV CÒ] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1782653422-0-0-f1e04b36599451109099dd436caaa084",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Dingnan United vs Wuxi Wugo [BLV CÒ] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1782653422-0-0-882610f4330d455cbb7c19fc6be9bbff",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Dingnan United vs Wuxi Wugo [BLV CÒ] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1782653422-0-0-6c331e5f351af93ef2b154c5c8886332",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [DECO] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1782653422-0-0-f10165f87679111f188d2757cea23f06",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [DECO] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1782653422-0-0-ed69bb9aea48805f00d8306ea218791d",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [DECO] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1782653422-0-0-1c0bdf89f148cb038bccbbf46b8c4bc1",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [DECO] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1782653422-0-0-543a0a5e4a64fd78a476eca1e55dc58c",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 Landskrona BoIS vs IFK Varnamo [BLV TOMIA] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1782653422-0-0-396d2926541c6a7d225380a0ffa9f15a",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 Landskrona BoIS vs IFK Varnamo [BLV TOMIA] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1782653422-0-0-911de654399536ffd68dd714c4d70529",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 Landskrona BoIS vs IFK Varnamo [BLV TOMIA] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1782653422-0-0-9d08b7b60ff0736bdcb75f7eab47d2f9",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 Landskrona BoIS vs IFK Varnamo [BLV TOMIA] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1782653422-0-0-e76ad34fb5808563c9c55fde3bdca133",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 Landskrona BoIS vs IFK Varnamo [BLV COZY] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1782653422-0-0-ca7d944a1c37781e7dcb44a61451c5eb",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 Landskrona BoIS vs IFK Varnamo [BLV COZY] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1782653422-0-0-d9a59d06e1f8fef59e5feaf33d2f746e",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 Landskrona BoIS vs IFK Varnamo [BLV COZY] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1782653422-0-0-4178996d198577eb70a2936f84417461",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 Landskrona BoIS vs IFK Varnamo [BLV COZY] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1782653422-0-0-10c7d5d2a45d65557ba6aad61fce6bae",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Ulytau Zhezkazgan vs Ordabasy [A PÁO] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1782653422-0-0-2e9c670dd35a012400f4652ef32a2cbf",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Ulytau Zhezkazgan vs Ordabasy [A PÁO] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1782653422-0-0-f43fc5f7856d265f777a7b46bf100aa5",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Ulytau Zhezkazgan vs Ordabasy [A PÁO] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1782653422-0-0-39523bbfa36ea1a6319e4883dd79ac49",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Ulytau Zhezkazgan vs Ordabasy [A PÁO] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1782653422-0-0-cf680f2f0f88fa3597cba726b4b7029b",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h30 ngày 28/06 Can Tho Catfish vs Nhatrang Dolphins [BLV HENRY] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1782653422-0-0-2dd711e643da29ccd86c964322472bd8",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h30 ngày 28/06 Can Tho Catfish vs Nhatrang Dolphins [BLV HENRY] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1782653422-0-0-9ea8991e2904d04db26864922fa56e50",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h30 ngày 28/06 Can Tho Catfish vs Nhatrang Dolphins [BLV HENRY] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1782653422-0-0-1f03755e1db6357a39ba7c12ecc3ef0f",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h30 ngày 28/06 Can Tho Catfish vs Nhatrang Dolphins [BLV HENRY] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1782653422-0-0-54760cb553ad0aa82bb7c5883326f007",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Irtysh Pavlodar vs Kaisar Kyzylorda [BLV VITAMIN] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1782653422-0-0-3bf2dbc0b4b315698c604ffa3eb24b88",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Irtysh Pavlodar vs Kaisar Kyzylorda [BLV VITAMIN] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1782653422-0-0-58a186c691bea3d3dfb984848ff176df",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Irtysh Pavlodar vs Kaisar Kyzylorda [BLV VITAMIN] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1782653422-0-0-d39137e7b6ade02b33e995cec74abb5c",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Irtysh Pavlodar vs Kaisar Kyzylorda [BLV VITAMIN] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1782653422-0-0-b242c96a4fac7e7eaf1848c2048729f9",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 Käpylän Pallo vs JaPS [BLV LUCAS] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1782653422-0-0-3c3c346fa6fe2b0c619a5a820aaca7aa",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 Käpylän Pallo vs JaPS [BLV LUCAS] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1782653422-0-0-58f5672b8f66ad1205999b67251f8960",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 Käpylän Pallo vs JaPS [BLV LUCAS] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1782653422-0-0-a66cf3e18da20b9f706778b0a4440274",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 Käpylän Pallo vs JaPS [BLV LUCAS] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1782653422-0-0-ed56cb9c63420527d0793fd0e7b66bad",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 IFK Norrkoping FK vs Norrby IF [BLV WUKONG] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1782653422-0-0-a4d1bfc7cece026a29d15f98a18d1411",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 IFK Norrkoping FK vs Norrby IF [BLV WUKONG] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1782653422-0-0-fecc4feb4cdf988129d3ddcf75066289",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 IFK Norrkoping FK vs Norrby IF [BLV WUKONG] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1782653422-0-0-471ac641cbef1f2d2944c8d346c0fcb9",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 IFK Norrkoping FK vs Norrby IF [BLV WUKONG] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1782653422-0-0-27e99d3b73c6f55f0f8166924f2d9d1c",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 Tobol Kostanai vs Altay FK [BLV LION] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-603255_lsd.flv?auth_key=1782653422-0-0-a195c984a86e05309c16ed910724e252",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 Tobol Kostanai vs Altay FK [BLV LION] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-603255_lhd.flv?auth_key=1782653422-0-0-91fbf826b6ae79db19a5ff52dd541fa9",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 Tobol Kostanai vs Altay FK [BLV LION] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1782653422-0-0-47b94459ec3d769b7a52d0cc2cba5947",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 Tobol Kostanai vs Altay FK [BLV LION] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1782653422-0-0-902a07a3cfb649897a4e7b7093593a3b",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - Panama vs England [Sóc đau cổ vai gáy] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1782653422-0-0-31e7f9407101d5b45e457341fc00d7f0",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - Panama vs England [Sóc đau cổ vai gáy] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1782653422-0-0-a21d2568f0d1c9d5cbacfc1b3644fc7c",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - Panama vs England [Sóc đau cổ vai gáy] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782653422-0-0-5dc833d19c6a3e3d8465bd4ff9cb87e0",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - Panama vs England [Sóc đau cổ vai gáy] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1782653422-0-0-d9d5fc4626cac8349b074a65d200ce31",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - Democratic Republic of the Congo vs Uzbekistan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1782653422-0-0-4d6fb87637ee8eb24645efba5f419456",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - Democratic Republic of the Congo vs Uzbekistan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1782653422-0-0-f0d3abc451418dae7d6b05d403532199",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - Democratic Republic of the Congo vs Uzbekistan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782653422-0-0-e6db083973c5997f2846b1307b49be15",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - Democratic Republic of the Congo vs Uzbekistan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1782653422-0-0-614e618199614a26b6cd62a92e8e7942",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - Croatia vs Ghana [Sóc nhàm nhang nhồ] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1782653422-0-0-a1f039a4d64643bccdf98e1bccfd534a",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - Croatia vs Ghana [Sóc nhàm nhang nhồ] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1782653422-0-0-6c65f5be4ae518f7d0cdd5a40968682a",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - Croatia vs Ghana [Sóc nhàm nhang nhồ] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782653422-0-0-c026195fd0a28ea3bffe096086614270",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - Croatia vs Ghana [Sóc nhàm nhang nhồ] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1782653422-0-0-4d206f6fadea520bed0898d46f49ce41",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - Colombia vs Portugal [Sóc trèo cây ngô đồng] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1782653422-0-0-eb4c3ec9f7e8472c2c25d729d12c185b",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - Colombia vs Portugal [Sóc trèo cây ngô đồng] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1782653422-0-0-93bc8a724a80a5d569a02accc32112e4",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - Colombia vs Portugal [Sóc trèo cây ngô đồng] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782653422-0-0-b5f2c7114e389a99e6421f124c6538d5",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - Colombia vs Portugal [Sóc trèo cây ngô đồng] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1782653422-0-0-8bf79e466f871fd742453a73e89b611e",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [VƯƠNG ANH] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=55aea239a66ca557374bfc0309f1f79e&txTime=6a41696a",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [VƯƠNG ANH] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=5b2ab8f7325d0429daaa5aed8f7fe9f0&txTime=6a41696a",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [VƯƠNG ANH] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=55aea239a66ca557374bfc0309f1f79e&txTime=6a41696a",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [VƯƠNG ANH] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=5b2ab8f7325d0429daaa5aed8f7fe9f0&txTime=6a41696a",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 IFK Norrkoping FK vs Norrby IF [LOKA] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1782653722-0-0-45f9c99df8828f339bb55e19e80daaf8",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 IFK Norrkoping FK vs Norrby IF [LOKA] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1782653722-0-0-328706942f114c9bb9960332dd612b3b",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 IFK Norrkoping FK vs Norrby IF [LOKA] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1782653722-0-0-83aa23b7e698f0e7a3a5105ed4757ebe",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 IFK Norrkoping FK vs Norrby IF [LOKA] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1782653722-0-0-5ed7abaa2074b56bb680a6aef7b6f0ab",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [BLV ĐỐM] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1782653722-0-0-d7469d40ab2d92719b390565250427fe",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [BLV ĐỐM] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1782653722-0-0-06245554be9541f0991c64d971ad1baf",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [BLV ĐỐM] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1782653722-0-0-80050a166fc8a98f196a446ed77932e3",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 28/06 Dalian Yingbo vs Shanghai Shenhua [BLV ĐỐM] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1782653722-0-0-141a00f9b96cd0b1780f8e7cb631b402",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Ulytau Zhezkazgan vs Ordabasy [A BỆU] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1782653722-0-0-2cd2c8dee04170537c2eb5e07fdd365c",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Ulytau Zhezkazgan vs Ordabasy [A BỆU] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1782653722-0-0-3c142e12cd7672d011513ebdf4e827c5",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Ulytau Zhezkazgan vs Ordabasy [A BỆU] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1782653722-0-0-b9007af9dfdb9cfc02feb7f3f9bf5408",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Ulytau Zhezkazgan vs Ordabasy [A BỆU] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1782653722-0-0-16de09e2f9600ac3cabbf31fabfe53e7",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 28/06 Suzhou Dongwu vs Ningbo Professional [BLV CHIVAS] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=6d9434571cc5a423e51009a5578e3467&txTime=6a41696a",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 28/06 Suzhou Dongwu vs Ningbo Professional [BLV CHIVAS] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=53604bccb987cab035ef42a02b88cdde&txTime=6a41696a",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 28/06 Suzhou Dongwu vs Ningbo Professional [BLV CHIVAS] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=6d9434571cc5a423e51009a5578e3467&txTime=6a41696a",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 28/06 Suzhou Dongwu vs Ningbo Professional [BLV CHIVAS] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=53604bccb987cab035ef42a02b88cdde&txTime=6a41696a",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 28/06 Suzhou Dongwu vs Ningbo Professional [BLV ANH TÀI] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1782653722-0-0-c70d22e13ba9a4a39063e4183b54284c",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 28/06 Suzhou Dongwu vs Ningbo Professional [BLV ANH TÀI] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1782653722-0-0-25ce0538181a7e5e4e5cf624c7b4238f",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 28/06 Suzhou Dongwu vs Ningbo Professional [BLV ANH TÀI] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1782653722-0-0-fa961c65e5382492170cab83ea3c3f63",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 28/06 Suzhou Dongwu vs Ningbo Professional [BLV ANH TÀI] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1782653722-0-0-d707fab766fb9d3f94501242e388bef4",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Dingnan United vs Wuxi Wugo [BLV KAN] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=187952df8014c4081dd1b9d1737272a0&txTime=6a41696a",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Dingnan United vs Wuxi Wugo [BLV KAN] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=072710c777e4c3ad1a8f0aad19ecec03&txTime=6a41696a",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Dingnan United vs Wuxi Wugo [BLV KAN] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=187952df8014c4081dd1b9d1737272a0&txTime=6a41696a",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Dingnan United vs Wuxi Wugo [BLV KAN] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=072710c777e4c3ad1a8f0aad19ecec03&txTime=6a41696a",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Dingnan United vs Wuxi Wugo [BLV VOI] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1782653722-0-0-4135469c5f7f244a8bd8aa76a1546837",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Dingnan United vs Wuxi Wugo [BLV VOI] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1782653722-0-0-2b331ad3f627320f25212f1c33350585",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Dingnan United vs Wuxi Wugo [BLV VOI] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1782653722-0-0-5cb38dc876f69a9659231f0bae3f89a1",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Dingnan United vs Wuxi Wugo [BLV VOI] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1782653722-0-0-3bcd55fb2896f873f34287fd0483fdd7",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 Tobol Kostanai vs Altay FK [HÀ DUY KIÊN] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-607400_lsd.flv?auth_key=1782653722-0-0-e6cb16a2c5ab07a3cc024cc69d976c1f",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 Tobol Kostanai vs Altay FK [HÀ DUY KIÊN] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1782653722-0-0-8f59b9023d50bb971f86c3b56cb14e3f",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 Tobol Kostanai vs Altay FK [HÀ DUY KIÊN] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1782653722-0-0-286a0cdab386999b17dd3cbd01801f4e",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 Tobol Kostanai vs Altay FK [HÀ DUY KIÊN] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1782653722-0-0-2eac8155f519e48172085594e5ae166a",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 Tobol Kostanai vs Altay FK [BLV VIP] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=7863e7f4ece74a81926008ca2be2676d&txTime=6a41696a",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 Tobol Kostanai vs Altay FK [BLV VIP] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=974fef1c068f5cbc4805c1e0167c2bcb&txTime=6a41696a",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 Tobol Kostanai vs Altay FK [BLV VIP] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=7863e7f4ece74a81926008ca2be2676d&txTime=6a41696a",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 Tobol Kostanai vs Altay FK [BLV VIP] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=974fef1c068f5cbc4805c1e0167c2bcb&txTime=6a41696a",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 IFK Norrkoping FK vs Norrby IF [BLV LONG] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-9912117_lsd.flv?auth_key=1782653722-0-0-2214c25ef54d164df8813717a8c724e7",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 IFK Norrkoping FK vs Norrby IF [BLV LONG] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-9912117_lhd.flv?auth_key=1782653722-0-0-9a8161a7463fbe23e292c20b226376be",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 IFK Norrkoping FK vs Norrby IF [BLV LONG] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912117_lsd.m3u8?auth_key=1782653722-0-0-4aec2d66857ddc55f11aa26e61053ca0",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 IFK Norrkoping FK vs Norrby IF [BLV LONG] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912117_lhd.m3u8?auth_key=1782653722-0-0-55dfdfd4affbab6cc6aa990c952a2e1b",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 Landskrona BoIS vs IFK Varnamo [BLV RYO] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1782653722-0-0-05c42dfde54508bcae0e345aa1e51ab0",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 Landskrona BoIS vs IFK Varnamo [BLV RYO] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1782653722-0-0-b106f5928d31c3ddf4e4eaaab0d16f5b",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 Landskrona BoIS vs IFK Varnamo [BLV RYO] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1782653722-0-0-0aa0d5a814f5e590b0b7665d7afb2a15",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 Landskrona BoIS vs IFK Varnamo [BLV RYO] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1782653722-0-0-87ea0da4eeabe636065872a90291a5a0",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Ulytau Zhezkazgan vs Ordabasy [BEN 10] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-612098_lsd.flv?auth_key=1782653722-0-0-40399b0c8cf6d40d0befa2ddecd73038",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Ulytau Zhezkazgan vs Ordabasy [BEN 10] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-612098_lhd.flv?auth_key=1782653722-0-0-c38e89e8ef4d91001807b0bc9ea34cc3",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Ulytau Zhezkazgan vs Ordabasy [BEN 10] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1782653722-0-0-6bfc0d9bed2076011a42200bab19492c",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Ulytau Zhezkazgan vs Ordabasy [BEN 10] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1782653722-0-0-b34c9c140dcf16c9d17a17b15a040d06",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 Tobol Kostanai vs Altay FK [CHÍ PHÈO] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-273736_lsd.flv?auth_key=1782653722-0-0-2d587282243d20b71701e2ac938b8b7e",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 Tobol Kostanai vs Altay FK [CHÍ PHÈO] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-273736_lhd.flv?auth_key=1782653722-0-0-cb1129fa52ae808e83fceeec9bf23cf4",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 Tobol Kostanai vs Altay FK [CHÍ PHÈO] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1782653722-0-0-70a27ce82441708b85b0e88c10468348",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 ngày 28/06 Tobol Kostanai vs Altay FK [CHÍ PHÈO] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1782653722-0-0-baa0c054f9974cc23fcb68f794744125",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Ulytau Zhezkazgan vs Ordabasy [BLV CÁP] (Socolive) flv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-610677_lsd.flv?auth_key=1782653722-0-0-6c222537652ed9d7b597a590d3fb2394",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Ulytau Zhezkazgan vs Ordabasy [BLV CÁP] (Socolive) hdFlv",
+        "logo": "",
+        "url": "https://pull06.scstream.net/live/stream-610677_lhd.flv?auth_key=1782653722-0-0-d825dc13f187af7198f2c2855534b50e",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Ulytau Zhezkazgan vs Ordabasy [BLV CÁP] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1782653722-0-0-fc21582745cb554116edf24da5ce969b",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h00 ngày 28/06 Ulytau Zhezkazgan vs Ordabasy [BLV CÁP] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1782653722-0-0-8ee534ec786436e05517e369a90c2931",
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "18h00 28/06 Trung Quốc vs Đức (Hội Quán) FHD",
         "logo": "",
         "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "18h00 28/06 Trung Quốc vs Đức (Hội Quán) SD",
         "logo": "",
         "url": "https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "18h00 28/06 Bulgaria vs Ukraine (Hội Quán) FHD",
         "logo": "",
         "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "18h00 28/06 Bulgaria vs Ukraine (Hội Quán) SD",
         "logo": "",
         "url": "https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "18h30 28/06 Iran vs Cuba (Hội Quán) FHD",
         "logo": "",
         "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "18h30 28/06 Iran vs Cuba (Hội Quán) SD",
         "logo": "",
         "url": "https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 28/06 Qingdao Youth Island vs Hangzhou Greentown (Hội Quán) FHD",
-        "logo": "",
-        "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "17h00 28/06 Qingdao Youth Island vs Hangzhou Greentown (Hội Quán) SD",
-        "logo": "",
-        "url": "https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "18h00 28/06 Dalian Zhixing vs Shanghai Shenhua (Hội Quán) FHD",
         "logo": "",
         "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
     },
     {
         "group": "FPT SPORT",
         "title": "18h00 28/06 Dalian Zhixing vs Shanghai Shenhua (Hội Quán) SD",
         "logo": "",
         "url": "https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8",
-        "time": "2026-06-28 11:17:27"
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 28/06 FK Tobol Kostanay vs Altay (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "20h00 28/06 FK Tobol Kostanay vs Altay (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h30 28/06 U18 Đông Nam Á 2026 (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8",
+        "time": "2026-06-28 12:45:34"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "19h30 28/06 U18 Đông Nam Á 2026 (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8",
+        "time": "2026-06-28 12:45:34"
     }
 ]
