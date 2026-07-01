@@ -1,226 +1,513 @@
 [
     {
         "group": "VÒNG CẤM TV",
-        "title": "Hàn Quốc vs Ấn Độ",
-        "logo": "https://static.flashscore.com/res/image/data/zTP55fFG-bL62vc24.png",
-        "url": "https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8",
-        "time": "2026-07-01 06:19:18"
+        "title": "Nhật Bản vs Indonesia",
+        "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/by4OltvtZz7taxuQtkiP3A_96x96.png",
+        "url": "https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8",
+        "time": "2026-07-01 10:25:58"
     },
     {
-        "group": "Phim hay",
-        "title": "Tay Anh Giữ Một Vì Sao",
-        "logo": "https://thegioidienanh.vn/stores/news_dataimages/2025/092025/14/13/in_social/tay-anh-giu-mot-vi-sao-payoff-poster-social-khoi-chieu-0310202520250914134014.jpg",
-        "url": "https://vip.opstream90.com/20260102/21538_3a9ba451/3000k/hls/mixed.m3u8",
-        "time": "2026-07-01 06:19:19"
+        "group": "HỘI QUÁN",
+        "title": "17:00 | Hamilton Olympic vs Charlestown City Blues",
+        "logo": "https://media.api-sports.io/football/teams/10205.png",
+        "url": "https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8",
+        "time": "2026-07-01 17:00:00"
     },
     {
-        "group": "Phim hay",
-        "title": "Mang Mẹ Đi Bỏ",
-        "logo": "https://hnm.1cdn.vn/thumbs/600x315/2025/05/08/mmdb_poster_first-look_2000x2500px.jpg",
-        "url": "https://vip.opstream90.com/20251129/18758_e33bdf72/3000k/hls/mixed.m3u8",
-        "time": "2026-07-01 06:19:19"
-    },
-    {
-        "group": "Phim hay",
-        "title": "Làm Giàu Với Ma Phần 2: Cuộc Chiến Hột Xoàn",
-        "logo": "https://images.fptplay53.net/media/OTT/VOD/2025/12/30/lam-giau-voi-ma-cuoc-chien-hot-xoan-fpt-play-1767066672824_Landscape.jpg",
-        "url": "https://vip.opstream90.com/20260102/21537_fe1af53e/3000k/hls/mixed.m3u8",
-        "time": "2026-07-01 06:19:19"
-    },
-    {
-        "group": "Phim hay",
-        "title": "Mưa Đỏ",
-        "logo": "https://baokhanhhoa.vn/file/e7837c02857c8ca30185a8c39b582c03/112025/1_20251116070652.jpg",
-        "url": "https://vip.opstream90.com/20251118/17952_7bf57028/3000k/hls/mixed.m3u8",
-        "time": "2026-07-01 06:19:19"
+        "group": "CA LA TV",
+        "title": "09:30 | Newcastle Olympic vs Charlestown Azzurri",
+        "logo": "https://img.gvapi.cc/football/team/aa5f7b825709e21a96d40dea9f611882.png!w80",
+        "url": "https://live05.koepgd.app/live/87547578.m3u8",
+        "time": "2026-07-01 09:30:00"
     },
     {
         "group": "Mortal Kombat",
         "title": "Cuộc Chiến Sinh Tử 2",
         "logo": "https://phim.nguonc.com/public/images/Film/f9tWGssOpViDbh6dV6gtLFiCc7i.jpg",
         "url": "https://vip.opstream90.com/20260608/34303_1bc949fb/index.m3u8",
-        "time": "2026-07-01 06:19:19"
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "Phim hay",
+        "title": "Mang Mẹ Đi Bỏ",
+        "logo": "https://hnm.1cdn.vn/thumbs/600x315/2025/05/08/mmdb_poster_first-look_2000x2500px.jpg",
+        "url": "https://vip.opstream90.com/20251129/18758_e33bdf72/3000k/hls/mixed.m3u8",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "Phim hay",
+        "title": "Làm Giàu Với Ma Phần 2: Cuộc Chiến Hột Xoàn",
+        "logo": "https://images.fptplay53.net/media/OTT/VOD/2025/12/30/lam-giau-voi-ma-cuoc-chien-hot-xoan-fpt-play-1767066672824_Landscape.jpg",
+        "url": "https://vip.opstream90.com/20260102/21537_fe1af53e/3000k/hls/mixed.m3u8",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "Phim hay",
+        "title": "Mưa Đỏ",
+        "logo": "https://baokhanhhoa.vn/file/e7837c02857c8ca30185a8c39b582c03/112025/1_20251116070652.jpg",
+        "url": "https://vip.opstream90.com/20251118/17952_7bf57028/3000k/hls/mixed.m3u8",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "Phim hay",
+        "title": "Tay Anh Giữ Một Vì Sao",
+        "logo": "https://thegioidienanh.vn/stores/news_dataimages/2025/092025/14/13/in_social/tay-anh-giu-mot-vi-sao-payoff-poster-social-khoi-chieu-0310202520250914134014.jpg",
+        "url": "https://vip.opstream90.com/20260102/21538_3a9ba451/3000k/hls/mixed.m3u8",
+        "time": "2026-07-01 10:26:00"
     },
     {
         "group": "Phim hay",
         "title": "Út Lan: Oán Linh Giữ Của",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/03/13/ut-lan-oan-linh-giu-cua-fpt-play-1773395168032_Background_origin.jpg",
         "url": "https://vip.opstream90.com/20260213/24963_b4f6926d/3000k/hls/mixed.m3u8",
-        "time": "2026-07-01 06:19:19"
+        "time": "2026-07-01 10:26:00"
     },
     {
         "group": "Phim hay",
         "title": "Nhà Mình Đi Thôi",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/29/nha-minh-di-thoi-fpt-play-1777439633547_Landscape.jpg",
         "url": "https://vip.opstream90.com/20260502/30774_da58e2e4/3000k/hls/mixed.m3u8",
-        "time": "2026-07-01 06:19:19"
+        "time": "2026-07-01 10:26:00"
     },
     {
         "group": "Phim hay",
         "title": "Oshi No Ko Phần 3 - Tập 6",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg",
         "url": "https://vip.opstream90.com/20260219/25424_5534491f/3000k/hls/mixed.m3u8",
-        "time": "2026-07-01 06:19:19"
+        "time": "2026-07-01 10:26:00"
     },
     {
         "group": "Phim hay",
         "title": "Oshi No Ko Phần 3 - Tập 8",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg",
         "url": "https://vip.opstream90.com/20260305/26504_404d52bf/3000k/hls/mixed.m3u8",
-        "time": "2026-07-01 06:19:19"
+        "time": "2026-07-01 10:26:00"
     },
     {
         "group": "Phim hay",
         "title": "Oshi No Ko Phần 3 - Tập 9",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg",
         "url": "https://vip.opstream90.com/20260312/26990_72417e4a/3000k/hls/mixed.m3u8",
-        "time": "2026-07-01 06:19:19"
-    },
-    {
-        "group": "Phim hay",
-        "title": "Thỏ Ơi",
-        "logo": "https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/Th%E1%BB%8F%20%C6%A0i.jpg",
-        "url": "https://v7.kkphimplayer7.com/20260531/mazEQT6f/3500kb/hls/index.m3u8",
-        "time": "2026-07-01 06:19:19"
-    },
-    {
-        "group": "Phim hay",
-        "title": "Cuốc Xe Âm Phủ - Tập 2",
-        "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
-        "url": "https://v7.kkphimplayer7.com/20260503/Lp2p18eb/3500kb/hls/index.m3u8",
-        "time": "2026-07-01 06:19:19"
+        "time": "2026-07-01 10:26:00"
     },
     {
         "group": "Phim hay",
         "title": "Cuốc Xe Âm Phủ - Tập 4",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
         "url": "https://v7.kkphimplayer7.com/20260504/xNE4czZl/3500kb/hls/index.m3u8",
-        "time": "2026-07-01 06:19:19"
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "Phim hay",
+        "title": "Thỏ Ơi",
+        "logo": "https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/Th%E1%BB%8F%20%C6%A0i.jpg",
+        "url": "https://v7.kkphimplayer7.com/20260531/mazEQT6f/3500kb/hls/index.m3u8",
+        "time": "2026-07-01 10:26:00"
     },
     {
         "group": "Phim hay",
         "title": "Cuốc Xe Âm Phủ - Tập 1",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
         "url": "https://v7.kkphimplayer7.com/20260502/89qXv3Fa/3500kb/hls/index.m3u8",
-        "time": "2026-07-01 06:19:19"
+        "time": "2026-07-01 10:26:00"
     },
     {
         "group": "Phim hay",
         "title": "Cuốc Xe Âm Phủ - Tập Cuối",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
         "url": "https://v7.kkphimplayer7.com/20260505/6REaXK8f/3500kb/hls/index.m3u8",
-        "time": "2026-07-01 06:19:19"
-    },
-    {
-        "group": "Phim hay",
-        "title": "Cuốc Xe Âm Phủ - Tập 3",
-        "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
-        "url": "https://v7.kkphimplayer7.com/20260504/9JB48ezG/3500kb/hls/index.m3u8",
-        "time": "2026-07-01 06:19:19"
+        "time": "2026-07-01 10:26:00"
     },
     {
         "group": "Phim hay",
         "title": "Nhà Hai Chủ",
         "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/29/nha-hai-chu-fpt-play-1777448554178_Landscape.jpg",
         "url": "https://v7.kkphimplayer7.com/20260505/YnFXHB6A/3500kb/hls/index.m3u8",
-        "time": "2026-07-01 06:19:19"
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "Phim hay",
+        "title": "Cuốc Xe Âm Phủ - Tập 3",
+        "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
+        "url": "https://v7.kkphimplayer7.com/20260504/9JB48ezG/3500kb/hls/index.m3u8",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "Phim hay",
+        "title": "Cuốc Xe Âm Phủ - Tập 2",
+        "logo": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
+        "url": "https://v7.kkphimplayer7.com/20260503/Lp2p18eb/3500kb/hls/index.m3u8",
+        "time": "2026-07-01 10:26:00"
     },
     {
         "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - France vs Sweden [Sóc đau cổ vai gáy] (Socolive) hdM3u8",
+        "title": "16h30 ngày 01/07 Newcastle Olympic vs Charleston City Blues (Lương Sơn) BLV LƯU BỊ m3u",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1782889882-0-0-3089b6f9dddb3faa3ab7049b8d3b1b7c",
-        "time": "2026-07-01 06:19:19"
+        "url": "https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 01/07 Seoul Amazones (W) vs Suwon FMC (W) (Lương Sơn) BLV SHIN m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "16h30 ngày 01/07 Newcastle Olympic vs Charleston City Blues (Lương Sơn) BLV KEVILL m3u",
+        "logo": "",
+        "url": "https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 01/07 Gangjin Swans Women vs Mungyeong Sangmu WFC [QUỐC KHÁNH] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=81b195b07534e33e3d0df312329a3165&txTime=6a453c2b",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 01/07 Gangjin Swans Women vs Mungyeong Sangmu WFC [QUỐC KHÁNH] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=d729e4f41c497f74f30118c857ac802b&txTime=6a453c2b",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 01/07 Newcastle Olympic vs Charleston City Blues [XUÂN SON] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=10576e7dcf4791a4ea566add313e1198&txTime=6a453d93",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 01/07 Newcastle Olympic vs Charleston City Blues [XUÂN SON] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=d3b1b4aa9dd5d8468db3ddfcf4fb548a&txTime=6a453d93",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 01/07 Seoul Amazones Women vs Suwon FC Women [NGƯỜI CÁ] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1782904643-0-0-82b7a150c7d829e4fa95528500079ed6",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 01/07 Newcastle Olympic vs Charleston City Blues [VINFAST] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-617313_lsd.m3u8?auth_key=1782904643-0-0-0730a81043bbb00bdb4e20858c92e25e",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 01/07 Newcastle Olympic vs Charleston City Blues [BLV PEWPEW] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1782904643-0-0-d6b36d3b9773b4ae555d5a001b125c80",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 01/07 Seoul Amazones Women vs Suwon FC Women [NGƯỜI CÁ] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1782904643-0-0-6df1ab997fad5746884bacd7d002561e",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "MPBL: Negros Hacienderos vs Sarangani Marlins [KING] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1782904643-0-0-7e5b0f3e26c3d499be28796629b94baf",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 01/07 Gangjin Swans Women vs Mungyeong Sangmu WFC [BLV 24H] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1782904643-0-0-9202a0f6ea7c0a6ea39692b26f708ea6",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 01/07 Gangjin Swans Women vs Mungyeong Sangmu WFC [BLV COZY] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1782904643-0-0-0ba2a84157ddb9f05b08bcb136e94e65",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 01/07 Gangjin Swans Women vs Mungyeong Sangmu WFC [BLV COZY] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1782904643-0-0-d8d7bd9186bc31064e0001823023ca47",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 01/07 Newcastle Olympic vs Charleston City Blues [CHÍ PHÈO] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1782904643-0-0-c9acb701812c9297956f1a353a98213d",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 01/07 Newcastle Olympic vs Charleston City Blues [CHÍ PHÈO] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1782904643-0-0-602e86b7eba57c4c07119bc3921eb216",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 01/07 Khovd Broncos vs Bishrelt Khoromkhon [LOGAN] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1782904283-0-0-97c62f18efcf133acb5e6113232fea84",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 01/07 Newcastle Olympic vs Charleston City Blues [TRÀ ĐÁ] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1782904643-0-0-ab2f96a32cca20b27bf5e4598f552a0b",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "AUS NNSW  Newcastle Olympic vs Charleston City Blues [HẢI THANH] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1782904643-0-0-e1e055a41e65b76d1d513ca0225ec46a",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "AUS NNSW  Newcastle Olympic vs Charleston City Blues [HẢI THANH] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1782904643-0-0-9e094c5185e41d05ab8905da171e1424",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "MPBL: Negros Hacienderos vs Sarangani Marlins [BLV HENRY] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1782904643-0-0-4d4a1e81eba0c8f7d6c8dd3c789ff92a",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 01/07 Newcastle Olympic vs Charleston City Blues [BLV PEWPEW] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1782904643-0-0-a54eb2f18bf60f8527e60dd35c4229b2",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 01/07 Newcastle Olympic vs Charleston City Blues [VINFAST] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1782904643-0-0-76bd58c8675a9e6f46df42ce22ce5a3a",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "MPBL: Negros Hacienderos vs Sarangani Marlins [BLV HENRY] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1782904643-0-0-843dc936a802d9467a2e703487086d58",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 01/07 Khovd Broncos vs Bishrelt Khoromkhon [LOGAN] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1782904283-0-0-87a8c853bfe0f0c05f403005038b4730",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 01/07 Gangjin Swans Women vs Mungyeong Sangmu WFC [BLV 24H] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-612928_lsd.m3u8?auth_key=1782904643-0-0-a87e00af2fa8965909bca30d1c649e80",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 01/07 Newcastle Olympic vs Charleston City Blues [TRÀ ĐÁ] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1782904643-0-0-e623b94a98b2a0b91333db72441c4912",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "MPBL : Negros Hacienderos vs Sarangani Marlins [A CHÈ] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1782904643-0-0-3e009c9d538a1e776ef61557fc4e6853",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "MPBL: Negros Hacienderos vs Sarangani Marlins [KING] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1782904643-0-0-30f0a6f1f53a4d9b5bd0cc9efac130c6",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "MPBL : Negros Hacienderos vs Sarangani Marlins [A CHÈ] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1782904643-0-0-6419cb45413c28fe0060a19d86359ff6",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 01/07 Seoul Amazones Women vs Suwon FC Women [BLV ROBBEN] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1782905003-0-0-ac8b9dec4289892495145b492ca62d25",
+        "time": "2026-07-01 10:26:00"
     },
     {
         "group": "FPT SPORT",
         "title": "Tường thuật: WORLD CUP - Cote d'Ivoire vs Norway [Sóc nhàm nhang nhồ] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1782889882-0-0-11e89a4e9844bbf6a70679ce57a5ff27",
-        "time": "2026-07-01 06:19:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - Mexico vs Ecuador [Sóc trong rừng xà nu] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1782889163-0-0-6e3dfc06841551b5f81227e349ad7b8d",
-        "time": "2026-07-01 06:19:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - Brazil vs Japan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782889882-0-0-1cd2b74e3a3f67e0bab0c5879beae6eb",
-        "time": "2026-07-01 06:19:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - France vs Sweden [Sóc đau cổ vai gáy] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782889882-0-0-912b81fff75c284a8c2aabae042cffcf",
-        "time": "2026-07-01 06:19:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - Mexico vs Ecuador [Sóc trong rừng xà nu] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782889163-0-0-5baee6004c53d568585cc37aad5d892a",
-        "time": "2026-07-01 06:19:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - Germany vs Paraguay [Sóc mèo méo meo] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1782889882-0-0-4cbae786cf9ea2b411fa02391697c662",
-        "time": "2026-07-01 06:19:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - Netherlands vs Morocco [Sóc trèo cây ngô đồng] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782889882-0-0-e6f30d9c52c921077d4fde0fe42c8706",
-        "time": "2026-07-01 06:19:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - Netherlands vs Morocco [Sóc trèo cây ngô đồng] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1782889882-0-0-945cb64bd07a679da4256894b84abc5d",
-        "time": "2026-07-01 06:19:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - Brazil vs Japan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1782889882-0-0-abb0a6aea1c6205e72d03085016e8ae9",
-        "time": "2026-07-01 06:19:19"
-    },
-    {
-        "group": "FPT SPORT",
-        "title": "Tường thuật: WORLD CUP - Germany vs Paraguay [Sóc mèo méo meo] (Socolive) m3u8",
-        "logo": "",
-        "url": "https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782889882-0-0-9d6e83aa9595347dcfbea4a71795a1a8",
-        "time": "2026-07-01 06:19:19"
+        "url": "https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1782904643-0-0-3de823bec4d26e6c2094ddfd199f835e",
+        "time": "2026-07-01 10:26:00"
     },
     {
         "group": "FPT SPORT",
         "title": "Tường thuật: WORLD CUP - Cote d'Ivoire vs Norway [Sóc nhàm nhang nhồ] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782889882-0-0-f1d9898f7d1f76cf7cf4127f6b61655b",
-        "time": "2026-07-01 06:19:19"
+        "url": "https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782904643-0-0-ae3b3de2799dff467ec98d483a52fcc2",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 01/07 Seoul Amazones Women vs Suwon FC Women [QUÂN JK] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1782905003-0-0-a436347ed1dcc28bcd473a36a3455fd1",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - Netherlands vs Morocco [Sóc trèo cây ngô đồng] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1782904643-0-0-26d8381da1091ddfd87a30f7638c1717",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 01/07 Seoul Amazones Women vs Suwon FC Women [BLV ROBBEN] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1782905003-0-0-660be3d98ae3f0454a4be5a099871391",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 01/07 Hamilton Olympic vs Charlestown City Blues (Hội Quán) FHD",
+        "logo": "",
+        "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 ngày 01/07 Seoul Amazones Women vs Suwon FC Women [QUÂN JK] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1782905003-0-0-86f435c84a9d7ff72ecce8bbe4d599df",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - Brazil vs Japan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782904643-0-0-88d7bdeb486d565b7ae214c7e9d4bca1",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - Germany vs Paraguay [Sóc mèo méo meo] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782904643-0-0-c5ce1c745206117e8e3dbf6ab983e84d",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 01/07 Khovd Broncos vs Bishrelt Khoromkhon [BLV ALEX] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1782905003-0-0-dcbef62b73e79064b67b011d77307e3d",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - Germany vs Paraguay [Sóc mèo méo meo] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1782904643-0-0-038569f027b692a22ae8fd73f0d7d825",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "17h00 01/07 Hamilton Olympic vs Charlestown City Blues (Hội Quán) SD",
+        "logo": "",
+        "url": "https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8",
+        "time": "2026-07-01 10:26:00"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782889162-0-0-4e35e4e246fc89f74901137ea4819d8b",
-        "time": "2026-07-01 06:19:19"
+        "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782904643-0-0-b397ad4ba2376cdfd8d6f1fd96503db0",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "18h00 ngày 01/07 Khovd Broncos vs Bishrelt Khoromkhon [BLV ALEX] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1782905003-0-0-2de44d3eccbb9cf39b28727c0d508d7e",
+        "time": "2026-07-01 10:26:00"
     },
     {
         "group": "FPT SPORT",
         "title": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
         "logo": "",
-        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782889162-0-0-b44bf786e4918995685e326146f9f39e",
-        "time": "2026-07-01 06:19:19"
+        "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782904643-0-0-432dd03af4d272660cc2b60324070c91",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - France vs Sweden [Sóc đau cổ vai gáy] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782904643-0-0-c35771785a756ea0d2c3d120753f4a1b",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - France vs Sweden [Sóc đau cổ vai gáy] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1782904643-0-0-2697059b5a47375b4d60053a02dffa9f",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - Brazil vs Japan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1782904643-0-0-7392cd6b0c7018f385d186e7148af7bc",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - Netherlands vs Morocco [Sóc trèo cây ngô đồng] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782904643-0-0-6a82add2c436980c60bf1dde3c6c6565",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - Mexico vs Ecuador [Sóc trong rừng xà nu] (Socolive) m3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782904643-0-0-341274a78becc1527e49b1a0b88724ef",
+        "time": "2026-07-01 10:26:00"
+    },
+    {
+        "group": "FPT SPORT",
+        "title": "Tường thuật: WORLD CUP - Mexico vs Ecuador [Sóc trong rừng xà nu] (Socolive) hdM3u8",
+        "logo": "",
+        "url": "https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1782904643-0-0-88b6fa8eac99e98b5a4d2f2d1b0af69b",
+        "time": "2026-07-01 10:26:00"
     }
 ]
