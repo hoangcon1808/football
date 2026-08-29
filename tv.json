@@ -1,13 +1,6 @@
 [
     {
         "group": "CA LA TV",
-        "title": "18:45 | Juventus F.C. vs CLB Parma",
-        "logo": "https://img.gvapi.cc/football/team/dc0e43b95c6676c54415bac168472aa4.png!w80",
-        "url": "https://live05.meung.app/live/78905744.m3u8",
-        "time": "2026-08-29 18:45:00"
-    },
-    {
-        "group": "CA LA TV",
         "title": "18:30 | Nurnberg vs CLB Bielefeld",
         "logo": "https://img.gvapi.cc/football/team/895a263ae5237d0edbaf850a907a59b0.png!w80",
         "url": "https://live05.meung.app/live/99121525.m3u8",
@@ -15,9 +8,23 @@
     },
     {
         "group": "CA LA TV",
+        "title": "18:45 | Juventus F.C. vs CLB Parma",
+        "logo": "https://img.gvapi.cc/football/team/dc0e43b95c6676c54415bac168472aa4.png!w80",
+        "url": "https://live05.meung.app/live/78905744.m3u8",
+        "time": "2026-08-29 18:45:00"
+    },
+    {
+        "group": "CA LA TV",
         "title": "18:45 | Olympique Lyonnais vs Le Havre",
         "logo": "https://img.gvapi.cc/football/team/92fb3cf79ea2ba919b94b04668e13491.png!w80",
         "url": "https://live05.meung.app/live/75915087.m3u8",
+        "time": "2026-08-29 18:45:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "18:45 | AJ Auxerre vs Angers SCO",
+        "logo": "https://img.gvapi.cc/football/team/8c03e57af9e8bec20a3ed2f5aaddf78b.png!w80",
+        "url": "https://live05.meung.app/live/59444581.m3u8",
         "time": "2026-08-29 18:45:00"
     },
     {
@@ -36,30 +43,16 @@
     },
     {
         "group": "CA LA TV",
-        "title": "19:00 | PEC Zwolle vs CLB NEC Nijmegen",
-        "logo": "https://img.gvapi.cc/football/team/4e806cd5495e72600ef1123c1c138aa0.png!w80",
-        "url": "https://live05.meung.app/live/41943555.m3u8",
-        "time": "2026-08-29 19:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "17:00 | CLB Viseu vs Porto",
-        "logo": "https://img.gvapi.cc/football/team/bd659fbcfc82ac233cc8e329f35f2b50.png!w80",
-        "url": "https://live05.meung.app/live/16226575.m3u8",
-        "time": "2026-08-29 17:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "18:45 | AJ Auxerre vs Angers SCO",
-        "logo": "https://img.gvapi.cc/football/team/8c03e57af9e8bec20a3ed2f5aaddf78b.png!w80",
-        "url": "https://live05.meung.app/live/59444581.m3u8",
-        "time": "2026-08-29 18:45:00"
-    },
-    {
-        "group": "CA LA TV",
         "title": "19:30 | Sevilla FC vs Atlético Madrid",
         "logo": "https://img.gvapi.cc/football/team/d20ed1da4f299cc3ef0e1e9eb06eced1.png!w80",
         "url": "https://live05.meung.app/live/90865415.m3u8",
         "time": "2026-08-29 19:30:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "19:00 | PEC Zwolle vs CLB NEC Nijmegen",
+        "logo": "https://img.gvapi.cc/football/team/4e806cd5495e72600ef1123c1c138aa0.png!w80",
+        "url": "https://live05.meung.app/live/41943555.m3u8",
+        "time": "2026-08-29 19:00:00"
     }
 ]
