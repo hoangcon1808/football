@@ -1,31 +1,10 @@
 [
     {
         "group": "CA LA TV",
-        "title": "16:30 | U.S. Lecce vs A.S. Roma",
-        "logo": "https://img.gvapi.cc/football/team/777d0840066313da8c0f85977e9178be.png!w80",
-        "url": "https://live05.meung.app/live/33982309.m3u8",
-        "time": "2026-08-31 16:30:00"
-    },
-    {
-        "group": "CA LA TV",
         "title": "19:30 | FC Barcelona vs Rayo Vallecano",
         "logo": "https://img.gvapi.cc/football/team/f378eb1ea04e53999b89051aa3244de6.png!w80",
         "url": "https://live05.meung.app/live/78905744.m3u8",
         "time": "2026-08-31 19:30:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "17:00 | FC Copenhagen vs Sonderjyske",
-        "logo": "https://img.gvapi.cc/football/team/629b6f983d0ca3c33f2c4b50b3449314.png!w80",
-        "url": "https://live05.meung.app/live/16226575.m3u8",
-        "time": "2026-08-31 17:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "15:00 | Gagra vs Saburtalo Tbilisi",
-        "logo": "https://img.gvapi.cc/football/team/e450729cae3ba8210e9a08134b9258a1.png!w80",
-        "url": "https://live05.meung.app/live/49572724.m3u8",
-        "time": "2026-08-31 15:00:00"
     },
     {
         "group": "CA LA TV",
@@ -50,9 +29,30 @@
     },
     {
         "group": "CA LA TV",
+        "title": "17:00 | FC Copenhagen vs Sonderjyske",
+        "logo": "https://img.gvapi.cc/football/team/629b6f983d0ca3c33f2c4b50b3449314.png!w80",
+        "url": "https://live05.meung.app/live/16226575.m3u8",
+        "time": "2026-08-31 17:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "17:30 | Ý vs Serbia",
+        "logo": "https://img.gvapi.cc/basketball/team/08bfffbb80cd7dca9fca43d93584a87d.png!w80",
+        "url": "https://live05.meung.app/live/87379114.m3u8",
+        "time": "2026-08-31 17:30:00"
+    },
+    {
+        "group": "CA LA TV",
         "title": "16:00 | Inter Turku vs KuPs",
         "logo": "https://img.gvapi.cc/football/team/f26fb30a9c60dd634d8b2f36afe0e8f1.png!w80",
         "url": "https://live05.meung.app/live/75915087.m3u8",
         "time": "2026-08-31 16:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "16:30 | U.S. Lecce vs A.S. Roma",
+        "logo": "https://img.gvapi.cc/football/team/777d0840066313da8c0f85977e9178be.png!w80",
+        "url": "https://live05.meung.app/live/33982309.m3u8",
+        "time": "2026-08-31 16:30:00"
     }
 ]
