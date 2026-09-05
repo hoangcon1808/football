@@ -1,13 +1,6 @@
 [
     {
         "group": "CA LA TV",
-        "title": "19:00 | CLB Swansea City vs CLB Wrexham",
-        "logo": "https://img.gvapi.cc/football/team/54d8cca610fda7b60925116c3b2aacdb.png!w80",
-        "url": "https://live05.meung.app/live/97885009.m3u8",
-        "time": "2026-09-05 19:00:00"
-    },
-    {
-        "group": "CA LA TV",
         "title": "23:30 | Inter Miami vs Atlanta Utd",
         "logo": "https://img.gvapi.cc/football/team/976fe1d29c112f4baeb844cdda2f04cb.png!w80",
         "url": "https://live05.meung.app/live/87379114.m3u8",
@@ -22,6 +15,13 @@
     },
     {
         "group": "CA LA TV",
+        "title": "16:30 | CLB Hull City vs Aston Villa",
+        "logo": "https://img.gvapi.cc/football/team/262691204102d2200797f0ac34efb316.png!w80",
+        "url": "https://live05.meung.app/live/08552895.m3u8",
+        "time": "2026-09-05 16:30:00"
+    },
+    {
+        "group": "CA LA TV",
         "title": "15:15 | RC Lens vs FC Lorient",
         "logo": "https://img.gvapi.cc/football/team/b8c5038ebb0e21b09a72008b7cb6219f.png!w80",
         "url": "https://live05.meung.app/live/16226575.m3u8",
@@ -29,10 +29,10 @@
     },
     {
         "group": "CA LA TV",
-        "title": "16:30 | CLB Hull City vs Aston Villa",
-        "logo": "https://img.gvapi.cc/football/team/262691204102d2200797f0ac34efb316.png!w80",
-        "url": "https://live05.meung.app/live/08552895.m3u8",
-        "time": "2026-09-05 16:30:00"
+        "title": "19:00 | CLB Swansea City vs CLB Wrexham",
+        "logo": "https://img.gvapi.cc/football/team/54d8cca610fda7b60925116c3b2aacdb.png!w80",
+        "url": "https://live05.meung.app/live/97885009.m3u8",
+        "time": "2026-09-05 19:00:00"
     },
     {
         "group": "CA LA TV",
@@ -43,13 +43,6 @@
     },
     {
         "group": "CA LA TV",
-        "title": "16:30 | Rayo Vallecano vs CLB Racing Santander",
-        "logo": "https://img.gvapi.cc/football/team/5005d8feab109ce64e40beb98073cc1f.png!w80",
-        "url": "https://live05.meung.app/live/99121525.m3u8",
-        "time": "2026-09-05 16:30:00"
-    },
-    {
-        "group": "CA LA TV",
         "title": "00:15 | CLB Velez Sarsfield vs CLB Estudiantes La Plata",
         "logo": "https://img.gvapi.cc/football/team/2e02d3f27830c7f3642e6592e6b922dd.png!w80",
         "url": "https://live05.meung.app/live/33982309.m3u8",
@@ -57,9 +50,23 @@
     },
     {
         "group": "CA LA TV",
+        "title": "16:30 | Rayo Vallecano vs CLB Racing Santander",
+        "logo": "https://img.gvapi.cc/football/team/5005d8feab109ce64e40beb98073cc1f.png!w80",
+        "url": "https://live05.meung.app/live/99121525.m3u8",
+        "time": "2026-09-05 16:30:00"
+    },
+    {
+        "group": "CA LA TV",
         "title": "23:30 | CLB Toronto vs CLB Chicago Fire",
         "logo": "https://img.gvapi.cc/football/team/a6f6290d4b7699729dc19349484841bf.png!w80",
         "url": "https://live05.meung.app/live/78905744.m3u8",
         "time": "2026-09-05 23:30:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "17:00 | Alverca vs Braga",
+        "logo": "https://img.gvapi.cc/football/team/ff35a6067c000b629b84e648d8a2d2de.png!w80",
+        "url": "https://live05.meung.app/live/82054853.m3u8",
+        "time": "2026-09-05 17:00:00"
     }
 ]
