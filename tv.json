@@ -1,31 +1,17 @@
 [
     {
         "group": "CA LA TV",
+        "title": "14:00 | Nottingham Forest vs Tottenham Hotspur",
+        "logo": "https://img.gvapi.cc/football/team/62572999d107f777efa4aeb907443527.png!w80",
+        "url": "https://live05.meung.app/live/33982309.m3u8",
+        "time": "2026-09-05 14:00:00"
+    },
+    {
+        "group": "CA LA TV",
         "title": "12:15 | Cong An Ha Noi FC vs Hồng Lĩnh Hà Tĩnh",
         "logo": "https://img.gvapi.cc/football/team/f3dde7370cf875e4e657b4331b1b4a31.png!w80",
         "url": "https://live05.meung.app/live/18812304.m3u8",
         "time": "2026-09-05 12:15:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "13:30 | SV Werder Bremen vs RB Leipzig",
-        "logo": "https://img.gvapi.cc/football/team/82e3b03a1df3d7ae3d38e9fdd24fe622.png!w80",
-        "url": "https://live05.meung.app/live/75915087.m3u8",
-        "time": "2026-09-05 13:30:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "00:00 | Fluminense RJ vs Vasco",
-        "logo": "https://img.gvapi.cc/football/team/a6bce9adfac7903426bed2b253991a18.png!w80",
-        "url": "https://live05.meung.app/live/08552895.m3u8",
-        "time": "2026-09-06 00:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "13:30 | TSG 1899 Hoffenheim vs Borussia Dortmund",
-        "logo": "https://img.gvapi.cc/football/team/72ab7862a610b350aef7650ec0e06e06.png!w80",
-        "url": "https://live05.meung.app/live/07808742.m3u8",
-        "time": "2026-09-05 13:30:00"
     },
     {
         "group": "CA LA TV",
@@ -36,24 +22,31 @@
     },
     {
         "group": "CA LA TV",
-        "title": "14:00 | Nottingham Forest vs Tottenham Hotspur",
-        "logo": "https://img.gvapi.cc/football/team/62572999d107f777efa4aeb907443527.png!w80",
-        "url": "https://live05.meung.app/live/33982309.m3u8",
-        "time": "2026-09-05 14:00:00"
+        "title": "18:00 | AFC Ajax vs PSV Eindhoven",
+        "logo": "https://img.gvapi.cc/football/team/187929503752357480bce47813a9741f.png!w80",
+        "url": "https://live05.meung.app/live/41943555.m3u8",
+        "time": "2026-09-05 18:00:00"
     },
     {
         "group": "CA LA TV",
-        "title": "12:00 | Shandong Taishan vs Shenzhen Peng City",
-        "logo": "https://img.gvapi.cc/football/team/85c080cf02a7161687ddd5b5800dc303.png!w80",
-        "url": "https://live05.meung.app/live/99121525.m3u8",
-        "time": "2026-09-05 12:00:00"
+        "title": "17:00 | Alverca vs Braga",
+        "logo": "https://img.gvapi.cc/football/team/ff35a6067c000b629b84e648d8a2d2de.png!w80",
+        "url": "https://live05.meung.app/live/82054853.m3u8",
+        "time": "2026-09-05 17:00:00"
     },
     {
         "group": "CA LA TV",
-        "title": "13:00 | ACF Fiorentina vs Torino F.C.",
-        "logo": "https://img.gvapi.cc/football/team/858d87ded0cce014bae0c9681af48524.png!w80",
-        "url": "https://live05.meung.app/live/07428422.m3u8",
-        "time": "2026-09-05 13:00:00"
+        "title": "00:00 | Fluminense RJ vs Vasco",
+        "logo": "https://img.gvapi.cc/football/team/a6bce9adfac7903426bed2b253991a18.png!w80",
+        "url": "https://live05.meung.app/live/08552895.m3u8",
+        "time": "2026-09-06 00:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "13:30 | SV Werder Bremen vs RB Leipzig",
+        "logo": "https://img.gvapi.cc/football/team/82e3b03a1df3d7ae3d38e9fdd24fe622.png!w80",
+        "url": "https://live05.meung.app/live/75915087.m3u8",
+        "time": "2026-09-05 13:30:00"
     },
     {
         "group": "CA LA TV",
@@ -71,6 +64,13 @@
     },
     {
         "group": "CA LA TV",
+        "title": "18:00 | Al-Ittihad FC vs Al-Nassr",
+        "logo": "https://img.gvapi.cc/football/team/dea986d20115216c05d1a45ba9a6162e.png!w80",
+        "url": "https://live05.meung.app/live/14830711.m3u8",
+        "time": "2026-09-05 18:00:00"
+    },
+    {
+        "group": "CA LA TV",
         "title": "14:00 | Brighton & Hove Albion FC vs CLB Leeds United",
         "logo": "https://img.gvapi.cc/football/team/9b43a690d5a09f1e319f036821e8e1d3.png!w80",
         "url": "https://live05.meung.app/live/02456966.m3u8",
@@ -78,17 +78,10 @@
     },
     {
         "group": "CA LA TV",
-        "title": "17:00 | Alverca vs Braga",
-        "logo": "https://img.gvapi.cc/football/team/ff35a6067c000b629b84e648d8a2d2de.png!w80",
-        "url": "https://live05.meung.app/live/82054853.m3u8",
-        "time": "2026-09-05 17:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "18:00 | AFC Ajax vs PSV Eindhoven",
-        "logo": "https://img.gvapi.cc/football/team/187929503752357480bce47813a9741f.png!w80",
-        "url": "https://live05.meung.app/live/41943555.m3u8",
-        "time": "2026-09-05 18:00:00"
+        "title": "13:30 | TSG 1899 Hoffenheim vs Borussia Dortmund",
+        "logo": "https://img.gvapi.cc/football/team/72ab7862a610b350aef7650ec0e06e06.png!w80",
+        "url": "https://live05.meung.app/live/07808742.m3u8",
+        "time": "2026-09-05 13:30:00"
     },
     {
         "group": "CA LA TV",
@@ -99,6 +92,27 @@
     },
     {
         "group": "CA LA TV",
+        "title": "14:00 | Fulham vs Crystal Palace",
+        "logo": "https://img.gvapi.cc/football/team/29982511f1ea861967c3e6478d6a8a68.png!w80",
+        "url": "https://live05.meung.app/live/90865415.m3u8",
+        "time": "2026-09-05 14:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "19:00 | CLB Swansea City vs CLB Wrexham",
+        "logo": "https://img.gvapi.cc/football/team/54d8cca610fda7b60925116c3b2aacdb.png!w80",
+        "url": "https://live05.meung.app/live/97885009.m3u8",
+        "time": "2026-09-05 19:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "13:00 | ACF Fiorentina vs Torino F.C.",
+        "logo": "https://img.gvapi.cc/football/team/858d87ded0cce014bae0c9681af48524.png!w80",
+        "url": "https://live05.meung.app/live/07428422.m3u8",
+        "time": "2026-09-05 13:00:00"
+    },
+    {
+        "group": "CA LA TV",
         "title": "14:00 | Brentford vs Sunderland",
         "logo": "https://img.gvapi.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80",
         "url": "https://live05.meung.app/live/75748097.m3u8",
@@ -106,17 +120,10 @@
     },
     {
         "group": "CA LA TV",
-        "title": "18:00 | Al-Ittihad FC vs Al-Nassr",
-        "logo": "https://img.gvapi.cc/football/team/dea986d20115216c05d1a45ba9a6162e.png!w80",
-        "url": "https://live05.meung.app/live/14830711.m3u8",
-        "time": "2026-09-05 18:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "14:00 | Fulham vs Crystal Palace",
-        "logo": "https://img.gvapi.cc/football/team/29982511f1ea861967c3e6478d6a8a68.png!w80",
-        "url": "https://live05.meung.app/live/90865415.m3u8",
-        "time": "2026-09-05 14:00:00"
+        "title": "23:30 | Inter Miami vs Atlanta Utd",
+        "logo": "https://img.gvapi.cc/football/team/976fe1d29c112f4baeb844cdda2f04cb.png!w80",
+        "url": "https://live05.meung.app/live/87379114.m3u8",
+        "time": "2026-09-05 23:30:00"
     },
     {
         "group": "CA LA TV",
