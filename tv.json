@@ -1,10 +1,17 @@
 [
     {
         "group": "CA LA TV",
-        "title": "23:30 | Inter Miami vs Atlanta Utd",
+        "title": "23:00 | Atletico San Luis vs Chivas Guadalajara",
+        "logo": "https://img.gvapi.cc/football/team/f6c489e1e71d37e301b30df37a43b8a4.png!w80",
+        "url": "https://live05.meung.app/live/75748097.m3u8",
+        "time": "2026-09-05 23:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "01:05 | Inter Miami vs Atlanta Utd",
         "logo": "https://img.gvapi.cc/football/team/976fe1d29c112f4baeb844cdda2f04cb.png!w80",
         "url": "https://live05.meung.app/live/87379114.m3u8",
-        "time": "2026-09-05 23:30:00"
+        "time": "2026-09-06 01:05:00"
     },
     {
         "group": "CA LA TV",
@@ -15,27 +22,6 @@
     },
     {
         "group": "CA LA TV",
-        "title": "00:15 | CLB Velez Sarsfield vs CLB Estudiantes La Plata",
-        "logo": "https://img.gvapi.cc/football/team/2e02d3f27830c7f3642e6592e6b922dd.png!w80",
-        "url": "https://live05.meung.app/live/33982309.m3u8",
-        "time": "2026-09-06 00:15:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "23:00 | Atletico San Luis vs Chivas Guadalajara",
-        "logo": "https://img.gvapi.cc/football/team/f6c489e1e71d37e301b30df37a43b8a4.png!w80",
-        "url": "https://live05.meung.app/live/75748097.m3u8",
-        "time": "2026-09-05 23:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "01:00 | Tigres vs Necaxa",
-        "logo": "https://img.gvapi.cc/football/team/a7df6424c12ac9b7a6e5ca3ff953d5b3.png!w80",
-        "url": "https://live05.meung.app/live/14830711.m3u8",
-        "time": "2026-09-06 01:00:00"
-    },
-    {
-        "group": "CA LA TV",
         "title": "23:40 | CLB Toronto vs CLB Chicago Fire",
         "logo": "https://img.gvapi.cc/football/team/a6f6290d4b7699729dc19349484841bf.png!w80",
         "url": "https://live05.meung.app/live/78905744.m3u8",
@@ -43,16 +29,30 @@
     },
     {
         "group": "CA LA TV",
-        "title": "00:30 | Austin FC vs San Jose Earthquakes",
-        "logo": "https://img.gvapi.cc/football/team/90c95cd154f9b016cbf26854770b8401.png!w80",
-        "url": "https://live05.meung.app/live/87547578.m3u8",
-        "time": "2026-09-06 00:30:00"
-    },
-    {
-        "group": "CA LA TV",
         "title": "00:00 | Fluminense RJ vs Vasco",
         "logo": "https://img.gvapi.cc/football/team/a6bce9adfac7903426bed2b253991a18.png!w80",
         "url": "https://live05.meung.app/live/08552895.m3u8",
         "time": "2026-09-06 00:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "00:40 | Austin FC vs San Jose Earthquakes",
+        "logo": "https://img.gvapi.cc/football/team/90c95cd154f9b016cbf26854770b8401.png!w80",
+        "url": "https://live05.meung.app/live/87547578.m3u8",
+        "time": "2026-09-06 00:40:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "00:15 | CLB Velez Sarsfield vs CLB Estudiantes La Plata",
+        "logo": "https://img.gvapi.cc/football/team/2e02d3f27830c7f3642e6592e6b922dd.png!w80",
+        "url": "https://live05.meung.app/live/33982309.m3u8",
+        "time": "2026-09-06 00:15:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "01:00 | Tigres vs Necaxa",
+        "logo": "https://img.gvapi.cc/football/team/a7df6424c12ac9b7a6e5ca3ff953d5b3.png!w80",
+        "url": "https://live05.meung.app/live/14830711.m3u8",
+        "time": "2026-09-06 01:00:00"
     }
 ]
