@@ -1,13 +1,6 @@
 [
     {
         "group": "CA LA TV",
-        "title": "22:30 | Cleveland Cavaliers vs Orlando Magic",
-        "logo": "https://img.gvapi.cc/basketball/team/57c938e35ceb2ee92562a09c4165fb47.png!w80",
-        "url": "https://live05.zhwpg.app/live/19919577_tsc.m3u8",
-        "time": "2026-10-11 22:30:00"
-    },
-    {
-        "group": "CA LA TV",
         "title": "22:30 | Bahia vs CLB Mirassol",
         "logo": "https://img.gvapi.cc/football/team/20456802ad5f8243dc282c4650c414e1.png!w80",
         "url": "https://live05.zhwpg.app/live/99121525_tsc.m3u8",
@@ -22,23 +15,30 @@
     },
     {
         "group": "CA LA TV",
-        "title": "23:00 | Charlotte Hornets vs Milwaukee Bucks",
-        "logo": "https://img.gvapi.cc/basketball/team/e52f6ac53681289c91703501a960cb3c.png!w80",
-        "url": "https://live05.zhwpg.app/live/82054853_tsc.m3u8",
-        "time": "2026-10-11 23:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "23:00 | Thành phố St. Louis SC vs CLB LA Galaxy",
-        "logo": "https://img.gvapi.cc/football/team/8adf954bc3f72a6287b83d3b946b7d0b.png!w80",
-        "url": "https://live05.zhwpg.app/live/87547578_tsc.m3u8",
-        "time": "2026-10-11 23:00:00"
-    },
-    {
-        "group": "CA LA TV",
         "title": "23:00 | Atletico San Luis vs Santos Laguna",
         "logo": "https://img.gvapi.cc/football/team/f6c489e1e71d37e301b30df37a43b8a4.png!w80",
         "url": "https://live05.zhwpg.app/live/18812304_tsc.m3u8",
+        "time": "2026-10-11 23:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "23:10 | Thành phố St. Louis SC vs CLB LA Galaxy",
+        "logo": "https://img.gvapi.cc/football/team/8adf954bc3f72a6287b83d3b946b7d0b.png!w80",
+        "url": "https://live05.zhwpg.app/live/87547578_tsc.m3u8",
+        "time": "2026-10-11 23:10:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "22:30 | Cleveland Cavaliers vs Orlando Magic",
+        "logo": "https://img.gvapi.cc/basketball/team/57c938e35ceb2ee92562a09c4165fb47.png!w80",
+        "url": "https://live05.zhwpg.app/live/19919577_tsc.m3u8",
+        "time": "2026-10-11 22:30:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "23:00 | Charlotte Hornets vs Milwaukee Bucks",
+        "logo": "https://img.gvapi.cc/basketball/team/e52f6ac53681289c91703501a960cb3c.png!w80",
+        "url": "https://live05.zhwpg.app/live/82054853_tsc.m3u8",
         "time": "2026-10-11 23:00:00"
     }
 ]
